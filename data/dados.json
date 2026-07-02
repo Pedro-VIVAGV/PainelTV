@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T13:17:26.679Z",
+  "atualizadoEm": "2026-07-02T14:08:40.014Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -984,15 +984,6 @@
           "diasAtraso": 6
         }
       ],
-      "tarefasSemana": []
-    },
-    {
-      "nome": "Diretoria",
-      "pessoas": [],
-      "atrasadas": 0,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 0,
-      "tarefasAtrasadas": [],
       "tarefasSemana": []
     },
     {

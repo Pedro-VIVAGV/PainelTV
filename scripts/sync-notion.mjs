@@ -22,8 +22,9 @@ const HISTORICO_PATH = path.join(DATA_DIR, 'historico.json');
 
 const DB_TAREFAS = 'ffc3e27f-a5f6-427c-8d1a-e89bb23ce35e';
 const DB_EVENTOS = '84cc1af3-50fe-4940-bbad-712025a2b3fc';
-// Opções fixas do campo "Setor" em [DB] Tarefas Gerais — mantidas mesmo com 0 tarefas
-const SETORES_CONHECIDOS = ['Marketing', 'Produção', 'Cotação', 'Atendimento', 'Comercial', 'Diretoria', 'Planejamento'];
+// Opções do campo "Setor" em [DB] Tarefas Gerais exibidas no painel, mesmo com 0 tarefas
+// ("Diretoria" fica de fora a pedido — não aparece nos quadros do painel)
+const SETORES_CONHECIDOS = ['Marketing', 'Produção', 'Cotação', 'Atendimento', 'Comercial', 'Planejamento'];
 const NOTION_VERSION = '2022-06-28';
 const TOKEN = process.env.NOTION_TOKEN;
 const TZ = 'America/Sao_Paulo';

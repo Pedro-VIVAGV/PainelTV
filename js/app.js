@@ -1,6 +1,9 @@
 const DATA_URL = 'data/dados.json';
 const REFRESH_MS = 5 * 60 * 1000; // recarrega os dados a cada 5 min
 const CLOCK_MS = 1000;
+const TAREFAS_VISIVEIS = 5; // quantas tarefas mostrar antes do botão "ver mais"
+const SETORES_OCULTOS = ['Diretoria'];
+const THEME_KEY = 'painel-viva-tema';
 
 let STATE = {
     dados: null,
@@ -23,11 +26,34 @@ function diaSemana(iso) {
     return dias[new Date(iso + 'T12:00:00').getDay()];
 }
 
+function semSetoresOcultos(lista) {
+    return lista.filter(s => !SETORES_OCULTOS.includes(s.nome));
+}
+
+function empresaClass(nome) {
+    return ['VIVA', 'Luminous', 'Triunfo'].includes(nome) ? `empresa-${nome}` : '';
+}
+
 // ── Relógio ──────────────────────────────────────────────
 function tickClock() {
     const now = new Date();
     $('#clockTime').textContent = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
     $('#clockDate').textContent = now.toLocaleDateString('pt-BR', { weekday: 'long', day: '2-digit', month: 'long' });
+}
+
+// ── Tema claro/escuro ─────────────────────────────────────
+function aplicarTema(tema) {
+    document.documentElement.setAttribute('data-theme', tema);
+    $('#themeBtn').textContent = tema === 'light' ? '☀' : '☾';
+    localStorage.setItem(THEME_KEY, tema);
+}
+function initTema() {
+    const salvo = localStorage.getItem(THEME_KEY) || 'dark';
+    aplicarTema(salvo);
+    $('#themeBtn').addEventListener('click', () => {
+        const atual = document.documentElement.getAttribute('data-theme');
+        aplicarTema(atual === 'light' ? 'dark' : 'light');
+    });
 }
 
 // ── Carregamento de dados ────────────────────────────────
@@ -57,7 +83,7 @@ function popularFiltros() {
         opt.value = p.nome; opt.textContent = p.nome;
         selPessoa.appendChild(opt);
     });
-    STATE.dados.setores.forEach(s => {
+    semSetoresOcultos(STATE.dados.setores).forEach(s => {
         const opt = document.createElement('option');
         opt.value = s.nome; opt.textContent = s.nome;
         selSetor.appendChild(opt);
@@ -85,7 +111,8 @@ function trendBadge(atual, anterior) {
 function renderVisaoGeral() {
     const d = STATE.dados;
     const wrap = $('#paneGeral');
-    const empresasLine = obj => Object.entries(obj).map(([k, v]) => `${v} ${k}`).join(', ');
+    const empresasLine = obj => Object.entries(obj)
+        .map(([k, v]) => `<b class="${empresaClass(k)}">${v} ${k}</b>`).join(', ');
 
     let html = `
     <div class="kpi-grid">
@@ -125,7 +152,7 @@ function cardPessoaCompacto(p) {
         <div class="p-card-top">
             <div>
                 <div class="p-name">${p.nome}</div>
-                <div class="p-tags">${p.setores.map(s => `<span class="p-tag">${s}</span>`).join('')}</div>
+                <div class="p-tags">${p.setores.filter(s => !SETORES_OCULTOS.includes(s)).map(s => `<span class="p-tag">${s}</span>`).join('')}</div>
             </div>
         </div>
         <div class="p-num-row">
@@ -144,7 +171,7 @@ function renderAtrasadas() {
     const d = STATE.dados;
     const wrap = $('#paneAtrasadas');
     let pessoas = d.pessoas.filter(p => STATE.filtroPessoa === 'todas' || p.nome === STATE.filtroPessoa);
-    let setores = d.setores.filter(s => STATE.filtroSetor === 'todos' || s.nome === STATE.filtroSetor);
+    let setores = semSetoresOcultos(d.setores).filter(s => STATE.filtroSetor === 'todos' || s.nome === STATE.filtroSetor);
     if (STATE.filtroSetor !== 'todos') pessoas = pessoas.filter(p => p.setores.includes(STATE.filtroSetor));
     if (STATE.filtroPessoa !== 'todas') setores = setores.filter(s => s.pessoas.includes(STATE.filtroPessoa));
 
@@ -154,7 +181,7 @@ function renderAtrasadas() {
     let html = '';
     if (STATE.modo !== 'setor') {
         html += `<div class="section-title">Por pessoa</div><div class="card-grid">`;
-        html += pessoas.length ? pessoas.map(p => cardDetalhado(p.nome, p.setores.join(', '), p.atrasadas, p.atrasadasAnterior, p.tarefasAtrasadas, 'prazo')).join('') : vazio('Ninguém com tarefas atrasadas 🎉');
+        html += pessoas.length ? pessoas.map(p => cardDetalhado(p.nome, p.setores.filter(s => !SETORES_OCULTOS.includes(s)).join(', '), p.atrasadas, p.atrasadasAnterior, p.tarefasAtrasadas, 'prazo')).join('') : vazio('Ninguém com tarefas atrasadas 🎉');
         html += `</div>`;
     }
     if (STATE.modo !== 'pessoa') {
@@ -165,12 +192,20 @@ function renderAtrasadas() {
     wrap.innerHTML = html;
 }
 
-function cardDetalhado(titulo, subtitulo, num, anterior, tarefas, campoData) {
-    const tasksHtml = (tarefas || []).slice(0, 6).map(t => `
-        <div class="task-row">
+function renderListaTarefas(tarefas, campoData) {
+    return (tarefas || []).map((t, i) => `
+        <div class="task-row${i >= TAREFAS_VISIVEIS ? ' hidden-extra' : ''}">
             <span class="task-name">${t.nome}</span>
             <span class="task-days">${t.diasAtraso != null ? t.diasAtraso + 'd atraso' : fmtData(t[campoData])}</span>
         </div>`).join('');
+}
+
+function botaoVerMais(total) {
+    if (total <= TAREFAS_VISIVEIS) return '';
+    return `<button class="task-toggle" data-total="${total}">Ver mais ${total - TAREFAS_VISIVEIS}</button>`;
+}
+
+function cardDetalhado(titulo, subtitulo, num, anterior, tarefas, campoData) {
     return `
     <div class="p-card">
         <div class="p-card-top">
@@ -183,7 +218,8 @@ function cardDetalhado(titulo, subtitulo, num, anterior, tarefas, campoData) {
             <div class="p-num ${num === 0 ? 'zero' : 'warn'}">${num}</div>
             ${trendBadge(num, anterior)}
         </div>
-        <div class="task-list">${tasksHtml}</div>
+        <div class="task-list">${renderListaTarefas(tarefas, campoData)}</div>
+        ${botaoVerMais((tarefas || []).length)}
     </div>`;
 }
 
@@ -192,7 +228,7 @@ function renderSemana() {
     const d = STATE.dados;
     const wrap = $('#paneSemana');
     let pessoas = d.pessoas.filter(p => STATE.filtroPessoa === 'todas' || p.nome === STATE.filtroPessoa);
-    let setores = d.setores.filter(s => STATE.filtroSetor === 'todos' || s.nome === STATE.filtroSetor);
+    let setores = semSetoresOcultos(d.setores).filter(s => STATE.filtroSetor === 'todos' || s.nome === STATE.filtroSetor);
     if (STATE.filtroSetor !== 'todos') pessoas = pessoas.filter(p => p.setores.includes(STATE.filtroSetor));
     if (STATE.filtroPessoa !== 'todas') setores = setores.filter(s => s.pessoas.includes(STATE.filtroPessoa));
 
@@ -208,13 +244,13 @@ function renderSemana() {
                     <div class="event-name">${ev.nome}</div>
                     <div class="event-meta">${ev.categoria || ''}${ev.local ? ' · ' + ev.local : ''}</div>
                 </div>
-                <div class="event-empresa">${ev.empresa}</div>
+                <div class="badge-empresa ${empresaClass(ev.empresa)}">${ev.empresa}</div>
             </div>`).join('')
         : vazio('Nenhum evento previsto para esta semana.');
 
     if (STATE.modo !== 'setor') {
         html += `<div class="section-title">Atividades por pessoa</div><div class="card-grid">`;
-        html += pessoas.length ? pessoas.map(p => cardSemanaPessoa(p.nome, p.setores.join(', '), p.semanaTotal, p.tarefasSemana)).join('') : vazio('Sem atividades esta semana.');
+        html += pessoas.length ? pessoas.map(p => cardSemanaPessoa(p.nome, p.setores.filter(s => !SETORES_OCULTOS.includes(s)).join(', '), p.semanaTotal, p.tarefasSemana)).join('') : vazio('Sem atividades esta semana.');
         html += `</div>`;
     }
     if (STATE.modo !== 'pessoa') {
@@ -226,8 +262,8 @@ function renderSemana() {
 }
 
 function cardSemanaPessoa(titulo, subtitulo, num, tarefas) {
-    const tasksHtml = (tarefas || []).slice(0, 6).map(t => `
-        <div class="task-row">
+    const tasksHtml = (tarefas || []).map((t, i) => `
+        <div class="task-row${i >= TAREFAS_VISIVEIS ? ' hidden-extra' : ''}">
             <span class="task-name">${t.nome}</span>
             <span class="task-days">${fmtData(t.data)}</span>
         </div>`).join('');
@@ -241,6 +277,7 @@ function cardSemanaPessoa(titulo, subtitulo, num, tarefas) {
         </div>
         <div class="p-num-row"><div class="p-num">${num}</div></div>
         <div class="task-list">${tasksHtml}</div>
+        ${botaoVerMais((tarefas || []).length)}
     </div>`;
 }
 
@@ -275,9 +312,21 @@ function initControles() {
         renderAtrasadas();
         renderSemana();
     });
+
+    // Delegação para os botões "ver mais / ver menos" (o conteúdo é recriado a cada render)
+    document.addEventListener('click', e => {
+        const btn = e.target.closest('.task-toggle');
+        if (!btn) return;
+        const card = btn.closest('.p-card');
+        const abrindo = !card.classList.contains('expanded');
+        card.classList.toggle('expanded');
+        const total = btn.dataset.total;
+        btn.textContent = abrindo ? 'Ver menos' : `Ver mais ${total - TAREFAS_VISIVEIS}`;
+    });
 }
 
 document.addEventListener('painel:unlocked', () => {
+    initTema();
     initControles();
     tickClock();
     setInterval(tickClock, CLOCK_MS);
