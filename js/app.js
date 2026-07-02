@@ -100,12 +100,11 @@ function renderTudo() {
 }
 
 function trendBadge(atual, anterior) {
-    const t = 'Comparado ao fim do dia anterior';
     if (anterior === undefined || anterior === null || atual === anterior) {
-        return `<span class="trend flat" title="Sem mudança em relação ao dia anterior">— ${anterior ?? atual}</span>`;
+        return `<span class="trend flat" title="Sem alteração desde a última mudança">— ${anterior ?? atual}</span>`;
     }
-    if (atual > anterior) return `<span class="trend up" title="${t} (era ${anterior})">▲ ${anterior}</span>`;
-    return `<span class="trend down" title="${t} (era ${anterior})">▼ ${anterior}</span>`;
+    if (atual > anterior) return `<span class="trend up" title="Subiu desde o último valor (era ${anterior})">▲ ${anterior}</span>`;
+    return `<span class="trend down" title="Baixou desde o último valor (era ${anterior})">▼ ${anterior}</span>`;
 }
 
 // ── Aba: Visão Geral ─────────────────────────────────────

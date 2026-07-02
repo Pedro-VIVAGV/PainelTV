@@ -231,17 +231,26 @@ async function main() {
 
     const historico = await carregarHistorico();
 
-    // ── Tendência (▲/▼): baseline diário ─────────────────────────────────
-    // Compara o valor atual com o "fim do dia anterior", não com a última
-    // sincronização (que seria de 15 min atrás e faria a seta sumir logo).
-    // O baseline fica fixo o dia todo e só é renovado na primeira sync de um
-    // novo dia (promovendo o último valor de ontem a baseline).
-    const mesmoDia = historico.hojeDate === hoje;
-    const baseline = (mesmoDia ? historico.baseline : historico.hoje)
-        // migração do formato antigo (snapshot achatado) ou primeira execução:
-        || { pessoas: historico.pessoas || {}, setores: historico.setores || {}, totalAtrasadas: historico.totalAtrasadas };
-    const antPessoa = (nome, atual) => (baseline.pessoas && baseline.pessoas[nome] != null) ? baseline.pessoas[nome] : atual;
-    const antSetor = (nome, atual) => (baseline.setores && baseline.setores[nome] != null) ? baseline.setores[nome] : atual;
+    // ── Tendência (▲/▼): último valor diferente ─────────────────────────
+    // A seta compara o valor atual com o ÚLTIMO valor que foi diferente do
+    // atual — e persiste até o número mudar de novo. Ex.: 60 → 50 → 50 mantém
+    // "▼ 60" enquanto continuar 50; só troca a referência quando o valor mudar.
+    // (Aceita também o formato antigo de histórico como fallback de migração.)
+    const prevAtualP    = historico.atual?.pessoas   || historico.hoje?.pessoas   || historico.pessoas   || {};
+    const prevAnteriorP = historico.anterior?.pessoas || historico.baseline?.pessoas || {};
+    const prevAtualS    = historico.atual?.setores   || historico.hoje?.setores   || historico.setores   || {};
+    const prevAnteriorS = historico.anterior?.setores || historico.baseline?.setores || {};
+    const prevAtualTot    = historico.atual?.total   ?? historico.hoje?.totalAtrasadas   ?? historico.totalAtrasadas;
+    const prevAnteriorTot = historico.anterior?.total ?? historico.baseline?.totalAtrasadas;
+
+    function ultimoDiferente(atual, prevAtual, prevAnterior) {
+        if (prevAtual == null) return atual;                     // primeira vez → sem seta
+        if (prevAtual === atual) return prevAnterior != null ? prevAnterior : atual; // não mudou → mantém referência
+        return prevAtual;                                        // mudou → valor anterior vira a referência
+    }
+    const antPessoa = (nome, atual) => ultimoDiferente(atual, prevAtualP[nome], prevAnteriorP[nome]);
+    const antSetor  = (nome, atual) => ultimoDiferente(atual, prevAtualS[nome], prevAnteriorS[nome]);
+    const antTotal  = ultimoDiferente(atrasadas.length, prevAtualTot, prevAnteriorTot);
 
     // ── Agrupamento por pessoa ──────────────────────────────────────────
     const pessoasMap = new Map();
@@ -320,7 +329,7 @@ async function main() {
             eventosSemana: { total: eventosSemanaLista.length, porEmpresa: contarPorEmpresa(eventosSemanaLista) },
             eventosMes: { total: eventosMesLista.length, porEmpresa: contarPorEmpresa(eventosMesLista) },
             totalAtrasadas: atrasadas.length,
-            totalAtrasadasAnterior: baseline.totalAtrasadas ?? atrasadas.length,
+            totalAtrasadasAnterior: antTotal,
             totalSemana: semana.length,
         },
         pessoas,
@@ -328,18 +337,19 @@ async function main() {
         eventosSemanaLista: eventosSemanaLista.map(e => ({ nome: e.nome, data: e.data, empresa: e.empresa, categoria: e.categoria, local: e.local })),
     };
 
-    const snapshotAtual = {
-        pessoas: Object.fromEntries(pessoas.map(p => [p.nome, p.atrasadas])),
-        setores: Object.fromEntries(setores.map(s => [s.nome, s.atrasadas])),
-        totalAtrasadas: atrasadas.length,
-    };
     const novoHistorico = {
-        // baseline = fim do dia anterior (renovado só quando vira o dia)
-        baselineDate: mesmoDia ? (historico.baselineDate || null) : (historico.hojeDate || hoje),
-        baseline,
-        // último valor conhecido de hoje (vira o baseline amanhã)
-        hojeDate: hoje,
-        hoje: snapshotAtual,
+        // valor atual de cada item
+        atual: {
+            pessoas: Object.fromEntries(pessoas.map(p => [p.nome, p.atrasadas])),
+            setores: Object.fromEntries(setores.map(s => [s.nome, s.atrasadas])),
+            total: atrasadas.length,
+        },
+        // referência da seta = último valor diferente (persiste até mudar)
+        anterior: {
+            pessoas: Object.fromEntries(pessoas.map(p => [p.nome, p.atrasadasAnterior])),
+            setores: Object.fromEntries(setores.map(s => [s.nome, s.atrasadasAnterior])),
+            total: antTotal,
+        },
     };
 
     await mkdir(DATA_DIR, { recursive: true });

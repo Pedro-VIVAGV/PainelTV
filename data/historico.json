@@ -1,6 +1,5 @@
 {
-  "baselineDate": "2026-07-02",
-  "baseline": {
+  "atual": {
     "pessoas": {
       "Equipe: Comercial": 1,
       "Janine :: Cotação - VIVA GV": 10,
@@ -19,10 +18,9 @@
       "Planejamento": 32,
       "Produção": 32
     },
-    "totalAtrasadas": 101
+    "total": 101
   },
-  "hojeDate": "2026-07-02",
-  "hoje": {
+  "anterior": {
     "pessoas": {
       "Equipe: Comercial": 1,
       "Janine :: Cotação - VIVA GV": 10,
@@ -41,6 +39,6 @@
       "Planejamento": 32,
       "Produção": 32
     },
-    "totalAtrasadas": 101
+    "total": 101
   }
 }

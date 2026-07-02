@@ -4,9 +4,10 @@ on:
   repository_dispatch:
     types: [sincronizar]     # gatilho confiável do cron externo (cron-job.org)
   workflow_dispatch: {}       # permite rodar manualmente pela aba Actions
-  schedule:
-    # Rede de segurança (o agendamento nativo do GitHub é "best-effort").
-    - cron: '7,22,37,52 * * * *'
+  # OBS: o agendamento nativo (schedule) foi removido de propósito. Ele voltou
+  # a disparar e, somado ao cron-job.org, gerava ~8 deploys/hora — perto do
+  # limite de ~10 builds/hora do GitHub Pages, causando erros "Deployment
+  # failed, try again later". O cron-job.org sozinho (a cada 15 min) basta.
 
 permissions:
   contents: write   # para commitar os dados sincronizados
