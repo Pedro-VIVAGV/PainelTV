@@ -1,21 +1,46 @@
 {
-  "pessoas": {
-    "Equipe: Comercial": 1,
-    "Janine :: Cotação - VIVA GV": 10,
-    "Locatelli:: Atendimento - VIVA GV": 0,
-    "Lyncoln :: Marketing - VIVA GV": 28,
-    "Maria Clara / Tay :: Luminous": 0,
-    "Matheus :: Planejamento - VIVA GV": 6,
-    "Pedro :: GRUPO VIVA - GV": 31,
-    "Rodrigo :: VIVA Eventos": 24
+  "baselineDate": "2026-07-02",
+  "baseline": {
+    "pessoas": {
+      "Equipe: Comercial": 1,
+      "Janine :: Cotação - VIVA GV": 10,
+      "Locatelli:: Atendimento - VIVA GV": 0,
+      "Lyncoln :: Marketing - VIVA GV": 28,
+      "Maria Clara / Tay :: Luminous": 0,
+      "Matheus :: Planejamento - VIVA GV": 6,
+      "Pedro :: GRUPO VIVA - GV": 31,
+      "Rodrigo :: VIVA Eventos": 24
+    },
+    "setores": {
+      "Atendimento": 0,
+      "Comercial": 1,
+      "Cotação": 3,
+      "Marketing": 17,
+      "Planejamento": 32,
+      "Produção": 32
+    },
+    "totalAtrasadas": 101
   },
-  "setores": {
-    "Atendimento": 0,
-    "Comercial": 1,
-    "Cotação": 3,
-    "Marketing": 17,
-    "Planejamento": 32,
-    "Produção": 32
-  },
-  "totalAtrasadas": 101
+  "hojeDate": "2026-07-02",
+  "hoje": {
+    "pessoas": {
+      "Equipe: Comercial": 1,
+      "Janine :: Cotação - VIVA GV": 10,
+      "Locatelli:: Atendimento - VIVA GV": 0,
+      "Lyncoln :: Marketing - VIVA GV": 28,
+      "Maria Clara / Tay :: Luminous": 0,
+      "Matheus :: Planejamento - VIVA GV": 6,
+      "Pedro :: GRUPO VIVA - GV": 31,
+      "Rodrigo :: VIVA Eventos": 24
+    },
+    "setores": {
+      "Atendimento": 0,
+      "Comercial": 1,
+      "Cotação": 3,
+      "Marketing": 17,
+      "Planejamento": 32,
+      "Produção": 32
+    },
+    "totalAtrasadas": 101
+  }
 }

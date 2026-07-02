@@ -157,7 +157,7 @@ async function carregarHistorico() {
     try {
         return JSON.parse(await readFile(HISTORICO_PATH, 'utf-8'));
     } catch {
-        return { pessoas: {}, setores: {} };
+        return {};
     }
 }
 
@@ -231,6 +231,18 @@ async function main() {
 
     const historico = await carregarHistorico();
 
+    // ── Tendência (▲/▼): baseline diário ─────────────────────────────────
+    // Compara o valor atual com o "fim do dia anterior", não com a última
+    // sincronização (que seria de 15 min atrás e faria a seta sumir logo).
+    // O baseline fica fixo o dia todo e só é renovado na primeira sync de um
+    // novo dia (promovendo o último valor de ontem a baseline).
+    const mesmoDia = historico.hojeDate === hoje;
+    const baseline = (mesmoDia ? historico.baseline : historico.hoje)
+        // migração do formato antigo (snapshot achatado) ou primeira execução:
+        || { pessoas: historico.pessoas || {}, setores: historico.setores || {}, totalAtrasadas: historico.totalAtrasadas };
+    const antPessoa = (nome, atual) => (baseline.pessoas && baseline.pessoas[nome] != null) ? baseline.pessoas[nome] : atual;
+    const antSetor = (nome, atual) => (baseline.setores && baseline.setores[nome] != null) ? baseline.setores[nome] : atual;
+
     // ── Agrupamento por pessoa ──────────────────────────────────────────
     const pessoasMap = new Map();
     function getPessoa(nome) {
@@ -285,7 +297,7 @@ async function main() {
             nome: p.nome,
             setores: Array.from(p.setores),
             atrasadas: p.atrasadas,
-            atrasadasAnterior: historico.pessoas[p.nome] ?? p.atrasadas,
+            atrasadasAnterior: antPessoa(p.nome, p.atrasadas),
             semanaTotal: p.semanaTotal,
             tarefasAtrasadas: p.tarefasAtrasadas.sort((a, b) => b.diasAtraso - a.diasAtraso),
             tarefasSemana: p.tarefasSemana.sort((a, b) => (a.data || '').localeCompare(b.data || '')),
@@ -295,7 +307,7 @@ async function main() {
         nome: s.nome,
         pessoas: Array.from(s.pessoas),
         atrasadas: s.atrasadas,
-        atrasadasAnterior: historico.setores[s.nome] ?? s.atrasadas,
+        atrasadasAnterior: antSetor(s.nome, s.atrasadas),
         semanaTotal: s.semanaTotal,
         tarefasAtrasadas: s.tarefasAtrasadas.sort((a, b) => b.diasAtraso - a.diasAtraso),
         tarefasSemana: s.tarefasSemana.sort((a, b) => (a.data || '').localeCompare(b.data || '')),
@@ -308,7 +320,7 @@ async function main() {
             eventosSemana: { total: eventosSemanaLista.length, porEmpresa: contarPorEmpresa(eventosSemanaLista) },
             eventosMes: { total: eventosMesLista.length, porEmpresa: contarPorEmpresa(eventosMesLista) },
             totalAtrasadas: atrasadas.length,
-            totalAtrasadasAnterior: historico.totalAtrasadas ?? atrasadas.length,
+            totalAtrasadasAnterior: baseline.totalAtrasadas ?? atrasadas.length,
             totalSemana: semana.length,
         },
         pessoas,
@@ -316,10 +328,18 @@ async function main() {
         eventosSemanaLista: eventosSemanaLista.map(e => ({ nome: e.nome, data: e.data, empresa: e.empresa, categoria: e.categoria, local: e.local })),
     };
 
-    const novoHistorico = {
+    const snapshotAtual = {
         pessoas: Object.fromEntries(pessoas.map(p => [p.nome, p.atrasadas])),
         setores: Object.fromEntries(setores.map(s => [s.nome, s.atrasadas])),
         totalAtrasadas: atrasadas.length,
+    };
+    const novoHistorico = {
+        // baseline = fim do dia anterior (renovado só quando vira o dia)
+        baselineDate: mesmoDia ? (historico.baselineDate || null) : (historico.hojeDate || hoje),
+        baseline,
+        // último valor conhecido de hoje (vira o baseline amanhã)
+        hojeDate: hoje,
+        hoje: snapshotAtual,
     };
 
     await mkdir(DATA_DIR, { recursive: true });
