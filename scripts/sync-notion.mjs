@@ -132,6 +132,27 @@ async function resolverNomesFaltantes(idsFaltantes) {
     return nomes;
 }
 
+// Busca todas as pessoas reais do workspace (não bots/convidados sem perfil)
+// — usado para garantir que todo mundo apareça no painel, mesmo quem não
+// tem nenhuma tarefa pendente no momento (ex.: todas as tarefas concluídas).
+async function listarPessoasWorkspace() {
+    const nomes = [];
+    let cursor;
+    do {
+        const url = new URL('https://api.notion.com/v1/users');
+        url.searchParams.set('page_size', '100');
+        if (cursor) url.searchParams.set('start_cursor', cursor);
+        const res = await fetch(url, {
+            headers: { 'Authorization': `Bearer ${TOKEN}`, 'Notion-Version': NOTION_VERSION },
+        });
+        if (!res.ok) throw new Error(`Notion API ${res.status} ao listar usuários: ${await res.text()}`);
+        const json = await res.json();
+        json.results.filter(u => u.type === 'person' && u.name).forEach(u => nomes.push(u.name));
+        cursor = json.has_more ? json.next_cursor : undefined;
+    } while (cursor);
+    return nomes;
+}
+
 async function carregarHistorico() {
     try {
         return JSON.parse(await readFile(HISTORICO_PATH, 'utf-8'));
@@ -148,9 +169,10 @@ async function main() {
 
     console.log(`Sincronizando Notion (hoje=${hoje}, semana=${semanaInicio}..${semanaFim})...`);
 
-    const [tarefasRaw, eventosRaw] = await Promise.all([
+    const [tarefasRaw, eventosRaw, pessoasWorkspace] = await Promise.all([
         queryDatabase(DB_TAREFAS),
         queryDatabase(DB_EVENTOS),
+        listarPessoasWorkspace(),
     ]);
 
     const tarefas = tarefasRaw.map(page => {
@@ -217,10 +239,12 @@ async function main() {
         }
         return pessoasMap.get(nome);
     }
-    // Só usamos tarefas não concluídas para "descobrir" quem é uma pessoa
-    // ativa (evita poluir os cards com gente que só tem tarefas antigas já
-    // finalizadas).
-    tarefas.filter(naoConcluida).forEach(t => t.responsaveis.forEach(pessoa => t.setores.forEach(s => getPessoa(nomeDe(pessoa)).setores.add(s))));
+    // Toda pessoa real do workspace aparece no painel, mesmo com 0 tarefas
+    // pendentes no momento (ex.: alguém que já concluiu tudo).
+    pessoasWorkspace.forEach(getPessoa);
+    // As tags de setor consideram todas as tarefas (mesmo concluídas), para
+    // quem só tem histórico de tarefas já finalizadas ainda mostrar seu setor.
+    tarefas.forEach(t => t.responsaveis.forEach(pessoa => t.setores.forEach(s => getPessoa(nomeDe(pessoa)).setores.add(s))));
     atrasadas.forEach(t => t.responsaveis.forEach(pessoa => {
         const p = getPessoa(nomeDe(pessoa));
         p.atrasadas++;

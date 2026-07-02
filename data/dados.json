@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T15:02:45.891Z",
+  "atualizadoEm": "2026-07-02T15:07:56.518Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -20,7 +20,7 @@
       }
     },
     "totalAtrasadas": 114,
-    "totalAtrasadasAnterior": 137,
+    "totalAtrasadasAnterior": 114,
     "totalSemana": 69
   },
   "pessoas": [
@@ -44,10 +44,13 @@
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
         "Cotação",
-        "Produção"
+        "Produção",
+        "Planejamento",
+        "Marketing",
+        "Atendimento"
       ],
       "atrasadas": 10,
-      "atrasadasAnterior": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -121,7 +124,8 @@
     {
       "nome": "Locatelli:: Atendimento - VIVA GV",
       "setores": [
-        "Planejamento"
+        "Planejamento",
+        "Atendimento"
       ],
       "atrasadas": 4,
       "atrasadasAnterior": 4,
@@ -163,7 +167,10 @@
       "nome": "Lyncoln :: Marketing - VIVA GV",
       "setores": [
         "Marketing",
-        "Planejamento"
+        "Planejamento",
+        "Produção",
+        "Cotação",
+        "Comercial"
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 28,
@@ -285,12 +292,27 @@
       "tarefasSemana": []
     },
     {
-      "nome": "Matheus :: Planejamento - VIVA GV",
+      "nome": "Maria Clara / Tay :: Luminous",
       "setores": [
+        "Produção",
+        "Marketing",
         "Planejamento"
       ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 0,
+      "semanaTotal": 0,
+      "tarefasAtrasadas": [],
+      "tarefasSemana": []
+    },
+    {
+      "nome": "Matheus :: Planejamento - VIVA GV",
+      "setores": [
+        "Planejamento",
+        "Marketing",
+        "Produção"
+      ],
       "atrasadas": 6,
-      "atrasadasAnterior": 3,
+      "atrasadasAnterior": 6,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
@@ -452,10 +474,13 @@
     {
       "nome": "Pedro :: GRUPO VIVA - GV",
       "setores": [
-        "Produção"
+        "Produção",
+        "Planejamento",
+        "Cotação",
+        "Marketing"
       ],
       "atrasadas": 40,
-      "atrasadasAnterior": 67,
+      "atrasadasAnterior": 40,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -661,7 +686,10 @@
     {
       "nome": "Rodrigo :: VIVA Eventos",
       "setores": [
-        "Planejamento"
+        "Planejamento",
+        "Atendimento",
+        "Produção",
+        "Diretoria"
       ],
       "atrasadas": 24,
       "atrasadasAnterior": 24,
@@ -983,7 +1011,7 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 36,
-      "atrasadasAnterior": 33,
+      "atrasadasAnterior": 36,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1358,7 +1386,7 @@
         "Usuário a6c3d881"
       ],
       "atrasadas": 41,
-      "atrasadasAnterior": 67,
+      "atrasadasAnterior": 41,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
