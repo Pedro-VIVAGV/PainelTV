@@ -27,6 +27,8 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -40,12 +42,14 @@ jobs:
         run: node scripts/sync-notion.mjs
 
       - name: Commitar dados atualizados
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/dados.json data/historico.json
           if git diff --staged --quiet; then
             echo "Sem mudanças nos dados; nada a commitar."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "chore: sincroniza dados do Notion"
@@ -54,6 +58,7 @@ jobs:
           for tentativa in 1 2 3 4 5; do
             if git push; then
               echo "Push OK na tentativa $tentativa."
+              echo "changed=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             echo "Push rejeitado (tentativa $tentativa); rebaseando..."
@@ -65,8 +70,11 @@ jobs:
   # Publica o site logo após a sincronização, no mesmo fluxo. Necessário
   # porque um commit feito pelo GITHUB_TOKEN (o do job acima) NÃO dispara
   # outros workflows — então o deploy precisa acontecer aqui mesmo.
+  # Só publica quando os dados mudaram (ou quando foi um push manual no repo),
+  # evitando redeploys inúteis a cada 15 min quando nada mudou no Notion.
   deploy:
     needs: sync
+    if: needs.sync.outputs.changed == 'true' || github.event_name == 'push'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
