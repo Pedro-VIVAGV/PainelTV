@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VIVA · Painel de Acompanhamento</title>
+<link rel="icon" href="assets/logo-viva-icone.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ═══════════ PORTÃO DE SENHA ═══════════ -->
+<div id="gate">
+    <div class="gate-box">
+        <img src="assets/logo-viva-completa.svg" alt="VIVA">
+        <h1>Painel de Acompanhamento</h1>
+        <p>Digite a senha para continuar</p>
+        <input type="password" id="gateInput" placeholder="Senha" autocomplete="off">
+        <button id="gateBtn">Entrar</button>
+        <div class="gate-err" id="gateErr"></div>
+    </div>
+</div>
+
+<!-- ═══════════ APP ═══════════ -->
+<div id="app">
+
+    <header>
+        <div class="hdr-left">
+            <img src="assets/logo-viva.svg" alt="VIVA">
+            <div>
+                <div class="hdr-title">Painel de <em>Acompanhamento</em></div>
+                <div class="hdr-sub">Tarefas e eventos · VIVA Eventos · Luminous · Triunfo</div>
+            </div>
+        </div>
+        <div class="hdr-right">
+            <div class="hdr-sync" id="syncBox">
+                <span class="sync-dot" id="syncDot"></span>
+                <span id="syncTxt">Carregando…</span>
+            </div>
+            <div class="hdr-clock">
+                <div class="time" id="clockTime">--:--</div>
+                <div class="date" id="clockDate">—</div>
+            </div>
+        </div>
+    </header>
+
+    <div class="tab-bar">
+        <button class="tab-btn active" data-tab="geral">Visão Geral</button>
+        <button class="tab-btn" data-tab="atrasadas">Atrasadas</button>
+        <button class="tab-btn" data-tab="semana">Semana</button>
+    </div>
+
+    <div class="filter-bar" id="filterBar" style="display:none;">
+        <span class="filter-label">Ver:</span>
+        <div class="pill-group">
+            <button class="pill active" data-modo="pessoa-setor">Por pessoa e setor</button>
+            <button class="pill" data-modo="pessoa">Por pessoa</button>
+            <button class="pill" data-modo="setor">Por setor</button>
+        </div>
+        <span class="filter-label">Filtrar:</span>
+        <select class="select-filter" id="filtroPessoa">
+            <option value="todas">Todas as pessoas</option>
+        </select>
+        <select class="select-filter" id="filtroSetor">
+            <option value="todos">Todos os setores</option>
+        </select>
+    </div>
+
+    <main>
+        <div class="tab-pane active" id="pane-geral"><div id="paneGeral"></div></div>
+        <div class="tab-pane" id="pane-atrasadas"><div id="paneAtrasadas"></div></div>
+        <div class="tab-pane" id="pane-semana"><div id="paneSemana"></div></div>
+    </main>
+
+    <footer>Dados sincronizados do Notion · VIVA Eventos</footer>
+</div>
+
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

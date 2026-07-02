@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escritório OS — Assistente Executivo com IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg:           #0c0c0e;
+            --bg-2:         #141416;
+            --bg-card:      rgba(255,255,255,0.03);
+            --bg-hover:     rgba(255,255,255,0.055);
+            --text:         #ede9e3;
+            --muted:        rgba(237,233,227,0.48);
+            --ghost:        rgba(237,233,227,0.10);
+            --border:       rgba(255,255,255,0.07);
+            --border-hi:    rgba(255,255,255,0.13);
+            --orange:       #F37435;
+            --orange-bg:    rgba(243,116,53,0.12);
+            --r-sm: 10px;   --r: 16px;   --r-lg: 24px;
+        }
+
+        [data-theme="light"] {
+            --bg:        #f3f1ed;
+            --bg-2:      #ffffff;
+            --bg-card:   rgba(0,0,0,0.025);
+            --bg-hover:  rgba(0,0,0,0.045);
+            --text:      #0c0c0e;
+            --muted:     rgba(12,12,14,0.48);
+            --ghost:     rgba(12,12,14,0.08);
+            --border:    rgba(0,0,0,0.07);
+            --border-hi: rgba(0,0,0,0.13);
+            --orange-bg: rgba(243,116,53,0.10);
+        }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+            transition: background .35s, color .35s;
+        }
+
+        .container { max-width: 1160px; margin: 0 auto; padding: 0 32px; }
+
+        /* ── HEADER ─────────────────────────────── */
+        header {
+            position: sticky; top: 0; z-index: 100;
+            padding: 18px 0;
+            border-bottom: 1px solid var(--border);
+            background: var(--bg);
+            transition: background .35s;
+        }
+
+        .hdr { display: flex; align-items: center; justify-content: space-between; }
+
+        .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 19px; font-weight: 700; letter-spacing: -.4px;
+            color: var(--text); text-decoration: none;
+        }
+        .logo em { font-style: normal; color: var(--orange); }
+
+        nav { display: flex; gap: 32px; }
+        nav a {
+            font-size: 13.5px; font-weight: 500;
+            color: var(--muted); text-decoration: none;
+            transition: color .2s;
+        }
+        nav a:hover { color: var(--text); }
+
+        .theme-btn {
+            width: 34px; height: 34px; border-radius: 50%;
+            border: 1px solid var(--border-hi);
+            background: none; cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 15px; color: var(--muted);
+            transition: all .2s;
+        }
+        .theme-btn:hover { color: var(--text); border-color: var(--border-hi); }
+
+        /* ── HERO ───────────────────────────────── */
+        .hero { padding: 96px 0 72px; }
+
+        .mode-pill {
+            display: inline-flex; align-items: center; gap: 6px;
+            border: 1px solid var(--border-hi); border-radius: 100px;
+            padding: 5px 5px 5px 14px;
+            font-size: 13px; color: var(--muted);
+            margin-bottom: 52px;
+        }
+        .mode-pill .label { font-weight: 500; }
+        .pill-sep { color: var(--border-hi); margin: 0 2px; }
+        .ou { font-size: 12px; }
+
+        .mode-opt {
+            display: inline-flex; align-items: center; gap: 5px;
+            padding: 4px 11px; border-radius: 100px;
+            font-size: 13px; font-weight: 500;
+            cursor: pointer; user-select: none;
+            transition: all .2s; color: var(--muted);
+            border: 1px solid transparent;
+        }
+        .mode-opt.active {
+            background: var(--bg-2); color: var(--text);
+            border-color: var(--border-hi);
+            box-shadow: 0 1px 4px rgba(0,0,0,.22);
+        }
+        .dot {
+            width: 6px; height: 6px; border-radius: 50%;
+            background: var(--muted);
+        }
+        .mode-opt.active .dot { background: var(--orange); }
+
+        .hero-h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(58px, 8.5vw, 108px);
+            line-height: 1.01; letter-spacing: -2.5px;
+            font-weight: 700; margin-bottom: 0;
+        }
+        .hero-h1 .l1 { display: block; color: var(--text); }
+        .hero-h1 .l2 { display: block; color: var(--ghost); }
+
+        .hero-foot {
+            display: grid; grid-template-columns: 1fr 1fr;
+            gap: 48px; align-items: end; margin-top: 52px;
+        }
+
+        .hero-sub {
+            font-size: 15px; line-height: 1.68;
+            color: var(--muted); max-width: 420px;
+        }
+        .hero-sub strong { color: var(--text); font-weight: 500; }
+
+        .hero-actions { display: flex; align-items: center; justify-content: flex-end; gap: 14px; }
+
+        .btn {
+            display: inline-flex; align-items: center; gap: 9px;
+            font-size: 13.5px; font-weight: 600;
+            padding: 11px 20px; border-radius: var(--r-sm);
+            text-decoration: none; transition: opacity .2s;
+        }
+        .btn-solid { background: var(--text); color: var(--bg); }
+        .btn-solid:hover { opacity: .85; }
+        .btn-ghost {
+            background: none; border: 1px solid var(--border-hi);
+            color: var(--muted);
+        }
+        .btn-ghost:hover { color: var(--text); border-color: var(--border-hi); }
+
+        .dots-icon {
+            display: grid; grid-template-columns: repeat(3,1fr);
+            gap: 2px; width: 12px;
+        }
+        .dots-icon span {
+            width: 3px; height: 3px; border-radius: 1px;
+            background: currentColor;
+        }
+
+        /* ── DIVIDER STRIP ──────────────────────── */
+        .strip {
+            border-top: 1px solid var(--border);
+            padding: 40px 0;
+            text-align: center;
+            font-size: 13.5px; color: var(--muted); letter-spacing: .02em;
+        }
+
+        /* ── FEATURE TABS ───────────────────────── */
+        .feat-section { padding: 72px 0; }
+
+        .tab-bar {
+            display: flex; gap: 0;
+            border: 1px solid var(--border); border-radius: var(--r);
+            padding: 5px; background: var(--bg-card);
+            margin-bottom: 48px; overflow-x: auto;
+        }
+
+        .tab-btn {
+            flex: 1; display: flex; align-items: center; gap: 7px;
+            padding: 9px 16px; border-radius: var(--r-sm);
+            background: none; border: none; border: 1px solid transparent;
+            color: var(--muted); font-size: 13px; font-weight: 500;
+            cursor: pointer; transition: all .2s; white-space: nowrap;
+            font-family: 'Inter', sans-serif;
+        }
+        .tab-btn.active {
+            background: var(--bg-2); color: var(--text);
+            border-color: var(--border);
+            box-shadow: 0 1px 6px rgba(0,0,0,.18);
+        }
+
+        .tab-pane { display: none; }
+        .tab-pane.active {
+            display: grid; grid-template-columns: 1fr 1.45fr;
+            gap: 60px; align-items: start;
+            animation: fadeIn .3s ease;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+        .pane-eyebrow {
+            font-size: 10.5px; font-weight: 700;
+            letter-spacing: .12em; text-transform: uppercase;
+            color: var(--orange); margin-bottom: 16px;
+            display: flex; align-items: center; gap: 6px;
+        }
+        .pane-eyebrow::before {
+            content: ''; width: 6px; height: 6px; border-radius: 50%;
+            background: var(--orange); flex-shrink: 0;
+        }
+
+        .pane-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 38px; font-weight: 600;
+            line-height: 1.15; letter-spacing: -1px;
+            margin-bottom: 18px;
+        }
+
+        .pane-desc {
+            font-size: 14.5px; color: var(--muted);
+            line-height: 1.7; margin-bottom: 28px;
+        }
+
+        .pane-list { list-style: none; }
+        .pane-list li {
+            display: flex; align-items: flex-start; gap: 10px;
+            font-size: 13.5px; color: var(--muted);
+            padding: 9px 0; border-bottom: 1px solid var(--border);
+        }
+        .pane-list li:last-child { border-bottom: none; }
+        .pane-list li::before {
+            content: '↗'; color: var(--orange);
+            font-size: 11px; margin-top: 3px; flex-shrink: 0;
+        }
+
+        /* ── MOCKUP WINDOW ──────────────────────── */
+        .mockup {
+            background: var(--bg-2); border: 1px solid var(--border-hi);
+            border-radius: var(--r-lg); overflow: hidden;
+            box-shadow: 0 40px 100px rgba(0,0,0,.40);
+        }
+        .mockup-bar {
+            display: flex; align-items: center; gap: 6px;
+            padding: 11px 14px; border-bottom: 1px solid var(--border);
+        }
+        .d-r { width: 11px; height: 11px; border-radius: 50%; background: #ff5f57; }
+        .d-y { width: 11px; height: 11px; border-radius: 50%; background: #ffbd2e; }
+        .d-g { width: 11px; height: 11px; border-radius: 50%; background: #28ca41; }
+
+        .mockup-body { padding: 20px; }
+
+        .chat { display: flex; flex-direction: column; gap: 12px; }
+
+        .msg { display: flex; gap: 9px; align-items: flex-start; }
+        .msg.u { flex-direction: row-reverse; }
+
+        .avatar {
+            width: 27px; height: 27px; border-radius: 50%;
+            background: var(--border-hi); flex-shrink: 0;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 11px; font-weight: 600; color: var(--muted);
+        }
+        .msg.u .avatar { background: var(--orange-bg); color: var(--orange); }
+
+        .bubble {
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; padding: 10px 13px;
+            font-size: 12.5px; line-height: 1.55; max-width: 87%;
+            color: var(--text);
+        }
+        .msg.u .bubble { background: var(--orange-bg); border-color: rgba(243,116,53,.18); }
+
+        .tool-chip {
+            display: inline-flex; align-items: center; gap: 5px;
+            font-size: 10.5px; color: var(--muted);
+            background: var(--bg-card); border: 1px solid var(--border);
+            padding: 3px 9px; border-radius: 100px;
+            margin-bottom: 8px;
+        }
+
+        .hi-orange { color: var(--orange); }
+        .hi-green  { color: #28ca41; }
+
+        /* ── NEEDS GRID ─────────────────────────── */
+        .needs-section { padding: 72px 0; border-top: 1px solid var(--border); }
+
+        .sec-hdr-row {
+            display: grid; grid-template-columns: 1fr 1fr;
+            gap: 48px; align-items: start; margin-bottom: 44px;
+        }
+
+        .sec-title {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(34px, 4.5vw, 56px);
+            font-weight: 700; line-height: 1.1; letter-spacing: -1.5px;
+        }
+
+        .sec-sub { font-size: 14.5px; color: var(--muted); line-height: 1.65; }
+
+        .needs-grid {
+            border: 1px solid var(--border); border-radius: var(--r-lg);
+            overflow: hidden;
+        }
+
+        .needs-row {
+            display: grid; grid-template-columns: repeat(4,1fr);
+        }
+        .needs-row:not(:last-child) { border-bottom: 1px solid var(--border); }
+
+        .need-card {
+            padding: 22px; border-right: 1px solid var(--border);
+            cursor: pointer; transition: background .2s;
+        }
+        .need-card:last-child { border-right: none; }
+        .need-card:hover { background: var(--bg-hover); }
+        .need-card.open { background: var(--bg-card); }
+
+        .need-cat {
+            font-size: 9.5px; font-weight: 700; letter-spacing: .13em;
+            text-transform: uppercase; color: var(--muted); margin-bottom: 7px;
+        }
+
+        .need-hd {
+            font-size: 13.5px; font-weight: 600;
+            display: flex; justify-content: space-between; align-items: center;
+            gap: 6px; margin-bottom: 7px;
+        }
+
+        .need-arrow { color: var(--muted); font-size: 13px; transition: transform .2s; flex-shrink: 0; }
+        .need-card.open .need-arrow { transform: rotate(180deg); color: var(--orange); }
+
+        .need-blurb { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+
+        .need-expand {
+            display: none; padding-top: 12px; margin-top: 10px;
+            border-top: 1px solid var(--border);
+            font-size: 12.5px; color: var(--muted); line-height: 1.6;
+        }
+        .need-card.open .need-expand { display: block; }
+
+        /* ── COMPANY CARDS ──────────────────────── */
+        .co-section { padding: 72px 0; border-top: 1px solid var(--border); }
+
+        .co-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; margin-top: 44px; }
+
+        .co-card {
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: var(--r); padding: 30px;
+            transition: all .25s;
+        }
+        .co-card:hover { background: var(--bg-hover); border-color: var(--border-hi); }
+
+        .co-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 21px; font-weight: 600; color: var(--orange);
+            margin-bottom: 10px;
+        }
+
+        .co-tag { font-size: 13px; color: var(--muted); margin-bottom: 22px; line-height: 1.6; }
+
+        .co-list { list-style: none; }
+        .co-list li {
+            display: flex; align-items: flex-start; gap: 8px;
+            font-size: 13px; color: var(--muted);
+            padding: 6px 0; border-bottom: 1px solid var(--border);
+        }
+        .co-list li:last-child { border-bottom: none; }
+        .co-list li::before { content: '·'; color: var(--orange); font-size: 18px; line-height: 1; margin-top: 1px; }
+
+        /* ── INTEGRATIONS ───────────────────────── */
+        .int-section { padding: 72px 0; border-top: 1px solid var(--border); }
+
+        .int-pills { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 36px; }
+
+        .int-pill {
+            display: flex; align-items: center; gap: 7px;
+            padding: 8px 15px; border: 1px solid var(--border);
+            border-radius: 100px; font-size: 13px; font-weight: 500;
+            color: var(--muted); transition: all .2s;
+        }
+        .int-pill:hover { border-color: var(--border-hi); color: var(--text); }
+        .int-pill .ico { font-size: 15px; }
+
+        /* ── STICKY CTA ─────────────────────────── */
+        .sticky-bar {
+            position: sticky; bottom: 0; z-index: 90;
+            border-top: 1px solid var(--border);
+            background: var(--bg);
+            padding: 13px 0; transition: background .35s;
+        }
+        .sticky-inner { display: flex; align-items: center; justify-content: space-between; }
+        .sticky-txt { font-size: 13.5px; color: var(--muted); }
+
+        /* ── FOOTER ─────────────────────────────── */
+        footer { border-top: 1px solid var(--border); padding: 56px 0 36px; }
+
+        .foot-top {
+            display: grid; grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 48px; margin-bottom: 44px;
+        }
+
+        .foot-brand .logo { display: block; margin-bottom: 12px; }
+        .foot-brand p { font-size: 13px; color: var(--muted); line-height: 1.65; max-width: 280px; }
+
+        .foot-col h5 {
+            font-size: 11px; font-weight: 700; letter-spacing: .1em;
+            text-transform: uppercase; color: var(--muted); margin-bottom: 14px;
+        }
+        .foot-col ul { list-style: none; }
+        .foot-col li { margin-bottom: 9px; }
+        .foot-col a { font-size: 13px; color: var(--muted); text-decoration: none; transition: color .2s; }
+        .foot-col a:hover { color: var(--text); }
+
+        .foot-bot {
+            border-top: 1px solid var(--border); padding-top: 26px;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .foot-bot p { font-size: 12px; color: var(--muted); }
+
+        /* ── FADE IN ────────────────────────────── */
+        .fi { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
+        .fi.v { opacity: 1; transform: none; }
+        .fi.d1 { transition-delay: .05s; }
+        .fi.d2 { transition-delay: .12s; }
+        .fi.d3 { transition-delay: .20s; }
+
+        /* ── RESPONSIVE ─────────────────────────── */
+        @media (max-width: 960px) {
+            .hero-foot, .sec-hdr-row, .tab-pane.active { grid-template-columns: 1fr; }
+            .hero-actions { justify-content: flex-start; }
+            .co-grid { grid-template-columns: 1fr; }
+            .needs-row { grid-template-columns: 1fr 1fr; }
+            .foot-top { grid-template-columns: 1fr 1fr; }
+        }
+        @media (max-width: 600px) {
+            .container { padding: 0 20px; }
+            .hero { padding: 60px 0 48px; }
+            nav { display: none; }
+            .needs-row { grid-template-columns: 1fr; }
+            .foot-top { grid-template-columns: 1fr; }
+            .hero-h1 { letter-spacing: -1.5px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<header>
+    <div class="container">
+        <div class="hdr">
+            <a class="logo" href="#">Escritório <em>OS</em></a>
+            <nav>
+                <a href="#funcionalidades">Funcionalidades</a>
+                <a href="#demandas">Para quem</a>
+                <a href="#empresas">Empresas</a>
+                <a href="#integracoes">Integrações</a>
+            </nav>
+            <button class="theme-btn" id="themeBtn" onclick="toggleTheme()" title="Alternar tema">☽</button>
+        </div>
+    </div>
+</header>
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<section class="hero">
+    <div class="container">
+
+        <div class="mode-pill">
+            <span class="label">Escritório OS</span>
+            <span class="pill-sep">|</span>
+            <span class="mode-opt active" id="mode-explorar" onclick="setMode('explorar')">
+                <span class="dot"></span> Explorar
+            </span>
+            <span class="ou">ou</span>
+            <span class="mode-opt" id="mode-executar" onclick="setMode('executar')">
+                <span class="dot"></span> Executar
+            </span>
+        </div>
+
+        <h1 class="hero-h1">
+            <span class="l1">Suas empresas,</span>
+            <span class="l2">no piloto automático.</span>
+        </h1>
+
+        <div class="hero-foot">
+            <p class="hero-sub" id="heroSub">
+                <strong>Escritório OS conecta</strong> Notion, Dropbox, Gmail, Pipefy e Google Calendar — entende o contexto das suas três empresas e age por você, sem precisar pedir duas vezes.
+            </p>
+            <div class="hero-actions">
+                <a href="#funcionalidades" class="btn btn-solid">
+                    <span class="dots-icon"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span>
+                    Comece a explorar
+                </a>
+                <a href="#demandas" class="btn btn-ghost">Ver casos de uso</a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ═══════════════════════ STRIP ═══════════════════════ -->
+<div class="strip">
+    <div class="container">Uma plataforma que se adapta ao contexto das suas três empresas</div>
+</div>
+
+<!-- ═══════════════════════ FEATURE TABS ═══════════════════════ -->
+<section class="feat-section" id="funcionalidades">
+    <div class="container">
+
+        <div class="tab-bar">
+            <button class="tab-btn active" onclick="switchTab('eventos', this)">📅 Gestão de Eventos</button>
+            <button class="tab-btn" onclick="switchTab('contratos', this)">📄 Contratos</button>
+            <button class="tab-btn" onclick="switchTab('financeiro', this)">📊 Financeiro</button>
+            <button class="tab-btn" onclick="switchTab('comunicacao', this)">✉️ Comunicação</button>
+        </div>
+
+        <!-- EVENTOS -->
+        <div class="tab-pane active" id="pane-eventos">
+            <div>
+                <div class="pane-eyebrow">AUTOPILOT · EVENTOS</div>
+                <h2 class="pane-title">Gestão de eventos<br>sem fricção</h2>
+                <p class="pane-desc">Cruzo dados de múltiplas fontes — Notion e planilha no Dropbox — e entrego o que importa: quem, onde, quando e o que está pendente.</p>
+                <ul class="pane-list">
+                    <li>Consulto próximos eventos e status em tempo real</li>
+                    <li>Crio e atualizo tarefas no Notion por evento ou responsável</li>
+                    <li>Comparo dados entre planilha e Notion automaticamente</li>
+                    <li>Gero briefing diário com as prioridades do dia</li>
+                </ul>
+            </div>
+            <div class="mockup">
+                <div class="mockup-bar"><div class="d-r"></div><div class="d-y"></div><div class="d-g"></div></div>
+                <div class="mockup-body">
+                    <div class="chat">
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">Quais os próximos eventos da VIVA esta semana?</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Consultando Notion + Dropbox</div>
+                                <strong>3 eventos esta semana:</strong><br>
+                                · Turma A — Sáb 05/07 · Buffet Central<br>
+                                · Formatura Eng. — Dom 06/07 · Teatro Municipal<br>
+                                · Reunião Turma B — Ter 08/07 · Online<br><br>
+                                <span class="hi-orange">⚠ Contrato da Turma B ainda sem assinatura.</span>
+                            </div>
+                        </div>
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">Cria tarefa pra Janine verificar o contrato hoje</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Criando tarefa no Notion</div>
+                                ✓ Tarefa criada para Janine · Prazo: hoje 18h
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONTRATOS -->
+        <div class="tab-pane" id="pane-contratos">
+            <div>
+                <div class="pane-eyebrow">AUTOPILOT · CONTRATOS</div>
+                <h2 class="pane-title">Contratos sob<br>controle total</h2>
+                <p class="pane-desc">Busco contratos no Dropbox e Clicksign, verifico status de assinatura e cuido do processo do início ao fim — sem você precisar abrir nenhum sistema.</p>
+                <ul class="pane-list">
+                    <li>Verifico quais contratos estão pendentes de assinatura</li>
+                    <li>Adiciono signatários e faço upload de novos documentos</li>
+                    <li>Busco por cliente, evento ou fornecedor</li>
+                    <li>Organizo a estrutura de pastas no Dropbox automaticamente</li>
+                </ul>
+            </div>
+            <div class="mockup">
+                <div class="mockup-bar"><div class="d-r"></div><div class="d-y"></div><div class="d-g"></div></div>
+                <div class="mockup-body">
+                    <div class="chat">
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">O contrato do Cliente Silva foi assinado?</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Consultando Clicksign</div>
+                                Contrato Silva — <span class="hi-orange">Aguardando assinatura</span><br>
+                                Enviado em: 28/06 · Signatário: João Silva<br><br>
+                                Quer que eu envie um lembrete por e-mail?
+                            </div>
+                        </div>
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">Sim, manda o lembrete</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Criando rascunho no Gmail</div>
+                                ✓ Rascunho criado · Para: joao@silva.com<br>
+                                <span style="font-size:11.5px;color:var(--muted)">Aberto no Gmail para revisão final.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FINANCEIRO -->
+        <div class="tab-pane" id="pane-financeiro">
+            <div>
+                <div class="pane-eyebrow">AUTOPILOT · FINANCEIRO</div>
+                <h2 class="pane-title">Análise de OP<br>instantânea</h2>
+                <p class="pane-desc">Leio planilhas de Orçamento e Planejamento no Dropbox e respondo perguntas financeiras com base nos dados reais — sem SQL, sem fórmulas.</p>
+                <ul class="pane-list">
+                    <li>Extraio valores por fornecedor de qualquer planilha OP</li>
+                    <li>Comparo planejado vs. realizado por evento</li>
+                    <li>Respondo em linguagem natural, com os números certos</li>
+                    <li>Gero relatórios prontos para apresentação</li>
+                </ul>
+            </div>
+            <div class="mockup">
+                <div class="mockup-bar"><div class="d-r"></div><div class="d-y"></div><div class="d-g"></div></div>
+                <div class="mockup-body">
+                    <div class="chat">
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">Quanto foi gasto com buffet no evento de junho?</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Lendo OP_Junho_2026.xlsx</div>
+                                <strong>Buffet — Evento Junho:</strong><br>
+                                · Orçado: R$ 18.400<br>
+                                · Realizado: R$ 17.950<br>
+                                · Economia: <span class="hi-green">R$ 450 (2,4%)</span><br><br>
+                                Quer o comparativo de todos os fornecedores?
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- COMUNICAÇÃO -->
+        <div class="tab-pane" id="pane-comunicacao">
+            <div>
+                <div class="pane-eyebrow">AUTOPILOT · COMUNICAÇÃO</div>
+                <h2 class="pane-title">E-mails prontos<br>para enviar</h2>
+                <p class="pane-desc">Crio rascunhos completos no Gmail com contexto real do evento, cliente e demanda — formatados e prontos para revisão antes de enviar.</p>
+                <ul class="pane-list">
+                    <li>Contexto completo do evento e cliente incluído automaticamente</li>
+                    <li>Tom ajustável: formal, cordial ou objetivo</li>
+                    <li>Incluo datas, valores e detalhes das ferramentas conectadas</li>
+                    <li>Salvo como rascunho no Gmail — você revisa e envia</li>
+                </ul>
+            </div>
+            <div class="mockup">
+                <div class="mockup-bar"><div class="d-r"></div><div class="d-y"></div><div class="d-g"></div></div>
+                <div class="mockup-body">
+                    <div class="chat">
+                        <div class="msg u">
+                            <div class="avatar">P</div>
+                            <div class="bubble">Cria um e-mail pro buffet confirmando o evento de sábado</div>
+                        </div>
+                        <div class="msg">
+                            <div class="avatar">⚡</div>
+                            <div class="bubble">
+                                <div class="tool-chip">↗ Consultando evento · Criando rascunho Gmail</div>
+                                ✓ Rascunho criado<br>
+                                <strong>Para:</strong> contato@buffet.com.br<br>
+                                <strong>Assunto:</strong> Confirmação — Evento 05/07/2026<br>
+                                <span style="font-size:11.5px;color:var(--muted)">Aberto no Gmail para sua revisão.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ═══════════════════════ NEEDS GRID ═══════════════════════ -->
+<section class="needs-section" id="demandas">
+    <div class="container">
+
+        <div class="sec-hdr-row">
+            <h2 class="sec-title fi">Escritório OS para<br>cada demanda.</h2>
+            <p class="sec-sub fi d1" style="margin-top:6px;">De eventos a vendas, de contratos a apresentações. Clique em qualquer área para ver o que é possível.</p>
+        </div>
+
+        <div class="needs-grid fi d2">
+            <div class="needs-row">
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">VIVA EVENTOS</div>
+                    <div class="need-hd">Coordenação <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Eventos, tarefas e prazos centralizados.</div>
+                    <div class="need-expand">Consulto próximos eventos, crio tarefas por responsável, monitoro prazos e cruzo dados do Notion com a planilha oficial do Dropbox.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">VIVA EVENTOS</div>
+                    <div class="need-hd">Contratos <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Status, assinaturas e uploads automatizados.</div>
+                    <div class="need-expand">Verifico pendências no Clicksign, adiciono signatários, faço upload e organizo contratos no Dropbox seguindo a estrutura da empresa.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">VIVA EVENTOS</div>
+                    <div class="need-hd">Financeiro <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">OPs, custos e comparativos de eventos.</div>
+                    <div class="need-expand">Leio planilhas OP no Dropbox, extraio valores por fornecedor, comparo planejado vs. realizado e gero relatórios prontos para apresentação.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">VIVA EVENTOS</div>
+                    <div class="need-hd">Atas de reunião <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Conteúdo extraído e entregue sob demanda.</div>
+                    <div class="need-expand">Busco atas no Dropbox e entrego apenas o que importa — decisões, próximos passos e responsáveis — sem os cabeçalhos irrelevantes.</div>
+                </div>
+            </div>
+            <div class="needs-row">
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">LUMINOUS</div>
+                    <div class="need-hd">Fotos e entregas <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Upload, organização e links por formando.</div>
+                    <div class="need-expand">Faço upload para o Google Drive da Luminous, organizo por evento e gero links de compartilhamento individuais para cada formando.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">LUMINOUS</div>
+                    <div class="need-hd">Funil de vendas <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Pipefy gerenciado por linguagem natural.</div>
+                    <div class="need-expand">Consulto leads, movo cards entre fases, adiciono comentários e atualizo campos do Pipefy — tudo via conversa, sem abrir o board.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">SALÃO TRIUNFO</div>
+                    <div class="need-hd">Agendamentos <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Locações, disponibilidade e comunicação.</div>
+                    <div class="need-expand">Consulto e crio eventos no Calendar, verifico disponibilidade do espaço e gerencio comunicação com locatários via Gmail.</div>
+                </div>
+                <div class="need-card" onclick="toggleNeed(this)">
+                    <div class="need-cat">GERAL</div>
+                    <div class="need-hd">Apresentações <span class="need-arrow">↓</span></div>
+                    <div class="need-blurb">Carrosséis e slides com design premium.</div>
+                    <div class="need-expand">Gero carrosséis HTML com design profissional, exporto como PNG de alta resolução e converto para PowerPoint editável.</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ═══════════════════════ COMPANIES ═══════════════════════ -->
+<section class="co-section" id="empresas">
+    <div class="container">
+
+        <div class="sec-hdr-row">
+            <h2 class="sec-title fi">Pensado para<br>as três empresas.</h2>
+            <p class="sec-sub fi d1" style="margin-top:6px;">Cada empresa tem seu contexto, suas integrações e suas prioridades — todas dentro do mesmo assistente.</p>
+        </div>
+
+        <div class="co-grid">
+            <div class="co-card fi">
+                <div class="co-name">VIVA Eventos</div>
+                <p class="co-tag">Gestão completa de fundos de formatura — do planejamento ao encerramento do evento.</p>
+                <ul class="co-list">
+                    <li>Cruzamento Notion + planilha Dropbox</li>
+                    <li>Contratos via Clicksign</li>
+                    <li>OPs financeiras por evento</li>
+                    <li>Atas de reunião com clientes</li>
+                    <li>Tarefas por colaborador</li>
+                </ul>
+            </div>
+            <div class="co-card fi d1">
+                <div class="co-name">Luminous Fotografia</div>
+                <p class="co-tag">Organização de entregas, gestão de contratos e funil de vendas de formandos.</p>
+                <ul class="co-list">
+                    <li>Upload de fotos por evento no Drive</li>
+                    <li>Links individuais por formando</li>
+                    <li>Funil Pipefy em linguagem natural</li>
+                    <li>Contratos e assinaturas</li>
+                </ul>
+            </div>
+            <div class="co-card fi d2">
+                <div class="co-name">Salão Triunfo</div>
+                <p class="co-tag">Controle de locações, agendamentos e comunicação com locatários do espaço.</p>
+                <ul class="co-list">
+                    <li>Agenda de locações no Calendar</li>
+                    <li>Contratos de locação</li>
+                    <li>E-mails para locatários</li>
+                    <li>Tarefas operacionais do espaço</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ═══════════════════════ INTEGRATIONS ═══════════════════════ -->
+<section class="int-section" id="integracoes">
+    <div class="container">
+        <h2 class="sec-title fi" style="max-width:520px;">Integrado com o<br>que você já usa.</h2>
+        <div class="int-pills fi d1">
+            <div class="int-pill"><span class="ico">📓</span> Notion</div>
+            <div class="int-pill"><span class="ico">📦</span> Dropbox</div>
+            <div class="int-pill"><span class="ico">✍️</span> Clicksign</div>
+            <div class="int-pill"><span class="ico">📧</span> Gmail</div>
+            <div class="int-pill"><span class="ico">📅</span> Google Calendar</div>
+            <div class="int-pill"><span class="ico">☁️</span> Google Drive</div>
+            <div class="int-pill"><span class="ico">🎯</span> Pipefy</div>
+            <div class="int-pill"><span class="ico">📊</span> Excel / Planilhas</div>
+            <div class="int-pill"><span class="ico">🔍</span> Pesquisa Web</div>
+            <div class="int-pill"><span class="ico">🎬</span> YouTube</div>
+            <div class="int-pill"><span class="ico">📸</span> Instagram</div>
+            <div class="int-pill"><span class="ico">🗂️</span> Arquivos locais</div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════ STICKY CTA ═══════════════════════ -->
+<div class="sticky-bar">
+    <div class="container">
+        <div class="sticky-inner">
+            <span class="sticky-txt">Converse com o Escritório OS — veja o que ele já faz por você</span>
+            <a href="#" class="btn btn-solid">
+                <span class="dots-icon"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span>
+                Abrir agora
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<footer>
+    <div class="container">
+        <div class="foot-top">
+            <div class="foot-brand">
+                <a class="logo" href="#">Escritório <em>OS</em></a>
+                <p>Assistente Executivo com IA para VIVA Eventos, Luminous Fotografia e Salão Triunfo. Tudo em um lugar, em linguagem natural.</p>
+            </div>
+            <div class="foot-col">
+                <h5>Funcionalidades</h5>
+                <ul>
+                    <li><a href="#funcionalidades">Gestão de Eventos</a></li>
+                    <li><a href="#funcionalidades">Contratos</a></li>
+                    <li><a href="#funcionalidades">Financeiro</a></li>
+                    <li><a href="#funcionalidades">Comunicação</a></li>
+                </ul>
+            </div>
+            <div class="foot-col">
+                <h5>Integrações</h5>
+                <ul>
+                    <li><a href="#integracoes">Notion</a></li>
+                    <li><a href="#integracoes">Dropbox</a></li>
+                    <li><a href="#integracoes">Google Workspace</a></li>
+                    <li><a href="#integracoes">Pipefy</a></li>
+                </ul>
+            </div>
+            <div class="foot-col">
+                <h5>Empresas</h5>
+                <ul>
+                    <li><a href="#empresas">VIVA Eventos</a></li>
+                    <li><a href="#empresas">Luminous Fotografia</a></li>
+                    <li><a href="#empresas">Salão Triunfo</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="foot-bot">
+            <p>© 2026 Escritório OS — VIVA Eventos · Luminous Fotografia · Salão Triunfo</p>
+            <p>Powered by Gemini · Claude · GPT-4o</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+// ── Theme toggle ──────────────────────────────────────────
+function toggleTheme() {
+    const html = document.documentElement;
+    const dark = html.getAttribute('data-theme') === 'dark';
+    html.setAttribute('data-theme', dark ? 'light' : 'dark');
+    document.getElementById('themeBtn').textContent = dark ? '☀' : '☽';
+}
+
+// ── Mode pill ─────────────────────────────────────────────
+const subTexts = {
+    explorar: '<strong>Escritório OS conecta</strong> Notion, Dropbox, Gmail, Pipefy e Google Calendar — entende o contexto das suas três empresas e age por você, sem precisar pedir duas vezes.',
+    executar: '<strong>Diga o que precisa</strong> em linguagem natural. O Escritório OS executa — cria tarefas, envia e-mails, assina contratos, atualiza o Pipefy — e só pede confirmação quando necessário.'
+};
+function setMode(m) {
+    document.querySelectorAll('.mode-opt').forEach(el => el.classList.remove('active'));
+    document.getElementById('mode-' + m).classList.add('active');
+    document.getElementById('heroSub').innerHTML = subTexts[m];
+}
+
+// ── Tab switcher ──────────────────────────────────────────
+function switchTab(id, btn) {
+    document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+    document.getElementById('pane-' + id).classList.add('active');
+    btn.classList.add('active');
+}
+
+// ── Need cards (expandable) ───────────────────────────────
+function toggleNeed(card) {
+    const wasOpen = card.classList.contains('open');
+    card.closest('.needs-row').querySelectorAll('.need-card').forEach(c => c.classList.remove('open'));
+    if (!wasOpen) card.classList.add('open');
+}
+
+// ── Fade-in on scroll ─────────────────────────────────────
+const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('v'); obs.unobserve(e.target); } });
+}, { threshold: 0.08 });
+document.querySelectorAll('.fi').forEach(el => obs.observe(el));
+</script>
+</body>
+</html>
