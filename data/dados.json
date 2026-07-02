@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T15:07:56.518Z",
+  "atualizadoEm": "2026-07-02T15:49:52.106Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,7 +19,7 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 114,
+    "totalAtrasadas": 101,
     "totalAtrasadasAnterior": 114,
     "totalSemana": 69
   },
@@ -127,38 +127,21 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 4,
+      "atrasadas": 0,
       "atrasadasAnterior": 4,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Alteração de Cota",
-          "diasAtraso": 69
-        },
-        {
-          "nome": "DR:: Verificar Inadimplência - BIARA.ROBERTA",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Reunião Semanal",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
-          "diasAtraso": 1
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Reunião Semanal",
           "data": "2026-06-29"
         },
         {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
-          "data": "2026-07-01"
+          "nome": "Negociação: Luila",
+          "data": "2026-07-03"
         },
         {
-          "nome": "Negociação: Luila",
+          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
           "data": "2026-07-03"
         }
       ]
@@ -479,7 +462,7 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 40,
+      "atrasadas": 31,
       "atrasadasAnterior": 40,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
@@ -494,10 +477,6 @@
         {
           "nome": "Buffet Meio Médico - Teixeira",
           "diasAtraso": 129
-        },
-        {
-          "nome": "DR: Cerimônia do Jaleco - Produção",
-          "diasAtraso": 83
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -524,19 +503,11 @@
           "diasAtraso": 51
         },
         {
-          "nome": "DR:: Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 50
-        },
-        {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
           "diasAtraso": 48
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 37
-        },
-        {
-          "nome": "DR:: Informações Sessão de Fotos - THIAGO.LOPES",
           "diasAtraso": 37
         },
         {
@@ -600,32 +571,8 @@
           "diasAtraso": 7
         },
         {
-          "nome": "DR:: Evento: Cob. Fotográfica Pré Internato - KAMILLA.WERNECK",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
-          "diasAtraso": 0
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
@@ -1010,7 +957,7 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 36,
+      "atrasadas": 32,
       "atrasadasAnterior": 36,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
@@ -1029,10 +976,6 @@
         {
           "nome": "Confirmar: Data Colação",
           "diasAtraso": 112
-        },
-        {
-          "nome": "Alteração de Cota",
-          "diasAtraso": 69
         },
         {
           "nome": "Criar E-mails LMS",
@@ -1063,16 +1006,8 @@
           "diasAtraso": 6
         },
         {
-          "nome": "DR:: Verificar Inadimplência - BIARA.ROBERTA",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 6
-        },
-        {
-          "nome": "Reunião Semanal",
-          "diasAtraso": 3
         },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -1109,10 +1044,6 @@
         {
           "nome": "Informativo: TRIUNFO",
           "diasAtraso": 2
-        },
-        {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
-          "diasAtraso": 1
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
@@ -1203,10 +1134,6 @@
         {
           "nome": "Informativo: TRIUNFO",
           "data": "2026-06-30"
-        },
-        {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
-          "data": "2026-07-01"
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
@@ -1341,6 +1268,10 @@
           "data": "2026-07-03"
         },
         {
+          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
+          "data": "2026-07-03"
+        },
+        {
           "nome": "Planos e Adesões: Colação WILLA",
           "data": "2026-07-03"
         },
@@ -1385,7 +1316,7 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 41,
+      "atrasadas": 32,
       "atrasadasAnterior": 41,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
@@ -1400,10 +1331,6 @@
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 93
-        },
-        {
-          "nome": "DR: Cerimônia do Jaleco - Produção",
-          "diasAtraso": 83
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -1434,19 +1361,11 @@
           "diasAtraso": 51
         },
         {
-          "nome": "DR:: Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 50
-        },
-        {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
           "diasAtraso": 48
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 37
-        },
-        {
-          "nome": "DR:: Informações Sessão de Fotos - THIAGO.LOPES",
           "diasAtraso": 37
         },
         {
@@ -1510,32 +1429,8 @@
           "diasAtraso": 7
         },
         {
-          "nome": "DR:: Evento: Cob. Fotográfica Pré Internato - KAMILLA.WERNECK",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
-          "diasAtraso": 0
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
