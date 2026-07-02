@@ -12,7 +12,15 @@ on:
   workflow_dispatch: {}       # permite rodar manualmente pela aba Actions
 
 permissions:
-  contents: write
+  contents: write   # para commitar os dados sincronizados
+  pages: write      # para publicar no GitHub Pages
+  id-token: write   # exigido pelo deploy-pages
+
+# Um deploy do Pages por vez. Não cancela em andamento (para não marcar como
+# falho um deploy que já estava publicando).
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -36,3 +44,23 @@ jobs:
           git add data/dados.json data/historico.json
           git diff --staged --quiet || git commit -m "chore: sincroniza dados do Notion"
           git push
+
+  # Publica o site logo após a sincronização, no mesmo fluxo. Necessário
+  # porque um commit feito pelo GITHUB_TOKEN (o do job acima) NÃO dispara
+  # outros workflows — então o deploy precisa acontecer aqui mesmo.
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # pega o commit recém-criado com os dados novos
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

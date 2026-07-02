@@ -10,11 +10,12 @@ permissions:
   pages: write
   id-token: write
 
-# Evita disputa entre deploys: se um novo push chegar enquanto outro deploy
-# ainda está rodando, o mais antigo é cancelado em vez de os dois competirem.
+# Mesmo grupo de concorrência do workflow de sync — assim os deploys se
+# enfileiram em vez de competir. Não cancela em andamento para não marcar
+# um deploy que já publicava como "falho".
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
