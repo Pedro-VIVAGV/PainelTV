@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T20:49:13.651Z",
+  "atualizadoEm": "2026-07-02T21:00:58.854Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,7 +19,7 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 101,
+    "totalAtrasadas": 98,
     "totalAtrasadasAnterior": 101,
     "totalSemana": 69
   },
@@ -462,7 +462,7 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 31,
+      "atrasadas": 28,
       "atrasadasAnterior": 31,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
@@ -573,18 +573,6 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
         },
         {
           "nome": "Adicionar Drink - Cardápio",
@@ -1316,7 +1304,7 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 32,
+      "atrasadas": 29,
       "atrasadasAnterior": 32,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
@@ -1431,18 +1419,6 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 0
         },
         {
           "nome": "Adicionar Drink - Cardápio",
