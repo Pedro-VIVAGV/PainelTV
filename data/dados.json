@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T21:45:41.354Z",
+  "atualizadoEm": "2026-07-02T22:01:09.397Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 98,
     "totalAtrasadasAnterior": 101,
-    "totalSemana": 69
+    "totalSemana": 70
   },
   "pessoas": [
     {
@@ -464,7 +464,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 31,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -615,6 +615,10 @@
         {
           "nome": "Adicionar Drink - Cardápio",
           "data": "2026-07-02"
+        },
+        {
+          "nome": "Adicionar Pgto Produtos - Gravação Placa Homenagens: Biara e Myla",
+          "data": "2026-07-03"
         }
       ]
     },
@@ -1306,7 +1310,7 @@
       ],
       "atrasadas": 29,
       "atrasadasAnterior": 32,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1461,6 +1465,10 @@
         {
           "nome": "Adicionar Drink - Cardápio",
           "data": "2026-07-02"
+        },
+        {
+          "nome": "Adicionar Pgto Produtos - Gravação Placa Homenagens: Biara e Myla",
+          "data": "2026-07-03"
         }
       ]
     }
