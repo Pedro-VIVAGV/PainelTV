@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T15:49:52.106Z",
+  "atualizadoEm": "2026-07-02T15:58:29.799Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -20,7 +20,7 @@
       }
     },
     "totalAtrasadas": 101,
-    "totalAtrasadasAnterior": 114,
+    "totalAtrasadasAnterior": 101,
     "totalSemana": 69
   },
   "pessoas": [
@@ -128,7 +128,7 @@
         "Atendimento"
       ],
       "atrasadas": 0,
-      "atrasadasAnterior": 4,
+      "atrasadasAnterior": 0,
       "semanaTotal": 3,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
@@ -463,7 +463,7 @@
         "Marketing"
       ],
       "atrasadas": 31,
-      "atrasadasAnterior": 40,
+      "atrasadasAnterior": 31,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -958,7 +958,7 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 32,
-      "atrasadasAnterior": 36,
+      "atrasadasAnterior": 32,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1317,7 +1317,7 @@
         "Usuário a6c3d881"
       ],
       "atrasadas": 32,
-      "atrasadasAnterior": 41,
+      "atrasadasAnterior": 32,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
