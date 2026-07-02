@@ -2,7 +2,11 @@ name: Sincronizar Notion
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # a cada 15 minutos
+    # Evita minutos "redondos" (:00 :15 :30 :45) — são os horários de pico da
+    # fila de cron do GitHub Actions (todo mundo agenda nesses minutos), o
+    # que atrasa ou até pula execuções. Rodando em :07/:22/:37/:52 a fila
+    # costuma estar bem mais livre.
+    - cron: '7,22,37,52 * * * *'   # a cada 15 minutos, deslocado
   workflow_dispatch: {}       # permite rodar manualmente pela aba Actions
 
 permissions:
