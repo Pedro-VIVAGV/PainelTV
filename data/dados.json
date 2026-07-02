@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-02T14:51:19.260Z",
+  "atualizadoEm": "2026-07-02T15:02:45.891Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,7 +19,7 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 137,
+    "totalAtrasadas": 114,
     "totalAtrasadasAnterior": 137,
     "totalSemana": 69
   },
@@ -46,7 +46,7 @@
         "Cotação",
         "Produção"
       ],
-      "atrasadas": 9,
+      "atrasadas": 10,
       "atrasadasAnterior": 9,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
@@ -85,6 +85,10 @@
         {
           "nome": "Organizar Caixotes_WELYSSA-AMANDA-EMANUELLY",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Confeccionar Pastas_WELYSSA-AMANDA-EMANUELLY",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -285,7 +289,7 @@
       "setores": [
         "Planejamento"
       ],
-      "atrasadas": 3,
+      "atrasadas": 6,
       "atrasadasAnterior": 3,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
@@ -300,6 +304,18 @@
         {
           "nome": "Definir Atrações Bailes 2026-2",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -438,30 +454,10 @@
       "setores": [
         "Produção"
       ],
-      "atrasadas": 67,
+      "atrasadas": 40,
       "atrasadasAnterior": 67,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
-        {
-          "nome": "Marca registrada Luminous",
-          "diasAtraso": 492
-        },
-        {
-          "nome": "Encerramento CNPJ: Guilherme",
-          "diasAtraso": 331
-        },
-        {
-          "nome": "Criar / Atualizar agenda KALIL",
-          "diasAtraso": 275
-        },
-        {
-          "nome": "Montar Agenda pessoal",
-          "diasAtraso": 262
-        },
-        {
-          "nome": "Alterar E-mails GVIVAGV",
-          "diasAtraso": 261
-        },
         {
           "nome": "Teste - Alteração de responsável da demanda",
           "diasAtraso": 259
@@ -471,52 +467,8 @@
           "diasAtraso": 224
         },
         {
-          "nome": "Atividades Reunião com Rodrigo - Ata",
-          "diasAtraso": 219
-        },
-        {
-          "nome": "Agendar Dedetização",
-          "diasAtraso": 192
-        },
-        {
-          "nome": "Criar Docs Padrão Eventos_TRIUNFO",
-          "diasAtraso": 177
-        },
-        {
-          "nome": "Nova pessoa Produção",
-          "diasAtraso": 173
-        },
-        {
-          "nome": "Atualização de Docs",
-          "diasAtraso": 163
-        },
-        {
-          "nome": "Retorno Buffet Célia Datas 2026",
-          "diasAtraso": 162
-        },
-        {
-          "nome": "Mestre da Jornada",
-          "diasAtraso": 148
-        },
-        {
-          "nome": "Atividades Ultimas Reuniões",
-          "diasAtraso": 147
-        },
-        {
-          "nome": "Atividades Padrão - Pós-Evento",
-          "diasAtraso": 147
-        },
-        {
           "nome": "Buffet Meio Médico - Teixeira",
           "diasAtraso": 129
-        },
-        {
-          "nome": "Comprar Impressora",
-          "diasAtraso": 112
-        },
-        {
-          "nome": "Contratos Império",
-          "diasAtraso": 101
         },
         {
           "nome": "DR: Cerimônia do Jaleco - Produção",
@@ -527,44 +479,12 @@
           "diasAtraso": 83
         },
         {
-          "nome": "Verificar com Matheus Demandas Ata",
-          "diasAtraso": 80
-        },
-        {
           "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
           "diasAtraso": 79
         },
         {
           "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
           "diasAtraso": 76
-        },
-        {
-          "nome": "Meio Médico_CELIA",
-          "diasAtraso": 66
-        },
-        {
-          "nome": "Contato com Teatro Atiaia: Colações",
-          "diasAtraso": 65
-        },
-        {
-          "nome": "Atualizar caixa Pedro",
-          "diasAtraso": 58
-        },
-        {
-          "nome": "Verificar sobre trafego pago: Be Fit",
-          "diasAtraso": 58
-        },
-        {
-          "nome": "Missa GABRYELLE VITOR",
-          "diasAtraso": 57
-        },
-        {
-          "nome": "Pagamento Equipe",
-          "diasAtraso": 56
-        },
-        {
-          "nome": "Cancelar assinatura topaz",
-          "diasAtraso": 52
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
@@ -587,10 +507,6 @@
           "diasAtraso": 48
         },
         {
-          "nome": "Sobremesa Evento: MILENA.ALMEIDA",
-          "diasAtraso": 38
-        },
-        {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
           "diasAtraso": 37
         },
@@ -607,10 +523,6 @@
           "diasAtraso": 37
         },
         {
-          "nome": "Organizar Pgto - Permuta_VISTA CHALE",
-          "diasAtraso": 31
-        },
-        {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 30
         },
@@ -621,22 +533,6 @@
         {
           "nome": "DR:: Atrações Baile - EULLER.KAIRO",
           "diasAtraso": 27
-        },
-        {
-          "nome": "Liberar Drive / Storage",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Atualizar datas Pedro Lima / Rosane",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Preencher / Acompanhar Atas dos Eventos",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Demandas Contratação_LARA-ELIDIANA-LUISA",
-          "diasAtraso": 23
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
@@ -655,20 +551,12 @@
           "diasAtraso": 22
         },
         {
-          "nome": "Negociação MARA.LISBOA_CELIA",
-          "diasAtraso": 22
-        },
-        {
           "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
           "diasAtraso": 22
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 22
-        },
-        {
-          "nome": "Contratos Buffet",
-          "diasAtraso": 21
         },
         {
           "nome": "Local: Meio Médico_CELIA.MARIA",
@@ -679,20 +567,8 @@
           "diasAtraso": 20
         },
         {
-          "nome": "Conferir pgtos produtos anteriores",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "Alt. Anexo A Base - Seagers",
-          "diasAtraso": 9
-        },
-        {
           "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
           "diasAtraso": 8
-        },
-        {
-          "nome": "Conversa Rodrigo",
-          "diasAtraso": 7
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
@@ -709,6 +585,38 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Adicionar Drink - Cardápio",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1074,7 +982,7 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 33,
+      "atrasadas": 36,
       "atrasadasAnterior": 33,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
@@ -1209,6 +1117,18 @@
         {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1437,77 +1357,17 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 67,
+      "atrasadas": 41,
       "atrasadasAnterior": 67,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
-        {
-          "nome": "Encerramento CNPJ: Guilherme",
-          "diasAtraso": 331
-        },
-        {
-          "nome": "Criar / Atualizar agenda KALIL",
-          "diasAtraso": 275
-        },
-        {
-          "nome": "Montar Agenda pessoal",
-          "diasAtraso": 262
-        },
-        {
-          "nome": "Alterar E-mails GVIVAGV",
-          "diasAtraso": 261
-        },
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 224
         },
         {
-          "nome": "Atividades Reunião com Rodrigo - Ata",
-          "diasAtraso": 219
-        },
-        {
-          "nome": "Agendar Dedetização",
-          "diasAtraso": 192
-        },
-        {
-          "nome": "Criar Docs Padrão Eventos_TRIUNFO",
-          "diasAtraso": 177
-        },
-        {
-          "nome": "Nova pessoa Produção",
-          "diasAtraso": 173
-        },
-        {
-          "nome": "Atualização de Docs",
-          "diasAtraso": 163
-        },
-        {
-          "nome": "Retorno Buffet Célia Datas 2026",
-          "diasAtraso": 162
-        },
-        {
-          "nome": "Mestre da Jornada",
-          "diasAtraso": 148
-        },
-        {
-          "nome": "Atividades Ultimas Reuniões",
-          "diasAtraso": 147
-        },
-        {
-          "nome": "Atividades Padrão - Pós-Evento",
-          "diasAtraso": 147
-        },
-        {
           "nome": "Buffet Meio Médico - Teixeira",
           "diasAtraso": 129
-        },
-        {
-          "nome": "Comprar Impressora",
-          "diasAtraso": 112
-        },
-        {
-          "nome": "Contratos Império",
-          "diasAtraso": 101
         },
         {
           "nome": "Atualização de Cheques",
@@ -1526,44 +1386,12 @@
           "diasAtraso": 80
         },
         {
-          "nome": "Verificar com Matheus Demandas Ata",
-          "diasAtraso": 80
-        },
-        {
           "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
           "diasAtraso": 79
         },
         {
           "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
           "diasAtraso": 76
-        },
-        {
-          "nome": "Meio Médico_CELIA",
-          "diasAtraso": 66
-        },
-        {
-          "nome": "Contato com Teatro Atiaia: Colações",
-          "diasAtraso": 65
-        },
-        {
-          "nome": "Atualizar caixa Pedro",
-          "diasAtraso": 58
-        },
-        {
-          "nome": "Verificar sobre trafego pago: Be Fit",
-          "diasAtraso": 58
-        },
-        {
-          "nome": "Missa GABRYELLE VITOR",
-          "diasAtraso": 57
-        },
-        {
-          "nome": "Pagamento Equipe",
-          "diasAtraso": 56
-        },
-        {
-          "nome": "Cancelar assinatura topaz",
-          "diasAtraso": 52
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
@@ -1586,10 +1414,6 @@
           "diasAtraso": 48
         },
         {
-          "nome": "Sobremesa Evento: MILENA.ALMEIDA",
-          "diasAtraso": 38
-        },
-        {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
           "diasAtraso": 37
         },
@@ -1606,10 +1430,6 @@
           "diasAtraso": 37
         },
         {
-          "nome": "Organizar Pgto - Permuta_VISTA CHALE",
-          "diasAtraso": 31
-        },
-        {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 30
         },
@@ -1620,22 +1440,6 @@
         {
           "nome": "DR:: Atrações Baile - EULLER.KAIRO",
           "diasAtraso": 27
-        },
-        {
-          "nome": "Liberar Drive / Storage",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Atualizar datas Pedro Lima / Rosane",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Preencher / Acompanhar Atas dos Eventos",
-          "diasAtraso": 23
-        },
-        {
-          "nome": "Demandas Contratação_LARA-ELIDIANA-LUISA",
-          "diasAtraso": 23
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
@@ -1654,20 +1458,12 @@
           "diasAtraso": 22
         },
         {
-          "nome": "Negociação MARA.LISBOA_CELIA",
-          "diasAtraso": 22
-        },
-        {
           "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
           "diasAtraso": 22
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 22
-        },
-        {
-          "nome": "Contratos Buffet",
-          "diasAtraso": 21
         },
         {
           "nome": "Local: Meio Médico_CELIA.MARIA",
@@ -1678,20 +1474,8 @@
           "diasAtraso": 20
         },
         {
-          "nome": "Conferir pgtos produtos anteriores",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "Alt. Anexo A Base - Seagers",
-          "diasAtraso": 9
-        },
-        {
           "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
           "diasAtraso": 8
-        },
-        {
-          "nome": "Conversa Rodrigo",
-          "diasAtraso": 7
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
@@ -1708,6 +1492,38 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: KAMILLA.WERNECK_UNIVALE_MED_2028-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Adicionar Drink - Cardápio",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [

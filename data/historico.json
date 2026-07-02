@@ -1,11 +1,11 @@
 {
   "pessoas": {
     "Equipe: Comercial": 1,
-    "Janine :: Cotação - VIVA GV": 9,
+    "Janine :: Cotação - VIVA GV": 10,
     "Locatelli:: Atendimento - VIVA GV": 4,
     "Lyncoln :: Marketing - VIVA GV": 28,
-    "Matheus :: Planejamento - VIVA GV": 3,
-    "Pedro :: GRUPO VIVA - GV": 67,
+    "Matheus :: Planejamento - VIVA GV": 6,
+    "Pedro :: GRUPO VIVA - GV": 40,
     "Rodrigo :: VIVA Eventos": 24
   },
   "setores": {
@@ -13,8 +13,8 @@
     "Comercial": 1,
     "Cotação": 3,
     "Marketing": 17,
-    "Planejamento": 33,
-    "Produção": 67
+    "Planejamento": 36,
+    "Produção": 41
   },
-  "totalAtrasadas": 137
+  "totalAtrasadas": 114
 }

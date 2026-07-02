@@ -105,6 +105,9 @@ function getPessoas(prop) {
 function getTexto(prop) {
     return (prop?.rich_text || []).map(t => t.plain_text).join('').trim();
 }
+function getFormulaTexto(prop) {
+    return prop?.formula?.string || '';
+}
 
 // A API do Notion às vezes omite o nome de um usuário no payload da página
 // (comum para convidados/contas sem acesso pleno da integração). Nesses
@@ -157,6 +160,7 @@ async function main() {
             status: getStatus(p['Status']),
             data: getData(p['Data']),
             prazoFinal: getData(p['Prazo Final']),
+            statusAtividade: getFormulaTexto(p['Status Atividade']),
             responsaveis: getPessoas(p['Responsável']),
             setores: getMultiSelect(p['Setor']),
         };
@@ -190,10 +194,14 @@ async function main() {
         .sort((a, b) => a.data.localeCompare(b.data));
     const eventosMesLista = eventos.filter(e => e.data && e.data.slice(0, 7) === mesAtual);
 
-    // ── Tarefas: atrasadas (prazo passado, não concluída) ──────────────
+    // ── Tarefas: atrasadas ───────────────────────────────────────────────
+    // Usa a mesma fórmula que já existe no Notion ("Status Atividade"),
+    // em vez de recalcular a partir das datas — ela já resolve os detalhes
+    // finos (fuso, hora do prazo, tarefas concluídas, etc.) do jeito que a
+    // operação espera.
     const naoConcluida = t => t.status !== 'Concluído';
     const prazoRef = t => t.prazoFinal || t.data;
-    const atrasadas = tarefas.filter(t => naoConcluida(t) && prazoRef(t) && prazoRef(t) < hoje);
+    const atrasadas = tarefas.filter(t => t.statusAtividade.includes('ATRASADA'));
     const semana = tarefas.filter(t => {
         const ref = prazoRef(t);
         return ref && ref >= semanaInicio && ref <= semanaFim;
@@ -216,7 +224,7 @@ async function main() {
     atrasadas.forEach(t => t.responsaveis.forEach(pessoa => {
         const p = getPessoa(nomeDe(pessoa));
         p.atrasadas++;
-        p.tarefasAtrasadas.push({ nome: t.nome, diasAtraso: diasEntre(prazoRef(t), hoje) });
+        p.tarefasAtrasadas.push({ nome: t.nome, diasAtraso: Math.max(0, diasEntre(prazoRef(t), hoje)) });
     }));
     semana.forEach(t => t.responsaveis.forEach(pessoa => {
         const p = getPessoa(nomeDe(pessoa));
@@ -237,7 +245,7 @@ async function main() {
     atrasadas.forEach(t => t.setores.forEach(s => {
         const setor = getSetor(s);
         setor.atrasadas++;
-        setor.tarefasAtrasadas.push({ nome: t.nome, diasAtraso: diasEntre(prazoRef(t), hoje) });
+        setor.tarefasAtrasadas.push({ nome: t.nome, diasAtraso: Math.max(0, diasEntre(prazoRef(t), hoje)) });
     }));
     semana.forEach(t => t.setores.forEach(s => {
         const setor = getSetor(s);
