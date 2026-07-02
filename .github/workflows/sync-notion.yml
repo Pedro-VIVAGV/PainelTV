@@ -1,6 +1,8 @@
 name: Sincronizar Notion
 
 on:
+  push:
+    branches: [main]          # republica o site a cada alteração manual no repo
   schedule:
     # Agendamento nativo do GitHub — porém é "best-effort": pode atrasar
     # muito ou nem disparar (principalmente em repositórios novos). Fica como
@@ -42,8 +44,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/dados.json data/historico.json
-          git diff --staged --quiet || git commit -m "chore: sincroniza dados do Notion"
-          git push
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nos dados; nada a commitar."
+            exit 0
+          fi
+          git commit -m "chore: sincroniza dados do Notion"
+          # A branch pode ter avançado (outro push/sync). Faz rebase e tenta de
+          # novo algumas vezes para não falhar por corrida.
+          for tentativa in 1 2 3 4 5; do
+            if git push; then
+              echo "Push OK na tentativa $tentativa."
+              exit 0
+            fi
+            echo "Push rejeitado (tentativa $tentativa); rebaseando..."
+            git pull --rebase origin main
+          done
+          echo "Falhou o push após várias tentativas." >&2
+          exit 1
 
   # Publica o site logo após a sincronização, no mesmo fluxo. Necessário
   # porque um commit feito pelo GITHUB_TOKEN (o do job acima) NÃO dispara
