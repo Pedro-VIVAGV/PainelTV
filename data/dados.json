@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T19:15:45.340Z",
+  "atualizadoEm": "2026-07-03T19:30:53.979Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 118,
-    "totalAtrasadasAnterior": 119,
-    "totalSemana": 70
+    "totalAtrasadas": 116,
+    "totalAtrasadasAnterior": 118,
+    "totalSemana": 69
   },
   "pessoas": [
     {
@@ -294,14 +294,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 26,
-      "semanaTotal": 32,
+      "atrasadas": 23,
+      "atrasadasAnterior": 25,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 7
-        },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
           "diasAtraso": 4
@@ -316,10 +312,6 @@
         },
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 1
         },
         {
@@ -418,10 +410,6 @@
         },
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "data": "2026-07-02"
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "data": "2026-07-02"
         },
         {
@@ -1030,9 +1018,9 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 52,
-      "atrasadasAnterior": 53,
-      "semanaTotal": 54,
+      "atrasadas": 50,
+      "atrasadasAnterior": 52,
+      "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1076,10 +1064,6 @@
         },
         {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 7
         },
         {
@@ -1148,10 +1132,6 @@
         },
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 1
         },
         {
@@ -1330,10 +1310,6 @@
         },
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "data": "2026-07-02"
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "data": "2026-07-02"
         },
         {
