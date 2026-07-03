@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T00:01:05.535Z",
+  "atualizadoEm": "2026-07-03T00:15:43.387Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 98,
-    "totalAtrasadasAnterior": 101,
+    "totalAtrasadas": 125,
+    "totalAtrasadasAnterior": 98,
     "totalSemana": 70
   },
   "pessoas": [
@@ -127,10 +127,19 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
+      "atrasadas": 2,
       "atrasadasAnterior": 0,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Negociação: Luila",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Reunião Semanal",
@@ -294,7 +303,7 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 6,
+      "atrasadas": 28,
       "atrasadasAnterior": 6,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
@@ -311,7 +320,95 @@
           "diasAtraso": 3
         },
         {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - EULLER-KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: MEIO ADVOGADO - MILENA.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MYLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: Cerimônia Religiosa - MYLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
           "diasAtraso": 0
         },
         {
@@ -630,7 +727,7 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 24,
+      "atrasadas": 27,
       "atrasadasAnterior": 24,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
@@ -729,6 +826,18 @@
         {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -949,7 +1058,7 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 32,
+      "atrasadas": 59,
       "atrasadasAnterior": 32,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
@@ -1070,11 +1179,119 @@
           "diasAtraso": 1
         },
         {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - EULLER-KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Negociação: Luila",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: MEIO ADVOGADO - MILENA.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MYLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento :: Cerimônia Religiosa - MYLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 0
         },
         {
