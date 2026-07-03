@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T18:45:39.350Z",
+  "atualizadoEm": "2026-07-03T19:01:15.202Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 119,
-    "totalAtrasadasAnterior": 121,
+    "totalAtrasadas": 118,
+    "totalAtrasadasAnterior": 119,
     "totalSemana": 70
   },
   "pessoas": [
@@ -294,8 +294,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 28,
+      "atrasadas": 25,
+      "atrasadasAnterior": 26,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
@@ -376,10 +376,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
           "diasAtraso": 0
         },
         {
@@ -1034,8 +1030,8 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 53,
-      "atrasadasAnterior": 55,
+      "atrasadas": 52,
+      "atrasadasAnterior": 53,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1212,10 +1208,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
           "diasAtraso": 0
         },
         {
