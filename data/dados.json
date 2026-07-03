@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T20:01:00.299Z",
+  "atualizadoEm": "2026-07-03T20:15:43.121Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 116,
-    "totalAtrasadasAnterior": 118,
+    "totalAtrasadas": 114,
+    "totalAtrasadasAnterior": 116,
     "totalSemana": 69
   },
   "pessoas": [
@@ -294,8 +294,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 25,
+      "atrasadas": 21,
+      "atrasadasAnterior": 23,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -372,14 +372,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MYLA.WERNECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: Cerimônia Religiosa - MYLA.WERNECK",
           "diasAtraso": 0
         },
         {
@@ -1018,8 +1010,8 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 50,
-      "atrasadasAnterior": 52,
+      "atrasadas": 48,
+      "atrasadasAnterior": 50,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -1192,14 +1184,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MYLA.WERNECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: Cerimônia Religiosa - MYLA.WERNECK",
           "diasAtraso": 0
         },
         {
