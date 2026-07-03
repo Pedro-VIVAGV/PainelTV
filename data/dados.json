@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T20:30:55.454Z",
+  "atualizadoEm": "2026-07-03T20:45:51.348Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 114,
-    "totalAtrasadasAnterior": 116,
-    "totalSemana": 69
+    "totalAtrasadas": 113,
+    "totalAtrasadasAnterior": 114,
+    "totalSemana": 68
   },
   "pessoas": [
     {
@@ -294,9 +294,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 23,
-      "semanaTotal": 31,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -308,10 +308,6 @@
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "diasAtraso": 1
         },
         {
@@ -398,10 +394,6 @@
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-02"
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-02"
         },
         {
@@ -1010,9 +1002,9 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 48,
-      "atrasadasAnterior": 50,
-      "semanaTotal": 53,
+      "atrasadas": 47,
+      "atrasadasAnterior": 48,
+      "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1120,10 +1112,6 @@
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "diasAtraso": 1
         },
         {
@@ -1290,10 +1278,6 @@
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-02"
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-02"
         },
         {
