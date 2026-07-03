@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T18:15:43.013Z",
+  "atualizadoEm": "2026-07-03T18:30:50.114Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 121,
-    "totalAtrasadasAnterior": 123,
+    "totalAtrasadas": 119,
+    "totalAtrasadasAnterior": 121,
     "totalSemana": 70
   },
   "pessoas": [
@@ -710,8 +710,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 24,
+      "atrasadas": 25,
+      "atrasadasAnterior": 27,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -767,10 +767,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Nova Plano Colação",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Agendar Próximas Reuniões",
           "diasAtraso": 3
         },
@@ -800,10 +796,6 @@
         },
         {
           "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR: Replanejamento",
           "diasAtraso": 2
         },
         {
@@ -1042,8 +1034,8 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 55,
-      "atrasadasAnterior": 57,
+      "atrasadas": 53,
+      "atrasadasAnterior": 55,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1119,10 +1111,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Nova Plano Colação",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Agendar Próximas Reuniões",
           "diasAtraso": 3
         },
@@ -1152,10 +1140,6 @@
         },
         {
           "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR: Replanejamento",
           "diasAtraso": 2
         },
         {
