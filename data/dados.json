@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T14:30:50.933Z",
+  "atualizadoEm": "2026-07-03T14:45:46.823Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 125,
-    "totalAtrasadasAnterior": 98,
+    "totalAtrasadas": 123,
+    "totalAtrasadasAnterior": 125,
     "totalSemana": 70
   },
   "pessoas": [
@@ -303,8 +303,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 6,
+      "atrasadas": 26,
+      "atrasadasAnterior": 28,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
@@ -384,19 +384,11 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
           "diasAtraso": 0
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: MEIO ADVOGADO - MILENA.ALMEIDA",
           "diasAtraso": 0
         },
         {
@@ -1059,8 +1051,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 59,
-      "atrasadasAnterior": 32,
+      "atrasadas": 57,
+      "atrasadasAnterior": 59,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1248,19 +1240,11 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
           "diasAtraso": 0
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: Baile LMS - BIARA.ROBERTA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: MEIO ADVOGADO - MILENA.ALMEIDA",
           "diasAtraso": 0
         },
         {
