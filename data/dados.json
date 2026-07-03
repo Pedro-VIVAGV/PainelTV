@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T12:30:51.650Z",
+  "atualizadoEm": "2026-07-03T12:45:43.653Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -286,8 +286,8 @@
     {
       "nome": "Maria Clara / Tay :: Luminous",
       "setores": [
-        "Produção",
         "Marketing",
+        "Produção",
         "Planejamento"
       ],
       "atrasadas": 0,
@@ -973,6 +973,7 @@
     {
       "nome": "Marketing",
       "pessoas": [
+        "Maria Clara / Tay :: Luminous",
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 17,
