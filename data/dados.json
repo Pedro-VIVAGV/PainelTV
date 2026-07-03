@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-03T15:15:50.748Z",
+  "atualizadoEm": "2026-07-03T15:31:04.761Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 123,
-    "totalAtrasadasAnterior": 125,
+    "totalAtrasadas": 121,
+    "totalAtrasadasAnterior": 123,
     "totalSemana": 70
   },
   "pessoas": [
@@ -127,19 +127,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 2,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Negociação: Luila",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Reunião Semanal",
@@ -1048,11 +1039,11 @@
       "pessoas": [
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
-        "Locatelli:: Atendimento - VIVA GV",
-        "Lyncoln :: Marketing - VIVA GV"
+        "Lyncoln :: Marketing - VIVA GV",
+        "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 57,
-      "atrasadasAnterior": 59,
+      "atrasadas": 55,
+      "atrasadasAnterior": 57,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1236,10 +1227,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Negociação: Luila",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
           "diasAtraso": 0
         },
@@ -1257,10 +1244,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: Cerimônia Religiosa - MYLA.WERNECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "NEGOCIAÇÃO - PEDRO JUNIOR",
           "diasAtraso": 0
         },
         {
