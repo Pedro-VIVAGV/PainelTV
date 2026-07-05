@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-05T02:45:43.760Z",
+  "atualizadoEm": "2026-07-05T03:01:09.139Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -35,7 +35,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 289
+          "diasAtraso": 290
         }
       ],
       "tarefasSemana": []
@@ -55,43 +55,43 @@
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 95
+          "diasAtraso": 96
         },
         {
           "nome": "Atividades em aberto",
-          "diasAtraso": 82
+          "diasAtraso": 83
         },
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
-          "diasAtraso": 15
+          "diasAtraso": 16
         },
         {
           "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "Elaborar OS_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "Elaborar Checklist_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "Personalização Evento_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Organizar Caixotes_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Confeccionar Pastas_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 2
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
@@ -161,115 +161,115 @@
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 268
+          "diasAtraso": 269
         },
         {
           "nome": "Evento: 25/07/2026_Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "diasAtraso": 72
+        },
+        {
+          "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "diasAtraso": 71
         },
         {
           "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "diasAtraso": 70
-        },
-        {
-          "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "diasAtraso": 70
+          "diasAtraso": 71
         },
         {
           "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
-          "diasAtraso": 58
+          "diasAtraso": 59
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "Criar arte de feed para anúncio da comissão de formatura no Instagram",
-          "diasAtraso": 45
+          "diasAtraso": 46
         },
         {
           "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 33
+          "diasAtraso": 34
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.VITORIA",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "Alterações Arte :: FEED COMISSÃO - VICTORIA.GONÇALVES",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 26
+          "diasAtraso": 27
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DD: Trio Feed Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 18
+          "diasAtraso": 19
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "diasAtraso": 17
+          "diasAtraso": 18
         },
         {
           "nome": "Evento: 04/07/2026_Demanda Mkt-Ingresso_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         }
       ],
       "tarefasSemana": []
@@ -300,83 +300,83 @@
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Definir Atrações Bailes 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - EULLER-KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 1
+          "diasAtraso": 2
         }
       ],
       "tarefasSemana": [
@@ -516,115 +516,115 @@
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
-          "diasAtraso": 261
+          "diasAtraso": 262
         },
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 226
+          "diasAtraso": 227
         },
         {
           "nome": "Buffet Meio Médico - Teixeira",
-          "diasAtraso": 131
+          "diasAtraso": 132
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 85
+          "diasAtraso": 86
         },
         {
           "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
-          "diasAtraso": 81
+          "diasAtraso": 82
         },
         {
           "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
-          "diasAtraso": 78
+          "diasAtraso": 79
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 50
+          "diasAtraso": 51
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 32
+          "diasAtraso": 33
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 29
+          "diasAtraso": 30
         },
         {
           "nome": "DR:: Atrações Baile - EULLER.KAIRO",
-          "diasAtraso": 29
+          "diasAtraso": 30
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 25
+          "diasAtraso": 26
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "Local: Meio Médico_CELIA.MARIA",
-          "diasAtraso": 23
+          "diasAtraso": 24
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
-          "diasAtraso": 10
+          "diasAtraso": 11
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
-          "diasAtraso": 9
+          "diasAtraso": 10
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Adicionar Drink - Cardápio",
-          "diasAtraso": 2
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
@@ -684,103 +684,103 @@
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 584
+          "diasAtraso": 585
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 297
+          "diasAtraso": 298
         },
         {
           "nome": "Missas 2026-2",
-          "diasAtraso": 116
+          "diasAtraso": 117
         },
         {
           "nome": "Confirmar: Data Colação",
-          "diasAtraso": 114
+          "diasAtraso": 115
         },
         {
           "nome": "Solicitar Orçamentos Porto/Eunápolis:",
-          "diasAtraso": 30
+          "diasAtraso": 31
         },
         {
           "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
-          "diasAtraso": 25
+          "diasAtraso": 26
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 23
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Agendar Próximas Reuniões",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "Informativo: TRIUNFO",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR: Rifa JOÃO",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         }
       ],
       "tarefasSemana": [
@@ -884,7 +884,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 289
+          "diasAtraso": 290
         }
       ],
       "tarefasSemana": []
@@ -900,15 +900,15 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
-          "diasAtraso": 15
+          "diasAtraso": 16
         },
         {
           "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         }
       ],
       "tarefasSemana": []
@@ -925,71 +925,71 @@
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 268
+          "diasAtraso": 269
         },
         {
           "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
-          "diasAtraso": 58
+          "diasAtraso": 59
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 33
+          "diasAtraso": 34
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.VITORIA",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 26
+          "diasAtraso": 27
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "DD: Trio Feed Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 18
+          "diasAtraso": 19
         },
         {
           "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         }
       ],
       "tarefasSemana": []
@@ -1008,191 +1008,191 @@
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 584
+          "diasAtraso": 585
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 297
+          "diasAtraso": 298
         },
         {
           "nome": "Missas 2026-2",
-          "diasAtraso": 116
+          "diasAtraso": 117
         },
         {
           "nome": "Confirmar: Data Colação",
-          "diasAtraso": 114
+          "diasAtraso": 115
         },
         {
           "nome": "Criar E-mails LMS",
-          "diasAtraso": 62
+          "diasAtraso": 63
         },
         {
           "nome": "Alterações Arte :: FEED COMISSÃO - VICTORIA.GONÇALVES",
-          "diasAtraso": 31
+          "diasAtraso": 32
         },
         {
           "nome": "Solicitar Orçamentos Porto/Eunápolis:",
-          "diasAtraso": 30
+          "diasAtraso": 31
         },
         {
           "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
-          "diasAtraso": 25
+          "diasAtraso": 26
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 23
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Definir Atrações Bailes 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Agendar Próximas Reuniões",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "Informativo: TRIUNFO",
-          "diasAtraso": 4
+          "diasAtraso": 5
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR: Rifa JOÃO",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 3
+          "diasAtraso": 4
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - EULLER-KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         }
       ],
       "tarefasSemana": [
@@ -1419,119 +1419,119 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 226
+          "diasAtraso": 227
         },
         {
           "nome": "Buffet Meio Médico - Teixeira",
-          "diasAtraso": 131
+          "diasAtraso": 132
         },
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 95
+          "diasAtraso": 96
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 85
+          "diasAtraso": 86
         },
         {
           "nome": "Atividades em aberto",
-          "diasAtraso": 82
+          "diasAtraso": 83
         },
         {
           "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
-          "diasAtraso": 81
+          "diasAtraso": 82
         },
         {
           "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
-          "diasAtraso": 78
+          "diasAtraso": 79
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 53
+          "diasAtraso": 54
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 50
+          "diasAtraso": 51
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 39
+          "diasAtraso": 40
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 32
+          "diasAtraso": 33
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 29
+          "diasAtraso": 30
         },
         {
           "nome": "DR:: Atrações Baile - EULLER.KAIRO",
-          "diasAtraso": 29
+          "diasAtraso": 30
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 25
+          "diasAtraso": 26
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 24
+          "diasAtraso": 25
         },
         {
           "nome": "Local: Meio Médico_CELIA.MARIA",
-          "diasAtraso": 23
+          "diasAtraso": 24
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 22
+          "diasAtraso": 23
         },
         {
           "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
-          "diasAtraso": 10
+          "diasAtraso": 11
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
-          "diasAtraso": 9
+          "diasAtraso": 10
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-          "diasAtraso": 5
+          "diasAtraso": 6
         },
         {
           "nome": "Adicionar Drink - Cardápio",
-          "diasAtraso": 2
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
