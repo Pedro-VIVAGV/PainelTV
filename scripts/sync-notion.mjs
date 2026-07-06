@@ -224,10 +224,8 @@ async function main() {
     const naoConcluida = t => t.status !== 'Concluído';
     const prazoRef = t => t.prazoFinal || t.data;
     const atrasadas = tarefas.filter(t => t.statusAtividade.includes('ATRASADA'));
-    const semana = tarefas.filter(t => {
-        const ref = prazoRef(t);
-        return ref && ref >= semanaInicio && ref <= semanaFim;
-    });
+    // "Atividades da semana" usam a propriedade "Data" (não "Prazo Final").
+    const semana = tarefas.filter(t => t.data && t.data >= semanaInicio && t.data <= semanaFim);
 
     const historico = await carregarHistorico();
 
@@ -274,7 +272,7 @@ async function main() {
     semana.forEach(t => t.responsaveis.forEach(pessoa => {
         const p = getPessoa(nomeDe(pessoa));
         p.semanaTotal++;
-        p.tarefasSemana.push({ nome: t.nome, data: prazoRef(t) });
+        p.tarefasSemana.push({ nome: t.nome, data: t.data });
     }));
 
     // ── Agrupamento por setor ────────────────────────────────────────────
@@ -295,7 +293,7 @@ async function main() {
     semana.forEach(t => t.setores.forEach(s => {
         const setor = getSetor(s);
         setor.semanaTotal++;
-        setor.tarefasSemana.push({ nome: t.nome, data: prazoRef(t) });
+        setor.tarefasSemana.push({ nome: t.nome, data: t.data });
     }));
 
     const pessoas = Array.from(pessoasMap.values())
