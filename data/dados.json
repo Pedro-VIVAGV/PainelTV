@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T15:01:16.327Z",
+  "atualizadoEm": "2026-07-06T15:15:51.771Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 66,
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 55
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 10,
+      "atrasadas": 4,
+      "atrasadasAnterior": 3,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
@@ -63,6 +63,10 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 17
+        },
+        {
+          "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1844,6 +1848,15 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
+      "data": "2026-07-06",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
     },
     {
       "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
