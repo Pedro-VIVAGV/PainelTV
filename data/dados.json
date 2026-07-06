@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T12:01:14.297Z",
+  "atualizadoEm": "2026-07-06T12:15:44.109Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 101,
-    "totalAtrasadasAnterior": 120,
-    "totalSemana": 53
+    "totalAtrasadas": 89,
+    "totalAtrasadasAnterior": 101,
+    "totalSemana": 52
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
+      "atrasadas": 3,
       "atrasadasAnterior": 10,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
@@ -57,40 +57,12 @@
           "diasAtraso": 97
         },
         {
-          "nome": "Atividades em aberto",
-          "diasAtraso": 84
-        },
-        {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
           "diasAtraso": 26
         },
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 17
-        },
-        {
-          "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Elaborar OS_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Elaborar Checklist_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Personalização Evento_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Organizar Caixotes_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Confeccionar Pastas_WELYSSA-AMANDA-EMANUELLY",
-          "diasAtraso": 4
         }
       ],
       "tarefasSemana": [
@@ -121,8 +93,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadas": 25,
+      "atrasadasAnterior": 29,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -152,22 +124,6 @@
         {
           "nome": "Criar arte de feed para anúncio da comissão de formatura no Instagram",
           "diasAtraso": 47
-        },
-        {
-          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-          "diasAtraso": 41
-        },
-        {
-          "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
-          "diasAtraso": 41
-        },
-        {
-          "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
-          "diasAtraso": 41
-        },
-        {
-          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-          "diasAtraso": 41
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
@@ -597,9 +553,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 30,
-      "semanaTotal": 26,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -640,17 +596,9 @@
         {
           "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
-        {
-          "nome": "Projeto: Tô Dentro",
-          "data": "2026-07-06"
-        },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
           "data": "2026-07-07"
@@ -785,7 +733,7 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 3,
+      "atrasadas": 2,
       "atrasadasAnterior": 3,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
@@ -796,10 +744,6 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 17
-        },
-        {
-          "nome": "DR:: Evento Apoio VIVA - KAMILLA.WERNECK",
-          "diasAtraso": 10
         }
       ],
       "tarefasSemana": [
@@ -907,9 +851,9 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 52,
-      "semanaTotal": 48,
+      "atrasadas": 32,
+      "atrasadasAnterior": 33,
+      "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1038,17 +982,9 @@
         {
           "nome": "Criar Formulários de Briefing",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
-        {
-          "nome": "Projeto: Tô Dentro",
-          "data": "2026-07-06"
-        },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
           "data": "2026-07-07"
@@ -1246,8 +1182,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 29,
+      "atrasadas": 29,
+      "atrasadasAnterior": 30,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -1265,10 +1201,6 @@
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 87
-        },
-        {
-          "nome": "Atividades em aberto",
-          "diasAtraso": 84
         },
         {
           "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
