@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T12:27:57.110Z",
+  "atualizadoEm": "2026-07-06T12:33:54.284Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 77,
-    "totalAtrasadasAnterior": 101,
-    "totalSemana": 53
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 77,
+    "totalSemana": 54
   },
   "pessoas": [
     {
@@ -93,9 +93,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 28,
-      "semanaTotal": 2,
+      "atrasadas": 6,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -120,40 +120,16 @@
         {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "diasAtraso": 19
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-07"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "data": "2026-07-10"
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
@@ -715,9 +691,9 @@
         "Maria Clara / Tay :: Luminous",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 17,
-      "semanaTotal": 2,
+      "atrasadas": 3,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -730,36 +706,16 @@
         {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 24
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 24
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-07"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "data": "2026-07-10"
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
@@ -1702,81 +1658,6 @@
       "setores": [
         "Produção"
       ]
-    },
-    {
-      "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-      "data": "2026-06-12",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-      "data": "2026-06-17",
-      "diasAtraso": 19,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Caneca + Tirante_MILENA.ALMEIDA",
