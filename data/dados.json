@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T17:45:46.041Z",
+  "atualizadoEm": "2026-07-06T18:01:09.987Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 64,
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 65,
     "totalSemana": 55
   },
   "pessoas": [
@@ -126,15 +126,10 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 6,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 8,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 270
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Alteração Caneca ::: Pedro.Perelo",
@@ -677,15 +672,10 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 3,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 6,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 270
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Ediçao Maria de Lurdes",
@@ -1191,17 +1181,6 @@
       ],
       "setores": [
         "Comercial"
-      ]
-    },
-    {
-      "nome": "DD: Brasão Fono - HELOISA.MARIM",
-      "data": "2025-10-09",
-      "diasAtraso": 270,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
