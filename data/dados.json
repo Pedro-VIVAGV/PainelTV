@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T21:01:17.335Z",
+  "atualizadoEm": "2026-07-06T21:15:48.534Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 63,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 51
+    "totalSemana": 64
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 4,
-      "semanaTotal": 2,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -67,8 +67,60 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "Criar grupo fornecedores Porto Seguro",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver material ao Wanderson",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Descarregar os carros",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver as Cortinas de Led e pegar o caução de volta",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver a chave da Celebration",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Cobrar a chave da Celebration a Kamilla",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Buscar o restante do material na Vista Chalé",
+          "data": "2026-07-06"
+        },
+        {
           "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Mandar malhas para lavar",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Organizar caixotes",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
@@ -979,7 +1031,7 @@
       ],
       "atrasadas": 29,
       "atrasadasAnterior": 32,
-      "semanaTotal": 1,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1100,8 +1152,60 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "Criar grupo fornecedores Porto Seguro",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver material ao Wanderson",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Descarregar os carros",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver as Cortinas de Led e pegar o caução de volta",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Devolver a chave da Celebration",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Cobrar a chave da Celebration a Kamilla",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Buscar o restante do material na Vista Chalé",
+          "data": "2026-07-06"
+        },
+        {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Mandar malhas para lavar",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Organizar caixotes",
+          "data": "2026-07-08"
         }
       ]
     }
