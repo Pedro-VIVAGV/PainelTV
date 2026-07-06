@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T20:15:49.384Z",
+  "atualizadoEm": "2026-07-06T20:31:04.106Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 64,
     "totalAtrasadasAnterior": 65,
-    "totalSemana": 50
+    "totalSemana": 51
   },
   "pessoas": [
     {
@@ -154,9 +154,13 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
+        {
+          "nome": "DD:: Localizar Foto - THIAGO.LOPES",
+          "data": "2026-07-06"
+        },
         {
           "nome": "Ediçao Maria de Lurdes",
           "data": "2026-07-06"
