@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T00:01:15.003Z",
+  "atualizadoEm": "2026-07-06T00:15:46.783Z",
   "semana": {
     "inicio": "2026-06-29",
     "fim": "2026-07-05"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 113,
-    "totalAtrasadasAnterior": 114,
+    "totalAtrasadas": 120,
+    "totalAtrasadasAnterior": 113,
     "totalSemana": 68
   },
   "pessoas": [
@@ -155,7 +155,7 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 28,
+      "atrasadas": 29,
       "atrasadasAnterior": 28,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
@@ -270,6 +270,10 @@
         {
           "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
           "diasAtraso": 9
+        },
+        {
+          "nome": "Camisa da Conviva",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -510,8 +514,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 31,
+      "atrasadas": 29,
+      "atrasadasAnterior": 28,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -625,6 +629,10 @@
         {
           "nome": "Adicionar Drink - Cardápio",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -678,8 +686,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 27,
+      "atrasadas": 30,
+      "atrasadasAnterior": 25,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -781,6 +789,26 @@
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -919,7 +947,7 @@
         "Maria Clara / Tay :: Luminous",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 17,
+      "atrasadas": 18,
       "atrasadasAnterior": 17,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
@@ -990,6 +1018,10 @@
         {
           "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
           "diasAtraso": 9
+        },
+        {
+          "nome": "Camisa da Conviva",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -1002,8 +1034,8 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 47,
-      "atrasadasAnterior": 48,
+      "atrasadas": 52,
+      "atrasadasAnterior": 47,
       "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
@@ -1193,6 +1225,26 @@
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1413,8 +1465,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 32,
+      "atrasadas": 30,
+      "atrasadasAnterior": 29,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -1532,6 +1584,10 @@
         {
           "nome": "Adicionar Drink - Cardápio",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
