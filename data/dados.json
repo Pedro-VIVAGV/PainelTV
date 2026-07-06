@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T12:45:48.454Z",
+  "atualizadoEm": "2026-07-06T13:01:16.080Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 70,
     "totalAtrasadasAnterior": 77,
-    "totalSemana": 51
+    "totalSemana": 52
   },
   "pessoas": [
     {
@@ -120,7 +120,7 @@
       ],
       "atrasadas": 6,
       "atrasadasAnterior": 13,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -148,6 +148,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Alteração Mkt-Caneca +Tirante_Fundo: MILENA.ALMEIDA",
+          "data": "2026-07-06"
+        },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "data": "2026-07-06"
@@ -678,12 +682,12 @@
     {
       "nome": "Marketing",
       "pessoas": [
-        "Maria Clara / Tay :: Luminous",
-        "Lyncoln :: Marketing - VIVA GV"
+        "Lyncoln :: Marketing - VIVA GV",
+        "Maria Clara / Tay :: Luminous"
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 9,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -699,6 +703,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Alteração Mkt-Caneca +Tirante_Fundo: MILENA.ALMEIDA",
+          "data": "2026-07-06"
+        },
         {
           "nome": "Ediçao Maria de Lurdes",
           "data": "2026-07-06"
@@ -724,9 +732,9 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
-        "Matheus :: Planejamento - VIVA GV",
-        "Locatelli:: Atendimento - VIVA GV"
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "atrasadas": 31,
       "atrasadasAnterior": 32,
