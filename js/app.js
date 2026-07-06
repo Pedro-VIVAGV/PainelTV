@@ -7,10 +7,16 @@ const THEME_KEY = 'painel-viva-tema';
 
 let STATE = {
     dados: null,
+    tab: 'geral',
     filtroPessoa: 'todas',
     filtroSetor: 'todos',
     modo: 'pessoa-setor', // 'pessoa-setor' | 'pessoa' | 'setor'
+    viewAtrasadas: 'lista', // 'lista' | 'calendario'
+    calYearMonth: null, // {ano, mes} exibido no calendário (0-index mês)
 };
+
+const MESES = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+const DOW = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
 
 const $ = sel => document.querySelector(sel);
 const $$ = sel => Array.from(document.querySelectorAll(sel));
@@ -168,6 +174,7 @@ function vazio(msg) {
 
 // ── Aba: Atrasadas ───────────────────────────────────────
 function renderAtrasadas() {
+    if (STATE.viewAtrasadas === 'calendario') { renderAtrasadasCalendario(); return; }
     const d = STATE.dados;
     const wrap = $('#paneAtrasadas');
     let pessoas = d.pessoas.filter(p => STATE.filtroPessoa === 'todas' || p.nome === STATE.filtroPessoa);
@@ -198,6 +205,96 @@ function renderListaTarefas(tarefas, campoData) {
             <span class="task-name">${t.nome}</span>
             <span class="task-days">${t.diasAtraso != null ? t.diasAtraso + 'd atraso' : fmtData(t[campoData])}</span>
         </div>`).join('');
+}
+
+// ── Aba Atrasadas: visualização de calendário ─────────────
+function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+// Lista achatada de atrasadas (com data), aplicando os filtros de pessoa/setor.
+function atrasadasFiltradas() {
+    const d = STATE.dados;
+    let lista = d.atrasadasLista;
+    if (!lista) {
+        // fallback p/ dados antigos sem atrasadasLista: monta de pessoas
+        const vistos = new Set(); lista = [];
+        const hojeMs = Date.now();
+        d.pessoas.forEach(p => (p.tarefasAtrasadas || []).forEach(t => {
+            const data = t.data || new Date(hojeMs - (t.diasAtraso || 0) * 86400000).toISOString().slice(0, 10);
+            const key = t.nome + '|' + data;
+            if (vistos.has(key)) return; vistos.add(key);
+            lista.push({ nome: t.nome, data, diasAtraso: t.diasAtraso, pessoas: [p.nome], setores: p.setores });
+        }));
+    }
+    return lista.filter(t => {
+        if (STATE.filtroPessoa !== 'todas' && !(t.pessoas || []).includes(STATE.filtroPessoa)) return false;
+        if (STATE.filtroSetor !== 'todos' && !(t.setores || []).includes(STATE.filtroSetor)) return false;
+        return true;
+    });
+}
+
+function renderAtrasadasCalendario() {
+    const wrap = $('#paneAtrasadas');
+    const lista = atrasadasFiltradas();
+
+    const porData = {};
+    lista.forEach(t => { if (t.data) (porData[t.data] = porData[t.data] || []).push(t); });
+
+    if (!STATE.calYearMonth) {
+        const base = STATE.dados.atualizadoEm ? new Date(STATE.dados.atualizadoEm) : new Date();
+        STATE.calYearMonth = { ano: base.getFullYear(), mes: base.getMonth() };
+    }
+    const { ano, mes } = STATE.calYearMonth;
+    const mm = String(mes + 1).padStart(2, '0');
+    const inicioDOW = new Date(ano, mes, 1).getDay();
+    const diasNoMes = new Date(ano, mes + 1, 0).getDate();
+    const hojeISO = new Date().toISOString().slice(0, 10);
+    const noMes = lista.filter(t => t.data && t.data.slice(0, 7) === `${ano}-${mm}`).length;
+
+    let cells = '';
+    for (let i = 0; i < inicioDOW; i++) cells += `<div class="cal-cell empty"></div>`;
+    for (let dia = 1; dia <= diasNoMes; dia++) {
+        const iso = `${ano}-${mm}-${String(dia).padStart(2, '0')}`;
+        const tarefas = porData[iso] || [];
+        const cls = ['cal-cell'];
+        if (iso === hojeISO) cls.push('hoje');
+        if (tarefas.length) cls.push('temtarefa');
+        const MAX = 4;
+        let chips = tarefas.slice(0, MAX).map(t =>
+            `<div class="cal-task" title="${esc(t.nome)}${t.pessoas && t.pessoas.length ? ' — ' + esc(t.pessoas.join(', ')) : ''}">${esc(t.nome)}</div>`
+        ).join('');
+        if (tarefas.length > MAX) chips += `<div class="cal-more">+${tarefas.length - MAX} mais</div>`;
+        cells += `<div class="${cls.join(' ')}"><div class="cal-daynum">${dia}</div>${chips}</div>`;
+    }
+    const dows = DOW.map(d => `<div class="cal-dow">${d}</div>`).join('');
+
+    wrap.innerHTML = `
+        <div class="cal-head">
+            <div class="cal-title">${MESES[mes]} ${ano}</div>
+            <div class="cal-count"><b>${noMes}</b> vencendo neste mês · ${lista.length} atrasada(s) no filtro atual</div>
+            <div class="cal-nav">
+                <button data-cal="prev" title="Mês anterior">‹</button>
+                <button data-cal="hoje" title="Mês atual">Hoje</button>
+                <button data-cal="next" title="Próximo mês">›</button>
+            </div>
+        </div>
+        <div class="cal-grid">${dows}${cells}</div>`;
+}
+
+function navCalendario(dir) {
+    if (!STATE.calYearMonth) return;
+    if (dir === 'hoje') {
+        const base = STATE.dados.atualizadoEm ? new Date(STATE.dados.atualizadoEm) : new Date();
+        STATE.calYearMonth = { ano: base.getFullYear(), mes: base.getMonth() };
+    } else {
+        let { ano, mes } = STATE.calYearMonth;
+        mes += (dir === 'next' ? 1 : -1);
+        if (mes < 0) { mes = 11; ano--; }
+        if (mes > 11) { mes = 0; ano++; }
+        STATE.calYearMonth = { ano, mes };
+    }
+    renderAtrasadasCalendario();
 }
 
 function botaoVerMais(total) {
@@ -287,8 +384,20 @@ function switchTab(id, btn) {
     $$('.tab-btn').forEach(el => el.classList.remove('active'));
     $('#pane-' + id).classList.add('active');
     btn.classList.add('active');
-    const filterBar = $('#filterBar');
-    filterBar.style.display = (id === 'atrasadas' || id === 'semana') ? 'flex' : 'none';
+    STATE.tab = id;
+    atualizarBarraFiltro();
+}
+
+// Mostra/esconde os controles da barra de filtro conforme aba e visualização.
+function atualizarBarraFiltro() {
+    const id = STATE.tab;
+    $('#filterBar').style.display = (id === 'atrasadas' || id === 'semana') ? 'flex' : 'none';
+    // O toggle Lista/Calendário só aparece na aba Atrasadas.
+    $('#viewToggle').style.display = (id === 'atrasadas') ? 'flex' : 'none';
+    // As pílulas "por pessoa/setor" só fazem sentido na visão de lista.
+    const mostrarModo = !(id === 'atrasadas' && STATE.viewAtrasadas === 'calendario');
+    $('#modoGroup').style.display = mostrarModo ? 'flex' : 'none';
+    $('#modoLabel').style.display = mostrarModo ? 'inline' : 'none';
 }
 
 function initControles() {
@@ -301,6 +410,21 @@ function initControles() {
         renderAtrasadas();
         renderSemana();
     }));
+
+    // Toggle Lista / Calendário (aba Atrasadas)
+    $$('.pill[data-view]').forEach(btn => btn.addEventListener('click', () => {
+        $$('.pill[data-view]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        STATE.viewAtrasadas = btn.dataset.view;
+        atualizarBarraFiltro();
+        renderAtrasadas();
+    }));
+
+    // Navegação de mês do calendário (conteúdo recriado a cada render)
+    document.addEventListener('click', e => {
+        const b = e.target.closest('.cal-nav button');
+        if (b) navCalendario(b.dataset.cal);
+    });
 
     $('#filtroPessoa').addEventListener('change', e => {
         STATE.filtroPessoa = e.target.value;

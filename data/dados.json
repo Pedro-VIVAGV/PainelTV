@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T12:31:11.978Z",
+  "atualizadoEm": "2026-07-06T12:27:57.110Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 75,
-    "totalAtrasadasAnterior": 89,
-    "totalSemana": 54
+    "totalAtrasadas": 77,
+    "totalAtrasadasAnterior": 101,
+    "totalSemana": 53
   },
   "pessoas": [
     {
@@ -79,7 +79,7 @@
         "Atendimento"
       ],
       "atrasadas": 0,
-      "atrasadasAnterior": 2,
+      "atrasadasAnterior": 0,
       "semanaTotal": 0,
       "tarefasAtrasadas": [],
       "tarefasSemana": []
@@ -93,9 +93,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 25,
-      "semanaTotal": 3,
+      "atrasadas": 13,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -140,16 +140,20 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 24
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "diasAtraso": 24
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "diasAtraso": 19
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "data": "2026-07-10"
+          "data": "2026-07-07"
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
@@ -178,7 +182,7 @@
         "Produção"
       ],
       "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadasAnterior": 6,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -362,7 +366,7 @@
         "Marketing"
       ],
       "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadasAnterior": 31,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -506,7 +510,7 @@
         "Diretoria"
       ],
       "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadasAnterior": 24,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -711,9 +715,9 @@
         "Maria Clara / Tay :: Luminous",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 18,
-      "semanaTotal": 3,
+      "atrasadas": 9,
+      "atrasadasAnterior": 17,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -746,16 +750,16 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 24
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "diasAtraso": 24
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "data": "2026-07-10"
+          "data": "2026-07-07"
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
@@ -1098,7 +1102,7 @@
         "Usuário a6c3d881"
       ],
       "atrasadas": 29,
-      "atrasadasAnterior": 30,
+      "atrasadasAnterior": 32,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -1255,6 +1259,843 @@
       "empresa": "Luminous",
       "categoria": "Sessão de Fotos",
       "local": ""
+    }
+  ],
+  "atrasadasLista": [
+    {
+      "nome": "Enc. CNPJ´s",
+      "data": "2024-11-27",
+      "diasAtraso": 586,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Particular: Retorno Vinicius (Pai)",
+      "data": "2025-09-10",
+      "diasAtraso": 299,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
+      "data": "2025-09-18",
+      "diasAtraso": 291,
+      "pessoas": [
+        "Equipe: Comercial"
+      ],
+      "setores": [
+        "Comercial"
+      ]
+    },
+    {
+      "nome": "DD: Brasão Fono - HELOISA.MARIM",
+      "data": "2025-10-09",
+      "diasAtraso": 270,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Teste - Alteração de responsável da demanda",
+      "data": "2025-10-16",
+      "diasAtraso": 263,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
+      "data": "2025-11-20",
+      "diasAtraso": 228,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Buffet Meio Médico - Teixeira",
+      "data": "2026-02-23",
+      "diasAtraso": 133,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Missas 2026-2",
+      "data": "2026-03-10",
+      "diasAtraso": 118,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar: Data Colação",
+      "data": "2026-03-12",
+      "diasAtraso": 116,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualização de Cheques",
+      "data": "2026-03-31",
+      "diasAtraso": 97,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
+      "data": "2026-04-10",
+      "diasAtraso": 87,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
+      "data": "2026-04-14",
+      "diasAtraso": 83,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
+      "data": "2026-04-17",
+      "diasAtraso": 80,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Evento: 25/07/2026_Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+      "data": "2026-04-24",
+      "diasAtraso": 73,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+      "data": "2026-04-25",
+      "diasAtraso": 72,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+      "data": "2026-04-25",
+      "diasAtraso": 72,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Criar E-mails LMS",
+      "data": "2026-05-03",
+      "diasAtraso": 64,
+      "pessoas": [],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
+      "data": "2026-05-07",
+      "diasAtraso": 60,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
+      "data": "2026-05-12",
+      "diasAtraso": 55,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Meio Médico - CÉLIA.MARIA",
+      "data": "2026-05-12",
+      "diasAtraso": 55,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
+      "data": "2026-05-12",
+      "diasAtraso": 55,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Meio Dentista - MARIA.CLARA",
+      "data": "2026-05-15",
+      "diasAtraso": 52,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+      "data": "2026-05-26",
+      "diasAtraso": 41,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
+      "data": "2026-05-26",
+      "diasAtraso": 41,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
+      "data": "2026-05-26",
+      "diasAtraso": 41,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Me Interna - PEDRO.PERELO",
+      "data": "2026-06-02",
+      "diasAtraso": 34,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
+      "data": "2026-06-03",
+      "diasAtraso": 33,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Solicitar Orçamentos Porto/Eunápolis:",
+      "data": "2026-06-04",
+      "diasAtraso": 32,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
+      "data": "2026-06-05",
+      "diasAtraso": 31,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Atrações Baile - EULLER.KAIRO",
+      "data": "2026-06-05",
+      "diasAtraso": 31,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
+      "data": "2026-06-09",
+      "diasAtraso": 27,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-09",
+      "diasAtraso": 27,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+      "data": "2026-06-10",
+      "diasAtraso": 26,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Local: Meio Médico_CELIA.MARIA",
+      "data": "2026-06-11",
+      "diasAtraso": 25,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+      "data": "2026-06-11",
+      "diasAtraso": 25,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+      "data": "2026-06-12",
+      "diasAtraso": 24,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+      "data": "2026-06-17",
+      "diasAtraso": 19,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Caneca + Tirante_MILENA.ALMEIDA",
+      "data": "2026-06-19",
+      "diasAtraso": 17,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+      "data": "2026-06-24",
+      "diasAtraso": 12,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
+      "data": "2026-06-25",
+      "diasAtraso": 11,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-06-26",
+      "diasAtraso": 10,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Informações Replanejamento - ANA.CLARA",
+      "data": "2026-06-26",
+      "diasAtraso": 10,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
+      "data": "2026-06-29",
+      "diasAtraso": 7,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Referências dos Produtos Extras Bailes 2026-2",
+      "data": "2026-06-29",
+      "diasAtraso": 7,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes 2026-2",
+      "data": "2026-06-29",
+      "diasAtraso": 7,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Adicionar Drink - Cardápio",
+      "data": "2026-07-02",
+      "diasAtraso": 4,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-07-02",
+      "diasAtraso": 4,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - EULLER-KAIRO",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Criar Formulários de Briefing",
+      "data": "2026-07-03",
+      "diasAtraso": 3,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+      "data": "2026-07-06",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
     }
   ]
 }

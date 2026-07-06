@@ -335,6 +335,15 @@ async function main() {
         pessoas,
         setores,
         eventosSemanaLista: eventosSemanaLista.map(e => ({ nome: e.nome, data: e.data, empresa: e.empresa, categoria: e.categoria, local: e.local })),
+        // Lista achatada (sem duplicar) das tarefas atrasadas, com a data de
+        // vencimento — usada pela visualização de calendário na aba Atrasadas.
+        atrasadasLista: atrasadas.map(t => ({
+            nome: t.nome,
+            data: prazoRef(t),
+            diasAtraso: Math.max(0, diasEntre(prazoRef(t), hoje)),
+            pessoas: t.responsaveis.map(nomeDe),
+            setores: t.setores,
+        })).sort((a, b) => (a.data || '').localeCompare(b.data || '')),
     };
 
     const novoHistorico = {

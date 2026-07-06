@@ -55,8 +55,12 @@
     </div>
 
     <div class="filter-bar" id="filterBar" style="display:none;">
-        <span class="filter-label">Ver:</span>
-        <div class="pill-group">
+        <div class="pill-group" id="viewToggle" style="display:none;">
+            <button class="pill active" data-view="lista">☰ Lista</button>
+            <button class="pill" data-view="calendario">▦ Calendário</button>
+        </div>
+        <span class="filter-label" id="modoLabel">Ver:</span>
+        <div class="pill-group" id="modoGroup">
             <button class="pill active" data-modo="pessoa-setor">Por pessoa e setor</button>
             <button class="pill" data-modo="pessoa">Por pessoa</button>
             <button class="pill" data-modo="setor">Por setor</button>
