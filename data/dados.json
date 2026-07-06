@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T12:15:44.109Z",
+  "atualizadoEm": "2026-07-06T12:31:11.978Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 89,
-    "totalAtrasadasAnterior": 101,
-    "totalSemana": 52
+    "totalAtrasadas": 75,
+    "totalAtrasadasAnterior": 89,
+    "totalSemana": 54
   },
   "pessoas": [
     {
@@ -93,9 +93,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 1,
+      "atrasadas": 11,
+      "atrasadasAnterior": 25,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -118,44 +118,8 @@
           "diasAtraso": 60
         },
         {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 55
-        },
-        {
-          "nome": "Criar arte de feed para anúncio da comissão de formatura no Instagram",
-          "diasAtraso": 47
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 35
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.VITORIA",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "Alterações Arte :: FEED COMISSÃO - VICTORIA.GONÇALVES",
-          "diasAtraso": 33
-        },
-        {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 28
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
@@ -176,32 +140,20 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 24
-        },
-        {
-          "nome": "DD: Trio Feed Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 20
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "diasAtraso": 19
-        },
-        {
-          "nome": "Evento: 04/07/2026_Demanda Mkt-Ingresso_Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Camisa da Conviva",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-06"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-10"
         }
       ]
     },
@@ -759,9 +711,9 @@
         "Maria Clara / Tay :: Luminous",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 17,
-      "semanaTotal": 1,
+      "atrasadas": 8,
+      "atrasadasAnterior": 18,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
@@ -772,36 +724,8 @@
           "diasAtraso": 60
         },
         {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 55
-        },
-        {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "diasAtraso": 35
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.VITORIA",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Meio de Curso - WELISSA.AMANDA.EMANUELLY",
-          "diasAtraso": 33
-        },
-        {
           "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 28
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
@@ -822,24 +746,20 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 24
-        },
-        {
-          "nome": "DD: Trio Feed Meio de Curso - WELISSA-AMANDA-EMANUELLY",
-          "diasAtraso": 20
-        },
-        {
-          "nome": "DR:: Banner/Backdrop - Me Interna - KAMILA.WERNECK",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Camisa da Conviva",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
           "nome": "Camisa da Conviva",
-          "data": "2026-07-06"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-10"
         }
       ]
     },
@@ -848,11 +768,10 @@
       "pessoas": [
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
-        "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 33,
+      "atrasadas": 31,
+      "atrasadasAnterior": 32,
       "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
@@ -874,10 +793,6 @@
         {
           "nome": "Criar E-mails LMS",
           "diasAtraso": 64
-        },
-        {
-          "nome": "Alterações Arte :: FEED COMISSÃO - VICTORIA.GONÇALVES",
-          "diasAtraso": 33
         },
         {
           "nome": "Solicitar Orçamentos Porto/Eunápolis:",
