@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T14:01:14.769Z",
+  "atualizadoEm": "2026-07-06T14:15:49.442Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 70,
-    "totalAtrasadasAnterior": 77,
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 70,
     "totalSemana": 55
   },
   "pessoas": [
@@ -42,8 +42,8 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
@@ -122,33 +122,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 13,
+      "atrasadas": 1,
+      "atrasadasAnterior": 6,
       "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 270
-        },
-        {
-          "nome": "Evento: 25/07/2026_Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "diasAtraso": 73
-        },
-        {
-          "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "diasAtraso": 72
-        },
-        {
-          "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "diasAtraso": 72
-        },
-        {
-          "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
-          "diasAtraso": 60
-        },
-        {
-          "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 33
         }
       ],
       "tarefasSemana": [
@@ -697,21 +677,13 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 9,
+      "atrasadas": 1,
+      "atrasadasAnterior": 3,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 270
-        },
-        {
-          "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
-          "diasAtraso": 60
-        },
-        {
-          "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 33
         }
       ],
       "tarefasSemana": [
@@ -1035,8 +1007,8 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 29,
@@ -1334,50 +1306,12 @@
       ]
     },
     {
-      "nome": "Evento: 25/07/2026_Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-      "data": "2026-04-24",
-      "diasAtraso": 73,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-      "data": "2026-04-25",
-      "diasAtraso": 72,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Evento: 25/07/2026_Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-      "data": "2026-04-25",
-      "diasAtraso": 72,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "Criar E-mails LMS",
       "data": "2026-05-03",
       "diasAtraso": 64,
       "pessoas": [],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Evento: 27/06/2026_Demanda Mkt-Banner BackDrop_Fundo: LARA.MARAVILHA ANHANGUERA-GV DIREITO 2028-2",
-      "data": "2026-05-07",
-      "diasAtraso": 60,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
@@ -1466,17 +1400,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Alterações Artes :: Meio de Curso - MILENA.ALMEIDA",
-      "data": "2026-06-03",
-      "diasAtraso": 33,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
@@ -1687,6 +1610,13 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "Trio Atrações: Me Interna - Kamila Weneck",
+      "data": "2026-06-29",
+      "diasAtraso": 7,
+      "pessoas": [],
+      "setores": []
     },
     {
       "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
