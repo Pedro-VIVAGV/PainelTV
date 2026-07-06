@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-06T11:45:45.122Z",
+  "atualizadoEm": "2026-07-06T12:01:14.297Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 120,
-    "totalAtrasadasAnterior": 113,
-    "totalSemana": 44
+    "totalAtrasadas": 101,
+    "totalAtrasadasAnterior": 120,
+    "totalSemana": 53
   },
   "pessoas": [
     {
@@ -597,9 +597,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 25,
-      "semanaTotal": 17,
+      "atrasadas": 11,
+      "atrasadasAnterior": 30,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -638,87 +638,11 @@
           "diasAtraso": 10
         },
         {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Agendar Próximas Reuniões",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Informativo: TRIUNFO",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR: Rifa JOÃO",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
           "diasAtraso": 3
         },
         {
-          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -728,24 +652,32 @@
           "data": "2026-07-06"
         },
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-06"
-        },
-        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "data": "2026-07-08"
         },
         {
           "nome": "Confirmar Sessão de Fotos",
@@ -764,11 +696,35 @@
           "data": "2026-07-08"
         },
         {
+          "nome": "Informativo: TRIUNFO",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-07-09"
+        },
+        {
           "nome": "Confirmar Data - Colação Festiva",
           "data": "2026-07-09"
         },
         {
           "nome": "Primeira Reunião",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "data": "2026-07-09"
         },
         {
@@ -789,6 +745,10 @@
         },
         {
           "nome": "Agendar Reunião - Meio Médico",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "data": "2026-07-10"
         }
       ]
@@ -947,9 +907,9 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 52,
-      "atrasadasAnterior": 47,
-      "semanaTotal": 39,
+      "atrasadas": 33,
+      "atrasadasAnterior": 52,
+      "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1002,58 +962,6 @@
         {
           "nome": "Definir Atrações Bailes 2026-2",
           "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Agendar Próximas Reuniões",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Informativo: TRIUNFO",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR: Rifa JOÃO",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 5
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
@@ -1120,10 +1028,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 3
         },
@@ -1136,27 +1040,7 @@
           "diasAtraso": 3
         },
         {
-          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -1166,23 +1050,23 @@
           "data": "2026-07-06"
         },
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-06"
-        },
-        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
           "data": "2026-07-07"
         },
         {
@@ -1190,7 +1074,15 @@
           "data": "2026-07-07"
         },
         {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "data": "2026-07-08"
+        },
+        {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
           "data": "2026-07-08"
         },
         {
@@ -1210,6 +1102,22 @@
           "data": "2026-07-08"
         },
         {
+          "nome": "Informativo: TRIUNFO",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-07-09"
+        },
+        {
           "nome": "Confirmar Data - Colação Festiva",
           "data": "2026-07-09"
         },
@@ -1218,7 +1126,15 @@
           "data": "2026-07-09"
         },
         {
+          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
+          "data": "2026-07-09"
+        },
+        {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "data": "2026-07-09"
         },
         {
@@ -1307,6 +1223,10 @@
         },
         {
           "nome": "DR:: Planos Fotografia - Arthur.Ing.Dorian",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "data": "2026-07-10"
         },
         {
