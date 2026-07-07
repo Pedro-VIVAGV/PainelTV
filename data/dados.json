@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T13:15:51.999Z",
+  "atualizadoEm": "2026-07-07T13:31:08.774Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 69,
-    "totalAtrasadasAnterior": 71,
-    "totalSemana": 67
+    "totalAtrasadas": 67,
+    "totalAtrasadasAnterior": 69,
+    "totalSemana": 69
   },
   "pessoas": [
     {
@@ -402,9 +402,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 1,
+      "atrasadas": 26,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -495,16 +495,8 @@
           "diasAtraso": 27
         },
         {
-          "nome": "Local: Meio Médico_CELIA.MARIA",
-          "diasAtraso": 26
-        },
-        {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "diasAtraso": 25
-        },
-        {
-          "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
-          "diasAtraso": 13
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
@@ -523,6 +515,14 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "Pagamento Kaikan",
+          "data": "2026-07-08"
         }
       ]
     },
@@ -1077,13 +1077,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 34,
-      "semanaTotal": 14,
+      "atrasadas": 31,
+      "atrasadasAnterior": 33,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1174,16 +1174,8 @@
           "diasAtraso": 27
         },
         {
-          "nome": "Local: Meio Médico_CELIA.MARIA",
-          "diasAtraso": 26
-        },
-        {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "diasAtraso": 25
-        },
-        {
-          "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
-          "diasAtraso": 13
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
@@ -1270,6 +1262,14 @@
         {
           "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "Pagamento Kaikan",
+          "data": "2026-07-08"
         },
         {
           "nome": "Organizar caixotes",
@@ -1640,17 +1640,6 @@
       ]
     },
     {
-      "nome": "Local: Meio Médico_CELIA.MARIA",
-      "data": "2026-06-11",
-      "diasAtraso": 26,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
       "data": "2026-06-11",
       "diasAtraso": 26,
@@ -1681,17 +1670,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "Contrato Local_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
-      "data": "2026-06-24",
-      "diasAtraso": 13,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {

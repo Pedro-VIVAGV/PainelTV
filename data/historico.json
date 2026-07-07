@@ -7,7 +7,7 @@
       "Lyncoln :: Marketing - VIVA GV": 0,
       "Maria Clara / Tay :: Luminous": 0,
       "Matheus :: Planejamento - VIVA GV": 20,
-      "Pedro :: GRUPO VIVA - GV": 28,
+      "Pedro :: GRUPO VIVA - GV": 26,
       "Rodrigo :: VIVA Eventos": 11
     },
     "setores": {
@@ -16,9 +16,9 @@
       "Cotação": 2,
       "Marketing": 0,
       "Planejamento": 32,
-      "Produção": 33
+      "Produção": 31
     },
-    "total": 69
+    "total": 67
   },
   "anterior": {
     "pessoas": {
@@ -28,7 +28,7 @@
       "Lyncoln :: Marketing - VIVA GV": 1,
       "Maria Clara / Tay :: Luminous": 0,
       "Matheus :: Planejamento - VIVA GV": 19,
-      "Pedro :: GRUPO VIVA - GV": 29,
+      "Pedro :: GRUPO VIVA - GV": 28,
       "Rodrigo :: VIVA Eventos": 15
     },
     "setores": {
@@ -37,8 +37,8 @@
       "Cotação": 3,
       "Marketing": 1,
       "Planejamento": 36,
-      "Produção": 34
+      "Produção": 33
     },
-    "total": 71
+    "total": 69
   }
 }
