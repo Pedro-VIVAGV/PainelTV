@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T19:31:12.433Z",
+  "atualizadoEm": "2026-07-07T19:45:44.808Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 61,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 81
+    "totalSemana": 82
   },
   "pessoas": [
     {
@@ -164,7 +164,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -174,6 +174,10 @@
         {
           "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Boleto Especial - SARA.PRATES",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Criar Plano - RODRIGO.NUNES",
@@ -818,14 +822,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
-        "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
       "atrasadas": 30,
       "atrasadasAnterior": 31,
-      "semanaTotal": 46,
+      "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1012,6 +1016,10 @@
         {
           "nome": "PIPEFY: Regularizar todos os fundos com ‘’Fase em Atraso’’",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Boleto Especial - SARA.PRATES",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
