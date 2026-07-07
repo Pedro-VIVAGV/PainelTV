@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T13:31:08.774Z",
+  "atualizadoEm": "2026-07-07T13:45:50.325Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 67,
-    "totalAtrasadasAnterior": 69,
-    "totalSemana": 69
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 67,
+    "totalSemana": 71
   },
   "pessoas": [
     {
@@ -246,9 +246,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 19,
-      "semanaTotal": 15,
+      "atrasadas": 19,
+      "atrasadasAnterior": 20,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -323,10 +323,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 4
-        },
-        {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 0
         }
@@ -345,16 +341,16 @@
           "data": "2026-07-06"
         },
         {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "data": "2026-07-07"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-07"
-        },
-        {
           "nome": "PIPEFY: Regularizar todos os fundos com ‘’Fase em Atraso’’",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
@@ -389,7 +385,15 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "Criar Formulários de Briefing",
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-07-10"
         }
       ]
@@ -402,9 +406,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 28,
-      "semanaTotal": 3,
+      "atrasadas": 28,
+      "atrasadasAnterior": 26,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -507,11 +511,27 @@
           "diasAtraso": 8
         },
         {
+          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "diasAtraso": 8
+        },
+        {
+          "nome": "Definir Atrações Bailes 2026-2",
+          "diasAtraso": 8
+        },
+        {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Definir Atrações Bailes 2026-2",
+          "data": "2026-07-06"
+        },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
@@ -776,11 +796,12 @@
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
-        "Matheus :: Planejamento - VIVA GV"
+        "Matheus :: Planejamento - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 36,
-      "semanaTotal": 40,
+      "atrasadas": 31,
+      "atrasadasAnterior": 32,
+      "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -883,10 +904,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 4
-        },
-        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
           "diasAtraso": 0
         },
@@ -953,14 +970,6 @@
           "data": "2026-07-07"
         },
         {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "data": "2026-07-07"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-07"
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
           "data": "2026-07-07"
         },
@@ -979,6 +988,14 @@
         {
           "nome": "PIPEFY: Regularizar todos os fundos com ‘’Fase em Atraso’’",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
@@ -1053,6 +1070,18 @@
           "data": "2026-07-09"
         },
         {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-07-10"
+        },
+        {
           "nome": "Primeira Reunião",
           "data": "2026-07-10"
         },
@@ -1066,10 +1095,6 @@
         },
         {
           "nome": "Elaborar Ajuste Projeto",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "Criar Formulários de Briefing",
           "data": "2026-07-10"
         }
       ]
@@ -1699,7 +1724,8 @@
       "data": "2026-06-29",
       "diasAtraso": 8,
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
+        "Matheus :: Planejamento - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV"
       ],
       "setores": [
         "Planejamento"
@@ -1710,7 +1736,8 @@
       "data": "2026-06-29",
       "diasAtraso": 8,
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
+        "Matheus :: Planejamento - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV"
       ],
       "setores": [
         "Planejamento"
@@ -1883,17 +1910,6 @@
     },
     {
       "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-      "data": "2026-07-03",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Criar Formulários de Briefing",
       "data": "2026-07-03",
       "diasAtraso": 4,
       "pessoas": [
