@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T21:01:15.815Z",
+  "atualizadoEm": "2026-07-07T21:15:45.273Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 59,
-    "totalAtrasadasAnterior": 60,
-    "totalSemana": 84
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 59,
+    "totalSemana": 86
   },
   "pessoas": [
     {
@@ -434,9 +434,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 28,
-      "semanaTotal": 5,
+      "atrasadas": 21,
+      "atrasadasAnterior": 27,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -447,20 +447,8 @@
           "diasAtraso": 229
         },
         {
-          "nome": "Buffet Meio Médico - Teixeira",
-          "diasAtraso": 134
-        },
-        {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 88
-        },
-        {
-          "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
-          "diasAtraso": 84
-        },
-        {
-          "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
-          "diasAtraso": 81
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
@@ -519,20 +507,8 @@
           "diasAtraso": 27
         },
         {
-          "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 27
-        },
-        {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-          "diasAtraso": 8
         },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -559,6 +535,14 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-07"
         },
         {
           "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
@@ -1150,17 +1134,13 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 27,
-      "semanaTotal": 22,
+      "atrasadas": 20,
+      "atrasadasAnterior": 26,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 229
-        },
-        {
-          "nome": "Buffet Meio Médico - Teixeira",
-          "diasAtraso": 134
         },
         {
           "nome": "Atualização de Cheques",
@@ -1169,14 +1149,6 @@
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 88
-        },
-        {
-          "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
-          "diasAtraso": 84
-        },
-        {
-          "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
-          "diasAtraso": 81
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
@@ -1235,20 +1207,8 @@
           "diasAtraso": 27
         },
         {
-          "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 27
-        },
-        {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-          "diasAtraso": 8
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -1330,6 +1290,14 @@
         },
         {
           "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-07"
         },
         {
@@ -1429,17 +1397,6 @@
       ]
     },
     {
-      "nome": "Buffet Meio Médico - Teixeira",
-      "data": "2026-02-23",
-      "diasAtraso": 134,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Missas 2026-2",
       "data": "2026-03-10",
       "diasAtraso": 119,
@@ -1476,28 +1433,6 @@
       "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
       "data": "2026-04-10",
       "diasAtraso": 88,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR: Me Interna :: Produção - PEDRO.PERELO (PS)",
-      "data": "2026-04-14",
-      "diasAtraso": 84,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR: Produção :: Meio de Curso - THIAGO.CARDOSO",
-      "data": "2026-04-17",
-      "diasAtraso": 81,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1680,17 +1615,6 @@
       ]
     },
     {
-      "nome": "DR:: Atualizações Itens Baile - BIARA.ROBERTA",
-      "data": "2026-06-10",
-      "diasAtraso": 27,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
       "data": "2026-06-10",
       "diasAtraso": 27,
@@ -1699,17 +1623,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-      "data": "2026-06-10",
-      "diasAtraso": 27,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
@@ -1738,17 +1651,6 @@
       "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
       "data": "2026-06-25",
       "diasAtraso": 12,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-      "data": "2026-06-29",
-      "diasAtraso": 8,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
