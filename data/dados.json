@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T11:31:12.490Z",
+  "atualizadoEm": "2026-07-07T11:45:49.480Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 74,
-    "totalAtrasadasAnterior": 63,
-    "totalSemana": 64
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 74,
+    "totalSemana": 66
   },
   "pessoas": [
     {
@@ -534,9 +534,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 10,
-      "semanaTotal": 22,
+      "atrasadas": 11,
+      "atrasadasAnterior": 15,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -559,24 +559,8 @@
           "diasAtraso": 33
         },
         {
-          "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
-          "diasAtraso": 28
-        },
-        {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
           "diasAtraso": 26
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 11
-        },
-        {
-          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 11
-        },
-        {
-          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
-          "diasAtraso": 4
         },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
@@ -617,6 +601,10 @@
           "data": "2026-07-06"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
+          "data": "2026-07-07"
+        },
+        {
           "nome": "Planos e Adesões: Colação WILLA",
           "data": "2026-07-07"
         },
@@ -626,6 +614,10 @@
         },
         {
           "nome": "Informativo: TRIUNFO",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
           "data": "2026-07-07"
         },
         {
@@ -786,9 +778,9 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 30,
-      "semanaTotal": 38,
+      "atrasadas": 32,
+      "atrasadasAnterior": 36,
+      "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -815,20 +807,8 @@
           "diasAtraso": 33
         },
         {
-          "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
-          "diasAtraso": 28
-        },
-        {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
           "diasAtraso": 26
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 11
-        },
-        {
-          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 11
         },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -903,10 +883,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
-          "diasAtraso": 4
-        },
-        {
           "nome": "Criar Formulários de Briefing",
           "diasAtraso": 4
         },
@@ -969,6 +945,10 @@
           "data": "2026-07-06"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
+          "data": "2026-07-07"
+        },
+        {
           "nome": "Planos e Adesões: Colação WILLA",
           "data": "2026-07-07"
         },
@@ -986,6 +966,10 @@
         },
         {
           "nome": "Informativo: TRIUNFO",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
           "data": "2026-07-07"
         },
         {
@@ -1583,17 +1567,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: Choppada - INGRYD.DINIZ",
-      "data": "2026-06-09",
-      "diasAtraso": 28,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-06-09",
       "diasAtraso": 28,
@@ -1734,28 +1707,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-06-26",
-      "diasAtraso": 11,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-      "data": "2026-06-26",
-      "diasAtraso": 11,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1973,17 +1924,6 @@
       "diasAtraso": 4,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
-      "data": "2026-07-03",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
