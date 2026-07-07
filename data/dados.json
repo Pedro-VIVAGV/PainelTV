@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T20:31:17.074Z",
+  "atualizadoEm": "2026-07-07T20:45:41.265Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 60,
     "totalAtrasadasAnterior": 61,
-    "totalSemana": 83
+    "totalSemana": 84
   },
   "pessoas": [
     {
@@ -168,7 +168,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -182,6 +182,10 @@
         {
           "nome": "DR:: Boleto Especial - SARA.PRATES",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "data": "2026-07-09"
         },
         {
           "nome": "DR:: Criar Plano - RODRIGO.NUNES",
@@ -829,7 +833,7 @@
       ],
       "atrasadas": 29,
       "atrasadasAnterior": 30,
-      "semanaTotal": 47,
+      "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1068,6 +1072,10 @@
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "data": "2026-07-09"
         },
         {
           "nome": "DR:: Criar Plano - RODRIGO.NUNES",
