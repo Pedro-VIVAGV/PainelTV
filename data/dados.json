@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T20:01:09.607Z",
+  "atualizadoEm": "2026-07-07T20:15:50.303Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 61,
-    "totalAtrasadasAnterior": 63,
+    "totalAtrasadas": 60,
+    "totalAtrasadasAnterior": 61,
     "totalSemana": 83
   },
   "pessoas": [
@@ -278,8 +278,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 19,
+      "atrasadas": 17,
+      "atrasadasAnterior": 18,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -296,10 +296,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
           "diasAtraso": 4
         },
         {
@@ -831,8 +827,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 31,
+      "atrasadas": 29,
+      "atrasadasAnterior": 30,
       "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
@@ -877,10 +873,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
           "diasAtraso": 4
         },
         {
@@ -1812,17 +1804,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - KAIRO.EMANUEL",
       "data": "2026-07-03",
       "diasAtraso": 4,
       "pessoas": [
