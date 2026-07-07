@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T13:45:50.325Z",
+  "atualizadoEm": "2026-07-07T14:01:23.635Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 66,
     "totalAtrasadasAnterior": 67,
-    "totalSemana": 71
+    "totalSemana": 73
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 3,
-      "semanaTotal": 15,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -63,6 +63,10 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 18
+        },
+        {
+          "nome": "Separar material missa Myla",
+          "diasAtraso": 0
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -78,10 +82,6 @@
         },
         {
           "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "diasAtraso": 0
         }
       ],
@@ -123,6 +123,10 @@
           "data": "2026-07-06"
         },
         {
+          "nome": "Separar material missa Myla",
+          "data": "2026-07-07"
+        },
+        {
           "nome": "Dobrar os Uniformes e panos de chão",
           "data": "2026-07-07"
         },
@@ -132,6 +136,10 @@
         },
         {
           "nome": "Mandar malhas para lavar",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Imprimir pastas Missa Myla",
           "data": "2026-07-07"
         },
         {
@@ -1102,13 +1110,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 31,
       "atrasadasAnterior": 33,
-      "semanaTotal": 16,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1215,6 +1223,10 @@
           "diasAtraso": 1
         },
         {
+          "nome": "Separar material missa Myla",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 0
         },
@@ -1228,10 +1240,6 @@
         },
         {
           "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "diasAtraso": 0
         }
       ],
@@ -1273,6 +1281,10 @@
           "data": "2026-07-06"
         },
         {
+          "nome": "Separar material missa Myla",
+          "data": "2026-07-07"
+        },
+        {
           "nome": "Dobrar os Uniformes e panos de chão",
           "data": "2026-07-07"
         },
@@ -1282,6 +1294,10 @@
         },
         {
           "nome": "Mandar malhas para lavar",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Imprimir pastas Missa Myla",
           "data": "2026-07-07"
         },
         {
@@ -1931,6 +1947,17 @@
       ]
     },
     {
+      "nome": "Separar material missa Myla",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
       "nome": "Dobrar os Uniformes e panos de chão",
       "data": "2026-07-07",
       "diasAtraso": 0,
@@ -1965,17 +1992,6 @@
     },
     {
       "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
-      "data": "2026-07-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
       "data": "2026-07-07",
       "diasAtraso": 0,
       "pessoas": [
