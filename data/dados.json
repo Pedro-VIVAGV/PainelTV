@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T19:45:44.808Z",
+  "atualizadoEm": "2026-07-07T20:01:09.607Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 61,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 82
+    "totalSemana": 83
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 4,
       "atrasadasAnterior": 6,
-      "semanaTotal": 21,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -105,6 +105,10 @@
         {
           "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Cadastrar fornecedores Porto Seguro",
+          "data": "2026-07-07"
         },
         {
           "nome": "Guardar bebidas",
@@ -1146,13 +1150,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 27,
       "atrasadasAnterior": 29,
-      "semanaTotal": 21,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1299,6 +1303,10 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Cadastrar fornecedores Porto Seguro",
+          "data": "2026-07-07"
         },
         {
           "nome": "Guardar bebidas",
