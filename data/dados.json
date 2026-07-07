@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T00:01:11.555Z",
+  "atualizadoEm": "2026-07-07T00:15:43.880Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 63,
-    "totalAtrasadasAnterior": 64,
+    "totalAtrasadas": 74,
+    "totalAtrasadasAnterior": 63,
     "totalSemana": 64
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 4,
+      "atrasadas": 8,
+      "atrasadasAnterior": 3,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
@@ -63,6 +63,26 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 17
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Mandar malhas para lavar",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -222,8 +242,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 20,
+      "atrasadasAnterior": 19,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
@@ -301,6 +321,10 @@
         {
           "nome": "Criar Formulários de Briefing",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -510,8 +534,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 24,
+      "atrasadas": 15,
+      "atrasadasAnterior": 10,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -553,6 +577,26 @@
         {
           "nome": "DR:: Atrações: Meio Médico - SARA.PRATES",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -742,8 +786,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 31,
+      "atrasadas": 36,
+      "atrasadasAnterior": 30,
       "semanaTotal": 38,
       "tarefasAtrasadas": [
         {
@@ -865,6 +909,30 @@
         {
           "nome": "Criar Formulários de Briefing",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1029,8 +1097,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 32,
+      "atrasadas": 34,
+      "atrasadasAnterior": 29,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -1144,6 +1212,26 @@
         {
           "nome": "Adicionar Drink - Cardápio",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Mandar malhas para lavar",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+          "diasAtraso": 0
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -1921,6 +2009,127 @@
       ],
       "setores": [
         "Produção"
+      ]
+    },
+    {
+      "nome": "Dobrar os Uniformes e panos de chão",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Organizar a VIVA",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Mandar malhas para lavar",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualizar OP (Inadimplentes)",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualizar OP (Inadimplentes)",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualizar OP (Inadimplentes)",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualizar OP (Inadimplentes)",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+      "data": "2026-07-07",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
       ]
     }
   ]
