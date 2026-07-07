@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T19:01:20.313Z",
+  "atualizadoEm": "2026-07-07T19:15:46.981Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 63,
-    "totalAtrasadasAnterior": 65,
-    "totalSemana": 78
+    "totalAtrasadas": 61,
+    "totalAtrasadasAnterior": 63,
+    "totalSemana": 80
   },
   "pessoas": [
     {
@@ -42,15 +42,15 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 18,
+      "atrasadas": 4,
+      "atrasadasAnterior": 6,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -65,15 +65,7 @@
           "diasAtraso": 18
         },
         {
-          "nome": "Separar material missa Myla",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
           "diasAtraso": 0
         }
       ],
@@ -113,6 +105,14 @@
         {
           "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Guardar bebidas",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Subir material",
+          "data": "2026-07-07"
         },
         {
           "nome": "Separar material missa Myla",
@@ -1138,9 +1138,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 31,
-      "semanaTotal": 18,
+      "atrasadas": 27,
+      "atrasadasAnterior": 29,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1247,15 +1247,7 @@
           "diasAtraso": 1
         },
         {
-          "nome": "Separar material missa Myla",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
           "diasAtraso": 0
         }
       ],
@@ -1295,6 +1287,14 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "Guardar bebidas",
+          "data": "2026-07-07"
+        },
+        {
+          "nome": "Subir material",
+          "data": "2026-07-07"
         },
         {
           "nome": "Separar material missa Myla",
@@ -1952,29 +1952,7 @@
       ]
     },
     {
-      "nome": "Separar material missa Myla",
-      "data": "2026-07-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Dobrar os Uniformes e panos de chão",
-      "data": "2026-07-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Solicitar Mockup ao marketing da Gumege - Pedro Perelo",
       "data": "2026-07-07",
       "diasAtraso": 0,
       "pessoas": [
