@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T18:45:50.624Z",
+  "atualizadoEm": "2026-07-07T19:01:20.313Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 66,
-    "totalSemana": 77
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 65,
+    "totalSemana": 78
   },
   "pessoas": [
     {
@@ -48,9 +48,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 17,
+      "atrasadas": 6,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -70,14 +70,6 @@
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Organizar a VIVA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Mandar malhas para lavar",
           "diasAtraso": 0
         },
         {
@@ -145,6 +137,10 @@
         {
           "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Convites Extras - RODRIGO.NUNES",
+          "data": "2026-07-08"
         },
         {
           "nome": "Organizar caixotes",
@@ -756,7 +752,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
@@ -768,6 +764,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Convites Extras - RODRIGO.NUNES",
+          "data": "2026-07-08"
+        },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "data": "2026-07-08"
@@ -1138,8 +1138,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 33,
+      "atrasadas": 29,
+      "atrasadasAnterior": 31,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
@@ -1252,14 +1252,6 @@
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Organizar a VIVA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Mandar malhas para lavar",
           "diasAtraso": 0
         },
         {
@@ -1972,28 +1964,6 @@
     },
     {
       "nome": "Dobrar os Uniformes e panos de chão",
-      "data": "2026-07-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Organizar a VIVA",
-      "data": "2026-07-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Mandar malhas para lavar",
       "data": "2026-07-07",
       "diasAtraso": 0,
       "pessoas": [
