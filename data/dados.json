@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T15:01:14.974Z",
+  "atualizadoEm": "2026-07-07T15:15:52.814Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 66,
     "totalAtrasadasAnterior": 67,
-    "totalSemana": 74
+    "totalSemana": 75
   },
   "pessoas": [
     {
@@ -164,7 +164,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -174,6 +174,10 @@
         {
           "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Reunião Plan",
+          "data": "2026-07-10"
         }
       ]
     },
@@ -813,7 +817,7 @@
       ],
       "atrasadas": 31,
       "atrasadasAnterior": 32,
-      "semanaTotal": 43,
+      "semanaTotal": 44,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1084,6 +1088,10 @@
         {
           "nome": "Organizar E-mail Planejamento Luminous",
           "data": "2026-07-09"
+        },
+        {
+          "nome": "DR:: Reunião Plan",
+          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
