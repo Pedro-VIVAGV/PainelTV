@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T19:15:46.981Z",
+  "atualizadoEm": "2026-07-07T19:31:12.433Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 61,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 80
+    "totalSemana": 81
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 4,
       "atrasadasAnterior": 6,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -137,6 +137,10 @@
         {
           "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Convites Extras - RODRIGO.NUNES",
@@ -814,9 +818,9 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV",
-        "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
       "atrasadas": 30,
@@ -1134,13 +1138,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 27,
       "atrasadasAnterior": 29,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1319,6 +1323,10 @@
         {
           "nome": "Digitalização Docs_WELISSA-AMANDA-EMANUELLY",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "data": "2026-07-08"
         },
         {
           "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
