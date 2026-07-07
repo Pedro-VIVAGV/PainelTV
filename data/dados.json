@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T15:15:52.814Z",
+  "atualizadoEm": "2026-07-07T15:31:21.438Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 67,
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 66,
     "totalSemana": 75
   },
   "pessoas": [
@@ -262,8 +262,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -277,10 +277,6 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
-          "diasAtraso": 4
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -815,8 +811,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 32,
+      "atrasadas": 30,
+      "atrasadasAnterior": 31,
       "semanaTotal": 44,
       "tarefasAtrasadas": [
         {
@@ -858,10 +854,6 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
-          "diasAtraso": 4
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -1779,17 +1771,6 @@
       "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
       "data": "2026-07-02",
       "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - EULLER-KAIRO",
-      "data": "2026-07-03",
-      "diasAtraso": 4,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
