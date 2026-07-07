@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T20:45:41.265Z",
+  "atualizadoEm": "2026-07-07T21:01:15.815Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 60,
-    "totalAtrasadasAnterior": 61,
+    "totalAtrasadas": 59,
+    "totalAtrasadasAnterior": 60,
     "totalSemana": 84
   },
   "pessoas": [
@@ -434,8 +434,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 26,
+      "atrasadas": 27,
+      "atrasadasAnterior": 28,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
@@ -525,10 +525,6 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 27
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 25
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
@@ -1154,8 +1150,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 29,
+      "atrasadas": 26,
+      "atrasadasAnterior": 27,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1245,10 +1241,6 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 27
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 25
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
@@ -1729,17 +1721,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-06-12",
-      "diasAtraso": 25,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
