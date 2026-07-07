@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-07T14:45:55.595Z",
+  "atualizadoEm": "2026-07-07T15:01:14.974Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 66,
     "totalAtrasadasAnterior": 67,
-    "totalSemana": 73
+    "totalSemana": 74
   },
   "pessoas": [
     {
@@ -164,12 +164,16 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
+          "data": "2026-07-07"
         }
       ]
     },
@@ -809,7 +813,7 @@
       ],
       "atrasadas": 31,
       "atrasadasAnterior": 32,
-      "semanaTotal": 42,
+      "semanaTotal": 43,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -968,6 +972,10 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-06"
+        },
+        {
+          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
+          "data": "2026-07-07"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
