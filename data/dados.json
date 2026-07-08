@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T15:45:47.419Z",
+  "atualizadoEm": "2026-07-08T16:01:15.832Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 57,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 55,
     "totalSemana": 91
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 3,
+      "atrasadasAnterior": 5,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -61,16 +61,8 @@
           "diasAtraso": 28
         },
         {
-          "nome": "Caneca + Tirante_MILENA.ALMEIDA",
-          "diasAtraso": 19
-        },
-        {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -771,21 +763,13 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 1,
+      "atrasadasAnterior": 3,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
           "diasAtraso": 28
-        },
-        {
-          "nome": "Caneca + Tirante_MILENA.ALMEIDA",
-          "diasAtraso": 19
-        },
-        {
-          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1682,17 +1666,6 @@
       ]
     },
     {
-      "nome": "Caneca + Tirante_MILENA.ALMEIDA",
-      "data": "2026-06-19",
-      "diasAtraso": 19,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
       "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
       "data": "2026-06-25",
       "diasAtraso": 13,
@@ -1923,17 +1896,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
