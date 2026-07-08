@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T13:15:48.008Z",
+  "atualizadoEm": "2026-07-08T13:31:14.020Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 60,
-    "totalAtrasadasAnterior": 57,
+    "totalAtrasadas": 61,
+    "totalAtrasadasAnterior": 60,
     "totalSemana": 88
   },
   "pessoas": [
@@ -1981,6 +1981,13 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "DD:: Enviar E-mail: Caneca e tirante - MILENA.ALMEIDA",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [],
+      "setores": []
     },
     {
       "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
