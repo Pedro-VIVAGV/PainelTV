@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T20:31:18.148Z",
+  "atualizadoEm": "2026-07-08T20:45:50.411Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 44,
-    "totalAtrasadasAnterior": 46,
-    "totalSemana": 93
+    "totalAtrasadas": 43,
+    "totalAtrasadasAnterior": 44,
+    "totalSemana": 92
   },
   "pessoas": [
     {
@@ -306,9 +306,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 17,
+      "atrasadas": 6,
+      "atrasadasAnterior": 7,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -333,10 +333,6 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -350,6 +346,10 @@
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Organizar E-mail Planejamento Luminous",
           "data": "2026-07-06"
         },
         {
@@ -393,19 +393,11 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "Organizar E-mail Planejamento Luminous",
-          "data": "2026-07-09"
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-10"
         },
         {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-07-10"
         }
       ]
@@ -802,14 +794,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
+        "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 23,
-      "semanaTotal": 48,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -884,10 +876,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "diasAtraso": 0
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
           "diasAtraso": 0
         },
@@ -927,6 +915,10 @@
         },
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-06"
+        },
+        {
+          "nome": "Organizar E-mail Planejamento Luminous",
           "data": "2026-07-06"
         },
         {
@@ -1058,19 +1050,11 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "Organizar E-mail Planejamento Luminous",
-          "data": "2026-07-09"
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-10"
         },
         {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-07-10"
         },
         {
@@ -1755,17 +1739,6 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
