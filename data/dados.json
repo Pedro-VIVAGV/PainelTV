@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T21:01:37.168Z",
+  "atualizadoEm": "2026-07-08T21:15:48.692Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 43,
-    "totalAtrasadasAnterior": 44,
+    "totalAtrasadas": 48,
+    "totalAtrasadasAnterior": 43,
     "totalSemana": 95
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 5,
+      "atrasadas": 4,
+      "atrasadasAnterior": 3,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -63,6 +63,10 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -542,8 +546,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 18,
+      "atrasadas": 17,
+      "atrasadasAnterior": 13,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -592,6 +596,22 @@
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Informativo: TRIUNFO",
           "diasAtraso": 0
         },
         {
@@ -803,8 +823,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 24,
+      "atrasadasAnterior": 20,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -881,6 +901,22 @@
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Informativo: TRIUNFO",
           "diasAtraso": 0
         },
         {
@@ -1098,8 +1134,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 21,
+      "atrasadasAnterior": 20,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -1181,6 +1217,10 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1750,6 +1790,17 @@
       ]
     },
     {
+      "nome": "Buscar cadeiras para apresentação de projeto",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
       "nome": "Planos e Adesões: Colação WILLA",
       "data": "2026-07-08",
       "diasAtraso": 0,
@@ -1762,6 +1813,50 @@
     },
     {
       "nome": "TRIUNFO: Orç Unimed: Bebidas",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Sessão de Fotos",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Data Baile e Primeira Reunião",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Informativo: TRIUNFO",
       "data": "2026-07-08",
       "diasAtraso": 0,
       "pessoas": [
