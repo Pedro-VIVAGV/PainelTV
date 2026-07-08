@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T15:31:08.946Z",
+  "atualizadoEm": "2026-07-08T15:45:47.419Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 57,
-    "totalAtrasadasAnterior": 58,
-    "totalSemana": 90
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 57,
+    "totalSemana": 91
   },
   "pessoas": [
     {
@@ -225,7 +225,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -253,16 +253,20 @@
           "data": "2026-07-07"
         },
         {
-          "nome": "Evento: 08/08/2026_Demanda Mkt-Cardápio_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "nome": "Novo Mockup ::: Pedro Perelo",
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "Evento: 08/08/2026_Demanda Mkt-Cardápio_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-08"
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-09"
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
@@ -307,8 +311,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 18,
+      "atrasadas": 15,
+      "atrasadasAnterior": 17,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -325,14 +329,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
           "diasAtraso": 5
         },
         {
@@ -835,12 +831,12 @@
           "data": "2026-07-07"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
           "data": "2026-07-08"
         },
         {
-          "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
-          "data": "2026-07-08"
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-09"
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
@@ -856,8 +852,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 33,
+      "atrasadas": 30,
+      "atrasadasAnterior": 32,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -902,14 +898,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
           "diasAtraso": 5
         },
         {
@@ -1752,28 +1740,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - AISSA.LEAL (GABRYELLE)",
       "data": "2026-07-03",
       "diasAtraso": 5,
       "pessoas": [
