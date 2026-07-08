@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T00:01:09.648Z",
+  "atualizadoEm": "2026-07-08T00:15:43.342Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 59,
+    "totalAtrasadas": 62,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 86
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 6,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -63,6 +63,10 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 18
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "diasAtraso": 0
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -282,8 +286,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 18,
+      "atrasadas": 18,
+      "atrasadasAnterior": 17,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -349,6 +353,10 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
@@ -562,8 +570,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 15,
+      "atrasadas": 18,
+      "atrasadasAnterior": 11,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -591,11 +599,31 @@
           "diasAtraso": 26
         },
         {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
           "diasAtraso": 0
         },
         {
-          "nome": "Atualizar OP (Inadimplentes)",
+          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -608,6 +636,14 @@
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar OP (Inadimplentes)",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
           "diasAtraso": 0
         }
       ],
@@ -811,8 +847,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 30,
+      "atrasadas": 37,
+      "atrasadasAnterior": 29,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -908,7 +944,35 @@
           "diasAtraso": 4
         },
         {
+          "nome": "Planos e Adesões: Colação WILLA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -929,6 +993,10 @@
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
           "diasAtraso": 0
         }
       ],
@@ -1134,8 +1202,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 26,
+      "atrasadas": 21,
+      "atrasadasAnterior": 20,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -1213,6 +1281,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Buscar cadeiras para apresentação de projeto",
+          "diasAtraso": 0
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -1919,6 +1991,105 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Buscar cadeiras para apresentação de projeto",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Planos e Adesões: Colação WILLA",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "TRIUNFO: Orç Unimed: Bebidas",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Sessão de Fotos",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Data Baile e Primeira Reunião",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
