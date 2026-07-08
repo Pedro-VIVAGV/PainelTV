@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T20:45:50.411Z",
+  "atualizadoEm": "2026-07-08T21:01:37.168Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 43,
     "totalAtrasadasAnterior": 44,
-    "totalSemana": 92
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -308,7 +308,7 @@
       ],
       "atrasadas": 6,
       "atrasadasAnterior": 7,
-      "semanaTotal": 16,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -337,18 +337,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-06"
-        },
-        {
           "nome": "Organizar E-mail Planejamento Luminous",
           "data": "2026-07-06"
         },
@@ -357,48 +345,72 @@
           "data": "2026-07-07"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-08"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-08"
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-08"
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-09"
         },
         {
           "nome": "DR:: Planos Fotografia - Arthur.Ing.Dorian",
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-10"
         },
         {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
           "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
+          "data": "2026-07-11"
         }
       ]
     },
@@ -412,7 +424,7 @@
       ],
       "atrasadas": 21,
       "atrasadasAnterior": 27,
-      "semanaTotal": 7,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -500,14 +512,6 @@
         }
       ],
       "tarefasSemana": [
-        {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-06"
-        },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-06"
@@ -801,7 +805,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 21,
-      "semanaTotal": 47,
+      "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -890,14 +894,6 @@
           "data": "2026-07-06"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-06"
-        },
-        {
           "nome": "Atualizar OP (Inadimplentes)",
           "data": "2026-07-06"
         },
@@ -911,10 +907,6 @@
         },
         {
           "nome": "Atualizar OP (Inadimplentes)",
-          "data": "2026-07-06"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-06"
         },
         {
@@ -970,19 +962,7 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-08"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-07-08"
         },
         {
@@ -998,22 +978,6 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-08"
-        },
-        {
           "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
           "data": "2026-07-08"
         },
@@ -1023,6 +987,14 @@
         },
         {
           "nome": "DR:: Reunião Plan",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "data": "2026-07-09"
         },
         {
@@ -1050,14 +1022,6 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "data": "2026-07-10"
-        },
-        {
           "nome": "Primeira Reunião",
           "data": "2026-07-10"
         },
@@ -1070,8 +1034,60 @@
           "data": "2026-07-10"
         },
         {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-10"
+        },
+        {
           "nome": "Elaborar Ajuste Projeto",
           "data": "2026-07-10"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
+          "data": "2026-07-11"
         }
       ]
     },
