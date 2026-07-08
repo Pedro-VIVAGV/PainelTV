@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T17:01:17.425Z",
+  "atualizadoEm": "2026-07-08T17:15:49.718Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 91
   },
   "pessoas": [
@@ -298,8 +298,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 17,
+      "atrasadas": 13,
+      "atrasadasAnterior": 15,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -316,14 +316,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
           "diasAtraso": 5
         },
         {
@@ -831,8 +823,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 30,
+      "atrasadas": 27,
+      "atrasadasAnterior": 29,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -877,14 +869,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
           "diasAtraso": 5
         },
         {
@@ -1704,28 +1688,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - LARISSA_UNIVALE_ESTETICA",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MATHEUS.ALMEIDA",
       "data": "2026-07-03",
       "diasAtraso": 5,
       "pessoas": [
