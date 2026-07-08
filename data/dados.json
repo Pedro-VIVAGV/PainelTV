@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T14:02:12.038Z",
+  "atualizadoEm": "2026-07-08T14:15:47.553Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 61,
-    "totalAtrasadasAnterior": 60,
+    "totalAtrasadas": 58,
+    "totalAtrasadasAnterior": 61,
     "totalSemana": 88
   },
   "pessoas": [
@@ -170,22 +170,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 0,
+      "atrasadas": 1,
+      "atrasadasAnterior": 4,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Boleto Especial - SARA.PRATES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
-          "diasAtraso": 0
-        },
         {
           "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
           "diasAtraso": 0
@@ -855,13 +843,13 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
+        "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 32,
+      "atrasadas": 33,
+      "atrasadasAnterior": 36,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -975,18 +963,6 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Boleto Especial - SARA.PRATES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
@@ -1999,39 +1975,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Boleto Especial - SARA.PRATES",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Criar Plano - RODRIGO.NUNES",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
