@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T14:31:11.329Z",
+  "atualizadoEm": "2026-07-08T14:45:47.192Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 57,
     "totalAtrasadasAnterior": 58,
-    "totalSemana": 89
+    "totalSemana": 90
   },
   "pessoas": [
     {
@@ -220,7 +220,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -262,6 +262,10 @@
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-07-09"
+        },
+        {
+          "nome": "Camisa Esportiva MED27 ANA.JULIA.MENDES",
+          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
