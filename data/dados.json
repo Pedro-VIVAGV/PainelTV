@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T14:15:47.553Z",
+  "atualizadoEm": "2026-07-08T14:31:11.329Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 61,
-    "totalSemana": 88
+    "totalAtrasadas": 57,
+    "totalAtrasadasAnterior": 58,
+    "totalSemana": 89
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 4,
-      "semanaTotal": 22,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -147,6 +147,10 @@
           "data": "2026-07-07"
         },
         {
+          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
+          "data": "2026-07-08"
+        },
+        {
           "nome": "Buscar cadeiras para apresentação de projeto",
           "data": "2026-07-08"
         },
@@ -170,15 +174,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 4,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
@@ -206,7 +205,7 @@
         },
         {
           "nome": "DR:: Reunião Plan",
-          "data": "2026-07-10"
+          "data": "2026-07-09"
         }
       ]
     },
@@ -773,7 +772,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 2,
-      "semanaTotal": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
@@ -789,6 +788,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
+          "data": "2026-07-08"
+        },
         {
           "nome": "DR:: Convites Extras - RODRIGO.NUNES",
           "data": "2026-07-08"
@@ -848,8 +851,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 36,
+      "atrasadas": 32,
+      "atrasadasAnterior": 33,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -963,10 +966,6 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
-          "diasAtraso": 0
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
@@ -1119,6 +1118,10 @@
           "data": "2026-07-08"
         },
         {
+          "nome": "DR:: Reunião Plan",
+          "data": "2026-07-09"
+        },
+        {
           "nome": "Agendar Sessão de Fotos Meio",
           "data": "2026-07-09"
         },
@@ -1145,10 +1148,6 @@
         {
           "nome": "Organizar E-mail Planejamento Luminous",
           "data": "2026-07-09"
-        },
-        {
-          "nome": "DR:: Reunião Plan",
-          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
@@ -1975,17 +1974,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
