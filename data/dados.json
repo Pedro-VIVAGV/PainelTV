@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T19:45:45.235Z",
+  "atualizadoEm": "2026-07-08T20:01:20.277Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 50,
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 47,
     "totalSemana": 93
   },
   "pessoas": [
@@ -306,8 +306,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 13,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -324,10 +324,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
           "diasAtraso": 5
         },
         {
@@ -819,8 +815,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 27,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -865,10 +861,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
           "diasAtraso": 5
         },
         {
@@ -1676,17 +1668,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Meio Médico - CELIA.MARIA",
       "data": "2026-07-03",
       "diasAtraso": 5,
       "pessoas": [
