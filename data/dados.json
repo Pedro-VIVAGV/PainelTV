@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T20:01:20.277Z",
+  "atualizadoEm": "2026-07-08T20:15:43.041Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 47,
+    "totalAtrasadas": 44,
+    "totalAtrasadasAnterior": 46,
     "totalSemana": 93
   },
   "pessoas": [
@@ -306,8 +306,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 7,
+      "atrasadasAnterior": 9,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -324,14 +324,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 5
         },
         {
@@ -815,8 +807,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 24,
+      "atrasadas": 21,
+      "atrasadasAnterior": 23,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -861,14 +853,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 5
         },
         {
@@ -1668,28 +1652,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Habeas Lata (Welcome Viva) - INGRYD.DINIZ",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento :: 1/6 Médico - BRUNA.GOUVEA",
       "data": "2026-07-03",
       "diasAtraso": 5,
       "pessoas": [
