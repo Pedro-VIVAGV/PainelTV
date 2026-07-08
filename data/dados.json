@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T15:15:50.740Z",
+  "atualizadoEm": "2026-07-08T15:31:08.946Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -174,10 +174,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
@@ -302,8 +307,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 17,
+      "atrasadas": 17,
+      "atrasadasAnterior": 18,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -320,10 +325,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
           "diasAtraso": 5
         },
         {
@@ -904,10 +905,6 @@
           "diasAtraso": 5
         },
         {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
           "diasAtraso": 5
         },
@@ -970,6 +967,10 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
+          "diasAtraso": 0
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
@@ -1761,17 +1762,6 @@
       ]
     },
     {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - LARISSA_UNIVALE_ESTETICA",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MARIA.DE.LOURDES",
       "data": "2026-07-03",
       "diasAtraso": 5,
@@ -1978,6 +1968,17 @@
       ],
       "setores": [
         "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
       ]
     },
     {
