@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T16:45:44.084Z",
+  "atualizadoEm": "2026-07-08T17:01:17.425Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 91
   },
   "pessoas": [
@@ -42,8 +42,8 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
@@ -166,15 +166,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
@@ -836,8 +831,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 32,
+      "atrasadas": 29,
+      "atrasadasAnterior": 30,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -939,10 +934,6 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
-          "diasAtraso": 0
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
@@ -1159,8 +1150,8 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 20,
@@ -1893,17 +1884,6 @@
       "diasAtraso": 1,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Demandar Tarefas Reunião - RODRIGO.NUNES",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
