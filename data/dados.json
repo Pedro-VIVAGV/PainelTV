@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T12:45:51.639Z",
+  "atualizadoEm": "2026-07-08T13:01:15.260Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 57,
-    "totalAtrasadasAnterior": 62,
+    "totalAtrasadas": 60,
+    "totalAtrasadasAnterior": 57,
     "totalSemana": 88
   },
   "pessoas": [
@@ -48,8 +48,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -67,10 +67,6 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Buscar cadeiras para apresentação de projeto",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -170,10 +166,27 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
+      "atrasadas": 4,
       "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Boleto Especial - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
@@ -184,20 +197,20 @@
           "data": "2026-07-07"
         },
         {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "data": "2026-07-08"
+        },
+        {
           "nome": "DR:: Boleto Especial - SARA.PRATES",
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
-          "data": "2026-07-09"
-        },
-        {
           "nome": "DR:: Criar Plano - RODRIGO.NUNES",
-          "data": "2026-07-09"
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
-          "data": "2026-07-09"
+          "data": "2026-07-08"
         },
         {
           "nome": "DR:: Reunião Plan",
@@ -839,8 +852,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 37,
+      "atrasadas": 36,
+      "atrasadasAnterior": 32,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -956,6 +969,22 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Boleto Especial - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Planos e Adesões: Colação WILLA",
           "diasAtraso": 0
         },
@@ -1038,7 +1067,19 @@
           "data": "2026-07-07"
         },
         {
+          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
+          "data": "2026-07-08"
+        },
+        {
           "nome": "DR:: Boleto Especial - SARA.PRATES",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
           "data": "2026-07-08"
         },
         {
@@ -1092,18 +1133,6 @@
         {
           "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
-          "data": "2026-07-09"
-        },
-        {
-          "nome": "DR:: Criar Plano - RODRIGO.NUNES",
-          "data": "2026-07-09"
-        },
-        {
-          "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
-          "data": "2026-07-09"
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
@@ -1174,8 +1203,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 20,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -1257,10 +1286,6 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Buscar cadeiras para apresentação de projeto",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1958,14 +1983,47 @@
       ]
     },
     {
-      "nome": "Buscar cadeiras para apresentação de projeto",
+      "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
       "data": "2026-07-08",
       "diasAtraso": 0,
       "pessoas": [
-        "Janine :: Cotação - VIVA GV"
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
-        "Produção"
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Boleto Especial - SARA.PRATES",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Criar Plano - RODRIGO.NUNES",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Alteração de Cota - RODRIGO.NUNES",
+      "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
       ]
     },
     {
