@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T11:45:44.803Z",
+  "atualizadoEm": "2026-07-08T12:01:15.710Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 57,
     "totalAtrasadasAnterior": 62,
-    "totalSemana": 86
+    "totalSemana": 88
   },
   "pessoas": [
     {
@@ -216,7 +216,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 9,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -242,6 +242,14 @@
         {
           "nome": "Camisa da Conviva",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "Evento: 08/08/2026_Demanda Mkt-Cardápio_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-08"
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-08"
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
@@ -790,7 +798,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -808,6 +816,10 @@
         {
           "nome": "Camisa da Conviva",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-08"
         },
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
