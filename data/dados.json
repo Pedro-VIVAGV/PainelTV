@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T17:31:29.383Z",
+  "atualizadoEm": "2026-07-08T17:45:43.303Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 50,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 47,
+    "totalAtrasadasAnterior": 50,
     "totalSemana": 91
   },
   "pessoas": [
@@ -298,8 +298,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 15,
+      "atrasadas": 10,
+      "atrasadasAnterior": 13,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -316,18 +316,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
           "diasAtraso": 5
         },
         {
@@ -823,8 +811,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 29,
+      "atrasadas": 24,
+      "atrasadasAnterior": 27,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -869,18 +857,6 @@
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
           "diasAtraso": 5
         },
         {
@@ -1688,39 +1664,6 @@
     },
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Baile de Gala - MACOLEN.MIFARREG",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - MACOLEN.MIFARREG",
-      "data": "2026-07-03",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Cerimônia Religiosa - MACOLEN.MIFARREG",
       "data": "2026-07-03",
       "diasAtraso": 5,
       "pessoas": [
