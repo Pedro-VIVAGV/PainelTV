@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T11:01:07.256Z",
+  "atualizadoEm": "2026-07-08T11:15:44.260Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 62,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 57,
+    "totalAtrasadasAnterior": 62,
     "totalSemana": 86
   },
   "pessoas": [
@@ -570,8 +570,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 11,
+      "atrasadas": 13,
+      "atrasadasAnterior": 18,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -599,10 +599,6 @@
           "diasAtraso": 27
         },
         {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Atualizar OP (Inadimplentes)",
           "diasAtraso": 1
         },
@@ -624,22 +620,6 @@
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -847,8 +827,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 37,
-      "atrasadasAnterior": 29,
+      "atrasadas": 32,
+      "atrasadasAnterior": 37,
       "semanaTotal": 48,
       "tarefasAtrasadas": [
         {
@@ -944,10 +924,6 @@
           "diasAtraso": 5
         },
         {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Atualizar OP (Inadimplentes)",
           "diasAtraso": 1
         },
@@ -977,22 +953,6 @@
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -1931,17 +1891,6 @@
       ]
     },
     {
-      "nome": "Agendar S. Fotos e Confirmar Colação",
-      "data": "2026-07-07",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Atualizar OP (Inadimplentes)",
       "data": "2026-07-07",
       "diasAtraso": 1,
@@ -2031,50 +1980,6 @@
     },
     {
       "nome": "TRIUNFO: Orç Unimed: Bebidas",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Data Baile e Primeira Reunião",
       "data": "2026-07-08",
       "diasAtraso": 0,
       "pessoas": [
