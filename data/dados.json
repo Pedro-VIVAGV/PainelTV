@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-08T13:31:14.020Z",
+  "atualizadoEm": "2026-07-08T13:46:12.833Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -42,14 +42,14 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Produção",
         "Cotação",
+        "Produção",
         "Planejamento",
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -67,6 +67,10 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -779,8 +783,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -790,6 +794,10 @@
         {
           "nome": "Caneca + Tirante_MILENA.ALMEIDA",
           "diasAtraso": 19
+        },
+        {
+          "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1983,11 +1991,15 @@
       ]
     },
     {
-      "nome": "DD:: Enviar E-mail: Caneca e tirante - MILENA.ALMEIDA",
+      "nome": "DD:: Enviar E-mail: Caneca e Tirante - MILENA.ALMEIDA",
       "data": "2026-07-08",
       "diasAtraso": 0,
-      "pessoas": [],
-      "setores": []
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
     },
     {
       "nome": "DR:: Boleto Especial - KAMILLA.WENECK",
