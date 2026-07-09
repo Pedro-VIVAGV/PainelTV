@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T20:15:49.600Z",
+  "atualizadoEm": "2026-07-09T20:31:00.722Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 52,
-    "totalSemana": 106
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 54,
+    "totalSemana": 108
   },
   "pessoas": [
     {
@@ -48,9 +48,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 26,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -63,10 +63,6 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 2
-        },
-        {
-          "nome": "Contratação Atração: DJ Johnny 150_MILENA.ALMEIDA",
-          "diasAtraso": 0
         },
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
@@ -169,6 +165,14 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Contratação Atração: DJ Johnny 150_MILENA.ALMEIDA",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
+          "data": "2026-07-09"
         },
         {
           "nome": "Formalizar Reserva Igreja_GABRYELLE-VITOR",
@@ -1219,9 +1223,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 20,
-      "semanaTotal": 28,
+      "atrasadas": 21,
+      "atrasadasAnterior": 22,
+      "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1302,10 +1306,6 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 2
-        },
-        {
-          "nome": "Contratação Atração: DJ Johnny 150_MILENA.ALMEIDA",
-          "diasAtraso": 0
         },
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
@@ -1415,6 +1415,14 @@
         },
         {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contratação Atração: DJ Johnny 150_MILENA.ALMEIDA",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
           "data": "2026-07-09"
         },
         {
@@ -1954,17 +1962,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Contratação Atração: DJ Johnny 150_MILENA.ALMEIDA",
-      "data": "2026-07-09",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
