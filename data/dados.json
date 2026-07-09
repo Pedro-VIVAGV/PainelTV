@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T12:45:38.061Z",
+  "atualizadoEm": "2026-07-09T13:01:49.135Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 53,
     "totalAtrasadasAnterior": 55,
-    "totalSemana": 97
+    "totalSemana": 98
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 4,
       "atrasadasAnterior": 3,
-      "semanaTotal": 24,
+      "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -165,6 +165,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Formalizar Reserva Igreja_GABRYELLE-VITOR",
+          "data": "2026-07-09"
         }
       ]
     },
