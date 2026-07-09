@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T21:01:00.244Z",
+  "atualizadoEm": "2026-07-09T21:15:52.063Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -406,12 +406,12 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "nome": "DR:: Planos Fotografia - Arthur.Ing.Dorian",
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Planos Fotografia - Arthur.Ing.Dorian",
-          "data": "2026-07-09"
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
@@ -1119,10 +1119,6 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-09"
-        },
-        {
           "nome": "Agendar Sessão de Fotos Meio",
           "data": "2026-07-09"
         },
@@ -1145,6 +1141,10 @@
         {
           "nome": "DR:: Planos Fotografia - Arthur.Ing.Dorian",
           "data": "2026-07-09"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-10"
         },
         {
           "nome": "Primeira Reunião",
