@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T00:01:18.001Z",
+  "atualizadoEm": "2026-07-09T00:15:46.221Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 43,
+    "totalAtrasadas": 56,
+    "totalAtrasadasAnterior": 48,
     "totalSemana": 94
   },
   "pessoas": [
@@ -174,10 +174,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Reunião Plan",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Negociação: Luila",
@@ -306,8 +311,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 7,
+      "atrasadas": 7,
+      "atrasadasAnterior": 6,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -333,6 +338,10 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -542,8 +551,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 13,
+      "atrasadas": 23,
+      "atrasadasAnterior": 17,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -595,11 +604,27 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 0
         },
         {
           "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -611,7 +636,15 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 0
         }
       ],
@@ -819,8 +852,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 20,
+      "atrasadas": 32,
+      "atrasadasAnterior": 24,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -892,11 +925,27 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DR:: Reunião Plan",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Planos e Adesões: Colação WILLA",
           "diasAtraso": 0
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 0
         },
         {
@@ -908,6 +957,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
@@ -916,7 +969,19 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 0
         }
       ],
@@ -1865,6 +1930,94 @@
     {
       "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
       "data": "2026-07-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Reunião Plan",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Colação Festiva",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+      "data": "2026-07-09",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
+      "data": "2026-07-09",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
