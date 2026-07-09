@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T12:06:06.624Z",
+  "atualizadoEm": "2026-07-09T12:15:52.612Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 55,
     "totalAtrasadasAnterior": 56,
-    "totalSemana": 94
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -225,7 +225,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 13,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -265,7 +265,11 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Camisa Esportiva MED27 ANA.JULIA.MENDES",
           "data": "2026-07-09"
         },
         {
@@ -273,7 +277,7 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "Camisa Esportiva MED27 ANA.JULIA.MENDES",
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-10"
         },
         {
@@ -832,7 +836,7 @@
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
