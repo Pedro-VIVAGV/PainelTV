@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T13:30:56.099Z",
+  "atualizadoEm": "2026-07-09T13:45:48.296Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 53,
-    "totalSemana": 99
+    "totalSemana": 101
   },
   "pessoas": [
     {
@@ -225,7 +225,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 16,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -263,6 +263,14 @@
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Evento: 08/08/2026_Demanda Mkt-Ingresso_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Ingresso_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
