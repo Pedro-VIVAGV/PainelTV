@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T17:30:53.880Z",
+  "atualizadoEm": "2026-07-09T17:45:49.726Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 53,
-    "totalSemana": 105
+    "totalSemana": 106
   },
   "pessoas": [
     {
@@ -229,7 +229,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 19,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -281,20 +281,24 @@
           "data": "2026-07-09"
         },
         {
+          "nome": "Evento: 01/08/2026 _Demanda Mkt-Banner BackDrop_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
+        },
+        {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardápio_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "data": "2026-07-09"
         },
         {
           "nome": "Camisa Esportiva MED27 ANA.JULIA.MENDES",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "03/07/2026_Demanda Mkt-Brasão_Fundo: ANA-JULIA-MENDES_UFJF-GV_MEDICINA_2031-2",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
