@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T14:31:03.182Z",
+  "atualizadoEm": "2026-07-09T14:45:56.985Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 53,
-    "totalSemana": 104
+    "totalSemana": 105
   },
   "pessoas": [
     {
@@ -50,7 +50,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 4,
-      "semanaTotal": 25,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -164,6 +164,10 @@
         },
         {
           "nome": "Formalizar Reserva Igreja_GABRYELLE-VITOR",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Correção Documento Digitalizado_LARA-ELIDIANA-LUISA",
           "data": "2026-07-09"
         }
       ]
