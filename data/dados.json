@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T12:15:52.612Z",
+  "atualizadoEm": "2026-07-09T12:45:38.061Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 56,
-    "totalSemana": 95
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 55,
+    "totalSemana": 97
   },
   "pessoas": [
     {
@@ -225,7 +225,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 14,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -273,7 +273,11 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "03/07/2026_Demanda Mkt-Brasão_Fundo: ANA-JULIA-MENDES_UFJF-GV_MEDICINA_2031-2",
           "data": "2026-07-09"
         },
         {
@@ -282,6 +286,10 @@
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-07-10"
         }
       ]
@@ -555,8 +563,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 23,
+      "atrasadas": 20,
+      "atrasadasAnterior": 22,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -624,10 +632,6 @@
           "diasAtraso": 1
         },
         {
-          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 0
         },
@@ -641,10 +645,6 @@
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 0
         }
       ],
@@ -852,8 +852,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 32,
+      "atrasadas": 29,
+      "atrasadasAnterior": 31,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -949,10 +949,6 @@
           "diasAtraso": 1
         },
         {
-          "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-          "diasAtraso": 1
-        },
-        {
           "nome": "DR:: Reunião Plan",
           "diasAtraso": 0
         },
@@ -974,10 +970,6 @@
         },
         {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 0
         }
       ],
@@ -1924,17 +1916,6 @@
       ]
     },
     {
-      "nome": "DR: Evento 1/6 Medico :: Convites Extras - BRUNA.GOUVEA",
-      "data": "2026-07-08",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Reunião Plan",
       "data": "2026-07-09",
       "diasAtraso": 0,
@@ -1995,17 +1976,6 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Convites Extras → Meio de Curso - MILENA.ALMEIDA",
-      "data": "2026-07-09",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
