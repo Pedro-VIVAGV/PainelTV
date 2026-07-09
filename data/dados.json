@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T14:01:02.210Z",
+  "atualizadoEm": "2026-07-09T14:15:52.982Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 53,
-    "totalSemana": 101
+    "totalSemana": 104
   },
   "pessoas": [
     {
@@ -457,7 +457,7 @@
       ],
       "atrasadas": 21,
       "atrasadasAnterior": 27,
-      "semanaTotal": 5,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -564,6 +564,18 @@
         {
           "nome": "Pagamento Kaikan",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
+          "data": "2026-07-09"
         }
       ]
     },
@@ -1197,7 +1209,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 21,
-      "semanaTotal": 25,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1380,6 +1392,18 @@
         {
           "nome": "Organizar caixotes",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
+          "data": "2026-07-09"
+        },
+        {
+          "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
+          "data": "2026-07-09"
         }
       ]
     }
