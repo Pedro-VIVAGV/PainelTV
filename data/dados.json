@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T13:16:07.682Z",
+  "atualizadoEm": "2026-07-09T13:30:56.099Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 53,
-    "totalSemana": 98
+    "totalSemana": 99
   },
   "pessoas": [
     {
@@ -303,7 +303,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -313,6 +313,10 @@
         {
           "nome": "DD:: Localizar Foto - THIAGO.LOPES",
           "data": "2026-07-07"
+        },
+        {
+          "nome": "DD:: Fotos Avulsas - FLAVIA.ALESSANDRA",
+          "data": "2026-07-09"
         }
       ]
     },
@@ -1179,8 +1183,8 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 20,
