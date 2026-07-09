@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T15:01:16.721Z",
+  "atualizadoEm": "2026-07-09T15:15:56.267Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 105
   },
   "pessoas": [
@@ -227,15 +227,10 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 18,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Ingresso_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "diasAtraso": 0
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 19,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Alteração Caneca ::: Pedro.Perelo",
@@ -272,6 +267,10 @@
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
           "data": "2026-07-08"
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Ingresso_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-09"
         },
         {
           "nome": "Evento: 08/08/2026_Demanda Mkt-Ingresso_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
@@ -346,7 +345,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 6,
-      "semanaTotal": 19,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -392,10 +391,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-09"
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "data": "2026-07-09"
         },
         {
@@ -887,7 +882,7 @@
       ],
       "atrasadas": 29,
       "atrasadasAnterior": 31,
-      "semanaTotal": 50,
+      "semanaTotal": 49,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1109,10 +1104,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-09"
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "data": "2026-07-09"
         },
         {
@@ -1944,15 +1935,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Evento: 01/08/2026_Demanda Mkt-Ingresso_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-      "data": "2026-07-09",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Reunião Plan",
