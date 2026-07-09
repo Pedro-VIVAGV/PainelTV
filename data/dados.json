@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T19:00:58.316Z",
+  "atualizadoEm": "2026-07-09T19:15:55.412Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -1215,8 +1215,8 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 22,
