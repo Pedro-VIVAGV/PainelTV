@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-09T11:45:46.699Z",
+  "atualizadoEm": "2026-07-09T12:06:06.624Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 56,
-    "totalAtrasadasAnterior": 48,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 56,
     "totalSemana": 94
   },
   "pessoas": [
@@ -551,8 +551,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 17,
+      "atrasadas": 22,
+      "atrasadasAnterior": 23,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -637,10 +637,6 @@
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
           "diasAtraso": 0
         },
         {
@@ -852,8 +848,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 24,
+      "atrasadas": 31,
+      "atrasadasAnterior": 32,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -970,10 +966,6 @@
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
           "diasAtraso": 0
         },
         {
@@ -1984,17 +1976,6 @@
     },
     {
       "nome": "Primeira Reunião",
-      "data": "2026-07-09",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Reunião - JOSE.NETO - Replanejamento",
       "data": "2026-07-09",
       "diasAtraso": 0,
       "pessoas": [
