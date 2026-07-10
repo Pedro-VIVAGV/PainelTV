@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-10T12:01:04.414Z",
+  "atualizadoEm": "2026-07-10T12:15:45.846Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -257,7 +257,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 20,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -334,10 +334,6 @@
         },
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-07-10"
         }
       ]
@@ -545,7 +541,7 @@
       ],
       "atrasadas": 25,
       "atrasadasAnterior": 21,
-      "semanaTotal": 8,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -666,20 +662,24 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "Pagamento Kaikan",
-          "data": "2026-07-08"
-        },
-        {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "data": "2026-07-09"
         },
         {
+          "nome": "Pagamentos 2026-07-10",
+          "data": "2026-07-10"
+        },
+        {
           "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Pagamento Kaikan",
+          "data": "2026-07-10"
         }
       ]
     },
@@ -1397,7 +1397,7 @@
       ],
       "atrasadas": 27,
       "atrasadasAnterior": 21,
-      "semanaTotal": 30,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1602,10 +1602,6 @@
           "data": "2026-07-08"
         },
         {
-          "nome": "Pagamento Kaikan",
-          "data": "2026-07-08"
-        },
-        {
           "nome": "Organizar caixotes",
           "data": "2026-07-08"
         },
@@ -1622,12 +1618,20 @@
           "data": "2026-07-09"
         },
         {
+          "nome": "Pagamentos 2026-07-10",
+          "data": "2026-07-10"
+        },
+        {
           "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
         },
         {
           "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "data": "2026-07-09"
+          "data": "2026-07-10"
+        },
+        {
+          "nome": "Pagamento Kaikan",
+          "data": "2026-07-10"
         }
       ]
     }
