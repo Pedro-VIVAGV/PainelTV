@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-10T14:15:45.783Z",
+  "atualizadoEm": "2026-07-10T14:31:10.500Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,9 +18,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 78,
-    "totalAtrasadasAnterior": 53,
-    "totalSemana": 109
+    "totalAtrasadas": 77,
+    "totalAtrasadasAnterior": 78,
+    "totalSemana": 108
   },
   "pessoas": [
     {
@@ -371,9 +371,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 7,
-      "semanaTotal": 19,
+      "atrasadas": 19,
+      "atrasadasAnterior": 20,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -402,10 +402,6 @@
         {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
@@ -475,10 +471,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-10"
         },
         {
@@ -1004,9 +996,9 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 46,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 50,
+      "atrasadas": 45,
+      "atrasadasAnterior": 46,
+      "semanaTotal": 49,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1123,10 +1115,6 @@
         {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
@@ -1320,10 +1308,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-10"
         },
         {
@@ -2322,17 +2306,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-      "data": "2026-07-10",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
