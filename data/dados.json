@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-10T21:01:12.493Z",
+  "atualizadoEm": "2026-07-10T21:15:43.068Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 77,
-    "totalAtrasadasAnterior": 78,
+    "totalAtrasadas": 79,
+    "totalAtrasadasAnterior": 77,
     "totalSemana": 106
   },
   "pessoas": [
@@ -679,8 +679,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 20,
+      "atrasadas": 26,
+      "atrasadasAnterior": 24,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -777,6 +777,14 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 0
         }
       ],
@@ -980,8 +988,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 45,
-      "atrasadasAnterior": 46,
+      "atrasadas": 47,
+      "atrasadasAnterior": 45,
       "semanaTotal": 49,
       "tarefasAtrasadas": [
         {
@@ -1125,6 +1133,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Reunião - Meio Médico",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
           "diasAtraso": 0
         },
@@ -1154,6 +1166,10 @@
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 0
         },
         {
@@ -2370,6 +2386,17 @@
       ]
     },
     {
+      "nome": "Agendar Reunião - Meio Médico",
+      "data": "2026-07-10",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
       "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
       "data": "2026-07-10",
       "diasAtraso": 0,
@@ -2452,6 +2479,17 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Elaborar Ajuste Projeto",
+      "data": "2026-07-10",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
