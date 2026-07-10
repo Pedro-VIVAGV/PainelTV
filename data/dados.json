@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-10T15:01:15.467Z",
+  "atualizadoEm": "2026-07-10T15:15:47.399Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -470,10 +470,6 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-10"
-        },
-        {
           "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-10"
         },
@@ -496,6 +492,10 @@
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "data": "2026-07-11"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
@@ -1307,10 +1307,6 @@
           "data": "2026-07-09"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-10"
-        },
-        {
           "nome": "Primeira Reunião",
           "data": "2026-07-10"
         },
@@ -1349,6 +1345,10 @@
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "data": "2026-07-11"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
