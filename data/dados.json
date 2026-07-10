@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-10T18:01:04.785Z",
+  "atualizadoEm": "2026-07-10T18:15:52.565Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -20,7 +20,7 @@
     },
     "totalAtrasadas": 77,
     "totalAtrasadasAnterior": 78,
-    "totalSemana": 108
+    "totalSemana": 106
   },
   "pessoas": [
     {
@@ -257,7 +257,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 19,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -326,14 +326,6 @@
         },
         {
           "nome": "03/07/2026_Demanda Mkt-Brasão_Fundo: ANA-JULIA-MENDES_UFJF-GV_MEDICINA_2031-2",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-10"
         }
       ]
@@ -955,7 +947,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 7,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -977,14 +969,6 @@
         {
           "nome": "DD:: Elaborar Feed Comissão- JOSE.NETO",
           "data": "2026-07-08"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-10"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-10"
         }
       ]
     },
