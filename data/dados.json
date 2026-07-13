@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T14:15:54.680Z",
+  "atualizadoEm": "2026-07-13T14:31:11.533Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 47,
     "totalAtrasadasAnterior": 46,
-    "totalSemana": 90
+    "totalSemana": 91
   },
   "pessoas": [
     {
@@ -158,7 +158,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 0,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Reunião Plan",
@@ -166,6 +166,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "data": "2026-07-15"
+        },
         {
           "nome": "DD:: Briefing - ANA.BEATRIZ",
           "data": "2026-07-15"
@@ -804,14 +808,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
-        "Rodrigo :: VIVA Eventos",
-        "Locatelli:: Atendimento - VIVA GV"
+        "Rodrigo :: VIVA Eventos"
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 31,
-      "semanaTotal": 50,
+      "semanaTotal": 51,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -966,6 +970,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "data": "2026-07-15"
         },
         {
           "nome": "DD:: Briefing - ANA.BEATRIZ",
