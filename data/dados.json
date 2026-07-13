@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T19:01:06.125Z",
+  "atualizadoEm": "2026-07-13T19:15:51.405Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 45,
-    "totalAtrasadasAnterior": 46,
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 45,
     "totalSemana": 93
   },
   "pessoas": [
@@ -156,10 +156,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
@@ -816,8 +821,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 13,
+      "atrasadasAnterior": 12,
       "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
@@ -867,6 +872,10 @@
         {
           "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1771,6 +1780,17 @@
       "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+      "data": "2026-07-13",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
