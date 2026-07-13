@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T12:45:50.141Z",
+  "atualizadoEm": "2026-07-13T13:01:08.180Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 74,
-    "totalSemana": 81
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 64,
+    "totalSemana": 82
   },
   "pessoas": [
     {
@@ -265,85 +265,13 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 1,
+      "atrasadasAnterior": 19,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 11
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Realizar Junções - Pastas Dropbox",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
@@ -420,11 +348,11 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Referências dos Produtos Extras Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
-          "nome": "Definir Atrações Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Definir Atrações Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
@@ -445,9 +373,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 25,
-      "semanaTotal": 10,
+      "atrasadas": 24,
+      "atrasadasAnterior": 26,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -522,14 +450,6 @@
           "diasAtraso": 18
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 7
         },
@@ -584,15 +504,19 @@
           "data": "2026-07-14"
         },
         {
+          "nome": "Contato com Maik / Repassar 3D Antes",
+          "data": "2026-07-15"
+        },
+        {
           "nome": "Atualização Anexo A Base",
           "data": "2026-07-16"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Referências dos Produtos Extras Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
-          "nome": "Definir Atrações Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Definir Atrações Bailes 2026-2",
           "data": "2026-07-16"
         }
       ]
@@ -837,8 +761,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 41,
+      "atrasadas": 13,
+      "atrasadasAnterior": 31,
       "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
@@ -858,28 +782,8 @@
           "diasAtraso": 32
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "diasAtraso": 14
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 11
-        },
-        {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
-          "diasAtraso": 6
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
@@ -910,59 +814,7 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Realizar Junções - Pastas Dropbox",
           "diasAtraso": 3
         }
       ],
@@ -1108,11 +960,11 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Referências dos Produtos Extras Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
-          "nome": "Definir Atrações Bailes 2026-2",
+          "nome": "DIVIDIR TAREFAS: Definir Atrações Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
@@ -1146,7 +998,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 27,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1305,6 +1157,10 @@
         {
           "nome": "Contratos Império",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "Contato com Maik / Repassar 3D Antes",
+          "data": "2026-07-15"
         },
         {
           "nome": "Contratação Banheiro Químico_BIARA-ROBERTA",
@@ -1619,53 +1475,7 @@
       ]
     },
     {
-      "nome": "Referências dos Produtos Extras Bailes 2026-2",
-      "data": "2026-06-29",
-      "diasAtraso": 14,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definir Atrações Bailes 2026-2",
-      "data": "2026-06-29",
-      "diasAtraso": 14,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-07-02",
-      "diasAtraso": 11,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
       "data": "2026-07-03",
       "diasAtraso": 10,
       "pessoas": [
@@ -1695,17 +1505,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
-      "data": "2026-07-07",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1791,17 +1590,6 @@
       "diasAtraso": 4,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-      "data": "2026-07-09",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
@@ -1894,143 +1682,11 @@
       ]
     },
     {
-      "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-07-10",
       "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Realizar Junções - Pastas Dropbox",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
