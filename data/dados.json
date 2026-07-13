@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T18:45:42.172Z",
+  "atualizadoEm": "2026-07-13T19:01:06.125Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 47,
+    "totalAtrasadas": 45,
+    "totalAtrasadasAnterior": 46,
     "totalSemana": 93
   },
   "pessoas": [
@@ -1087,8 +1087,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadas": 28,
+      "atrasadasAnterior": 29,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1146,10 +1146,6 @@
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 34
-        },
-        {
-          "nome": "Pgto Forn. Caneca e Tirante - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1 (1)",
-          "diasAtraso": 33
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
@@ -1503,15 +1499,6 @@
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pgto Forn. Caneca e Tirante - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1 (1)",
-      "data": "2026-06-10",
-      "diasAtraso": 33,
-      "pessoas": [],
       "setores": [
         "Produção"
       ]
