@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T11:31:05.875Z",
+  "atualizadoEm": "2026-07-13T11:45:45.524Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 81,
-    "totalAtrasadasAnterior": 79,
-    "totalSemana": 49
+    "totalAtrasadas": 74,
+    "totalAtrasadasAnterior": 81,
+    "totalSemana": 51
   },
   "pessoas": [
     {
@@ -505,9 +505,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 26,
-      "semanaTotal": 13,
+      "atrasadas": 20,
+      "atrasadasAnterior": 27,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -534,22 +534,6 @@
           "diasAtraso": 32
         },
         {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Planos e Adesões: Colação WILLA",
           "diasAtraso": 5
         },
@@ -559,14 +543,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 5
         },
         {
@@ -588,10 +564,6 @@
         {
           "nome": "Primeira Reunião",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
-          "diasAtraso": 3
         },
         {
           "nome": "Confirmar Sessão de Fotos",
@@ -660,7 +632,15 @@
           "data": "2026-07-15"
         },
         {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "data": "2026-07-15"
+        },
+        {
           "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "data": "2026-07-15"
         },
         {
@@ -777,9 +757,9 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 48,
-      "atrasadasAnterior": 47,
-      "semanaTotal": 21,
+      "atrasadas": 41,
+      "atrasadasAnterior": 48,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -830,22 +810,6 @@
           "diasAtraso": 10
         },
         {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Atualizar OP (Inadimplentes)",
-          "diasAtraso": 6
-        },
-        {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "diasAtraso": 6
         },
@@ -859,14 +823,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 5
         },
         {
@@ -896,10 +852,6 @@
         {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
-          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
@@ -1044,7 +996,15 @@
           "data": "2026-07-15"
         },
         {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "data": "2026-07-15"
+        },
+        {
           "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "data": "2026-07-15"
         },
         {
@@ -1615,50 +1575,6 @@
       ]
     },
     {
-      "nome": "Atualizar OP (Inadimplentes)",
-      "data": "2026-07-07",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualizar OP (Inadimplentes)",
-      "data": "2026-07-07",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualizar OP (Inadimplentes)",
-      "data": "2026-07-07",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualizar OP (Inadimplentes)",
-      "data": "2026-07-07",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
       "data": "2026-07-07",
       "diasAtraso": 6,
@@ -1693,28 +1609,6 @@
     },
     {
       "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Data Baile e Primeira Reunião",
       "data": "2026-07-08",
       "diasAtraso": 5,
       "pessoas": [
@@ -1896,17 +1790,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - CAMILA.HERNECK",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
