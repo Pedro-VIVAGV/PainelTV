@@ -16,9 +16,9 @@
       "Cotação": 2,
       "Marketing": 0,
       "Planejamento": 13,
-      "Produção": 28
+      "Produção": 29
     },
-    "total": 46
+    "total": 47
   },
   "anterior": {
     "pessoas": {
@@ -37,8 +37,8 @@
       "Cotação": 1,
       "Marketing": 1,
       "Planejamento": 31,
-      "Produção": 27
+      "Produção": 28
     },
-    "total": 64
+    "total": 46
   }
 }
