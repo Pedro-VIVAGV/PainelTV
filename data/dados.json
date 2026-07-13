@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T13:31:05.191Z",
+  "atualizadoEm": "2026-07-13T13:45:47.123Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 46,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 82
+    "totalSemana": 86
   },
   "pessoas": [
     {
@@ -267,7 +267,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 19,
-      "semanaTotal": 22,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -348,6 +348,22 @@
           "data": "2026-07-15"
         },
         {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-07-16"
+        },
+        {
           "nome": "DIVIDIR TAREFAS: Referências dos Produtos Extras Bailes 2026-2",
           "data": "2026-07-16"
         },
@@ -368,14 +384,14 @@
     {
       "nome": "Pedro :: GRUPO VIVA - GV",
       "setores": [
-        "Produção",
         "Planejamento",
+        "Produção",
         "Cotação",
         "Marketing"
       ],
       "atrasadas": 24,
       "atrasadasAnterior": 26,
-      "semanaTotal": 11,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -506,6 +522,22 @@
         {
           "nome": "Contato com Maik / Repassar 3D Antes",
           "data": "2026-07-15"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-07-16"
         },
         {
           "nome": "Atualização Anexo A Base",
@@ -756,14 +788,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
-        "Locatelli:: Atendimento - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV"
+        "Pedro :: GRUPO VIVA - GV",
+        "Rodrigo :: VIVA Eventos",
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 31,
-      "semanaTotal": 42,
+      "semanaTotal": 46,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -946,6 +978,22 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-15"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-07-16"
         },
         {
           "nome": "Projeto: Tô Dentro",
