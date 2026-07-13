@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T12:01:11.318Z",
+  "atualizadoEm": "2026-07-13T12:15:43.795Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 64,
     "totalAtrasadasAnterior": 74,
-    "totalSemana": 56
+    "totalSemana": 73
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 4,
-      "semanaTotal": 13,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -93,7 +93,19 @@
           "data": "2026-07-13"
         },
         {
+          "nome": "Organizar caixotes",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-07-13"
+        },
+        {
           "nome": "Realizar Impressão Backdrop_BRUNA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
           "data": "2026-07-14"
         },
         {
@@ -251,7 +263,7 @@
       ],
       "atrasadas": 19,
       "atrasadasAnterior": 20,
-      "semanaTotal": 8,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
@@ -332,11 +344,67 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-13"
         },
         {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "data": "2026-07-14"
         },
         {
@@ -739,7 +807,7 @@
       ],
       "atrasadas": 31,
       "atrasadasAnterior": 41,
-      "semanaTotal": 28,
+      "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -868,10 +936,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "E-mail Final: Baile",
           "data": "2026-07-13"
         },
@@ -888,7 +952,43 @@
           "data": "2026-07-13"
         },
         {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-14"
         },
         {
@@ -900,11 +1000,35 @@
           "data": "2026-07-14"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
           "data": "2026-07-14"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "Agendar S. Fotos e Confirmar Colação",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "data": "2026-07-14"
         },
         {
@@ -990,7 +1114,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 27,
-      "semanaTotal": 10,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1111,7 +1235,19 @@
           "data": "2026-07-13"
         },
         {
+          "nome": "Organizar caixotes",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-07-13"
+        },
+        {
           "nome": "Realizar Impressão Backdrop_BRUNA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Dobrar os Uniformes e panos de chão",
           "data": "2026-07-14"
         },
         {
