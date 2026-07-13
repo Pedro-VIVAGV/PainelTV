@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T20:31:08.587Z",
+  "atualizadoEm": "2026-07-13T20:45:44.030Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 45,
     "totalAtrasadasAnterior": 46,
-    "totalSemana": 94
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -406,7 +406,7 @@
       ],
       "atrasadas": 24,
       "atrasadasAnterior": 26,
-      "semanaTotal": 18,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -506,6 +506,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Pgto Forn. Caneca e Tirante - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-13"
+        },
         {
           "nome": "Pgto Forn. Caneca e Tirante - Fundo: Pedro.Perelo",
           "data": "2026-07-13"
@@ -1097,7 +1101,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 29,
-      "semanaTotal": 22,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1213,6 +1217,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Pgto Forn. Caneca e Tirante - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-13"
+        },
         {
           "nome": "Pgto Forn. Caneca e Tirante - Fundo: Pedro.Perelo",
           "data": "2026-07-13"
