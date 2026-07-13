@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T12:15:43.795Z",
+  "atualizadoEm": "2026-07-13T12:31:05.561Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 64,
     "totalAtrasadasAnterior": 74,
-    "totalSemana": 73
+    "totalSemana": 77
   },
   "pessoas": [
     {
@@ -183,7 +183,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -199,20 +199,16 @@
           "data": "2026-07-13"
         },
         {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-14"
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
-          "data": "2026-07-15"
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
@@ -231,7 +227,15 @@
           "data": "2026-07-16"
         },
         {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-16"
+        },
+        {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-07-17"
         }
       ]
@@ -443,7 +447,7 @@
       ],
       "atrasadas": 26,
       "atrasadasAnterior": 25,
-      "semanaTotal": 3,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -553,6 +557,18 @@
       "tarefasSemana": [
         {
           "nome": "Contratações Meio Medico_CELIA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Pagamentos 2026-07-10",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
           "data": "2026-07-13"
         },
         {
@@ -780,10 +796,6 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-07-15"
         },
@@ -793,6 +805,10 @@
         },
         {
           "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-16"
         }
       ]
@@ -1114,7 +1130,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 27,
-      "semanaTotal": 13,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1232,6 +1248,18 @@
       "tarefasSemana": [
         {
           "nome": "Contratações Meio Medico_CELIA",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Pagamentos 2026-07-10",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-07-13"
+        },
+        {
+          "nome": "Contratação Fotógrafos: Sessão Meio_CELIA",
           "data": "2026-07-13"
         },
         {
