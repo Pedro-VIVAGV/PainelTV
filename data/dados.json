@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T14:45:44.339Z",
+  "atualizadoEm": "2026-07-13T15:01:09.035Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 46,
-    "totalSemana": 91
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 47,
+    "totalSemana": 92
   },
   "pessoas": [
     {
@@ -156,16 +156,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 2,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Reunião Plan",
-          "diasAtraso": 4
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 3,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "data": "2026-07-13"
+        },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
           "data": "2026-07-15"
@@ -813,9 +812,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 31,
-      "semanaTotal": 51,
+      "atrasadas": 12,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -850,10 +849,6 @@
           "diasAtraso": 5
         },
         {
-          "nome": "DR:: Reunião Plan",
-          "diasAtraso": 4
-        },
-        {
           "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 4
         },
@@ -871,6 +866,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "data": "2026-07-13"
+        },
         {
           "nome": "E-mail Final: Baile",
           "data": "2026-07-13"
@@ -1650,17 +1649,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Reunião Plan",
-      "data": "2026-07-09",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
