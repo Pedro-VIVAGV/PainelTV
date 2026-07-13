@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T00:01:13.417Z",
+  "atualizadoEm": "2026-07-13T00:15:42.156Z",
   "semana": {
     "inicio": "2026-07-06",
     "fim": "2026-07-12"
@@ -18,8 +18,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 79,
-    "totalAtrasadasAnterior": 77,
+    "totalAtrasadas": 81,
+    "totalAtrasadasAnterior": 79,
     "totalSemana": 106
   },
   "pessoas": [
@@ -527,8 +527,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 21,
+      "atrasadas": 26,
+      "atrasadasAnterior": 25,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -630,6 +630,10 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -679,8 +683,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 24,
+      "atrasadas": 27,
+      "atrasadasAnterior": 26,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -786,6 +790,10 @@
         {
           "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 2
+        },
+        {
+          "nome": "E-mail Final: Baile",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -988,8 +996,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 47,
-      "atrasadasAnterior": 45,
+      "atrasadas": 48,
+      "atrasadasAnterior": 47,
       "semanaTotal": 49,
       "tarefasAtrasadas": [
         {
@@ -1179,6 +1187,10 @@
         {
           "nome": "Realizar Junções - Pastas Dropbox",
           "diasAtraso": 2
+        },
+        {
+          "nome": "E-mail Final: Baile",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1387,8 +1399,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 21,
+      "atrasadas": 28,
+      "atrasadasAnterior": 27,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -1498,6 +1510,10 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -2512,6 +2528,28 @@
       "diasAtraso": 2,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+      "data": "2026-07-13",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "E-mail Final: Baile",
+      "data": "2026-07-13",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
