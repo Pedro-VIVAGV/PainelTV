@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-13T11:45:45.524Z",
+  "atualizadoEm": "2026-07-13T12:01:11.318Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 74,
-    "totalAtrasadasAnterior": 81,
-    "totalSemana": 51
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 74,
+    "totalSemana": 56
   },
   "pessoas": [
     {
@@ -336,24 +336,24 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "data": "2026-07-14"
         },
         {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-15"
+        },
+        {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-14"
+          "data": "2026-07-16"
         },
         {
           "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-14"
+          "data": "2026-07-16"
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -489,11 +489,11 @@
         },
         {
           "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-14"
+          "data": "2026-07-16"
         },
         {
           "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-14"
+          "data": "2026-07-16"
         }
       ]
     },
@@ -505,9 +505,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 27,
-      "semanaTotal": 15,
+      "atrasadas": 10,
+      "atrasadasAnterior": 20,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -516,18 +516,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 306
-        },
-        {
-          "nome": "Missas 2026-2",
-          "diasAtraso": 125
-        },
-        {
-          "nome": "Confirmar: Data Colação",
-          "diasAtraso": 123
-        },
-        {
-          "nome": "Solicitar Orçamentos Porto/Eunápolis:",
-          "diasAtraso": 39
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
@@ -539,10 +527,6 @@
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 5
         },
         {
@@ -562,32 +546,8 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "diasAtraso": 3
-        },
-        {
           "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "E-mail Final: Baile",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -650,6 +610,26 @@
         {
           "nome": "Projeto: Tô Dentro",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-07-17"
         }
       ]
     }
@@ -757,9 +737,9 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 41,
-      "atrasadasAnterior": 48,
-      "semanaTotal": 23,
+      "atrasadas": 31,
+      "atrasadasAnterior": 41,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -770,20 +750,8 @@
           "diasAtraso": 306
         },
         {
-          "nome": "Missas 2026-2",
-          "diasAtraso": 125
-        },
-        {
-          "nome": "Confirmar: Data Colação",
-          "diasAtraso": 123
-        },
-        {
           "nome": "Criar E-mails LMS",
           "diasAtraso": 71
-        },
-        {
-          "nome": "Solicitar Orçamentos Porto/Eunápolis:",
-          "diasAtraso": 39
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
@@ -822,10 +790,6 @@
           "diasAtraso": 5
         },
         {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Informativo: TRIUNFO",
           "diasAtraso": 5
         },
@@ -846,10 +810,6 @@
           "diasAtraso": 4
         },
         {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 4
-        },
-        {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 4
         },
@@ -859,18 +819,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
           "diasAtraso": 3
         },
         {
@@ -910,20 +858,12 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 3
-        },
-        {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 3
         },
         {
           "nome": "Realizar Junções - Pastas Dropbox",
           "diasAtraso": 3
-        },
-        {
-          "nome": "E-mail Final: Baile",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -940,19 +880,11 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "Confirmar Data Colação Festiva",
           "data": "2026-07-13"
         },
         {
           "nome": "Primeira Reunião",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-13"
         },
         {
@@ -976,19 +908,15 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes 2026-2",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "Definir Atrações Bailes 2026-2",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-14"
         },
         {
           "nome": "DD:: Briefing - ANA.BEATRIZ",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-07-15"
         },
         {
@@ -1008,7 +936,27 @@
           "data": "2026-07-15"
         },
         {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-15"
+        },
+        {
           "nome": "Projeto: Tô Dentro",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes 2026-2",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Definir Atrações Bailes 2026-2",
           "data": "2026-07-16"
         },
         {
@@ -1017,6 +965,18 @@
         },
         {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Primeira Reunião",
           "data": "2026-07-17"
         }
       ]
@@ -1245,28 +1205,6 @@
       ]
     },
     {
-      "nome": "Missas 2026-2",
-      "data": "2026-03-10",
-      "diasAtraso": 125,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar: Data Colação",
-      "data": "2026-03-12",
-      "diasAtraso": 123,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Atualização de Cheques",
       "data": "2026-03-31",
       "diasAtraso": 104,
@@ -1383,17 +1321,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Solicitar Orçamentos Porto/Eunápolis:",
-      "data": "2026-06-04",
-      "diasAtraso": 39,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1608,17 +1535,6 @@
       ]
     },
     {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-08",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Informativo: TRIUNFO",
       "data": "2026-07-08",
       "diasAtraso": 5,
@@ -1675,17 +1591,6 @@
     },
     {
       "nome": "Confirmar Data - Colação Festiva",
-      "data": "2026-07-09",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
       "data": "2026-07-09",
       "diasAtraso": 4,
       "pessoas": [
@@ -1815,39 +1720,6 @@
       ]
     },
     {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião - Atualização Meio Médico",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-07-10",
       "diasAtraso": 3,
@@ -1947,17 +1819,6 @@
       ]
     },
     {
-      "nome": "Elaborar Ajuste Projeto",
-      "data": "2026-07-10",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
       "data": "2026-07-10",
       "diasAtraso": 3,
@@ -1988,17 +1849,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "E-mail Final: Baile",
-      "data": "2026-07-13",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     }
   ]
