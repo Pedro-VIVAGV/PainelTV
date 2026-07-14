@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T14:15:54.711Z",
+  "atualizadoEm": "2026-07-14T14:31:03.267Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 54,
     "totalAtrasadasAnterior": 55,
-    "totalSemana": 99
+    "totalSemana": 100
   },
   "pessoas": [
     {
@@ -296,7 +296,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 1,
-      "semanaTotal": 28,
+      "semanaTotal": 29,
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -335,6 +335,10 @@
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-13"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
+          "data": "2026-07-14"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
@@ -884,7 +888,7 @@
       ],
       "atrasadas": 18,
       "atrasadasAnterior": 19,
-      "semanaTotal": 53,
+      "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1006,6 +1010,10 @@
         },
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
           "data": "2026-07-14"
         },
         {
