@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T12:15:46.915Z",
+  "atualizadoEm": "2026-07-14T12:30:56.635Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 55,
     "totalAtrasadasAnterior": 56,
-    "totalSemana": 95
+    "totalSemana": 99
   },
   "pessoas": [
     {
@@ -199,7 +199,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 0,
-      "semanaTotal": 13,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
@@ -220,6 +220,14 @@
           "data": "2026-07-13"
         },
         {
+          "nome": "Alteração Ingresso ::: MILENA.ALMEIDA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Banner Espaço RedBull",
+          "data": "2026-07-14"
+        },
+        {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-14"
         },
@@ -230,6 +238,14 @@
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "Fazer vetor Preto e Branco_Ingryd Diniz",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "Fazer vetor Preto e Branco",
+          "data": "2026-07-15"
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
@@ -817,7 +833,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -835,6 +851,10 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-13"
+        },
+        {
+          "nome": "Alteração Ingresso ::: MILENA.ALMEIDA",
+          "data": "2026-07-14"
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
