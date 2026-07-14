@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T21:01:10.402Z",
+  "atualizadoEm": "2026-07-14T21:15:48.038Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 53,
     "totalAtrasadasAnterior": 54,
-    "totalSemana": 101
+    "totalSemana": 103
   },
   "pessoas": [
     {
@@ -150,7 +150,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -160,6 +160,10 @@
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+          "data": "2026-07-15"
         },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
@@ -273,9 +277,13 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
+        {
+          "nome": "DD:: Fotos Banner - VYCTHÓRIA.ARAUJO",
+          "data": "2026-07-14"
+        },
         {
           "nome": "DD:: Sessão de Fotos - MARIA.LOURDES",
           "data": "2026-07-14"
@@ -882,12 +890,12 @@
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV",
-        "Rodrigo :: VIVA Eventos"
+        "Rodrigo :: VIVA Eventos",
+        "Pedro :: GRUPO VIVA - GV"
       ],
       "atrasadas": 17,
       "atrasadasAnterior": 18,
-      "semanaTotal": 54,
+      "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1070,6 +1078,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+          "data": "2026-07-15"
         },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
