@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T18:15:45.098Z",
+  "atualizadoEm": "2026-07-14T18:31:09.065Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 53,
     "totalAtrasadasAnterior": 54,
-    "totalSemana": 100
+    "totalSemana": 101
   },
   "pessoas": [
     {
@@ -182,7 +182,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 0,
-      "semanaTotal": 17,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
@@ -216,6 +216,10 @@
         },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
           "data": "2026-07-14"
         },
         {
