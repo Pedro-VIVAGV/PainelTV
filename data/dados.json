@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T13:15:46.745Z",
+  "atualizadoEm": "2026-07-14T13:31:12.227Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 100
   },
   "pessoas": [
@@ -442,8 +442,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 24,
+      "atrasadas": 27,
+      "atrasadasAnterior": 26,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -541,6 +541,10 @@
         {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -1185,8 +1189,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 28,
+      "atrasadas": 32,
+      "atrasadasAnterior": 31,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -1300,6 +1304,10 @@
         {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
@@ -1885,6 +1893,17 @@
       "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
       "data": "2026-07-13",
       "diasAtraso": 1,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pagamento Fornecedor - Banner",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
