@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T00:01:11.920Z",
+  "atualizadoEm": "2026-07-14T00:16:01.792Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 45,
-    "totalAtrasadasAnterior": 46,
+    "totalAtrasadas": 56,
+    "totalAtrasadasAnterior": 45,
     "totalSemana": 95
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 4,
+      "atrasadas": 9,
+      "atrasadasAnterior": 8,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
@@ -81,6 +81,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -156,10 +160,19 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 2,
+      "atrasadasAnterior": 0,
       "semanaTotal": 4,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Reunião_Fundo: JOSE NETO",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
@@ -188,10 +201,15 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 13,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
@@ -272,13 +290,21 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 19,
+      "atrasadas": 3,
+      "atrasadasAnterior": 1,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
           "diasAtraso": 10
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -404,8 +430,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 26,
+      "atrasadas": 26,
+      "atrasadasAnterior": 24,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -503,6 +529,14 @@
         {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
           "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -592,8 +626,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 20,
+      "atrasadas": 13,
+      "atrasadasAnterior": 10,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -635,6 +669,18 @@
         {
           "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -824,8 +870,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 19,
+      "atrasadasAnterior": 12,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -875,6 +921,34 @@
         {
           "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Reunião_Fundo: JOSE NETO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1099,8 +1173,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 29,
+      "atrasadas": 31,
+      "atrasadasAnterior": 28,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -1213,6 +1287,18 @@
         },
         {
           "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "diasAtraso": 0
         }
       ],
@@ -1795,6 +1881,125 @@
     {
       "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
       "data": "2026-07-13",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Reunião_Fundo: JOSE NETO",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Realizar Impressão Backdrop_BRUNA",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação Festiva",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+      "data": "2026-07-14",
       "diasAtraso": 0,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
