@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T13:45:47.452Z",
+  "atualizadoEm": "2026-07-14T14:01:14.541Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 54,
-    "totalSemana": 100
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 55,
+    "totalSemana": 99
   },
   "pessoas": [
     {
@@ -46,9 +46,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 16,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -77,10 +77,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 4
-        },
-        {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -99,10 +95,6 @@
         {
           "nome": "Organizar a VIVA",
           "data": "2026-07-13"
-        },
-        {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "data": "2026-07-14"
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -1189,9 +1181,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 31,
-      "semanaTotal": 23,
+      "atrasadas": 31,
+      "atrasadasAnterior": 32,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1310,10 +1302,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "diasAtraso": 0
-        },
-        {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 0
         },
@@ -1362,10 +1350,6 @@
         {
           "nome": "Organizar a VIVA",
           "data": "2026-07-13"
-        },
-        {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "data": "2026-07-14"
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -1930,17 +1914,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Realizar Impressão Backdrop_BRUNA",
-      "data": "2026-07-14",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
     },
     {
       "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
