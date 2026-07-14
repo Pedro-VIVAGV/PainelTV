@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T12:30:56.635Z",
+  "atualizadoEm": "2026-07-14T12:45:47.823Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 55,
     "totalAtrasadasAnterior": 56,
-    "totalSemana": 99
+    "totalSemana": 100
   },
   "pessoas": [
     {
@@ -286,12 +286,16 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
-          "nome": "Ediçao Ana Gonçalves",
-          "data": "2026-07-13"
+          "nome": "DD:: Sessão de Fotos - MARIA.LOURDES",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Ediçao Jessica Dias",
+          "data": "2026-07-14"
         }
       ]
     },
@@ -828,18 +832,14 @@
     {
       "nome": "Marketing",
       "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV",
-        "Maria Clara / Tay :: Luminous"
+        "Maria Clara / Tay :: Luminous",
+        "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
       "semanaTotal": 10,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
-        {
-          "nome": "Ediçao Ana Gonçalves",
-          "data": "2026-07-13"
-        },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-13"
@@ -854,6 +854,10 @@
         },
         {
           "nome": "Alteração Ingresso ::: MILENA.ALMEIDA",
+          "data": "2026-07-14"
+        },
+        {
+          "nome": "Ediçao Jessica Dias",
           "data": "2026-07-14"
         },
         {
