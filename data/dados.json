@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T12:01:10.590Z",
+  "atualizadoEm": "2026-07-14T12:15:46.915Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 56,
-    "totalAtrasadasAnterior": 45,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 56,
     "totalSemana": 95
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 8,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
@@ -65,10 +65,6 @@
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Organizar documentos na Mesa",
-          "diasAtraso": 4
         },
         {
           "nome": "Organizar caixotes",
@@ -1780,15 +1776,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Organizar documentos na Mesa",
-      "data": "2026-07-10",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
