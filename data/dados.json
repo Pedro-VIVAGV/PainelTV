@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-14T12:45:47.823Z",
+  "atualizadoEm": "2026-07-14T13:01:10.356Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 56,
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 55,
     "totalSemana": 100
   },
   "pessoas": [
@@ -156,16 +156,12 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 0,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Reunião_Fundo: JOSE NETO",
           "diasAtraso": 0
         }
       ],
@@ -890,8 +886,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 12,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -944,10 +940,6 @@
         },
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Reunião_Fundo: JOSE NETO",
           "diasAtraso": 0
         },
         {
@@ -1902,17 +1894,6 @@
     },
     {
       "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
-      "data": "2026-07-14",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Reunião_Fundo: JOSE NETO",
       "data": "2026-07-14",
       "diasAtraso": 0,
       "pessoas": [
