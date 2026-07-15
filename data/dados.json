@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T17:31:03.593Z",
+  "atualizadoEm": "2026-07-15T17:45:53.665Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 62,
-    "totalAtrasadasAnterior": 63,
+    "totalAtrasadas": 61,
+    "totalAtrasadasAnterior": 62,
     "totalSemana": 106
   },
   "pessoas": [
@@ -287,15 +287,10 @@
         "Produção",
         "Planejamento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Ediçao Maria de Lurdes",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DD:: Fotos Banner - VYCTHÓRIA.ARAUJO",
@@ -887,15 +882,10 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 11,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Ediçao Maria de Lurdes",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
@@ -2112,17 +2102,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Ediçao Maria de Lurdes",
-      "data": "2026-07-15",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Maria Clara / Tay :: Luminous"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
