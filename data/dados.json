@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T19:31:02.045Z",
+  "atualizadoEm": "2026-07-15T19:45:58.338Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 58,
     "totalAtrasadasAnterior": 59,
-    "totalSemana": 106
+    "totalSemana": 107
   },
   "pessoas": [
     {
@@ -459,7 +459,7 @@
       ],
       "atrasadas": 25,
       "atrasadasAnterior": 26,
-      "semanaTotal": 19,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Teste - Alteração de responsável da demanda",
@@ -637,6 +637,10 @@
         },
         {
           "nome": "Atualização Anexo A Base",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "data": "2026-07-16"
         }
       ]
@@ -1266,7 +1270,7 @@
       ],
       "atrasadas": 29,
       "atrasadasAnterior": 30,
-      "semanaTotal": 22,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1468,6 +1472,10 @@
         },
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "data": "2026-07-16"
         },
         {
