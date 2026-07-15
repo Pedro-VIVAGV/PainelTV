@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T13:16:08.850Z",
+  "atualizadoEm": "2026-07-15T13:31:06.717Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 65,
-    "totalSemana": 104
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 64,
+    "totalSemana": 105
   },
   "pessoas": [
     {
@@ -189,17 +189,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 19,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Fazer vetor Preto e Branco",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -244,11 +240,15 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Fazer vetor Preto e Branco_Ingryd Diniz",
+          "nome": "Alteração Cardápio  ::: Um Sexto BRUNA.GOUVEA",
           "data": "2026-07-15"
         },
         {
-          "nome": "Fazer vetor Preto e Branco",
+          "nome": "Brasão Vazado ::: INGRYD DINIZ",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "Mascote Vazado ::: MED MARIANA.SANTOS",
           "data": "2026-07-15"
         },
         {
@@ -2101,15 +2101,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Fazer vetor Preto e Branco",
-      "data": "2026-07-15",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
