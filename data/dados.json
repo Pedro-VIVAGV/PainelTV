@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T21:01:09.716Z",
+  "atualizadoEm": "2026-07-15T21:15:46.369Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 56,
-    "totalAtrasadasAnterior": 58,
+    "totalAtrasadas": 57,
+    "totalAtrasadasAnterior": 56,
     "totalSemana": 107
   },
   "pessoas": [
@@ -645,8 +645,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 13,
+      "atrasadas": 21,
+      "atrasadasAnterior": 20,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -715,6 +715,10 @@
         },
         {
           "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
           "diasAtraso": 0
         },
         {
@@ -925,8 +929,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 17,
+      "atrasadas": 26,
+      "atrasadasAnterior": 25,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -1015,6 +1019,10 @@
         },
         {
           "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
           "diasAtraso": 0
         },
         {
@@ -2047,6 +2055,17 @@
     },
     {
       "nome": "Agendar Reunião",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Sessão de Fotos",
       "data": "2026-07-15",
       "diasAtraso": 0,
       "pessoas": [
