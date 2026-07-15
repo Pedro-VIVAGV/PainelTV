@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T15:45:53.927Z",
+  "atualizadoEm": "2026-07-15T16:15:55.647Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 63,
-    "totalAtrasadasAnterior": 64,
+    "totalAtrasadas": 62,
+    "totalAtrasadasAnterior": 63,
     "totalSemana": 105
   },
   "pessoas": [
@@ -189,30 +189,17 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 20,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "diasAtraso": 1
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-13"
         },
         {
@@ -224,10 +211,6 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-14"
         },
@@ -236,8 +219,8 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-14"
+          "nome": "Brasão Unificado ::: BIARA.ROBERTA",
+          "data": "2026-07-15"
         },
         {
           "nome": "Alteração Cardápio  ::: Um Sexto BRUNA.GOUVEA",
@@ -256,10 +239,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "data": "2026-07-16"
         },
@@ -268,11 +247,27 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-16"
         },
         {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-17"
         },
         {
@@ -903,18 +898,6 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "Alteração Ingresso ::: MILENA.ALMEIDA",
           "data": "2026-07-14"
         },
@@ -923,15 +906,11 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "nome": "Brasão Unificado ::: BIARA.ROBERTA",
           "data": "2026-07-15"
         },
         {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-07-15"
         },
         {
@@ -939,8 +918,24 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-16"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-17"
         }
       ]
     },
@@ -2004,15 +1999,6 @@
       "setores": [
         "Produção"
       ]
-    },
-    {
-      "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-      "data": "2026-07-14",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
