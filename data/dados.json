@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T00:01:06.983Z",
+  "atualizadoEm": "2026-07-15T00:15:46.788Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 54,
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 103
   },
   "pessoas": [
@@ -148,10 +148,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 5,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Inadimplência - IZABELLA.RINIERI",
@@ -184,10 +189,18 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 3,
+      "atrasadasAnterior": 1,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
+        {
+          "nome": "Fazer vetor Preto e Branco_Ingryd Diniz",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Fazer vetor Preto e Branco",
+          "diasAtraso": 0
+        },
         {
           "nome": "Evento: 01/08/2026_Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "diasAtraso": 0
@@ -275,10 +288,15 @@
         "Produção",
         "Planejamento"
       ],
-      "atrasadas": 0,
+      "atrasadas": 1,
       "atrasadasAnterior": 0,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Ediçao Maria de Lurdes",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DD:: Fotos Banner - VYCTHÓRIA.ARAUJO",
@@ -445,8 +463,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 26,
+      "atrasadas": 28,
+      "atrasadasAnterior": 27,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -550,6 +568,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 0
         },
@@ -645,8 +667,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 10,
+      "atrasadas": 20,
+      "atrasadasAnterior": 13,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -690,7 +712,19 @@
           "diasAtraso": 4
         },
         {
+          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
           "diasAtraso": 0
         },
         {
@@ -698,7 +732,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -838,10 +888,15 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 10,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Ediçao Maria de Lurdes",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
@@ -893,8 +948,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 18,
+      "atrasadas": 25,
+      "atrasadasAnterior": 17,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -946,6 +1001,14 @@
           "diasAtraso": 4
         },
         {
+          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 0
         },
@@ -954,7 +1017,15 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
           "diasAtraso": 0
         },
         {
@@ -962,7 +1033,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -1196,8 +1283,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 32,
+      "atrasadas": 32,
+      "atrasadasAnterior": 31,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1314,6 +1401,10 @@
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
           "diasAtraso": 0
         },
         {
@@ -1994,6 +2085,134 @@
       ],
       "setores": [
         "Produção"
+      ]
+    },
+    {
+      "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Fazer vetor Preto e Branco_Ingryd Diniz",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Fazer vetor Preto e Branco",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Ediçao Maria de Lurdes",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Maria Clara / Tay :: Luminous"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Pos. Junção YASMIN e Fono",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Informações Replanejamento - ANA.CLARA",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+      "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
       ]
     }
   ]
