@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T19:16:07.277Z",
+  "atualizadoEm": "2026-07-15T19:31:02.045Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 59,
-    "totalAtrasadasAnterior": 61,
+    "totalAtrasadas": 58,
+    "totalAtrasadasAnterior": 59,
     "totalSemana": 106
   },
   "pessoas": [
@@ -457,8 +457,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 28,
+      "atrasadas": 25,
+      "atrasadasAnterior": 26,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -536,10 +536,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 9
-        },
-        {
-          "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "diasAtraso": 5
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
@@ -1268,8 +1264,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 32,
+      "atrasadas": 29,
+      "atrasadasAnterior": 30,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1355,10 +1351,6 @@
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
           "diasAtraso": 6
-        },
-        {
-          "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "diasAtraso": 5
         },
         {
           "nome": "Organizar caixotes",
@@ -1866,17 +1858,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-      "data": "2026-07-10",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
