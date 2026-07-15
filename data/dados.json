@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T18:01:16.280Z",
+  "atualizadoEm": "2026-07-15T18:15:52.438Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -239,10 +239,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "data": "2026-07-16"
         },
@@ -261,6 +257,10 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "data": "2026-07-17"
         },
         {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
@@ -904,10 +904,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "data": "2026-07-16"
         },
@@ -922,6 +918,10 @@
         {
           "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "data": "2026-07-17"
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
