@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T19:01:09.666Z",
+  "atualizadoEm": "2026-07-15T19:16:07.277Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 61,
-    "totalAtrasadasAnterior": 62,
+    "totalAtrasadas": 59,
+    "totalAtrasadasAnterior": 61,
     "totalSemana": 106
   },
   "pessoas": [
@@ -457,8 +457,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 27,
+      "atrasadas": 26,
+      "atrasadasAnterior": 28,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -538,10 +538,6 @@
           "diasAtraso": 9
         },
         {
-          "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
           "diasAtraso": 5
         },
@@ -552,10 +548,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 2
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
@@ -1276,8 +1268,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 31,
+      "atrasadas": 30,
+      "atrasadasAnterior": 32,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1365,10 +1357,6 @@
           "diasAtraso": 6
         },
         {
-          "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
           "diasAtraso": 5
         },
@@ -1387,10 +1375,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 2
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
@@ -1885,17 +1869,6 @@
       ]
     },
     {
-      "nome": "Contrato Atração_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
-      "data": "2026-07-10",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Contrato Local e Buffet_Fundo: PEDRO.PERELO_MED-ATENAS 2028.1",
       "data": "2026-07-10",
       "diasAtraso": 5,
@@ -1970,17 +1943,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Contrato Atração_Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-      "data": "2026-07-13",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
