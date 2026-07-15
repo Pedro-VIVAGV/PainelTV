@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T19:45:58.338Z",
+  "atualizadoEm": "2026-07-15T20:01:06.818Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 59,
+    "totalAtrasadas": 56,
+    "totalAtrasadasAnterior": 58,
     "totalSemana": 107
   },
   "pessoas": [
@@ -457,14 +457,10 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 26,
+      "atrasadas": 23,
+      "atrasadasAnterior": 25,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
-        {
-          "nome": "Teste - Alteração de responsável da demanda",
-          "diasAtraso": 272
-        },
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
           "diasAtraso": 237
@@ -507,10 +503,6 @@
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Atrações Baile - EULLER.KAIRO",
           "diasAtraso": 40
         },
         {
@@ -1268,8 +1260,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 30,
+      "atrasadas": 28,
+      "atrasadasAnterior": 29,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -1318,10 +1310,6 @@
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Atrações Baile - EULLER.KAIRO",
           "diasAtraso": 40
         },
         {
@@ -1521,15 +1509,6 @@
       ]
     },
     {
-      "nome": "Teste - Alteração de responsável da demanda",
-      "data": "2025-10-16",
-      "diasAtraso": 272,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
       "data": "2025-11-20",
       "diasAtraso": 237,
@@ -1661,17 +1640,6 @@
     },
     {
       "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-      "data": "2026-06-05",
-      "diasAtraso": 40,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Atrações Baile - EULLER.KAIRO",
       "data": "2026-06-05",
       "diasAtraso": 40,
       "pessoas": [
