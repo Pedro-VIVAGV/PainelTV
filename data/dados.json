@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-15T17:01:28.369Z",
+  "atualizadoEm": "2026-07-15T17:16:00.423Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 62,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 105
+    "totalSemana": 106
   },
   "pessoas": [
     {
@@ -191,7 +191,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -217,6 +217,10 @@
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
           "data": "2026-07-14"
+        },
+        {
+          "nome": "Alteração Backdrop ::: MILENA.ALMEIDA",
+          "data": "2026-07-15"
         },
         {
           "nome": "Brasão Unificado ::: BIARA.ROBERTA",
