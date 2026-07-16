@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T13:45:48.963Z",
+  "atualizadoEm": "2026-07-16T14:01:15.290Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 63,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 107
+    "totalSemana": 108
   },
   "pessoas": [
     {
@@ -199,7 +199,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 0,
-      "semanaTotal": 21,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "Banner Bruna",
@@ -236,7 +236,7 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Alteração Backdrop ::: MILENA.ALMEIDA",
+          "nome": "Novo Backdrop ::: MILENA.ALMEIDA",
           "data": "2026-07-15"
         },
         {
@@ -254,6 +254,10 @@
         {
           "nome": "Mascote Vazado ::: MED MARIANA.SANTOS",
           "data": "2026-07-15"
+        },
+        {
+          "nome": "Conclusão Backdrop ::: MILENA.ALMEIDA",
+          "data": "2026-07-16"
         },
         {
           "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
