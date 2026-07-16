@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T14:45:49.462Z",
+  "atualizadoEm": "2026-07-16T15:00:58.888Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 63,
-    "totalAtrasadasAnterior": 64,
-    "totalSemana": 108
+    "totalAtrasadas": 62,
+    "totalAtrasadasAnterior": 63,
+    "totalSemana": 104
   },
   "pessoas": [
     {
@@ -197,16 +197,12 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 22,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
-          "nome": "Banner Bruna",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
           "diasAtraso": 0
         }
       ],
@@ -216,7 +212,7 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "nome": "Brasão Vazado ::: INGRYD DINIZ",
           "data": "2026-07-13"
         },
         {
@@ -224,7 +220,7 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Banner Espaço RedBull",
+          "nome": "Barraca Welcome Drink ::: BRUNA.GOUVEA",
           "data": "2026-07-14"
         },
         {
@@ -232,7 +228,7 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
+          "nome": "CONCLUSÃO ::: Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
           "data": "2026-07-14"
         },
         {
@@ -248,10 +244,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Brasão Vazado ::: INGRYD DINIZ",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "Mascote Vazado ::: MED MARIANA.SANTOS",
           "data": "2026-07-15"
         },
@@ -260,23 +252,15 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
+          "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
           "data": "2026-07-16"
         },
         {
-          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-16"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Copo Stanley - INGRYD.DINIZ",
           "data": "2026-07-16"
         },
         {
@@ -284,15 +268,11 @@
           "data": "2026-07-17"
         },
         {
-          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "data": "2026-07-17"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "data": "2026-07-17"
         },
         {
@@ -901,7 +881,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 11,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -921,19 +901,7 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "DR:: Mkt-Personalizados - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Copo Stanley - INGRYD.DINIZ",
           "data": "2026-07-16"
         },
         {
@@ -941,11 +909,7 @@
           "data": "2026-07-17"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "data": "2026-07-17"
         }
       ]
@@ -2135,7 +2099,7 @@
       ]
     },
     {
-      "nome": "Banner Bruna",
+      "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
       "data": "2026-07-16",
       "diasAtraso": 0,
       "pessoas": [
@@ -2164,15 +2128,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-      "data": "2026-07-16",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Definir Personalização_MILENA.ALMEIDA",
