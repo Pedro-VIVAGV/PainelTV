@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T21:01:02.958Z",
+  "atualizadoEm": "2026-07-16T21:15:46.512Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 62,
-    "totalAtrasadasAnterior": 63,
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 62,
     "totalSemana": 104
   },
   "pessoas": [
@@ -650,8 +650,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 21,
+      "atrasadas": 24,
+      "atrasadasAnterior": 22,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -740,6 +740,14 @@
         },
         {
           "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -922,8 +930,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 28,
+      "atrasadas": 29,
+      "atrasadasAnterior": 27,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -1032,6 +1040,14 @@
         },
         {
           "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -2149,6 +2165,28 @@
     },
     {
       "nome": "Projeto: Tô Dentro",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Data Baile e Primeira Reunião",
       "data": "2026-07-16",
       "diasAtraso": 0,
       "pessoas": [
