@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T12:31:07.200Z",
+  "atualizadoEm": "2026-07-16T12:45:53.552Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 57,
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 107
   },
   "pessoas": [
@@ -156,14 +156,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
-          "diasAtraso": 1
-        },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
           "diasAtraso": 0
@@ -183,12 +179,12 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "nome": "DD:: Briefing - ANA.BEATRIZ",
           "data": "2026-07-15"
         },
         {
-          "nome": "DD:: Briefing - ANA.BEATRIZ",
-          "data": "2026-07-15"
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "data": "2026-07-17"
         }
       ]
     },
@@ -953,13 +949,13 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
+        "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 26,
+      "atrasadas": 27,
+      "atrasadasAnterior": 28,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -1029,10 +1025,6 @@
         {
           "nome": "Primeira Reunião",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
-          "diasAtraso": 1
         },
         {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
@@ -1193,10 +1185,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "DD:: Briefing - ANA.BEATRIZ",
           "data": "2026-07-15"
         },
@@ -1275,6 +1263,10 @@
         {
           "nome": "DIVIDIR TAREFAS: Definir Atrações Bailes 2026-2",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "data": "2026-07-17"
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -2037,17 +2029,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
-      "data": "2026-07-15",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
