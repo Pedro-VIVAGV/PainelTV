@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T00:01:17.839Z",
+  "atualizadoEm": "2026-07-16T00:15:52.515Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 57,
-    "totalAtrasadasAnterior": 56,
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 57,
     "totalSemana": 107
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
+      "atrasadas": 9,
+      "atrasadasAnterior": 7,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
@@ -77,6 +77,14 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 5
+        },
+        {
+          "nome": "Definir Personalização_MILENA.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Impressão Banner_MILENA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -148,12 +156,16 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Enviar Fotos - VYCHTORIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
           "diasAtraso": 0
         }
       ],
@@ -189,10 +201,19 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 2,
+      "atrasadasAnterior": 0,
       "semanaTotal": 21,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Banner Bruna",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
@@ -457,8 +478,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 25,
+      "atrasadas": 24,
+      "atrasadasAnterior": 23,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -548,6 +569,10 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
@@ -645,8 +670,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 20,
+      "atrasadas": 22,
+      "atrasadasAnterior": 21,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -703,6 +728,10 @@
         },
         {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
           "diasAtraso": 0
         },
         {
@@ -929,8 +958,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 25,
+      "atrasadas": 28,
+      "atrasadasAnterior": 26,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -1006,7 +1035,15 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
           "diasAtraso": 0
         },
         {
@@ -1268,8 +1305,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 29,
+      "atrasadas": 29,
+      "atrasadasAnterior": 28,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -1379,6 +1416,10 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
@@ -2100,6 +2141,75 @@
     {
       "nome": "DR: Evento: Sessão de Fotos Meio Médico",
       "data": "2026-07-15",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Banner Bruna",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Pagamento Fornecedor - Banheiro Químico",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Evento: 01/08/2026_Demanda Mkt-Cardapio_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Definir Personalização_MILENA.ALMEIDA",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Impressão Banner_MILENA",
+      "data": "2026-07-16",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Projeto: Tô Dentro",
+      "data": "2026-07-16",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"

@@ -2,43 +2,43 @@
   "atual": {
     "pessoas": {
       "Equipe: Comercial": 1,
-      "Janine :: Cotação - VIVA GV": 7,
-      "Locatelli:: Atendimento - VIVA GV": 1,
-      "Lyncoln :: Marketing - VIVA GV": 0,
+      "Janine :: Cotação - VIVA GV": 9,
+      "Locatelli:: Atendimento - VIVA GV": 2,
+      "Lyncoln :: Marketing - VIVA GV": 2,
       "Maria Clara / Tay :: Luminous": 0,
       "Matheus :: Planejamento - VIVA GV": 3,
-      "Pedro :: GRUPO VIVA - GV": 23,
-      "Rodrigo :: VIVA Eventos": 21
+      "Pedro :: GRUPO VIVA - GV": 24,
+      "Rodrigo :: VIVA Eventos": 22
     },
     "setores": {
       "Atendimento": 0,
       "Comercial": 1,
       "Cotação": 2,
       "Marketing": 0,
-      "Planejamento": 26,
-      "Produção": 28
+      "Planejamento": 28,
+      "Produção": 29
     },
-    "total": 57
+    "total": 64
   },
   "anterior": {
     "pessoas": {
       "Equipe: Comercial": 1,
-      "Janine :: Cotação - VIVA GV": 8,
-      "Locatelli:: Atendimento - VIVA GV": 0,
-      "Lyncoln :: Marketing - VIVA GV": 1,
+      "Janine :: Cotação - VIVA GV": 7,
+      "Locatelli:: Atendimento - VIVA GV": 1,
+      "Lyncoln :: Marketing - VIVA GV": 0,
       "Maria Clara / Tay :: Luminous": 1,
       "Matheus :: Planejamento - VIVA GV": 1,
-      "Pedro :: GRUPO VIVA - GV": 25,
-      "Rodrigo :: VIVA Eventos": 20
+      "Pedro :: GRUPO VIVA - GV": 23,
+      "Rodrigo :: VIVA Eventos": 21
     },
     "setores": {
       "Atendimento": 0,
       "Comercial": 1,
       "Cotação": 1,
       "Marketing": 1,
-      "Planejamento": 25,
-      "Produção": 29
+      "Planejamento": 26,
+      "Produção": 28
     },
-    "total": 56
+    "total": 57
   }
 }
