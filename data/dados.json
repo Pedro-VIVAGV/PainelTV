@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T19:00:56.773Z",
+  "atualizadoEm": "2026-07-17T19:15:53.148Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 78,
-    "totalAtrasadasAnterior": 77,
+    "totalAtrasadas": 77,
+    "totalAtrasadasAnterior": 78,
     "totalSemana": 107
   },
   "pessoas": [
@@ -739,8 +739,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 26,
+      "atrasadas": 24,
+      "atrasadasAnterior": 25,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -817,10 +817,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 1
         },
         {
@@ -1016,8 +1012,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 35,
-      "atrasadasAnterior": 36,
+      "atrasadas": 34,
+      "atrasadasAnterior": 35,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -1114,10 +1110,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 1
         },
         {
@@ -2270,17 +2262,6 @@
     },
     {
       "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-16",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Data Baile e Primeira Reunião",
       "data": "2026-07-16",
       "diasAtraso": 1,
       "pessoas": [
