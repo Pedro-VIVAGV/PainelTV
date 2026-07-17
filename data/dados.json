@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T20:30:50.720Z",
+  "atualizadoEm": "2026-07-17T20:45:47.079Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 54,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 97
   },
   "pessoas": [
@@ -490,8 +490,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadas": 28,
+      "atrasadasAnterior": 29,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -573,10 +573,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 7
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 3
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -1098,8 +1094,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 37,
-      "atrasadasAnterior": 36,
+      "atrasadas": 36,
+      "atrasadasAnterior": 37,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
@@ -1197,10 +1193,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 7
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 3
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -1706,17 +1698,6 @@
       "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
       "data": "2026-07-10",
       "diasAtraso": 7,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Banner",
-      "data": "2026-07-14",
-      "diasAtraso": 3,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
