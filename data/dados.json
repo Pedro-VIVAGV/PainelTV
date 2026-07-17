@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T17:30:59.102Z",
+  "atualizadoEm": "2026-07-17T17:45:45.789Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 82,
-    "totalAtrasadasAnterior": 84,
-    "totalSemana": 112
+    "totalAtrasadas": 79,
+    "totalAtrasadasAnterior": 82,
+    "totalSemana": 106
   },
   "pessoas": [
     {
@@ -734,9 +734,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 31,
-      "semanaTotal": 20,
+      "atrasadas": 26,
+      "atrasadasAnterior": 29,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -751,15 +751,7 @@
           "diasAtraso": 36
         },
         {
-          "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 9
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "Informativo: TRIUNFO",
           "diasAtraso": 9
         },
         {
@@ -784,10 +776,6 @@
         },
         {
           "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
           "diasAtraso": 3
         },
         {
@@ -861,35 +849,11 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "Confirmar Data Colação Festiva",
           "data": "2026-07-13"
         },
         {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-14"
         },
         {
@@ -1044,9 +1008,9 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 39,
-      "atrasadasAnterior": 41,
-      "semanaTotal": 56,
+      "atrasadas": 36,
+      "atrasadasAnterior": 39,
+      "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1069,15 +1033,7 @@
           "diasAtraso": 14
         },
         {
-          "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 9
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "Informativo: TRIUNFO",
           "diasAtraso": 9
         },
         {
@@ -1110,10 +1066,6 @@
         },
         {
           "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
           "diasAtraso": 3
         },
         {
@@ -1215,15 +1167,7 @@
           "data": "2026-07-13"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-13"
-        },
-        {
           "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-13"
-        },
-        {
-          "nome": "Primeira Reunião",
           "data": "2026-07-13"
         },
         {
@@ -1263,10 +1207,6 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
           "data": "2026-07-14"
         },
@@ -1279,10 +1219,6 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-14"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
           "data": "2026-07-14"
         },
@@ -1292,10 +1228,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
           "data": "2026-07-14"
         },
         {
@@ -1312,10 +1244,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-14"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-14"
         },
         {
@@ -1992,29 +1920,7 @@
       ]
     },
     {
-      "nome": "Planos e Adesões: Colação WILLA",
-      "data": "2026-07-08",
-      "diasAtraso": 9,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "TRIUNFO: Orç Unimed: Bebidas",
-      "data": "2026-07-08",
-      "diasAtraso": 9,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Informativo: TRIUNFO",
       "data": "2026-07-08",
       "diasAtraso": 9,
       "pessoas": [
@@ -2180,17 +2086,6 @@
     },
     {
       "nome": "Confirmar Data Colação Festiva",
-      "data": "2026-07-14",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
       "data": "2026-07-14",
       "diasAtraso": 3,
       "pessoas": [
