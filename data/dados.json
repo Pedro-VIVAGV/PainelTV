@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T20:45:47.079Z",
+  "atualizadoEm": "2026-07-17T21:00:59.526Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
-    "totalSemana": 97
+    "totalAtrasadas": 49,
+    "totalAtrasadasAnterior": 52,
+    "totalSemana": 94
   },
   "pessoas": [
     {
@@ -490,9 +490,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 27,
+      "atrasadas": 25,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -559,10 +559,6 @@
           "diasAtraso": 22
         },
         {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 15
-        },
-        {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 11
         },
@@ -589,14 +585,6 @@
         {
           "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
@@ -693,14 +681,6 @@
           "data": "2026-07-17"
         },
         {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-17"
-        },
-        {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-17"
         },
@@ -710,10 +690,6 @@
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
           "data": "2026-07-17"
         }
       ]
@@ -1094,9 +1070,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 37,
-      "semanaTotal": 32,
+      "atrasadas": 33,
+      "atrasadasAnterior": 36,
+      "semanaTotal": 29,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1167,10 +1143,6 @@
           "diasAtraso": 22
         },
         {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-          "diasAtraso": 15
-        },
-        {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 11
         },
@@ -1209,14 +1181,6 @@
         {
           "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
@@ -1333,14 +1297,6 @@
           "data": "2026-07-17"
         },
         {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-17"
-        },
-        {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-17"
         },
@@ -1366,10 +1322,6 @@
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
-          "data": "2026-07-17"
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
           "data": "2026-07-17"
         }
       ]
@@ -1607,17 +1559,6 @@
       ]
     },
     {
-      "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
-      "data": "2026-07-02",
-      "diasAtraso": 15,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
       "data": "2026-07-03",
       "diasAtraso": 14,
@@ -1788,28 +1729,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
     },
     {
       "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
