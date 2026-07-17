@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T17:15:47.110Z",
+  "atualizadoEm": "2026-07-17T17:30:59.102Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 84,
-    "totalAtrasadasAnterior": 88,
+    "totalAtrasadas": 82,
+    "totalAtrasadasAnterior": 84,
     "totalSemana": 112
   },
   "pessoas": [
@@ -734,8 +734,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 24,
+      "atrasadas": 29,
+      "atrasadasAnterior": 31,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -833,14 +833,6 @@
         {
           "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "diasAtraso": 0
         },
         {
           "nome": "Agendar Degustação_IZABELLA.RINIERI",
@@ -1052,8 +1044,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 41,
-      "atrasadasAnterior": 40,
+      "atrasadas": 39,
+      "atrasadasAnterior": 41,
       "semanaTotal": 56,
       "tarefasAtrasadas": [
         {
@@ -1174,14 +1166,6 @@
         },
         {
           "nome": "DR:: Demanda Reunião - ANA.JULIA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
           "diasAtraso": 0
         },
         {
@@ -2499,17 +2483,6 @@
       ]
     },
     {
-      "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
       "data": "2026-07-17",
       "diasAtraso": 0,
@@ -2518,17 +2491,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
