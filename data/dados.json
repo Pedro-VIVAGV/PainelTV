@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T18:45:50.433Z",
+  "atualizadoEm": "2026-07-17T19:00:56.773Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 77,
-    "totalAtrasadasAnterior": 78,
-    "totalSemana": 106
+    "totalAtrasadas": 78,
+    "totalAtrasadasAnterior": 77,
+    "totalSemana": 107
   },
   "pessoas": [
     {
@@ -499,9 +499,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 24,
-      "semanaTotal": 26,
+      "atrasadas": 29,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -566,6 +566,10 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "diasAtraso": 22
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 15
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -719,6 +723,10 @@
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
           "data": "2026-07-17"
         }
       ]
@@ -1363,9 +1371,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 37,
-      "semanaTotal": 31,
+      "atrasadas": 37,
+      "atrasadasAnterior": 36,
+      "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1434,6 +1442,10 @@
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
           "diasAtraso": 22
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "diasAtraso": 15
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -1635,6 +1647,10 @@
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
           "data": "2026-07-17"
         }
       ]
@@ -1875,6 +1891,17 @@
       "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
       "data": "2026-06-25",
       "diasAtraso": 22,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+      "data": "2026-07-02",
+      "diasAtraso": 15,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
