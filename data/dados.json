@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T19:15:53.148Z",
+  "atualizadoEm": "2026-07-17T19:31:25.927Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 77,
-    "totalAtrasadasAnterior": 78,
-    "totalSemana": 107
+    "totalAtrasadas": 76,
+    "totalAtrasadasAnterior": 77,
+    "totalSemana": 104
   },
   "pessoas": [
     {
@@ -739,9 +739,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 25,
-      "semanaTotal": 14,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -812,10 +812,6 @@
           "diasAtraso": 2
         },
         {
-          "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 1
         },
@@ -858,14 +854,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-15"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "Data Baile e Primeira Reunião",
           "data": "2026-07-15"
         },
@@ -879,10 +867,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
           "data": "2026-07-16"
         },
         {
@@ -1007,14 +991,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
-        "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 35,
-      "semanaTotal": 50,
+      "atrasadas": 33,
+      "atrasadasAnterior": 34,
+      "semanaTotal": 47,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1102,10 +1086,6 @@
         },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Projeto: Tô Dentro",
           "diasAtraso": 1
         },
         {
@@ -1259,14 +1239,6 @@
           "data": "2026-07-15"
         },
         {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-15"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-15"
-        },
-        {
           "nome": "Data Baile e Primeira Reunião",
           "data": "2026-07-15"
         },
@@ -1312,10 +1284,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-16"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
           "data": "2026-07-16"
         },
         {
@@ -2248,17 +2216,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Projeto: Tô Dentro",
-      "data": "2026-07-16",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "Confirmar Sessão de Fotos",
