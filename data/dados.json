@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T14:16:06.314Z",
+  "atualizadoEm": "2026-07-17T14:30:55.632Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 88,
     "totalAtrasadasAnterior": 90,
-    "totalSemana": 108
+    "totalSemana": 109
   },
   "pessoas": [
     {
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 14,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
@@ -80,10 +80,6 @@
         },
         {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confecção Prismas_BIARA-ROBERTA",
           "diasAtraso": 0
         },
         {
@@ -141,16 +137,16 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "Confecção Prismas_BIARA-ROBERTA",
-          "data": "2026-07-16"
-        },
-        {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-16"
         },
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "data": "2026-07-16"
+        },
+        {
+          "nome": "Confecção Prismas_BIARA-ROBERTA",
+          "data": "2026-07-17"
         },
         {
           "nome": "Separação Ingressos_BIARA-ROBERTA",
@@ -180,13 +176,17 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
-      "semanaTotal": 5,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Demanda Reunião - ANA.JULIA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -205,6 +205,10 @@
         {
           "nome": "DD:: Briefing - ANA.BEATRIZ",
           "data": "2026-07-15"
+        },
+        {
+          "nome": "DR:: Demanda Reunião - ANA.JULIA",
+          "data": "2026-07-17"
         },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
@@ -1056,9 +1060,9 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 40,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 55,
+      "atrasadas": 41,
+      "atrasadasAnterior": 40,
+      "semanaTotal": 56,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1175,6 +1179,10 @@
         {
           "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Demanda Reunião - ANA.JULIA",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
@@ -1419,6 +1427,10 @@
           "data": "2026-07-16"
         },
         {
+          "nome": "DR:: Demanda Reunião - ANA.JULIA",
+          "data": "2026-07-17"
+        },
+        {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
           "data": "2026-07-17"
         },
@@ -1451,8 +1463,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 37,
-      "atrasadasAnterior": 38,
+      "atrasadas": 36,
+      "atrasadasAnterior": 37,
       "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
@@ -1584,10 +1596,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Confecção Prismas_BIARA-ROBERTA",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
           "diasAtraso": 0
         },
@@ -1682,10 +1690,6 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "Confecção Prismas_BIARA-ROBERTA",
-          "data": "2026-07-16"
-        },
-        {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-16"
         },
@@ -1699,6 +1703,10 @@
         },
         {
           "nome": "Pagamento Digital Sign",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Confecção Prismas_BIARA-ROBERTA",
           "data": "2026-07-17"
         },
         {
@@ -2389,6 +2397,17 @@
       ]
     },
     {
+      "nome": "DR:: Demanda Reunião - ANA.JULIA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
       "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
       "data": "2026-07-17",
       "diasAtraso": 0,
@@ -2423,17 +2442,6 @@
     },
     {
       "nome": "Confecção Pastas_BIARA-ROBERTA",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Confecção Prismas_BIARA-ROBERTA",
       "data": "2026-07-17",
       "diasAtraso": 0,
       "pessoas": [
