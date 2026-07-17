@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T02:45:53.248Z",
+  "atualizadoEm": "2026-07-17T03:00:59.441Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -32,7 +32,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 301
+          "diasAtraso": 302
         }
       ],
       "tarefasSemana": []
@@ -52,31 +52,39 @@
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 107
+          "diasAtraso": 108
         },
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 9
+          "diasAtraso": 10
         },
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Organizar caixotes",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "Organizar a VIVA",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 6
+          "diasAtraso": 7
+        },
+        {
+          "nome": "Definir Personalização_MILENA.ALMEIDA",
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Impressão Banner_MILENA",
+          "diasAtraso": 1
         },
         {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
@@ -96,14 +104,6 @@
         },
         {
           "nome": "Separação Ingressos_BIARA-ROBERTA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Definir Personalização_MILENA.ALMEIDA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Impressão Banner_MILENA",
           "diasAtraso": 0
         }
       ],
@@ -182,7 +182,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "diasAtraso": 0
+          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -223,7 +223,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
-          "diasAtraso": 0
+          "diasAtraso": 1
         },
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -360,15 +360,15 @@
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 13
+          "diasAtraso": 14
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
@@ -524,94 +524,98 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 238
+          "diasAtraso": 239
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 97
+          "diasAtraso": 98
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 62
+          "diasAtraso": 63
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 44
+          "diasAtraso": 45
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 41
+          "diasAtraso": 42
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 37
+          "diasAtraso": 38
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
-          "diasAtraso": 21
+          "diasAtraso": 22
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 10
+          "diasAtraso": 11
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 2
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 1
         },
         {
@@ -624,10 +628,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 0
         },
         {
@@ -732,86 +732,98 @@
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 596
+          "diasAtraso": 597
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 309
+          "diasAtraso": 310
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 35
+          "diasAtraso": 36
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "Informativo: TRIUNFO",
+          "diasAtraso": 9
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 8
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar Reunião",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+          "diasAtraso": 2
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 1
         },
         {
@@ -827,14 +839,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 0
         },
@@ -844,10 +848,6 @@
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -960,7 +960,7 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 301
+          "diasAtraso": 302
         }
       ],
       "tarefasSemana": []
@@ -976,11 +976,11 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 6
+          "diasAtraso": 7
         }
       ],
       "tarefasSemana": []
@@ -1053,107 +1053,119 @@
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 596
+          "diasAtraso": 597
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 309
+          "diasAtraso": 310
         },
         {
           "nome": "Criar E-mails LMS",
-          "diasAtraso": 74
+          "diasAtraso": 75
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 35
+          "diasAtraso": 36
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 13
+          "diasAtraso": 14
         },
         {
           "nome": "Planos e Adesões: Colação WILLA",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 8
+          "diasAtraso": 9
         },
         {
           "nome": "Informativo: TRIUNFO",
+          "diasAtraso": 9
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 8
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR:: Informações Replanejamento - ANA.CLARA",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar Reunião",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "diasAtraso": 1
+          "diasAtraso": 2
         },
         {
           "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "diasAtraso": 0
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Projeto: Tô Dentro",
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 1
+        },
+        {
+          "nome": "Data Baile e Primeira Reunião",
+          "diasAtraso": 1
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
@@ -1172,14 +1184,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "Projeto: Tô Dentro",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 0
         },
@@ -1189,10 +1193,6 @@
         },
         {
           "nome": "Primeira Reunião",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Data Baile e Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -1448,114 +1448,118 @@
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 238
+          "diasAtraso": 239
         },
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 107
+          "diasAtraso": 108
         },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 97
+          "diasAtraso": 98
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 65
+          "diasAtraso": 66
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 62
+          "diasAtraso": 63
         },
         {
           "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 51
+          "diasAtraso": 52
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 44
+          "diasAtraso": 45
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 41
+          "diasAtraso": 42
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 37
+          "diasAtraso": 38
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "diasAtraso": 36
+          "diasAtraso": 37
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
-          "diasAtraso": 21
+          "diasAtraso": 22
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 10
+          "diasAtraso": 11
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
-          "diasAtraso": 9
+          "diasAtraso": 10
         },
         {
           "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
-          "diasAtraso": 7
+          "diasAtraso": 8
         },
         {
           "nome": "Organizar caixotes",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "Organizar a VIVA",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 6
+          "diasAtraso": 7
         },
         {
           "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 2
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 2
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 1
         },
         {
@@ -1568,10 +1572,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banheiro Químico",
           "diasAtraso": 0
         },
         {
@@ -1700,7 +1700,7 @@
     {
       "nome": "Enc. CNPJ´s",
       "data": "2024-11-27",
-      "diasAtraso": 596,
+      "diasAtraso": 597,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1711,7 +1711,7 @@
     {
       "nome": "Particular: Retorno Vinicius (Pai)",
       "data": "2025-09-10",
-      "diasAtraso": 309,
+      "diasAtraso": 310,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1722,7 +1722,7 @@
     {
       "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
       "data": "2025-09-18",
-      "diasAtraso": 301,
+      "diasAtraso": 302,
       "pessoas": [
         "Equipe: Comercial"
       ],
@@ -1733,7 +1733,7 @@
     {
       "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
       "data": "2025-11-20",
-      "diasAtraso": 238,
+      "diasAtraso": 239,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1744,7 +1744,7 @@
     {
       "nome": "Atualização de Cheques",
       "data": "2026-03-31",
-      "diasAtraso": 107,
+      "diasAtraso": 108,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1755,7 +1755,7 @@
     {
       "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
       "data": "2026-04-10",
-      "diasAtraso": 97,
+      "diasAtraso": 98,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1766,7 +1766,7 @@
     {
       "nome": "Criar E-mails LMS",
       "data": "2026-05-03",
-      "diasAtraso": 74,
+      "diasAtraso": 75,
       "pessoas": [],
       "setores": [
         "Planejamento"
@@ -1775,7 +1775,7 @@
     {
       "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
-      "diasAtraso": 65,
+      "diasAtraso": 66,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1786,7 +1786,7 @@
     {
       "nome": "DR:: Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
-      "diasAtraso": 65,
+      "diasAtraso": 66,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1797,7 +1797,7 @@
     {
       "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
-      "diasAtraso": 65,
+      "diasAtraso": 66,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1808,7 +1808,7 @@
     {
       "nome": "DR:: Meio Dentista - MARIA.CLARA",
       "data": "2026-05-15",
-      "diasAtraso": 62,
+      "diasAtraso": 63,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1819,7 +1819,7 @@
     {
       "nome": "DR:: Colação Festiva - THIAGO.LOPES",
       "data": "2026-05-26",
-      "diasAtraso": 51,
+      "diasAtraso": 52,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1830,7 +1830,7 @@
     {
       "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
       "data": "2026-05-26",
-      "diasAtraso": 51,
+      "diasAtraso": 52,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1841,7 +1841,7 @@
     {
       "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
       "data": "2026-05-26",
-      "diasAtraso": 51,
+      "diasAtraso": 52,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1852,7 +1852,7 @@
     {
       "nome": "DR:: Me Interna - PEDRO.PERELO",
       "data": "2026-06-02",
-      "diasAtraso": 44,
+      "diasAtraso": 45,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1863,7 +1863,7 @@
     {
       "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
       "data": "2026-06-05",
-      "diasAtraso": 41,
+      "diasAtraso": 42,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1874,7 +1874,7 @@
     {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-06-09",
-      "diasAtraso": 37,
+      "diasAtraso": 38,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1885,7 +1885,7 @@
     {
       "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
       "data": "2026-06-10",
-      "diasAtraso": 36,
+      "diasAtraso": 37,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1896,7 +1896,7 @@
     {
       "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
       "data": "2026-06-10",
-      "diasAtraso": 36,
+      "diasAtraso": 37,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1907,7 +1907,7 @@
     {
       "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
       "data": "2026-06-10",
-      "diasAtraso": 36,
+      "diasAtraso": 37,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1918,7 +1918,7 @@
     {
       "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
       "data": "2026-06-10",
-      "diasAtraso": 36,
+      "diasAtraso": 37,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1929,7 +1929,7 @@
     {
       "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
       "data": "2026-06-11",
-      "diasAtraso": 35,
+      "diasAtraso": 36,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1940,7 +1940,7 @@
     {
       "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2q",
       "data": "2026-06-25",
-      "diasAtraso": 21,
+      "diasAtraso": 22,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1951,7 +1951,7 @@
     {
       "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
       "data": "2026-07-03",
-      "diasAtraso": 13,
+      "diasAtraso": 14,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1962,7 +1962,7 @@
     {
       "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
       "data": "2026-07-06",
-      "diasAtraso": 10,
+      "diasAtraso": 11,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1973,7 +1973,7 @@
     {
       "nome": "Dobrar os Uniformes e panos de chão",
       "data": "2026-07-07",
-      "diasAtraso": 9,
+      "diasAtraso": 10,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1984,7 +1984,7 @@
     {
       "nome": "Planos e Adesões: Colação WILLA",
       "data": "2026-07-08",
-      "diasAtraso": 8,
+      "diasAtraso": 9,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1995,7 +1995,7 @@
     {
       "nome": "TRIUNFO: Orç Unimed: Bebidas",
       "data": "2026-07-08",
-      "diasAtraso": 8,
+      "diasAtraso": 9,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2006,7 +2006,7 @@
     {
       "nome": "Informativo: TRIUNFO",
       "data": "2026-07-08",
-      "diasAtraso": 8,
+      "diasAtraso": 9,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2017,7 +2017,7 @@
     {
       "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
       "data": "2026-07-09",
-      "diasAtraso": 7,
+      "diasAtraso": 8,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2028,7 +2028,7 @@
     {
       "nome": "Agendar Sessão de Fotos Meio",
       "data": "2026-07-09",
-      "diasAtraso": 7,
+      "diasAtraso": 8,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2039,7 +2039,7 @@
     {
       "nome": "Agendar Sessão de Fotos Meio",
       "data": "2026-07-09",
-      "diasAtraso": 7,
+      "diasAtraso": 8,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2050,7 +2050,7 @@
     {
       "nome": "Confirmar Data - Colação Festiva",
       "data": "2026-07-09",
-      "diasAtraso": 7,
+      "diasAtraso": 8,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2061,7 +2061,7 @@
     {
       "nome": "Organizar caixotes",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2072,7 +2072,7 @@
     {
       "nome": "Organizar a VIVA",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2083,7 +2083,7 @@
     {
       "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2094,7 +2094,7 @@
     {
       "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2105,7 +2105,7 @@
     {
       "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2116,7 +2116,7 @@
     {
       "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-07-10",
-      "diasAtraso": 6,
+      "diasAtraso": 7,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2127,7 +2127,7 @@
     {
       "nome": "Pagamento Fornecedor - Banner",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2138,7 +2138,7 @@
     {
       "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -2149,7 +2149,7 @@
     {
       "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2160,7 +2160,7 @@
     {
       "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -2171,7 +2171,7 @@
     {
       "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2182,7 +2182,7 @@
     {
       "nome": "Confirmar Data Colação Festiva",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2193,7 +2193,7 @@
     {
       "nome": "Primeira Reunião",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2204,7 +2204,7 @@
     {
       "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
       "data": "2026-07-14",
-      "diasAtraso": 2,
+      "diasAtraso": 3,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2215,7 +2215,7 @@
     {
       "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2226,7 +2226,7 @@
     {
       "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2237,7 +2237,7 @@
     {
       "nome": "Pos. Junção YASMIN e Fono",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2248,7 +2248,7 @@
     {
       "nome": "DR:: Informações Replanejamento - ANA.CLARA",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2259,7 +2259,7 @@
     {
       "nome": "Agendar Reunião",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2270,7 +2270,7 @@
     {
       "nome": "Confirmar Data Sessão de Fotos",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2281,7 +2281,7 @@
     {
       "nome": "Agendar S. Fotos e Confirmar Colação",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2292,7 +2292,7 @@
     {
       "nome": "Agendar Sessão de Fotos - Confirmar Colação",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2303,7 +2303,7 @@
     {
       "nome": "DR: Evento: Sessão de Fotos Meio Médico",
       "data": "2026-07-15",
-      "diasAtraso": 1,
+      "diasAtraso": 2,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2314,7 +2314,7 @@
     {
       "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2323,7 +2323,7 @@
     {
       "nome": "Pagamento Fornecedor - Banheiro Químico",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2334,7 +2334,7 @@
     {
       "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
       ],
@@ -2345,7 +2345,7 @@
     {
       "nome": "Definir Personalização_MILENA.ALMEIDA",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2354,7 +2354,7 @@
     {
       "nome": "Impressão Banner_MILENA",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2363,7 +2363,7 @@
     {
       "nome": "Projeto: Tô Dentro",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2374,7 +2374,7 @@
     {
       "nome": "Confirmar Sessão de Fotos",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -2385,7 +2385,7 @@
     {
       "nome": "Data Baile e Primeira Reunião",
       "data": "2026-07-16",
-      "diasAtraso": 0,
+      "diasAtraso": 1,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
