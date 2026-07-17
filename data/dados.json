@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T19:45:52.258Z",
+  "atualizadoEm": "2026-07-17T20:00:58.865Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 76,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 97
   },
   "pessoas": [
@@ -730,8 +730,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 23,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -741,10 +741,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 310
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 36
         }
       ],
       "tarefasSemana": [
@@ -879,8 +875,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 33,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 41,
       "tarefasAtrasadas": [
         {
@@ -894,10 +890,6 @@
         {
           "nome": "Criar E-mails LMS",
           "diasAtraso": 75
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 36
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -1609,17 +1601,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-      "data": "2026-06-11",
-      "diasAtraso": 36,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
