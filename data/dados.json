@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T14:45:46.955Z",
+  "atualizadoEm": "2026-07-17T15:00:57.098Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 88,
     "totalAtrasadasAnterior": 90,
-    "totalSemana": 109
+    "totalSemana": 114
   },
   "pessoas": [
     {
@@ -137,15 +137,15 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "Contratação Equipe_BIARA-ROBERTA",
-          "data": "2026-07-16"
-        },
-        {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "data": "2026-07-16"
         },
         {
           "nome": "Confecção Prismas_BIARA-ROBERTA",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-17"
         },
         {
@@ -528,7 +528,7 @@
       ],
       "atrasadas": 28,
       "atrasadasAnterior": 24,
-      "semanaTotal": 21,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -726,6 +726,26 @@
         },
         {
           "nome": "Pagamento Digital Sign",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
           "data": "2026-07-17"
         }
       ]
@@ -1465,7 +1485,7 @@
       ],
       "atrasadas": 36,
       "atrasadasAnterior": 37,
-      "semanaTotal": 26,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1690,10 +1710,6 @@
           "data": "2026-07-16"
         },
         {
-          "nome": "Contratação Equipe_BIARA-ROBERTA",
-          "data": "2026-07-16"
-        },
-        {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "data": "2026-07-16"
         },
@@ -1706,7 +1722,31 @@
           "data": "2026-07-17"
         },
         {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "data": "2026-07-17"
+        },
+        {
           "nome": "Confecção Prismas_BIARA-ROBERTA",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-17"
         },
         {
