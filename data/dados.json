@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T17:45:45.789Z",
+  "atualizadoEm": "2026-07-17T18:01:00.192Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 79,
-    "totalAtrasadasAnterior": 82,
+    "totalAtrasadas": 78,
+    "totalAtrasadasAnterior": 79,
     "totalSemana": 106
   },
   "pessoas": [
@@ -734,8 +734,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 29,
+      "atrasadas": 25,
+      "atrasadasAnterior": 26,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -784,10 +784,6 @@
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
           "diasAtraso": 2
         },
         {
@@ -1008,8 +1004,8 @@
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 39,
+      "atrasadas": 35,
+      "atrasadasAnterior": 36,
       "semanaTotal": 50,
       "tarefasAtrasadas": [
         {
@@ -1074,10 +1070,6 @@
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Informações Replanejamento - ANA.CLARA",
           "diasAtraso": 2
         },
         {
@@ -2130,17 +2122,6 @@
     },
     {
       "nome": "Pos. Junção YASMIN e Fono",
-      "data": "2026-07-15",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Informações Replanejamento - ANA.CLARA",
       "data": "2026-07-15",
       "diasAtraso": 2,
       "pessoas": [
