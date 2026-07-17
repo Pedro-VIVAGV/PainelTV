@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T00:01:05.099Z",
+  "atualizadoEm": "2026-07-17T00:15:57.524Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 62,
+    "totalAtrasadas": 90,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 104
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 7,
+      "atrasadas": 14,
+      "atrasadasAnterior": 9,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
@@ -77,6 +77,26 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 6
+        },
+        {
+          "nome": "Confecção Pastas_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confecção Prismas_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaboração Checklist_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Separação Ingressos_BIARA-ROBERTA",
+          "diasAtraso": 0
         },
         {
           "nome": "Definir Personalização_MILENA.ALMEIDA",
@@ -197,12 +217,32 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 6,
+      "atrasadasAnterior": 1,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Alteração Banner Backdrop  ::: Um Sexto BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "diasAtraso": 0
         }
       ],
@@ -314,8 +354,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 1,
+      "atrasadas": 8,
+      "atrasadasAnterior": 3,
       "semanaTotal": 29,
       "tarefasAtrasadas": [
         {
@@ -329,6 +369,26 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -458,8 +518,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 23,
+      "atrasadas": 28,
+      "atrasadasAnterior": 24,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -555,7 +615,23 @@
           "diasAtraso": 1
         },
         {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "diasAtraso": 0
         }
       ],
@@ -650,8 +726,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 22,
+      "atrasadas": 31,
+      "atrasadasAnterior": 24,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -739,6 +815,18 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Degustação_IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Projeto: Tô Dentro",
           "diasAtraso": 0
         },
@@ -747,7 +835,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Data Baile e Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -887,10 +991,23 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 3,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Demanda Mkt_Feed Comissão_Fundo:ANA-JULIA-MENDES_UFJF-GV_MEDICINA",
@@ -930,8 +1047,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 27,
+      "atrasadas": 40,
+      "atrasadasAnterior": 29,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -1039,6 +1156,22 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Projeto: Tô Dentro",
           "diasAtraso": 0
         },
@@ -1047,7 +1180,35 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Data Baile e Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 0
         }
       ],
@@ -1281,8 +1442,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadas": 38,
+      "atrasadasAnterior": 29,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -1398,7 +1559,43 @@
           "diasAtraso": 1
         },
         {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Pagamento Fornecedor - Banheiro Químico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confecção Pastas_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confecção Prismas_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaboração Checklist_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Separação Ingressos_BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "diasAtraso": 0
         }
       ],
@@ -2191,6 +2388,286 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Confecção Pastas_BIARA-ROBERTA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Confecção Prismas_BIARA-ROBERTA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Contratação Equipe_BIARA-ROBERTA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Elaboração Checklist_BIARA-ROBERTA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Separação Ingressos_BIARA-ROBERTA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Agendar Degustação_IZABELLA.RINIERI",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Criar Formulários de Briefing",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+      "data": "2026-07-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
