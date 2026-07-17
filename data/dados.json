@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T13:01:05.355Z",
+  "atualizadoEm": "2026-07-17T13:15:55.633Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 90,
-    "totalAtrasadasAnterior": 64,
-    "totalSemana": 104
+    "totalAtrasadas": 88,
+    "totalAtrasadasAnterior": 90,
+    "totalSemana": 106
   },
   "pessoas": [
     {
@@ -46,25 +46,17 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 15,
+      "atrasadas": 12,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 108
         },
         {
-          "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 37
-        },
-        {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 10
-        },
-        {
-          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
-          "diasAtraso": 8
         },
         {
           "nome": "Organizar caixotes",
@@ -137,7 +129,7 @@
           "data": "2026-07-14"
         },
         {
-          "nome": "Definir Personalização_MILENA.ALMEIDA",
+          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
           "data": "2026-07-15"
         },
         {
@@ -165,7 +157,15 @@
           "data": "2026-07-17"
         },
         {
+          "nome": "Definir Personalização_MILENA.ALMEIDA",
+          "data": "2026-07-17"
+        },
+        {
           "nome": "Impressão Banner_MILENA",
+          "data": "2026-07-17"
+        },
+        {
+          "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
           "data": "2026-07-17"
         }
       ]
@@ -970,20 +970,21 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 0,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-          "diasAtraso": 37
-        },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 7
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
+          "data": "2026-07-17"
+        }
+      ]
     },
     {
       "nome": "Marketing",
@@ -1442,9 +1443,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 38,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 23,
+      "atrasadas": 37,
+      "atrasadasAnterior": 38,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1521,10 +1522,6 @@
         {
           "nome": "Dobrar os Uniformes e panos de chão",
           "diasAtraso": 10
-        },
-        {
-          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
-          "diasAtraso": 8
         },
         {
           "nome": "Organizar caixotes",
@@ -1658,6 +1655,10 @@
         },
         {
           "nome": "Contato com Maik / Repassar 3D Antes",
+          "data": "2026-07-15"
+        },
+        {
+          "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
           "data": "2026-07-15"
         },
         {
@@ -1916,17 +1917,6 @@
       ]
     },
     {
-      "nome": "DR:: Mapa de Mesas Baile - BIARA.ROBERTA",
-      "data": "2026-06-10",
-      "diasAtraso": 37,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
       "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
       "data": "2026-06-11",
       "diasAtraso": 36,
@@ -2012,17 +2002,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Contratação Atração: DJ VT_BRUNA.GOUVEA",
-      "data": "2026-07-09",
-      "diasAtraso": 8,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
