@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T18:15:50.918Z",
+  "atualizadoEm": "2026-07-17T18:30:51.650Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -1003,9 +1003,9 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
-        "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
       "atrasadas": 35,
