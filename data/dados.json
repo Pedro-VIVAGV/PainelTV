@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-17T18:01:00.192Z",
+  "atualizadoEm": "2026-07-17T18:15:50.918Z",
   "semana": {
     "inicio": "2026-07-13",
     "fim": "2026-07-19"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 78,
-    "totalAtrasadasAnterior": 79,
+    "totalAtrasadas": 77,
+    "totalAtrasadasAnterior": 78,
     "totalSemana": 106
   },
   "pessoas": [
@@ -225,16 +225,12 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 6,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "diasAtraso": 0
         }
       ],
@@ -335,6 +331,7 @@
       "nome": "Matheus :: Planejamento - VIVA GV",
       "setores": [
         "Planejamento",
+        "Diretoria",
         "Marketing",
         "Produção"
       ],
@@ -947,21 +944,28 @@
       ]
     },
     {
+      "nome": "Diretoria",
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 0,
+      "semanaTotal": 0,
+      "tarefasAtrasadas": [],
+      "tarefasSemana": []
+    },
+    {
       "nome": "Marketing",
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
           "diasAtraso": 0
         }
       ],
@@ -999,8 +1003,8 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
+        "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2378,17 +2382,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Demanda Mkt-Brasão - ANA.BETARIZ",
-      "data": "2026-07-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
