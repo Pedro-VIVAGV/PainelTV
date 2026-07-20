@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T19:00:56.713Z",
+  "atualizadoEm": "2026-07-20T19:15:44.582Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 34,
-    "totalAtrasadasAnterior": 35,
+    "totalAtrasadas": 33,
+    "totalAtrasadasAnterior": 34,
     "totalSemana": 93
   },
   "pessoas": [
@@ -116,14 +116,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
-        {
-          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "diasAtraso": 0
-        },
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
           "diasAtraso": 0
@@ -799,8 +795,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -838,10 +834,6 @@
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
@@ -1582,17 +1574,6 @@
       "diasAtraso": 3,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Aviso Novo Cliente -  ANTONIO.JUNIOR",
-      "data": "2026-07-20",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
