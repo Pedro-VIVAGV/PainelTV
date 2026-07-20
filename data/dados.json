@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T21:15:51.661Z",
+  "atualizadoEm": "2026-07-20T21:31:01.186Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -404,7 +404,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 11,
-      "semanaTotal": 31,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -531,38 +531,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-22"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
         }
       ]
     },
@@ -795,8 +763,7 @@
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
-        "Matheus :: Planejamento - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV"
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 10,
