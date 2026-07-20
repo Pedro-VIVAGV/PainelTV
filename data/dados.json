@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T14:45:52.410Z",
+  "atualizadoEm": "2026-07-20T15:00:53.380Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 49,
-    "totalSemana": 81
+    "totalAtrasadas": 43,
+    "totalAtrasadasAnterior": 46,
+    "totalSemana": 84
   },
   "pessoas": [
     {
@@ -410,9 +410,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 22,
-      "semanaTotal": 18,
+      "atrasadas": 16,
+      "atrasadasAnterior": 19,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -451,10 +451,6 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 48
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
@@ -477,14 +473,6 @@
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 6
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 5
         },
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
@@ -513,7 +501,15 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-20"
         },
         {
@@ -530,6 +526,10 @@
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
           "data": "2026-07-20"
         },
         {
@@ -1085,9 +1085,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 30,
-      "semanaTotal": 10,
+      "atrasadas": 24,
+      "atrasadasAnterior": 27,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1130,10 +1130,6 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 48
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
@@ -1168,14 +1164,6 @@
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 6
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 5
         },
         {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
@@ -1220,7 +1208,15 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-20"
         },
         {
@@ -1237,6 +1233,10 @@
         },
         {
           "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
           "data": "2026-07-20"
         }
       ]
@@ -1397,17 +1397,6 @@
       ]
     },
     {
-      "nome": "DR:: Me Interna - PEDRO.PERELO",
-      "data": "2026-06-02",
-      "diasAtraso": 48,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-06-09",
       "diasAtraso": 41,
@@ -1548,28 +1537,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-07-14",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
-      "data": "2026-07-15",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
