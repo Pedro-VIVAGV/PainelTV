@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T17:31:03.668Z",
+  "atualizadoEm": "2026-07-20T17:45:46.808Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 36,
-    "totalAtrasadasAnterior": 37,
+    "totalAtrasadas": 35,
+    "totalAtrasadasAnterior": 36,
     "totalSemana": 91
   },
   "pessoas": [
@@ -161,8 +161,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 1,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -171,10 +171,6 @@
         },
         {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
           "diasAtraso": 0
         }
       ],
@@ -743,8 +739,8 @@
         "Lyncoln :: Marketing - VIVA GV",
         "Maria Clara / Tay :: Luminous"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 1,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -753,10 +749,6 @@
         },
         {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
           "diasAtraso": 0
         }
       ],
@@ -1615,17 +1607,6 @@
     },
     {
       "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-      "data": "2026-07-20",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
       "data": "2026-07-20",
       "diasAtraso": 0,
       "pessoas": [
