@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T20:31:03.652Z",
+  "atualizadoEm": "2026-07-20T20:45:56.793Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 33,
-    "totalAtrasadasAnterior": 34,
+    "totalAtrasadas": 32,
+    "totalAtrasadasAnterior": 33,
     "totalSemana": 93
   },
   "pessoas": [
@@ -254,8 +254,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 8,
+      "atrasadas": 5,
+      "atrasadasAnterior": 6,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -276,10 +276,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "diasAtraso": 3
         }
       ],
@@ -795,8 +791,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -829,10 +825,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "diasAtraso": 3
         },
         {
@@ -1559,17 +1551,6 @@
     },
     {
       "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-      "data": "2026-07-17",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
       "data": "2026-07-17",
       "diasAtraso": 3,
       "pessoas": [
