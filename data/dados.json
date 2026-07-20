@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T11:45:43.308Z",
+  "atualizadoEm": "2026-07-20T12:01:02.364Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 46,
-    "totalSemana": 54
+    "totalAtrasadas": 49,
+    "totalAtrasadasAnterior": 51,
+    "totalSemana": 76
   },
   "pessoas": [
     {
@@ -254,9 +254,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 6,
+      "atrasadas": 6,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -279,41 +279,121 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
           "data": "2026-07-20"
         },
         {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
           "data": "2026-07-21"
         },
         {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
           "data": "2026-07-21"
         },
         {
-          "nome": "Criar Formulários de Briefing",
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-22"
         },
         {
-          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "data": "2026-07-24"
         },
         {
-          "nome": "Realizar Junções - Pastas Dropbox",
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-07-24"
         }
       ]
@@ -328,7 +408,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 25,
-      "semanaTotal": 6,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -443,6 +523,38 @@
         {
           "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-07-23"
         }
       ]
     },
@@ -678,9 +790,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 11,
-      "semanaTotal": 33,
+      "atrasadas": 12,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -715,15 +827,7 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 3
         },
         {
@@ -761,10 +865,6 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-07-20"
-        },
-        {
           "nome": "Pos. Junção YASMIN e Fono",
           "data": "2026-07-20"
         },
@@ -781,7 +881,55 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "DR:: Runião: Plan - ANA.CLARA-ASSIS",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-07-21"
         },
         {
@@ -801,11 +949,15 @@
           "data": "2026-07-21"
         },
         {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
           "data": "2026-07-21"
         },
         {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "data": "2026-07-21"
         },
         {
@@ -813,15 +965,23 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-22"
+        },
+        {
           "nome": "Confirmar Data Sessão de Fotos",
           "data": "2026-07-22"
         },
         {
-          "nome": "Elaborar Ajuste Projeto",
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-22"
         },
         {
-          "nome": "Criar Formulários de Briefing",
+          "nome": "Elaborar Ajuste Projeto",
           "data": "2026-07-22"
         },
         {
@@ -830,6 +990,38 @@
         },
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "data": "2026-07-23"
         },
         {
@@ -853,6 +1045,14 @@
           "data": "2026-07-24"
         },
         {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-07-24"
+        },
+        {
           "nome": "Confirmar Sessão de Fotos",
           "data": "2026-07-24"
         },
@@ -862,14 +1062,6 @@
         },
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Realizar Junções - Pastas Dropbox",
           "data": "2026-07-24"
         }
       ]
@@ -1504,29 +1696,7 @@
       ]
     },
     {
-      "nome": "Criar Formulários de Briefing",
-      "data": "2026-07-17",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-      "data": "2026-07-17",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
       "data": "2026-07-17",
       "diasAtraso": 3,
       "pessoas": [
