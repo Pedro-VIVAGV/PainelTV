@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T15:00:53.380Z",
+  "atualizadoEm": "2026-07-20T15:15:47.656Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 43,
-    "totalAtrasadasAnterior": 46,
-    "totalSemana": 84
+    "totalAtrasadas": 40,
+    "totalAtrasadasAnterior": 43,
+    "totalSemana": 88
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 12,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -99,6 +99,10 @@
         {
           "nome": "Definir Personalização_BRUNA.GOUVEA",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "data": "2026-07-21"
         }
       ]
     },
@@ -410,9 +414,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 16,
-      "atrasadasAnterior": 19,
-      "semanaTotal": 21,
+      "atrasadas": 13,
+      "atrasadasAnterior": 16,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -447,10 +451,6 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 55
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
@@ -463,16 +463,8 @@
           "diasAtraso": 14
         },
         {
-          "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 10
-        },
-        {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 6
         },
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
@@ -501,7 +493,15 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "data": "2026-07-20"
         },
         {
@@ -530,6 +530,10 @@
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
           "data": "2026-07-20"
         },
         {
@@ -712,14 +716,19 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
-      "semanaTotal": 0,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 10
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "data": "2026-07-21"
+        }
+      ]
     },
     {
       "nome": "Diretoria",
@@ -1085,9 +1094,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 27,
-      "semanaTotal": 13,
+      "atrasadas": 21,
+      "atrasadasAnterior": 24,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1126,10 +1135,6 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-          "diasAtraso": 55
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
@@ -1154,16 +1159,8 @@
           "diasAtraso": 10
         },
         {
-          "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 10
-        },
-        {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 6
         },
         {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
@@ -1208,7 +1205,15 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "DR:: Feedback: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "data": "2026-07-20"
         },
         {
@@ -1237,6 +1242,10 @@
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
           "data": "2026-07-20"
         }
       ]
@@ -1386,17 +1395,6 @@
       ]
     },
     {
-      "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
-      "data": "2026-05-26",
-      "diasAtraso": 55,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-06-09",
       "diasAtraso": 41,
@@ -1485,17 +1483,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-      "data": "2026-07-10",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
       "data": "2026-07-10",
       "diasAtraso": 10,
@@ -1515,17 +1502,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-      "data": "2026-07-14",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
