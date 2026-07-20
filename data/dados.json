@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T21:00:54.285Z",
+  "atualizadoEm": "2026-07-20T21:15:51.661Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 32,
-    "totalAtrasadasAnterior": 33,
-    "totalSemana": 93
+    "totalAtrasadas": 29,
+    "totalAtrasadasAnterior": 32,
+    "totalSemana": 98
   },
   "pessoas": [
     {
@@ -402,9 +402,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 26,
+      "atrasadas": 8,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -431,27 +431,19 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 41
-        },
-        {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
           "diasAtraso": 40
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 14
-        },
-        {
-          "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contrato Copo Térmico_Fundo: INGRYD.DINIZ UNIVALE-DIREITO 2029-2",
+          "data": "2026-07-20"
+        },
         {
           "nome": "Orçamentos Buffet 2027",
           "data": "2026-07-20"
@@ -466,10 +458,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Pagamento Sunrise",
           "data": "2026-07-20"
         },
         {
@@ -490,6 +478,10 @@
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-20"
         },
         {
@@ -523,6 +515,22 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-22"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -732,8 +740,7 @@
     {
       "nome": "Marketing",
       "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV",
-        "Maria Clara / Tay :: Luminous"
+        "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
@@ -1062,9 +1069,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 19,
-      "semanaTotal": 20,
+      "atrasadas": 15,
+      "atrasadasAnterior": 18,
+      "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1095,10 +1102,6 @@
           "diasAtraso": 55
         },
         {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 41
-        },
-        {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
           "diasAtraso": 40
         },
@@ -1119,10 +1122,6 @@
           "diasAtraso": 10
         },
         {
-          "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 10
-        },
-        {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
           "diasAtraso": 3
         },
@@ -1133,13 +1132,13 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contrato Copo Térmico_Fundo: INGRYD.DINIZ UNIVALE-DIREITO 2029-2",
+          "data": "2026-07-20"
+        },
         {
           "nome": "Orçamentos Buffet 2027",
           "data": "2026-07-20"
@@ -1154,10 +1153,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Pagamento Sunrise",
           "data": "2026-07-20"
         },
         {
@@ -1182,6 +1177,10 @@
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-20"
         },
         {
@@ -1219,6 +1218,22 @@
         {
           "nome": "Bruna, enviar banner para aprovação",
           "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-22"
         }
       ]
     }
@@ -1345,17 +1360,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-06-09",
-      "diasAtraso": 41,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
       "data": "2026-06-10",
       "diasAtraso": 40,
@@ -1430,17 +1434,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-      "data": "2026-07-10",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
@@ -1525,17 +1518,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
-      "data": "2026-07-17",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
