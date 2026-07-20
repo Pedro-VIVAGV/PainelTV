@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T14:00:53.334Z",
+  "atualizadoEm": "2026-07-20T14:15:56.515Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 49,
-    "totalAtrasadasAnterior": 51,
-    "totalSemana": 77
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 49,
+    "totalSemana": 81
   },
   "pessoas": [
     {
@@ -410,9 +410,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 25,
-      "semanaTotal": 14,
+      "atrasadas": 19,
+      "atrasadasAnterior": 22,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -455,23 +455,11 @@
           "diasAtraso": 48
         },
         {
-          "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 45
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
           "diasAtraso": 40
         },
         {
@@ -526,6 +514,22 @@
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
           "data": "2026-07-20"
         },
         {
@@ -1081,9 +1085,9 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 33,
-      "semanaTotal": 6,
+      "atrasadas": 27,
+      "atrasadasAnterior": 30,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
@@ -1130,23 +1134,11 @@
           "diasAtraso": 48
         },
         {
-          "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-          "diasAtraso": 45
-        },
-        {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 41
         },
         {
           "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "diasAtraso": 40
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
           "diasAtraso": 40
         },
         {
@@ -1229,6 +1221,22 @@
         },
         {
           "nome": "Pgto Forn. Camisa - Fundo: WELISSA-AMANDA-EMANUELLY_UNI_2028-2",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
           "data": "2026-07-20"
         }
       ]
@@ -1400,17 +1408,6 @@
       ]
     },
     {
-      "nome": "DR:: Buffet Baile - ISABELLA.DOURADO",
-      "data": "2026-06-05",
-      "diasAtraso": 45,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-06-09",
       "diasAtraso": 41,
@@ -1423,28 +1420,6 @@
     },
     {
       "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-      "data": "2026-06-10",
-      "diasAtraso": 40,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-      "data": "2026-06-10",
-      "diasAtraso": 40,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
       "data": "2026-06-10",
       "diasAtraso": 40,
       "pessoas": [
