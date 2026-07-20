@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T15:15:47.656Z",
+  "atualizadoEm": "2026-07-20T15:30:54.921Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 40,
-    "totalAtrasadasAnterior": 43,
-    "totalSemana": 88
+    "totalAtrasadas": 38,
+    "totalAtrasadasAnterior": 40,
+    "totalSemana": 90
   },
   "pessoas": [
     {
@@ -414,24 +414,16 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 16,
-      "semanaTotal": 24,
+      "atrasadas": 11,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 242
-        },
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
           "diasAtraso": 101
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 69
-        },
-        {
-          "nome": "DR:: Meio Médico - CÉLIA.MARIA",
           "diasAtraso": 69
         },
         {
@@ -534,6 +526,14 @@
         },
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Meio Médico - CÉLIA.MARIA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
           "data": "2026-07-20"
         },
         {
@@ -1094,14 +1094,10 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 24,
-      "semanaTotal": 16,
+      "atrasadas": 19,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-          "diasAtraso": 242
-        },
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 111
@@ -1112,10 +1108,6 @@
         },
         {
           "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 69
-        },
-        {
-          "nome": "DR:: Meio Médico - CÉLIA.MARIA",
           "diasAtraso": 69
         },
         {
@@ -1247,6 +1239,14 @@
         {
           "nome": "DR:: Decoração: Meio Médico - SARA.PRATES",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Meio Médico - CÉLIA.MARIA",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
+          "data": "2026-07-20"
         }
       ]
     }
@@ -1287,17 +1287,6 @@
       ]
     },
     {
-      "nome": "DR: Produção → Meio de Curso - MILENA.ALMEIDA",
-      "data": "2025-11-20",
-      "diasAtraso": 242,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Atualização de Cheques",
       "data": "2026-03-31",
       "diasAtraso": 111,
@@ -1330,17 +1319,6 @@
     },
     {
       "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-      "data": "2026-05-12",
-      "diasAtraso": 69,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
       "diasAtraso": 69,
       "pessoas": [
