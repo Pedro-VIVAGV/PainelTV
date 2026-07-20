@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T16:30:52.304Z",
+  "atualizadoEm": "2026-07-20T16:45:49.495Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 38,
-    "totalAtrasadasAnterior": 40,
-    "totalSemana": 90
+    "totalAtrasadas": 37,
+    "totalAtrasadasAnterior": 38,
+    "totalSemana": 91
   },
   "pessoas": [
     {
@@ -40,15 +40,15 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 2,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -89,13 +89,13 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Separação Ingressos_BIARA-ROBERTA",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Separação Ingressos_BIARA-ROBERTA",
+          "data": "2026-07-20"
+        },
         {
           "nome": "Definir Personalização_BRUNA.GOUVEA",
           "data": "2026-07-20"
@@ -1090,13 +1090,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 21,
-      "semanaTotal": 18,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1167,10 +1167,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Separação Ingressos_BIARA-ROBERTA",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "diasAtraso": 3
         }
@@ -1194,6 +1190,10 @@
         },
         {
           "nome": "Pagamento Sunrise",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "Separação Ingressos_BIARA-ROBERTA",
           "data": "2026-07-20"
         },
         {
@@ -1535,17 +1535,6 @@
     },
     {
       "nome": "Elaboração Checklist_BIARA-ROBERTA",
-      "data": "2026-07-17",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Separação Ingressos_BIARA-ROBERTA",
       "data": "2026-07-17",
       "diasAtraso": 3,
       "pessoas": [
