@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T21:15:51.772Z",
+  "atualizadoEm": "2026-07-21T21:30:50.403Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 39,
-    "totalAtrasadasAnterior": 35,
-    "totalSemana": 96
+    "totalAtrasadas": 36,
+    "totalAtrasadasAnterior": 39,
+    "totalSemana": 93
   },
   "pessoas": [
     {
@@ -386,9 +386,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 26,
+      "atrasadas": 9,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -421,18 +421,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 15
-        },
-        {
-          "nome": "Página de teste — Escritório OS",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Página de teste — Notion",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Página de teste — Escritório OS",
-          "diasAtraso": 0
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
@@ -515,18 +503,6 @@
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
           "data": "2026-07-20"
-        },
-        {
-          "nome": "Página de teste — Escritório OS",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Página de teste — Notion",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Página de teste — Escritório OS",
-          "data": "2026-07-21"
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -1559,33 +1535,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Página de teste — Escritório OS",
-      "data": "2026-07-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Página de teste — Notion",
-      "data": "2026-07-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Página de teste — Escritório OS",
-      "data": "2026-07-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Realizar Impressão Backdrop_BRUNA",
