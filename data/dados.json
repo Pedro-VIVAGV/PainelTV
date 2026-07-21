@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T18:15:51.473Z",
+  "atualizadoEm": "2026-07-21T18:30:58.299Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 35,
     "totalAtrasadasAnterior": 36,
-    "totalSemana": 98
+    "totalSemana": 90
   },
   "pessoas": [
     {
@@ -167,7 +167,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
-      "semanaTotal": 15,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -184,10 +184,6 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "data": "2026-07-21"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
           "data": "2026-07-21"
         },
@@ -196,23 +192,7 @@
           "data": "2026-07-21"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-07-22"
         },
         {
@@ -220,19 +200,7 @@
           "data": "2026-07-23"
         },
         {
-          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-23"
-        },
-        {
           "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "data": "2026-07-24"
         }
       ]
@@ -736,7 +704,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
-      "semanaTotal": 9,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -749,36 +717,8 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
           "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "data": "2026-07-24"
         }
       ]
     },
