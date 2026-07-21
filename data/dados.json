@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T00:01:05.888Z",
+  "atualizadoEm": "2026-07-21T00:15:56.586Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 29,
-    "totalAtrasadasAnterior": 32,
+    "totalAtrasadas": 36,
+    "totalAtrasadasAnterior": 29,
     "totalSemana": 98
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 12,
+      "atrasadasAnterior": 10,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -89,6 +89,14 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Bruna, enviar banner para aprovação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -402,8 +410,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 11,
+      "atrasadas": 9,
+      "atrasadasAnterior": 8,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -437,6 +445,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 14
+        },
+        {
+          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -542,8 +554,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 6,
+      "atrasadasAnterior": 2,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -553,6 +565,22 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 313
+        },
+        {
+          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -765,8 +793,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 13,
+      "atrasadasAnterior": 9,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -803,6 +831,22 @@
         },
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pos. Junção YASMIN e Fono",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -1036,8 +1080,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 18,
+      "atrasadas": 18,
+      "atrasadasAnterior": 15,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -1099,6 +1143,18 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Bruna, enviar banner para aprovação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1515,6 +1571,83 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Bruna, enviar banner para aprovação",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Realizar Impressão Backdrop_BRUNA",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Pos. Junção YASMIN e Fono",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação Festiva",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
