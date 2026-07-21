@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T18:30:58.299Z",
+  "atualizadoEm": "2026-07-21T18:45:53.671Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 35,
     "totalAtrasadasAnterior": 36,
-    "totalSemana": 90
+    "totalSemana": 91
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 12,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -110,6 +110,10 @@
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-21"
         }
       ]
@@ -1018,7 +1022,7 @@
       ],
       "atrasadas": 17,
       "atrasadasAnterior": 18,
-      "semanaTotal": 25,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1176,6 +1180,10 @@
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-21"
         },
         {
