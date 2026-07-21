@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T15:00:58.335Z",
+  "atualizadoEm": "2026-07-21T15:15:53.079Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 36,
-    "totalAtrasadasAnterior": 29,
+    "totalAtrasadas": 35,
+    "totalAtrasadasAnterior": 36,
     "totalSemana": 98
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 10,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -89,10 +89,6 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 4
-        },
-        {
-          "nome": "Bruna, enviar banner para aprovação",
-          "diasAtraso": 0
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
@@ -1080,8 +1076,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 15,
+      "atrasadas": 17,
+      "atrasadasAnterior": 18,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -1143,10 +1139,6 @@
         {
           "nome": "Elaboração Checklist_BIARA-ROBERTA",
           "diasAtraso": 4
-        },
-        {
-          "nome": "Bruna, enviar banner para aprovação",
-          "diasAtraso": 0
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
@@ -1574,17 +1566,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Bruna, enviar banner para aprovação",
-      "data": "2026-07-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
