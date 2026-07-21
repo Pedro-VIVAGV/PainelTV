@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T21:00:56.764Z",
+  "atualizadoEm": "2026-07-21T21:15:51.772Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 35,
-    "totalAtrasadasAnterior": 36,
-    "totalSemana": 93
+    "totalAtrasadas": 39,
+    "totalAtrasadasAnterior": 35,
+    "totalSemana": 96
   },
   "pessoas": [
     {
@@ -386,9 +386,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 23,
+      "atrasadas": 12,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -421,6 +421,18 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 15
+        },
+        {
+          "nome": "Página de teste — Escritório OS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Página de teste — Notion",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Página de teste — Escritório OS",
+          "diasAtraso": 0
         },
         {
           "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
@@ -505,6 +517,18 @@
           "data": "2026-07-20"
         },
         {
+          "nome": "Página de teste — Escritório OS",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "Página de teste — Notion",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "Página de teste — Escritório OS",
+          "data": "2026-07-21"
+        },
+        {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
           "data": "2026-07-21"
         },
@@ -530,8 +554,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 2,
+      "atrasadas": 7,
+      "atrasadasAnterior": 6,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -556,6 +580,10 @@
         },
         {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 0
         }
       ],
@@ -741,8 +769,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 9,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -795,6 +823,10 @@
         },
         {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 0
         }
       ],
@@ -1529,6 +1561,33 @@
       ]
     },
     {
+      "nome": "Página de teste — Escritório OS",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Página de teste — Notion",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Página de teste — Escritório OS",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": []
+    },
+    {
       "nome": "Realizar Impressão Backdrop_BRUNA",
       "data": "2026-07-21",
       "diasAtraso": 0,
@@ -1585,6 +1644,17 @@
     },
     {
       "nome": "Primeira Reunião",
+      "data": "2026-07-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Elaborar Ajuste Projeto",
       "data": "2026-07-21",
       "diasAtraso": 0,
       "pessoas": [
