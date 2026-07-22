@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T14:15:51.541Z",
+  "atualizadoEm": "2026-07-22T14:31:03.400Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 97
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 11,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
@@ -69,10 +69,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Definir Personalização_MILENA.ALMEIDA",
-          "diasAtraso": 6
         },
         {
           "nome": "Impressão Banner_MILENA",
@@ -1600,15 +1596,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Definir Personalização_MILENA.ALMEIDA",
-      "data": "2026-07-16",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Impressão Banner_MILENA",
