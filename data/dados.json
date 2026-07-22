@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T18:15:54.236Z",
+  "atualizadoEm": "2026-07-22T18:30:58.543Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 51,
-    "totalSemana": 98
+    "totalSemana": 99
   },
   "pessoas": [
     {
@@ -191,7 +191,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -218,6 +218,10 @@
         {
           "nome": "Alteração Trio Atrações Milena Almeida",
           "data": "2026-07-21"
+        },
+        {
+          "nome": "Alteração BannerBackdrop - Bruna.Gouvea",
+          "data": "2026-07-22"
         },
         {
           "nome": "Alteração Adesivo Pista + Cardápio BIARA_ROBERTA_UNIVALE_UNI_2026-1",
