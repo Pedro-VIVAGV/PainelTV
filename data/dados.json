@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T10:30:55.153Z",
+  "atualizadoEm": "2026-07-22T10:45:50.056Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 36,
-    "totalSemana": 93
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 55,
+    "totalSemana": 96
   },
   "pessoas": [
     {
@@ -426,9 +426,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 23,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -485,10 +485,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -498,18 +494,6 @@
         },
         {
           "nome": "Orçamentos Buffet 2027",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-20"
         },
         {
@@ -581,8 +565,32 @@
           "data": "2026-07-21"
         },
         {
+          "nome": "Contratos Buffet Celia B. 2026",
+          "data": "2026-07-22"
+        },
+        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contratações Meio Medico_CELIA",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Cadastro Pagamentos: Eventos 01/08",
+          "data": "2026-07-23"
         }
       ]
     },
@@ -1144,13 +1152,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 17,
-      "semanaTotal": 27,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
+      "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1243,10 +1251,6 @@
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
           "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1256,18 +1260,6 @@
         },
         {
           "nome": "Orçamentos Buffet 2027",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-20"
         },
         {
@@ -1351,12 +1343,36 @@
           "data": "2026-07-21"
         },
         {
+          "nome": "Contratos Buffet Celia B. 2026",
+          "data": "2026-07-22"
+        },
+        {
           "nome": "atualizar e-mail decoração e mandar no grupo",
           "data": "2026-07-22"
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Contratações Meio Medico_CELIA",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "Cadastro Pagamentos: Eventos 01/08",
+          "data": "2026-07-23"
         }
       ]
     }
@@ -1921,17 +1937,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-07-22",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
