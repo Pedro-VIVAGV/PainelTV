@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T14:01:14.273Z",
+  "atualizadoEm": "2026-07-22T14:15:51.541Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 54,
     "totalAtrasadasAnterior": 55,
-    "totalSemana": 96
+    "totalSemana": 97
   },
   "pessoas": [
     {
@@ -199,7 +199,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 1,
-      "semanaTotal": 7,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -230,6 +230,10 @@
         {
           "nome": "Alteração Trio Atrações Milena Almeida",
           "data": "2026-07-21"
+        },
+        {
+          "nome": "Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-22"
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
