@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T21:00:54.320Z",
+  "atualizadoEm": "2026-07-22T21:15:45.883Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 99
   },
   "pessoas": [
@@ -426,8 +426,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
@@ -453,10 +453,6 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 57
-        },
-        {
-          "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 42
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -1152,8 +1148,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 24,
+      "atrasadas": 22,
+      "atrasadasAnterior": 23,
       "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
@@ -1183,10 +1179,6 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 57
-        },
-        {
-          "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-          "diasAtraso": 42
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
@@ -1487,17 +1479,6 @@
       "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
       "data": "2026-05-26",
       "diasAtraso": 57,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Buffet Baile - LARISSA-WILLA-LARISSA",
-      "data": "2026-06-10",
-      "diasAtraso": 42,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
