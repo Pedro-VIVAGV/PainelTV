@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T20:45:44.215Z",
+  "atualizadoEm": "2026-07-22T21:00:54.320Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 51,
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 99
   },
   "pessoas": [
@@ -426,8 +426,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 14,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
@@ -461,10 +461,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 16
-        },
-        {
-          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-          "diasAtraso": 1
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -1156,8 +1152,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 23,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
       "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
@@ -1222,10 +1218,6 @@
         },
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
           "diasAtraso": 1
         },
         {
@@ -1718,17 +1710,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Contrato Local_Fundo: THIAGO.LOPES ANHANGUERA-TF ODONTO 2026-2",
-      "data": "2026-07-21",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
