@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T15:15:46.236Z",
+  "atualizadoEm": "2026-07-22T15:30:55.376Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 98
   },
   "pessoas": [
@@ -144,17 +144,13 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Runião: Plan - ANA.CLARA-ASSIS",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -837,8 +833,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 14,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -896,10 +892,6 @@
         {
           "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Runião: Plan - ANA.CLARA-ASSIS",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
@@ -1779,17 +1771,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DR:: Runião: Plan - ANA.CLARA-ASSIS",
-      "data": "2026-07-22",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
