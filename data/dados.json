@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T14:46:12.559Z",
+  "atualizadoEm": "2026-07-22T15:01:04.959Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 54,
-    "totalSemana": 97
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
+    "totalSemana": 98
   },
   "pessoas": [
     {
@@ -193,17 +193,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 8,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
-          "diasAtraso": 0
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
@@ -229,6 +225,10 @@
         },
         {
           "nome": "Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-22"
+        },
+        {
+          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
           "data": "2026-07-22"
         },
         {
@@ -806,23 +806,23 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 2,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 5
-        },
-        {
-          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
           "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
+          "data": "2026-07-22"
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
@@ -1769,17 +1769,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
-      "data": "2026-07-22",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
