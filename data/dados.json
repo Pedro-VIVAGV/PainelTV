@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T18:00:57.723Z",
+  "atualizadoEm": "2026-07-22T18:15:54.236Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 98
   },
   "pessoas": [
@@ -422,8 +422,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
       "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
@@ -480,6 +480,10 @@
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 0
         }
       ],
@@ -1148,8 +1152,8 @@
         "Janine :: Cotação - VIVA GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 24,
+      "atrasadas": 24,
+      "atrasadasAnterior": 23,
       "semanaTotal": 30,
       "tarefasAtrasadas": [
         {
@@ -1242,6 +1246,10 @@
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 0
         }
       ],
@@ -1898,6 +1906,17 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-07-22",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
       ]
     },
     {
