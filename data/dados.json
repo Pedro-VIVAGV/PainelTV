@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T17:30:55.644Z",
+  "atualizadoEm": "2026-07-22T17:45:42.543Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -220,6 +220,10 @@
           "data": "2026-07-21"
         },
         {
+          "nome": "Alteração Adesivo Pista + Cardápio BIARA_ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-22"
+        },
+        {
           "nome": "Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-22"
         },
@@ -228,16 +232,12 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
           "data": "2026-07-23"
         },
         {
-          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-24"
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "data": "2026-07-23"
         }
       ]
     },
