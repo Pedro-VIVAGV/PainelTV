@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T20:30:53.929Z",
+  "atualizadoEm": "2026-07-22T20:45:44.215Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -573,10 +573,6 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-22"
         },
@@ -594,6 +590,10 @@
         },
         {
           "nome": "Cadastro Pagamentos: Eventos 01/08",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-23"
         }
       ]
@@ -1355,10 +1355,6 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-22"
         },
@@ -1376,6 +1372,10 @@
         },
         {
           "nome": "Cadastro Pagamentos: Eventos 01/08",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-23"
         }
       ]
