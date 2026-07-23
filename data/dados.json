@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T19:45:47.193Z",
+  "atualizadoEm": "2026-07-23T20:00:54.737Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 50,
     "totalAtrasadasAnterior": 51,
-    "totalSemana": 114
+    "totalSemana": 115
   },
   "pessoas": [
     {
@@ -43,7 +43,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 19,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -116,6 +116,10 @@
           "data": "2026-07-21"
         },
         {
+          "nome": "Imprimir kit banheiro - Biara",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Ligar para Neidiane para alinhamento",
           "data": "2026-07-23"
         },
@@ -128,7 +132,7 @@
           "data": "2026-07-23"
         },
         {
-          "nome": "Imprimir cardápio e kit banheiro - Biara",
+          "nome": "Imprimir cardápio - Biara",
           "data": "2026-07-23"
         },
         {
@@ -156,7 +160,7 @@
           "data": "2026-07-24"
         },
         {
-          "nome": "Solicitar a retirada dos tecidos - Milena",
+          "nome": "Solicitar a retirada dos tecidos - Milena e levar a barraquinha para plotar",
           "data": "2026-07-24"
         },
         {
@@ -1243,7 +1247,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 21,
-      "semanaTotal": 40,
+      "semanaTotal": 41,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1428,6 +1432,10 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "Imprimir kit banheiro - Biara",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Ligar para Neidiane para alinhamento",
           "data": "2026-07-23"
         },
@@ -1440,7 +1448,7 @@
           "data": "2026-07-23"
         },
         {
-          "nome": "Imprimir cardápio e kit banheiro - Biara",
+          "nome": "Imprimir cardápio - Biara",
           "data": "2026-07-23"
         },
         {
@@ -1472,7 +1480,7 @@
           "data": "2026-07-24"
         },
         {
-          "nome": "Solicitar a retirada dos tecidos - Milena",
+          "nome": "Solicitar a retirada dos tecidos - Milena e levar a barraquinha para plotar",
           "data": "2026-07-24"
         },
         {
