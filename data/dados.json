@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T12:01:12.530Z",
+  "atualizadoEm": "2026-07-23T12:15:49.710Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -224,12 +224,20 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "Tag de Drink - Bruna.Gouvea",
           "data": "2026-07-20"
         },
         {
           "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-21"
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
@@ -245,14 +253,6 @@
         },
         {
           "nome": "Alteração Adesivo Pista + Cardápio BIARA_ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Demanda Mkt-Adesivo Pista de Dança_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
           "data": "2026-07-22"
         },
         {
@@ -849,12 +849,12 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
+          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
           "data": "2026-07-20"
         },
         {
-          "nome": "DD:: Alteração: NFL - CAMILA.HERNECK",
-          "data": "2026-07-22"
+          "nome": "DE: Camisa NFL_10/07/2026_Fundo: CAMILA.HERNECK_UFJF-GV_MED_2030-2",
+          "data": "2026-07-20"
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
