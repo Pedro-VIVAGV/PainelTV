@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T16:01:04.879Z",
+  "atualizadoEm": "2026-07-23T16:15:52.229Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 56,
-    "totalAtrasadasAnterior": 58,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 56,
     "totalSemana": 112
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 14,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -73,10 +73,6 @@
         {
           "nome": "Impressão Banner_MILENA",
           "diasAtraso": 7
-        },
-        {
-          "nome": "Confecção Pastas_BIARA-ROBERTA",
-          "diasAtraso": 6
         },
         {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
@@ -1244,8 +1240,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 23,
+      "atrasadas": 21,
+      "atrasadasAnterior": 22,
       "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
@@ -1291,10 +1287,6 @@
         {
           "nome": "Organizar a VIVA",
           "diasAtraso": 13
-        },
-        {
-          "nome": "Confecção Pastas_BIARA-ROBERTA",
-          "diasAtraso": 6
         },
         {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
@@ -1726,17 +1718,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Confecção Pastas_BIARA-ROBERTA",
-      "data": "2026-07-17",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
     },
     {
       "nome": "Contratação Equipe_BIARA-ROBERTA",
