@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T13:01:00.853Z",
+  "atualizadoEm": "2026-07-23T13:15:58.705Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 56,
     "totalAtrasadasAnterior": 58,
-    "totalSemana": 101
+    "totalSemana": 109
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 8,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -141,8 +141,40 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "Adesivo pista de dança - Biara",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Imprimir cardápio e kit banheiro - Biara",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Imprimir Tag’s Drink - Bruna",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Confecção Pastas_BIARA-ROBERTA",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Impressão Banner_MILENA",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Solicitar a retirada dos tecidos - Milena",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Material eventos  01/08",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Imprimir Adesivo DTF UV - Bruna",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "data": "2026-07-24"
         }
       ]
     },
@@ -1202,7 +1234,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 32,
+      "semanaTotal": 39,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1407,6 +1439,14 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "Adesivo pista de dança - Biara",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Imprimir cardápio e kit banheiro - Biara",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Imprimir Tag’s Drink - Bruna",
           "data": "2026-07-23"
         },
@@ -1421,6 +1461,26 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Confecção Pastas_BIARA-ROBERTA",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Solicitar a retirada dos tecidos - Milena",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Material eventos  01/08",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Imprimir Adesivo DTF UV - Bruna",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Realizar Impressão Backdrop_BRUNA",
+          "data": "2026-07-24"
         }
       ]
     }
