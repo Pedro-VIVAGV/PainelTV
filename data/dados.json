@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T00:01:10.494Z",
+  "atualizadoEm": "2026-07-23T00:15:48.485Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 50,
-    "totalAtrasadasAnterior": 51,
+    "totalAtrasadas": 58,
+    "totalAtrasadasAnterior": 50,
     "totalSemana": 99
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
@@ -99,6 +99,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 0
         },
@@ -144,13 +148,17 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -189,13 +197,25 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 5,
+      "atrasadasAnterior": 2,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 5
+        },
+        {
+          "nome": "Arte Big Shot VIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Arte Beer pong VIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Adesivo DTF UV - Bruna.Gouvea",
+          "diasAtraso": 0
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
@@ -598,8 +618,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 7,
+      "atrasadas": 13,
+      "atrasadasAnterior": 10,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -631,11 +651,23 @@
           "diasAtraso": 1
         },
         {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 0
         },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -766,13 +798,17 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 12
+        },
+        {
+          "nome": "DR:: Me Interna - PEDRO.PERELO",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
@@ -833,8 +869,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 24,
+      "atrasadasAnterior": 20,
       "semanaTotal": 55,
       "tarefasAtrasadas": [
         {
@@ -894,6 +930,10 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "diasAtraso": 0
         },
@@ -902,11 +942,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 0
         },
         {
           "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         },
         {
@@ -1899,6 +1951,88 @@
     {
       "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
       "data": "2026-07-22",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Arte Big Shot VIVA",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Arte Beer pong VIVA",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Me Interna - PEDRO.PERELO",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "Adesivo DTF UV - Bruna.Gouvea",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "TRIUNFO: Orç Unimed: Bebidas",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Sessão de Fotos",
+      "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-23",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
