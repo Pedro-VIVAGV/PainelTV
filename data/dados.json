@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T12:45:48.210Z",
+  "atualizadoEm": "2026-07-23T13:01:00.853Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 56,
     "totalAtrasadasAnterior": 58,
-    "totalSemana": 100
+    "totalSemana": 101
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 7,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -139,6 +139,10 @@
         {
           "nome": "atualizar e-mail decoração e mandar no grupo",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Imprimir Tag’s Drink - Bruna",
+          "data": "2026-07-23"
         }
       ]
     },
@@ -1192,13 +1196,13 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 31,
+      "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1401,6 +1405,10 @@
         {
           "nome": "Contratações Meio Medico_CELIA",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Imprimir Tag’s Drink - Bruna",
+          "data": "2026-07-23"
         },
         {
           "nome": "Pagamentos 2026-07-23",
