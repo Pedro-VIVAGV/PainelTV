@@ -4,7 +4,7 @@
       "Equipe: Comercial": 1,
       "Janine :: Cotação - VIVA GV": 15,
       "Locatelli:: Atendimento - VIVA GV": 2,
-      "Lyncoln :: Marketing - VIVA GV": 5,
+      "Lyncoln :: Marketing - VIVA GV": 3,
       "Maria Clara / Tay :: Luminous": 0,
       "Matheus :: Planejamento - VIVA GV": 8,
       "Pedro :: GRUPO VIVA - GV": 13,
@@ -19,14 +19,14 @@
       "Planejamento": 24,
       "Produção": 22
     },
-    "total": 58
+    "total": 56
   },
   "anterior": {
     "pessoas": {
       "Equipe: Comercial": 1,
       "Janine :: Cotação - VIVA GV": 14,
       "Locatelli:: Atendimento - VIVA GV": 1,
-      "Lyncoln :: Marketing - VIVA GV": 2,
+      "Lyncoln :: Marketing - VIVA GV": 5,
       "Maria Clara / Tay :: Luminous": 1,
       "Matheus :: Planejamento - VIVA GV": 5,
       "Pedro :: GRUPO VIVA - GV": 14,
@@ -41,6 +41,6 @@
       "Planejamento": 20,
       "Produção": 23
     },
-    "total": 50
+    "total": 58
   }
 }

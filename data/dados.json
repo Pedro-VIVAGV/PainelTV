@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T12:15:49.710Z",
+  "atualizadoEm": "2026-07-23T12:30:55.990Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 50,
-    "totalSemana": 99
+    "totalAtrasadas": 56,
+    "totalAtrasadasAnterior": 58,
+    "totalSemana": 100
   },
   "pessoas": [
     {
@@ -197,8 +197,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 2,
+      "atrasadas": 3,
+      "atrasadasAnterior": 5,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -208,14 +208,6 @@
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Arte Big Shot VIVA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Arte Beer pong VIVA",
-          "diasAtraso": 0
         },
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
@@ -448,7 +440,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 14,
-      "semanaTotal": 26,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -599,6 +591,10 @@
         {
           "nome": "Contratações Meio Medico_CELIA",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Pagamentos 2026-07-23",
+          "data": "2026-07-23"
         },
         {
           "nome": "Cadastro Pagamentos: Eventos 01/08",
@@ -1202,7 +1198,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 30,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1405,6 +1401,10 @@
         {
           "nome": "Contratações Meio Medico_CELIA",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Pagamentos 2026-07-23",
+          "data": "2026-07-23"
         },
         {
           "nome": "Cadastro Pagamentos: Eventos 01/08",
@@ -1958,24 +1958,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Arte Big Shot VIVA",
-      "data": "2026-07-23",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Arte Beer pong VIVA",
-      "data": "2026-07-23",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Me Interna - PEDRO.PERELO",
