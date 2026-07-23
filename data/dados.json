@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T19:30:57.707Z",
+  "atualizadoEm": "2026-07-23T19:45:47.193Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 114
   },
   "pessoas": [
@@ -41,8 +41,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 14,
+      "atrasadas": 12,
+      "atrasadasAnterior": 13,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -79,10 +79,6 @@
         },
         {
           "nome": "atualizar e-mail decoração e mandar no grupo",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Enviar E-mail DJ VM - Bailes",
           "diasAtraso": 1
         },
         {
@@ -124,6 +120,10 @@
           "data": "2026-07-23"
         },
         {
+          "nome": "Finalizar compra da Placa de LED",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Adesivo pista de dança - Biara",
           "data": "2026-07-23"
         },
@@ -153,10 +153,6 @@
         },
         {
           "nome": "Contratar auxiliar para MD",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Finalizar compra da Placa de LED",
           "data": "2026-07-24"
         },
         {
@@ -1436,6 +1432,10 @@
           "data": "2026-07-23"
         },
         {
+          "nome": "Finalizar compra da Placa de LED",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Adesivo pista de dança - Biara",
           "data": "2026-07-23"
         },
@@ -1469,10 +1469,6 @@
         },
         {
           "nome": "Contratar auxiliar para MD",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Finalizar compra da Placa de LED",
           "data": "2026-07-24"
         },
         {
@@ -1814,15 +1810,6 @@
       "setores": [
         "Produção"
       ]
-    },
-    {
-      "nome": "Enviar E-mail DJ VM - Bailes",
-      "data": "2026-07-22",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
