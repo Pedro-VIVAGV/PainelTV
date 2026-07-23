@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T20:00:54.737Z",
+  "atualizadoEm": "2026-07-23T20:15:55.312Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 50,
     "totalAtrasadasAnterior": 51,
-    "totalSemana": 115
+    "totalSemana": 114
   },
   "pessoas": [
     {
@@ -491,7 +491,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 25,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -621,10 +621,6 @@
         },
         {
           "nome": "Contratos Buffet Celia B. 2026",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-22"
         },
         {
@@ -1247,7 +1243,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 21,
-      "semanaTotal": 41,
+      "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1421,10 +1417,6 @@
         },
         {
           "nome": "Contratos Buffet Celia B. 2026",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "data": "2026-07-22"
         },
         {
