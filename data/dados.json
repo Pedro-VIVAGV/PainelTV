@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T18:01:01.819Z",
+  "atualizadoEm": "2026-07-23T18:15:49.550Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 56,
-    "totalSemana": 112
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 55,
+    "totalSemana": 116
   },
   "pessoas": [
     {
@@ -26,15 +26,10 @@
       "setores": [
         "Comercial"
       ],
-      "atrasadas": 1,
+      "atrasadas": 0,
       "atrasadasAnterior": 1,
       "semanaTotal": 0,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 308
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": []
     },
     {
@@ -46,8 +41,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
@@ -69,10 +64,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 13
-        },
-        {
-          "nome": "Impressão Banner_MILENA",
-          "diasAtraso": 7
         },
         {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
@@ -324,7 +315,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 5,
-      "semanaTotal": 28,
+      "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -433,6 +424,22 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "Atualizar Cronograma (Comissão)",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-07-23"
         },
@@ -482,8 +489,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 14,
+      "atrasadas": 12,
+      "atrasadasAnterior": 13,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -509,10 +516,6 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 58
-        },
-        {
-          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 17
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -819,18 +822,11 @@
     },
     {
       "nome": "Comercial",
-      "pessoas": [
-        "Equipe: Comercial"
-      ],
-      "atrasadas": 1,
+      "pessoas": [],
+      "atrasadas": 0,
       "atrasadasAnterior": 1,
       "semanaTotal": 0,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-          "diasAtraso": 308
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": []
     },
     {
@@ -869,9 +865,14 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 0,
-      "semanaTotal": 0,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "data": "2026-07-23"
+        }
+      ]
     },
     {
       "nome": "Marketing",
@@ -909,9 +910,9 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 20,
-      "semanaTotal": 55,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
+      "semanaTotal": 59,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -920,10 +921,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 316
-        },
-        {
-          "nome": "Criar E-mails LMS",
-          "diasAtraso": 81
         },
         {
           "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
@@ -1156,7 +1153,23 @@
           "data": "2026-07-22"
         },
         {
+          "nome": "Atualizar Cronograma (Comissão)",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "data": "2026-07-23"
         },
         {
@@ -1240,8 +1253,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 22,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
@@ -1271,10 +1284,6 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 58
-        },
-        {
-          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 17
         },
         {
           "nome": "Dobrar os Uniformes e panos de chão",
@@ -1526,17 +1535,6 @@
       ]
     },
     {
-      "nome": "DR: Campanha de Adesão - Apresentação Comercial - MATHEUS.DINIZ",
-      "data": "2025-09-18",
-      "diasAtraso": 308,
-      "pessoas": [
-        "Equipe: Comercial"
-      ],
-      "setores": [
-        "Comercial"
-      ]
-    },
-    {
       "nome": "Atualização de Cheques",
       "data": "2026-03-31",
       "diasAtraso": 114,
@@ -1556,15 +1554,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Criar E-mails LMS",
-      "data": "2026-05-03",
-      "diasAtraso": 81,
-      "pessoas": [],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1634,17 +1623,6 @@
       ]
     },
     {
-      "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-      "data": "2026-07-06",
-      "diasAtraso": 17,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Dobrar os Uniformes e panos de chão",
       "data": "2026-07-07",
       "diasAtraso": 16,
@@ -1709,15 +1687,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Impressão Banner_MILENA",
-      "data": "2026-07-16",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Contratação Equipe_BIARA-ROBERTA",
