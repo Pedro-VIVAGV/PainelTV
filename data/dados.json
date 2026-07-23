@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T20:15:55.312Z",
+  "atualizadoEm": "2026-07-23T20:30:56.225Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 50,
-    "totalAtrasadasAnterior": 51,
+    "totalAtrasadas": 48,
+    "totalAtrasadasAnterior": 50,
     "totalSemana": 114
   },
   "pessoas": [
@@ -41,8 +41,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 10,
+      "atrasadasAnterior": 12,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -78,15 +78,7 @@
           "diasAtraso": 2
         },
         {
-          "nome": "atualizar e-mail decoração e mandar no grupo",
-          "diasAtraso": 1
-        },
-        {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Definir Personalização_BRUNA.GOUVEA",
           "diasAtraso": 1
         },
         {
@@ -1241,8 +1233,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Usuário a6c3d881"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 19,
+      "atrasadasAnterior": 20,
       "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
@@ -1296,10 +1288,6 @@
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
           "diasAtraso": 2
-        },
-        {
-          "nome": "atualizar e-mail decoração e mandar no grupo",
-          "diasAtraso": 1
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -1801,17 +1789,6 @@
       ]
     },
     {
-      "nome": "atualizar e-mail decoração e mandar no grupo",
-      "data": "2026-07-22",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
       "data": "2026-07-22",
       "diasAtraso": 1,
@@ -1876,15 +1853,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Definir Personalização_BRUNA.GOUVEA",
-      "data": "2026-07-22",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
