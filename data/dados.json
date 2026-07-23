@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T13:15:58.705Z",
+  "atualizadoEm": "2026-07-23T13:31:01.560Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 56,
     "totalAtrasadasAnterior": 58,
-    "totalSemana": 109
+    "totalSemana": 111
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 16,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -117,10 +117,6 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Definir Personalização_BRUNA.GOUVEA",
-          "data": "2026-07-20"
-        },
-        {
           "nome": "Enviar E-mail DJ VM - Bailes",
           "data": "2026-07-21"
         },
@@ -137,10 +133,6 @@
           "data": "2026-07-21"
         },
         {
-          "nome": "atualizar e-mail decoração e mandar no grupo",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Adesivo pista de dança - Biara",
           "data": "2026-07-23"
         },
@@ -153,12 +145,28 @@
           "data": "2026-07-23"
         },
         {
+          "nome": "atualizar e-mail decoração e mandar no grupo",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
+          "data": "2026-07-23"
+        },
+        {
+          "nome": "Definir Personalização_BRUNA.GOUVEA",
           "data": "2026-07-23"
         },
         {
           "nome": "Impressão Banner_MILENA",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Contratar auxiliar para MD",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Finalizar compra da Placa de LED",
+          "data": "2026-07-24"
         },
         {
           "nome": "Solicitar a retirada dos tecidos - Milena",
@@ -1234,7 +1242,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 39,
+      "semanaTotal": 41,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1419,10 +1427,6 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "atualizar e-mail decoração e mandar no grupo",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-22"
         },
@@ -1459,12 +1463,24 @@
           "data": "2026-07-23"
         },
         {
+          "nome": "atualizar e-mail decoração e mandar no grupo",
+          "data": "2026-07-23"
+        },
+        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-23"
         },
         {
           "nome": "Confecção Pastas_BIARA-ROBERTA",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Contratar auxiliar para MD",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "Finalizar compra da Placa de LED",
+          "data": "2026-07-24"
         },
         {
           "nome": "Solicitar a retirada dos tecidos - Milena",
