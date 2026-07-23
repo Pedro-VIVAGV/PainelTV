@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T13:31:01.560Z",
+  "atualizadoEm": "2026-07-23T13:45:51.663Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 56,
     "totalAtrasadasAnterior": 58,
-    "totalSemana": 111
+    "totalSemana": 112
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 18,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -131,6 +131,10 @@
         {
           "nome": "Contratação Equipe_BIARA-ROBERTA",
           "data": "2026-07-21"
+        },
+        {
+          "nome": "Ligar para Neidiane para alinhamento",
+          "data": "2026-07-23"
         },
         {
           "nome": "Adesivo pista de dança - Biara",
@@ -1242,7 +1246,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 41,
+      "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1441,6 +1445,10 @@
         {
           "nome": "Contratações Meio Medico_CELIA",
           "data": "2026-07-22"
+        },
+        {
+          "nome": "Ligar para Neidiane para alinhamento",
+          "data": "2026-07-23"
         },
         {
           "nome": "Adesivo pista de dança - Biara",
