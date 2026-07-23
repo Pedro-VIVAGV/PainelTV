@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-23T19:15:44.357Z",
+  "atualizadoEm": "2026-07-23T19:30:57.707Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 51,
     "totalAtrasadasAnterior": 55,
-    "totalSemana": 116
+    "totalSemana": 114
   },
   "pessoas": [
     {
@@ -491,7 +491,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 27,
+      "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -621,14 +621,6 @@
         },
         {
           "nome": "Contratos Buffet Celia B. 2026",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-22"
         },
         {
@@ -1255,7 +1247,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 21,
-      "semanaTotal": 42,
+      "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1429,14 +1421,6 @@
         },
         {
           "nome": "Contratos Buffet Celia B. 2026",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
           "data": "2026-07-22"
         },
         {
