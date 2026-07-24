@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T21:00:53.026Z",
+  "atualizadoEm": "2026-07-24T21:15:45.066Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 39,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 41,
+    "totalAtrasadasAnterior": 39,
     "totalSemana": 93
   },
   "pessoas": [
@@ -653,8 +653,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 16,
+      "atrasadas": 4,
+      "atrasadasAnterior": 2,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -664,6 +664,14 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 317
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -786,8 +794,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 27,
+      "atrasadas": 16,
+      "atrasadasAnterior": 14,
       "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
@@ -844,6 +852,14 @@
         },
         {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Sessão de Fotos",
           "diasAtraso": 0
         }
       ],
@@ -1675,6 +1691,28 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Sessão de Fotos",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
