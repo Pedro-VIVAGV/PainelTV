@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T12:45:51.071Z",
+  "atualizadoEm": "2026-07-24T13:01:03.479Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 48,
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 114
   },
   "pessoas": [
@@ -329,14 +329,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 8,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 21
-        },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "diasAtraso": 10
@@ -376,6 +372,14 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "Atualizar Cronograma (Comissão)",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
           "data": "2026-07-20"
         },
@@ -402,6 +406,14 @@
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
+          "data": "2026-07-21"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
@@ -446,22 +458,6 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-22"
-        },
-        {
-          "nome": "Atualizar Cronograma (Comissão)",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "data": "2026-07-23"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -914,7 +910,7 @@
       "tarefasSemana": [
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-23"
+          "data": "2026-07-21"
         }
       ]
     },
@@ -966,8 +962,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 23,
+      "atrasadas": 32,
+      "atrasadasAnterior": 33,
       "semanaTotal": 59,
       "tarefasAtrasadas": [
         {
@@ -977,10 +973,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 317
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "diasAtraso": 21
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -1105,7 +1097,15 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "Atualizar Cronograma (Comissão)",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "Reunião Plan - Semanal",
+          "data": "2026-07-20"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-20"
         },
         {
@@ -1169,7 +1169,15 @@
           "data": "2026-07-21"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "data": "2026-07-21"
+        },
+        {
           "nome": "DR:: Arrecadação Extra - 2026-2",
+          "data": "2026-07-21"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "data": "2026-07-21"
         },
         {
@@ -1249,23 +1257,7 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "Atualizar Cronograma (Comissão)",
-          "data": "2026-07-23"
-        },
-        {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "data": "2026-07-23"
         },
         {
@@ -1693,17 +1685,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-      "data": "2026-07-03",
-      "diasAtraso": 21,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
