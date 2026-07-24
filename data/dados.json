@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T13:45:47.550Z",
+  "atualizadoEm": "2026-07-24T14:00:53.743Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 62,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 115
+    "totalSemana": 114
   },
   "pessoas": [
     {
@@ -331,7 +331,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 10,
-      "semanaTotal": 32,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -393,10 +393,6 @@
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
           "data": "2026-07-20"
         },
         {
@@ -964,7 +960,7 @@
       ],
       "atrasadas": 32,
       "atrasadasAnterior": 33,
-      "semanaTotal": 59,
+      "semanaTotal": 58,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1150,10 +1146,6 @@
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
           "data": "2026-07-20"
         },
         {
