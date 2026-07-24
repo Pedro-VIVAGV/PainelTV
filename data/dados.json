@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T13:01:03.479Z",
+  "atualizadoEm": "2026-07-24T13:15:43.619Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 63,
-    "totalAtrasadasAnterior": 64,
-    "totalSemana": 114
+    "totalAtrasadas": 62,
+    "totalAtrasadasAnterior": 63,
+    "totalSemana": 115
   },
   "pessoas": [
     {
@@ -232,9 +232,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 6,
-      "semanaTotal": 10,
+      "atrasadas": 6,
+      "atrasadasAnterior": 7,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
@@ -247,10 +247,6 @@
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
-          "diasAtraso": 0
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
@@ -305,6 +301,10 @@
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
+          "data": "2026-07-24"
         }
       ]
     },
@@ -919,17 +919,13 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 3,
+      "atrasadas": 3,
+      "atrasadasAnterior": 4,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 7
-        },
-        {
-          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
-          "diasAtraso": 0
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
@@ -952,15 +948,19 @@
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
           "data": "2026-07-23"
+        },
+        {
+          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
+          "data": "2026-07-24"
         }
       ]
     },
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
-        "Rodrigo :: VIVA Eventos"
+        "Rodrigo :: VIVA Eventos",
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "atrasadas": 32,
       "atrasadasAnterior": 33,
@@ -2099,17 +2099,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
-      "data": "2026-07-24",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
