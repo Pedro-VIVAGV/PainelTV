@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T21:15:45.066Z",
+  "atualizadoEm": "2026-07-24T21:30:57.750Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -18,7 +18,7 @@
     },
     "totalAtrasadas": 41,
     "totalAtrasadasAnterior": 39,
-    "totalSemana": 93
+    "totalSemana": 92
   },
   "pessoas": [
     {
@@ -43,7 +43,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 10,
-      "semanaTotal": 18,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -157,10 +157,6 @@
         },
         {
           "nome": "Solicitar a retirada dos tecidos - Milena e levar a barraquinha para plotar",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Material eventos  01/08",
           "data": "2026-07-24"
         }
       ]
@@ -1034,7 +1030,7 @@
       ],
       "atrasadas": 19,
       "atrasadasAnterior": 20,
-      "semanaTotal": 38,
+      "semanaTotal": 37,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1260,10 +1256,6 @@
         },
         {
           "nome": "Solicitar a retirada dos tecidos - Milena e levar a barraquinha para plotar",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Material eventos  01/08",
           "data": "2026-07-24"
         }
       ]
