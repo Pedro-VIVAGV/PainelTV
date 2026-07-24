@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T14:30:58.482Z",
+  "atualizadoEm": "2026-07-24T14:45:50.287Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -307,6 +307,18 @@
           "data": "2026-07-24"
         }
       ]
+    },
+    {
+      "nome": "Maria Clara :: Produção - VIVA GV",
+      "setores": [
+        "Produção",
+        "Marketing"
+      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 0,
+      "semanaTotal": 0,
+      "tarefasAtrasadas": [],
+      "tarefasSemana": []
     },
     {
       "nome": "Maria Clara / Tay :: Luminous",
@@ -1331,7 +1343,7 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV",
-        "Usuário a6c3d881"
+        "Maria Clara :: Produção - VIVA GV"
       ],
       "atrasadas": 19,
       "atrasadasAnterior": 20,
