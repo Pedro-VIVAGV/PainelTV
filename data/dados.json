@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T12:00:56.024Z",
+  "atualizadoEm": "2026-07-24T12:15:46.238Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -232,8 +232,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 3,
+      "atrasadas": 7,
+      "atrasadasAnterior": 6,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -247,6 +247,10 @@
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
+          "diasAtraso": 0
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
@@ -2120,7 +2124,9 @@
       "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
       "data": "2026-07-24",
       "diasAtraso": 0,
-      "pessoas": [],
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
       "setores": [
         "Marketing"
       ]
