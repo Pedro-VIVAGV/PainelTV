@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T20:31:05.867Z",
+  "atualizadoEm": "2026-07-24T20:45:50.715Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 62,
-    "totalSemana": 114
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 58,
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -661,9 +661,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 22,
+      "atrasadas": 16,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -672,22 +672,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 317
-        },
-        {
-          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
         },
         {
           "nome": "Elaborar Ajuste Projeto",
@@ -704,10 +688,6 @@
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "diasAtraso": 2
-        },
-        {
-          "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "diasAtraso": 1
         },
         {
           "nome": "Confirmar Data - Sessão de Fotos",
@@ -760,84 +740,8 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-20"
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
           "data": "2026-07-20"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Agendar Degustação_IZABELLA.RINIERI",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "data": "2026-07-24"
         }
       ]
     }
@@ -946,9 +850,9 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 33,
-      "semanaTotal": 58,
+      "atrasadas": 27,
+      "atrasadasAnterior": 32,
+      "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -977,22 +881,6 @@
         {
           "nome": "DR:: Arrecadação Extra - 2026-2",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
         },
         {
           "nome": "Elaborar Ajuste Projeto",
@@ -1024,10 +912,6 @@
         },
         {
           "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "TRIUNFO: Orç Unimed: Bebidas",
           "diasAtraso": 1
         },
         {
@@ -1105,19 +989,7 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-20"
-        },
-        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "Primeira Reunião",
           "data": "2026-07-20"
         },
         {
@@ -1181,22 +1053,6 @@
           "data": "2026-07-21"
         },
         {
-          "nome": "Confirmar Data - Colação Festiva",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-21"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
           "data": "2026-07-21"
         },
@@ -1221,19 +1077,7 @@
           "data": "2026-07-22"
         },
         {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-22"
-        },
-        {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-22"
         },
         {
@@ -1273,43 +1117,11 @@
           "data": "2026-07-23"
         },
         {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "data": "2026-07-24"
-        },
-        {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "data": "2026-07-24"
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "data": "2026-07-24"
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "data": "2026-07-24"
         }
       ]
@@ -1810,50 +1622,6 @@
       ]
     },
     {
-      "nome": "DR:: Balanço de Reserva: Cerimonia do Jaleco - LOUISE.VENTURA",
-      "data": "2026-07-21",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pos. Junção YASMIN e Fono",
-      "data": "2026-07-21",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data Colação Festiva",
-      "data": "2026-07-21",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-07-21",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Elaborar Ajuste Projeto",
       "data": "2026-07-21",
       "diasAtraso": 3,
@@ -2033,17 +1801,6 @@
       "diasAtraso": 1,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "TRIUNFO: Orç Unimed: Bebidas",
-      "data": "2026-07-23",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
