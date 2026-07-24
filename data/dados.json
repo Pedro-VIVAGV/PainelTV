@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-24T00:01:06.012Z",
+  "atualizadoEm": "2026-07-24T00:15:53.944Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 50,
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 48,
     "totalSemana": 114
   },
   "pessoas": [
@@ -41,8 +41,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 12,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -80,6 +80,10 @@
         {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Contrato Assinado: Kaikan_CELIA",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
@@ -175,8 +179,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -185,6 +189,10 @@
         },
         {
           "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
           "diasAtraso": 0
         }
       ],
@@ -224,8 +232,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 5,
+      "atrasadas": 6,
+      "atrasadasAnterior": 3,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -238,6 +246,18 @@
         },
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "diasAtraso": 0
         }
       ],
@@ -305,8 +325,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 5,
+      "atrasadas": 10,
+      "atrasadasAnterior": 8,
       "semanaTotal": 32,
       "tarefasAtrasadas": [
         {
@@ -340,6 +360,14 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -641,8 +669,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 10,
+      "atrasadas": 21,
+      "atrasadasAnterior": 13,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -686,7 +714,23 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Degustação_IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 0
         },
         {
@@ -694,7 +738,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -859,13 +919,25 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 4,
+      "atrasadasAnterior": 1,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 6
+        },
+        {
+          "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -890,8 +962,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 24,
+      "atrasadas": 33,
+      "atrasadasAnterior": 23,
       "semanaTotal": 59,
       "tarefasAtrasadas": [
         {
@@ -975,7 +1047,31 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
+        },
+        {
           "nome": "TRIUNFO: Orç Unimed: Bebidas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
           "diasAtraso": 0
         },
         {
@@ -983,7 +1079,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -1996,6 +2108,174 @@
     {
       "nome": "Primeira Reunião",
       "data": "2026-07-23",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Alteração Banner Backdrop - 1/6 BRUNA.GOUVEA",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Contrato Assinado: Kaikan_CELIA",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Designer-PRODUTOS_Fundo: MARIANA.SANTOS_FAMMUC_MED_2031-2",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Agendar Degustação_IZABELLA.RINIERI",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+      "data": "2026-07-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+      "data": "2026-07-24",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
