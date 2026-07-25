@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-25T00:00:57.154Z",
+  "atualizadoEm": "2026-07-25T00:15:43.986Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 39,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 41,
     "totalSemana": 92
   },
   "pessoas": [
@@ -313,8 +313,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 23,
+      "atrasadasAnterior": 9,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -346,11 +346,67 @@
           "diasAtraso": 2
         },
         {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "diasAtraso": 0
         },
         {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 0
         }
       ],
@@ -790,8 +846,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 16,
-      "atrasadasAnterior": 14,
+      "atrasadas": 30,
+      "atrasadasAnterior": 16,
       "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
@@ -843,6 +899,38 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
           "diasAtraso": 0
         },
@@ -851,11 +939,35 @@
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 0
         },
         {
           "nome": "Confirmar Data Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 0
         }
       ],
@@ -1705,6 +1817,160 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Referências dos Produtos Extras Bailes_Izabella",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Izabella",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Euller-Kairo",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Milena-Pedro",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
+      "data": "2026-07-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
