@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T00:01:00.069Z",
+  "atualizadoEm": "2026-07-27T00:15:47.786Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,8 +16,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 55,
     "totalSemana": 92
   },
   "pessoas": [
@@ -41,8 +41,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
+      "atrasadas": 13,
+      "atrasadasAnterior": 11,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -88,6 +88,14 @@
         {
           "nome": "Contrato Assinado: Kaikan_CELIA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Conferir ingressos extras do baile",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -220,8 +228,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 6,
+      "atrasadas": 7,
+      "atrasadasAnterior": 2,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -231,6 +239,26 @@
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Arte Flamulas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -313,8 +341,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 9,
+      "atrasadas": 25,
+      "atrasadasAnterior": 23,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -408,6 +436,14 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -545,8 +581,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 13,
+      "atrasadasAnterior": 12,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -596,6 +632,10 @@
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 4
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -766,8 +806,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 4,
+      "atrasadasAnterior": 3,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -781,6 +821,10 @@
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -795,10 +839,15 @@
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 0,
+      "atrasadas": 1,
       "atrasadasAnterior": 0,
       "semanaTotal": 1,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
@@ -811,13 +860,25 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 3,
+      "atrasadas": 4,
+      "atrasadasAnterior": 1,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "diasAtraso": 9
+        },
+        {
+          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Arte Flamulas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -846,8 +907,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 16,
+      "atrasadas": 32,
+      "atrasadasAnterior": 30,
       "semanaTotal": 40,
       "tarefasAtrasadas": [
         {
@@ -969,6 +1030,14 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1140,8 +1209,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 21,
+      "atrasadasAnterior": 19,
       "semanaTotal": 37,
       "tarefasAtrasadas": [
         {
@@ -1219,6 +1288,14 @@
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Conferir ingressos extras do baile",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1975,6 +2052,113 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Conferir ingressos extras do baile",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Arte Flamulas",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento",
+        "Diretoria"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
     }
   ]
 }
