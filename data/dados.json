@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T19:30:56.177Z",
+  "atualizadoEm": "2026-07-27T19:46:01.988Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 51,
     "totalAtrasadasAnterior": 52,
-    "totalSemana": 90
+    "totalSemana": 81
   },
   "pessoas": [
     {
@@ -281,7 +281,7 @@
       ],
       "atrasadas": 18,
       "atrasadasAnterior": 19,
-      "semanaTotal": 29,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
@@ -366,6 +366,10 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
+          "data": "2026-07-27"
+        },
+        {
           "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-27"
         },
@@ -430,47 +434,7 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-07-30"
-        },
-        {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-07-31"
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "data": "2026-07-31"
         }
       ]
@@ -831,7 +795,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 60,
+      "semanaTotal": 51,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -937,6 +901,10 @@
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
           "data": "2026-07-27"
         },
         {
@@ -1060,10 +1028,6 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "Confirma Data S. Fotos",
           "data": "2026-07-29"
         },
@@ -1082,38 +1046,6 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-29"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-07-30"
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
@@ -1145,10 +1077,6 @@
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-07-31"
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "data": "2026-07-31"
         },
         {
