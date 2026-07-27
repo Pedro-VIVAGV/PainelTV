@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T18:30:58.177Z",
+  "atualizadoEm": "2026-07-27T18:45:55.088Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 51,
     "totalAtrasadasAnterior": 52,
-    "totalSemana": 89
+    "totalSemana": 90
   },
   "pessoas": [
     {
@@ -111,10 +111,6 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "Imprimir Adesivo DTF UV - Bruna",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "Conferir ingressos extras do baile",
           "data": "2026-07-27"
         },
@@ -124,6 +120,10 @@
         },
         {
           "nome": "Buscar Banners e Barraquinha",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "Imprimir Adesivo DTF UV - Bruna",
           "data": "2026-07-28"
         },
         {
@@ -485,7 +485,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 12,
-      "semanaTotal": 7,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
@@ -541,6 +541,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Drink: Incluir no Cardápio - BIARA-ROBERTA",
+          "data": "2026-07-27"
+        },
         {
           "nome": "Atualizar e-mail Celia_LARISSA-WILLA-LARISSA",
           "data": "2026-07-27"
@@ -1169,7 +1173,7 @@
       ],
       "atrasadas": 19,
       "atrasadasAnterior": 21,
-      "semanaTotal": 15,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1254,15 +1258,15 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "DR:: Drink: Incluir no Cardápio - BIARA-ROBERTA",
+          "data": "2026-07-27"
+        },
+        {
           "nome": "Definição final equipe - Biara",
           "data": "2026-07-27"
         },
         {
           "nome": "Material eventos  01/08",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Imprimir Adesivo DTF UV - Bruna",
           "data": "2026-07-27"
         },
         {
@@ -1295,6 +1299,10 @@
         },
         {
           "nome": "Buscar Banners e Barraquinha",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "Imprimir Adesivo DTF UV - Bruna",
           "data": "2026-07-28"
         },
         {
