@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T12:15:54.694Z",
+  "atualizadoEm": "2026-07-27T12:31:02.219Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 57,
     "totalAtrasadasAnterior": 59,
-    "totalSemana": 91
+    "totalSemana": 94
   },
   "pessoas": [
     {
@@ -103,10 +103,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "Buscar Banner",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "Definição final equipe - Biara",
           "data": "2026-07-27"
         },
@@ -125,6 +121,10 @@
         {
           "nome": "Realizar Impressão Backdrop_BRUNA",
           "data": "2026-07-27"
+        },
+        {
+          "nome": "Buscar Banners e Barraquinha",
+          "data": "2026-07-28"
         },
         {
           "nome": "Enviar arte mesa e levar mesa para plotar",
@@ -177,7 +177,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 7,
-      "semanaTotal": 18,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
@@ -250,16 +250,16 @@
           "data": "2026-07-29"
         },
         {
+          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
+          "data": "2026-07-29"
+        },
+        {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-29"
         },
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
-          "data": "2026-07-30"
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
@@ -270,8 +270,20 @@
           "data": "2026-07-30"
         },
         {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "data": "2026-07-30"
+        },
+        {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-07-30"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "data": "2026-07-31"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+          "data": "2026-07-31"
         }
       ]
     },
@@ -824,7 +836,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 4,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
@@ -869,10 +881,6 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
-          "data": "2026-07-30"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-07-30"
         },
@@ -883,6 +891,14 @@
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-07-30"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "data": "2026-07-31"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+          "data": "2026-07-31"
         }
       ]
     },
@@ -1330,10 +1346,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "Buscar Banner",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "Definição final equipe - Biara",
           "data": "2026-07-27"
         },
@@ -1371,6 +1383,10 @@
         },
         {
           "nome": "Contratação DJ Wesley Gonzaga - Triunfo",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "Buscar Banners e Barraquinha",
           "data": "2026-07-28"
         },
         {
