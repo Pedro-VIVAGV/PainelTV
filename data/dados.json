@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T21:01:00.234Z",
+  "atualizadoEm": "2026-07-27T21:15:43.770Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 83
   },
   "pessoas": [
@@ -44,8 +44,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 13,
+      "atrasadas": 12,
+      "atrasadasAnterior": 11,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -87,6 +87,10 @@
         {
           "nome": "Contrato Assinado: Kaikan_CELIA",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Definição final equipe - Biara",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -1115,8 +1119,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 21,
+      "atrasadas": 20,
+      "atrasadasAnterior": 19,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
@@ -1190,6 +1194,10 @@
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 5
+        },
+        {
+          "nome": "Definição final equipe - Biara",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -1801,6 +1809,17 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definição final equipe - Biara",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
       ]
     },
     {
