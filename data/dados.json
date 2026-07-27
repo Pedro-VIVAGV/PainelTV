@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T13:01:28.098Z",
+  "atualizadoEm": "2026-07-27T13:15:45.414Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 57,
     "totalAtrasadasAnterior": 59,
-    "totalSemana": 96
+    "totalSemana": 86
   },
   "pessoas": [
     {
@@ -181,7 +181,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 7,
-      "semanaTotal": 21,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
@@ -222,35 +222,15 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "Demanda Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "Arte Flamulas",
           "data": "2026-07-28"
         },
         {
-          "nome": "Tirante VIVA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "data": "2026-07-29"
         },
         {
@@ -259,34 +239,14 @@
         },
         {
           "nome": "Arte Big Shot VIVA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
           "data": "2026-07-31"
         },
         {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
+          "nome": "Tirante VIVA",
+          "data": "2026-07-31"
+        },
+        {
+          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "data": "2026-07-31"
         }
       ]
@@ -844,7 +804,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 4,
-      "semanaTotal": 12,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
@@ -861,48 +821,8 @@
           "data": "2026-07-28"
         },
         {
-          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
           "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
-          "data": "2026-07-31"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "data": "2026-07-31"
         }
       ]
     },
