@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T14:45:52.781Z",
+  "atualizadoEm": "2026-07-27T15:01:07.257Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -38,8 +38,8 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Produção",
         "Cotação",
+        "Produção",
         "Planejamento",
         "Marketing",
         "Atendimento"
