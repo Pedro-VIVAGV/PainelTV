@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T17:00:59.535Z",
+  "atualizadoEm": "2026-07-27T17:15:56.949Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 89
   },
   "pessoas": [
@@ -587,8 +587,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -600,10 +600,6 @@
           "diasAtraso": 320
         },
         {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 3
         },
@@ -613,10 +609,6 @@
         }
       ],
       "tarefasSemana": [
-        {
-          "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
-          "data": "2026-07-27"
-        },
         {
           "nome": "Pos. Junção YASMIN e Fono",
           "data": "2026-07-27"
@@ -635,6 +627,10 @@
         },
         {
           "nome": "Primeira Reunião",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-27"
         },
         {
@@ -837,8 +833,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 26,
+      "atrasadas": 24,
+      "atrasadasAnterior": 25,
       "semanaTotal": 60,
       "tarefasAtrasadas": [
         {
@@ -867,10 +863,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 5
         },
         {
@@ -956,10 +948,6 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-27"
         },
@@ -997,6 +985,10 @@
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-27"
         },
         {
@@ -1690,17 +1682,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-      "data": "2026-07-22",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
