@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T15:30:52.925Z",
+  "atualizadoEm": "2026-07-27T15:45:45.559Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 57,
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 55,
     "totalSemana": 88
   },
   "pessoas": [
@@ -142,15 +142,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 3,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 4,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -834,12 +829,12 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
+        "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 28,
+      "atrasadas": 25,
+      "atrasadasAnterior": 26,
       "semanaTotal": 59,
       "tarefasAtrasadas": [
         {
@@ -933,10 +928,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 2
-        },
-        {
-          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -1893,17 +1884,6 @@
       "diasAtraso": 2,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
-      "data": "2026-07-27",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
