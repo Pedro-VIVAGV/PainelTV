@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T20:01:05.532Z",
+  "atualizadoEm": "2026-07-27T20:15:54.669Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 51,
     "totalAtrasadasAnterior": 52,
-    "totalSemana": 82
+    "totalSemana": 83
   },
   "pessoas": [
     {
@@ -144,7 +144,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -166,6 +166,10 @@
         {
           "nome": "DP:: E-mails: Rifas",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "data": "2026-07-30"
         }
       ]
     },
@@ -799,7 +803,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 52,
+      "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1054,6 +1058,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "data": "2026-07-30"
         },
         {
           "nome": "Agendar Sessão de Fotos Meio",
