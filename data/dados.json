@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T15:15:51.579Z",
+  "atualizadoEm": "2026-07-27T15:30:52.925Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 57,
-    "totalAtrasadasAnterior": 59,
-    "totalSemana": 86
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 57,
+    "totalSemana": 88
   },
   "pessoas": [
     {
@@ -38,15 +38,15 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 11,
-      "semanaTotal": 8,
+      "atrasadas": 11,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -77,10 +77,6 @@
           "diasAtraso": 10
         },
         {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "diasAtraso": 6
-        },
-        {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 5
         },
@@ -93,15 +89,19 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Conferir ingressos extras do baile",
-          "diasAtraso": 0
-        },
-        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Conferir e finalizar caixinhas comercial",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Convites Comissão - BIARA-ROBERTA",
+          "data": "2026-07-27"
+        },
         {
           "nome": "Definição final equipe - Biara",
           "data": "2026-07-27"
@@ -755,7 +755,7 @@
       ],
       "atrasadas": 4,
       "atrasadasAnterior": 3,
-      "semanaTotal": 0,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
@@ -774,7 +774,12 @@
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Convites Comissão - BIARA-ROBERTA",
+          "data": "2026-07-27"
+        }
+      ]
     },
     {
       "nome": "Diretoria",
@@ -1187,9 +1192,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 19,
-      "semanaTotal": 14,
+      "atrasadas": 19,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1240,10 +1245,6 @@
           "diasAtraso": 10
         },
         {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "diasAtraso": 6
-        },
-        {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
           "diasAtraso": 5
         },
@@ -1268,15 +1269,15 @@
           "diasAtraso": 5
         },
         {
-          "nome": "Conferir ingressos extras do baile",
-          "diasAtraso": 0
-        },
-        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Conferir e finalizar caixinhas comercial",
+          "data": "2026-07-27"
+        },
         {
           "nome": "Definição final equipe - Biara",
           "data": "2026-07-27"
@@ -1591,17 +1592,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Realizar Impressão Backdrop_BRUNA",
-      "data": "2026-07-21",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
@@ -1928,17 +1918,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "Conferir ingressos extras do baile",
-      "data": "2026-07-27",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
