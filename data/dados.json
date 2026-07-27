@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T19:46:01.988Z",
+  "atualizadoEm": "2026-07-27T20:01:05.532Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 51,
     "totalAtrasadasAnterior": 52,
-    "totalSemana": 81
+    "totalSemana": 82
   },
   "pessoas": [
     {
@@ -144,7 +144,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -162,6 +162,10 @@
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-07-28"
+        },
+        {
+          "nome": "DP:: E-mails: Rifas",
+          "data": "2026-07-29"
         }
       ]
     },
@@ -795,7 +799,7 @@
       ],
       "atrasadas": 22,
       "atrasadasAnterior": 23,
-      "semanaTotal": 51,
+      "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1018,6 +1022,10 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "data": "2026-07-28"
+        },
+        {
+          "nome": "DP:: E-mails: Rifas",
+          "data": "2026-07-29"
         },
         {
           "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
