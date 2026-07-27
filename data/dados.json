@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T18:15:57.453Z",
+  "atualizadoEm": "2026-07-27T18:30:58.177Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 89
   },
   "pessoas": [
@@ -279,14 +279,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
       "semanaTotal": 29,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 13
-        },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
           "diasAtraso": 13
@@ -362,10 +358,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-27"
         },
@@ -386,7 +378,7 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
           "data": "2026-07-28"
         },
         {
@@ -431,6 +423,10 @@
         },
         {
           "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
           "data": "2026-07-29"
         },
         {
@@ -829,8 +825,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 24,
+      "atrasadas": 22,
+      "atrasadasAnterior": 23,
       "semanaTotal": 60,
       "tarefasAtrasadas": [
         {
@@ -840,10 +836,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 320
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "diasAtraso": 13
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
@@ -928,10 +920,6 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
           "data": "2026-07-27"
         },
@@ -984,11 +972,11 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "nome": "Adesão - KELLY",
           "data": "2026-07-28"
         },
         {
-          "nome": "Adesão - KELLY",
+          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
           "data": "2026-07-28"
         },
         {
@@ -1061,6 +1049,10 @@
         },
         {
           "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
           "data": "2026-07-29"
         },
         {
@@ -1520,17 +1512,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-      "data": "2026-07-14",
-      "diasAtraso": 13,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
