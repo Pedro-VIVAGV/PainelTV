@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T11:45:53.736Z",
+  "atualizadoEm": "2026-07-27T12:01:20.848Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 61,
-    "totalAtrasadasAnterior": 65,
-    "totalSemana": 90
+    "totalAtrasadas": 59,
+    "totalAtrasadasAnterior": 61,
+    "totalSemana": 94
   },
   "pessoas": [
     {
@@ -142,24 +142,29 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
-      "semanaTotal": 0,
+      "atrasadas": 1,
+      "atrasadasAnterior": 3,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
-          "nome": "DR:: Arrecadação Extra - 2026-2",
-          "diasAtraso": 7
-        },
+          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
+          "diasAtraso": 0
+        }
+      ],
+      "tarefasSemana": [
         {
-          "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
-          "diasAtraso": 4
+          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
+          "data": "2026-07-27"
         },
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "diasAtraso": 3
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+          "data": "2026-07-28"
         }
-      ],
-      "tarefasSemana": []
+      ]
     },
     {
       "nome": "Lyncoln :: Marketing - VIVA GV",
@@ -329,7 +334,7 @@
       ],
       "atrasadas": 21,
       "atrasadasAnterior": 25,
-      "semanaTotal": 26,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -423,6 +428,10 @@
         },
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-27"
         },
         {
@@ -928,9 +937,9 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 32,
-      "semanaTotal": 52,
+      "atrasadas": 26,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 56,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -953,10 +962,6 @@
           "diasAtraso": 10
         },
         {
-          "nome": "DR:: Arrecadação Extra - 2026-2",
-          "diasAtraso": 7
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "diasAtraso": 5
         },
@@ -967,14 +972,6 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 5
-        },
-        {
-          "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "diasAtraso": 3
         },
         {
           "nome": "Confirmar Sessão de Fotos",
@@ -1037,6 +1034,10 @@
           "diasAtraso": 2
         },
         {
+          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
         },
@@ -1046,6 +1047,14 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+          "data": "2026-07-27"
+        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-27"
@@ -1075,12 +1084,20 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
+          "data": "2026-07-27"
+        },
+        {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
           "data": "2026-07-27"
         },
         {
           "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
           "data": "2026-07-27"
+        },
+        {
+          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+          "data": "2026-07-28"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
@@ -1680,17 +1697,6 @@
       ]
     },
     {
-      "nome": "DR:: Arrecadação Extra - 2026-2",
-      "data": "2026-07-20",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Realizar Impressão Backdrop_BRUNA",
       "data": "2026-07-21",
       "diasAtraso": 6,
@@ -1832,17 +1838,6 @@
       "setores": []
     },
     {
-      "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
-      "data": "2026-07-23",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Contrato Assinado: Kaikan_CELIA",
       "data": "2026-07-24",
       "diasAtraso": 3,
@@ -1850,17 +1845,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-      "data": "2026-07-24",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "Confirmar Sessão de Fotos",
@@ -2022,6 +2006,17 @@
       "diasAtraso": 2,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
+      "data": "2026-07-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
