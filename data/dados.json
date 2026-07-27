@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T00:30:49.776Z",
+  "atualizadoEm": "2026-07-27T00:45:51.648Z",
   "semana": {
     "inicio": "2026-07-20",
     "fim": "2026-07-26"
@@ -16,9 +16,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 55,
-    "totalSemana": 92
+    "totalAtrasadas": 61,
+    "totalAtrasadasAnterior": 65,
+    "totalSemana": 69
   },
   "pessoas": [
     {
@@ -341,9 +341,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 23,
-      "semanaTotal": 31,
+      "atrasadas": 21,
+      "atrasadasAnterior": 25,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -358,10 +358,6 @@
           "diasAtraso": 9
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "diasAtraso": 9
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
           "diasAtraso": 4
         },
@@ -372,14 +368,6 @@
         {
           "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "diasAtraso": 2
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -423,10 +411,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
           "diasAtraso": 1
         },
         {
@@ -448,127 +432,35 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "Planejamento/Apresentação - PROPOSTA TÔ DENTRO",
+          "data": "2026-07-20"
+        },
+        {
           "nome": "Atualizar Cronograma (Comissão)",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-20"
+          "data": "2026-07-23"
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
-          "data": "2026-07-20"
+          "data": "2026-07-23"
         },
         {
           "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-21"
+          "data": "2026-07-23"
         },
         {
           "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
           "data": "2026-07-24"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-24"
         }
       ]
@@ -841,19 +733,14 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 0,
-      "semanaTotal": 1,
+      "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": [
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-21"
-        }
-      ]
+      "tarefasSemana": []
     },
     {
       "nome": "Marketing",
@@ -907,9 +794,9 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 30,
-      "semanaTotal": 40,
+      "atrasadas": 28,
+      "atrasadasAnterior": 32,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -929,10 +816,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "diasAtraso": 9
         },
         {
@@ -957,14 +840,6 @@
         },
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "diasAtraso": 2
         },
         {
@@ -1020,10 +895,6 @@
           "diasAtraso": 1
         },
         {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "diasAtraso": 1
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
           "diasAtraso": 1
         },
@@ -1042,15 +913,11 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "Atualizar Cronograma (Comissão)",
+          "nome": "Planejamento/Apresentação - PROPOSTA TÔ DENTRO",
           "data": "2026-07-20"
         },
         {
           "nome": "Reunião Plan - Semanal",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-20"
         },
         {
@@ -1070,35 +937,7 @@
           "data": "2026-07-20"
         },
         {
-          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
-          "data": "2026-07-20"
-        },
-        {
-          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
-          "data": "2026-07-20"
-        },
-        {
           "nome": "DR:: Runião: Plan - ANA.CLARA-ASSIS",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
           "data": "2026-07-21"
         },
         {
@@ -1106,99 +945,39 @@
           "data": "2026-07-21"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-21"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-21"
-        },
-        {
           "nome": "DR:: Runião: Plan - BIARA-ROBERTA",
           "data": "2026-07-22"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-          "data": "2026-07-22"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-22"
+          "nome": "Atualizar Cronograma (Comissão)",
+          "data": "2026-07-23"
         },
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
           "data": "2026-07-23"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "nome": "DR:: Sessão de Fotos Meio Médico - CELIA.MARIA",
           "data": "2026-07-23"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "nome": "DR: Enviar Cronograma Sessão de Fotos - SARA.PRATES",
           "data": "2026-07-23"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-07-23"
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
+          "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
           "data": "2026-07-24"
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
+          "data": "2026-07-24"
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
           "data": "2026-07-24"
         }
       ]
@@ -1662,17 +1441,6 @@
       ]
     },
     {
-      "nome": "DR:: Produtos Personalizados: Outros - CAMILA.HERNECK",
-      "data": "2026-07-17",
-      "diasAtraso": 9,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Arrecadação Extra - 2026-2",
       "data": "2026-07-20",
       "diasAtraso": 6,
@@ -1856,28 +1624,6 @@
       ]
     },
     {
-      "nome": "DR:: Brasão: Briefing - CAMILA.HERNECK",
-      "data": "2026-07-24",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-      "data": "2026-07-24",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Confirmar Sessão de Fotos",
       "data": "2026-07-24",
       "diasAtraso": 2,
@@ -2011,17 +1757,6 @@
     },
     {
       "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-      "data": "2026-07-25",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Cadastrar Planos Fotografia - JULIA-HELOISA",
       "data": "2026-07-25",
       "diasAtraso": 1,
       "pessoas": [
