@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T17:45:55.152Z",
+  "atualizadoEm": "2026-07-27T18:01:06.266Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 54,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 89
   },
   "pessoas": [
@@ -279,8 +279,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 19,
+      "atrasadasAnterior": 20,
       "semanaTotal": 29,
       "tarefasAtrasadas": [
         {
@@ -354,10 +354,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
@@ -833,8 +829,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 25,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
       "semanaTotal": 60,
       "tarefasAtrasadas": [
         {
@@ -924,10 +920,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
@@ -1898,17 +1890,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-      "data": "2026-07-27",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
