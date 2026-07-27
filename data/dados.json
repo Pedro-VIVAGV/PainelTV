@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T12:31:02.219Z",
+  "atualizadoEm": "2026-07-27T12:45:51.428Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 57,
     "totalAtrasadasAnterior": 59,
-    "totalSemana": 94
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -144,7 +144,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 3,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -159,6 +159,10 @@
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
           "data": "2026-07-27"
+        },
+        {
+          "nome": "Adesão - KELLY",
+          "data": "2026-07-28"
         },
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
@@ -320,8 +324,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 25,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -342,10 +346,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "diasAtraso": 5
         },
         {
@@ -435,6 +435,10 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
           "data": "2026-07-28"
         },
@@ -476,10 +480,6 @@
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-29"
         },
         {
@@ -628,8 +628,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 2,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -639,6 +639,10 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 320
+        },
+        {
+          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
+          "diasAtraso": 5
         },
         {
           "nome": "Confirmar Sessão de Fotos",
@@ -911,7 +915,7 @@
       ],
       "atrasadas": 26,
       "atrasadasAnterior": 28,
-      "semanaTotal": 57,
+      "semanaTotal": 58,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1072,6 +1076,14 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "Adesão - KELLY",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-07-28"
         },
@@ -1153,10 +1165,6 @@
         },
         {
           "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
           "data": "2026-07-29"
         },
         {
@@ -1776,7 +1784,7 @@
       "data": "2026-07-22",
       "diasAtraso": 5,
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
