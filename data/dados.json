@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T16:45:50.703Z",
+  "atualizadoEm": "2026-07-27T17:00:59.535Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 54,
     "totalAtrasadasAnterior": 55,
-    "totalSemana": 88
+    "totalSemana": 89
   },
   "pessoas": [
     {
@@ -589,7 +589,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 4,
-      "semanaTotal": 27,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -613,6 +613,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
+          "data": "2026-07-27"
+        },
         {
           "nome": "Pos. Junção YASMIN e Fono",
           "data": "2026-07-27"
@@ -835,7 +839,7 @@
       ],
       "atrasadas": 25,
       "atrasadasAnterior": 26,
-      "semanaTotal": 59,
+      "semanaTotal": 60,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -949,6 +953,10 @@
         },
         {
           "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
           "data": "2026-07-27"
         },
         {
