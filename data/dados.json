@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-27T12:01:20.848Z",
+  "atualizadoEm": "2026-07-27T12:15:54.694Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 59,
-    "totalAtrasadasAnterior": 61,
-    "totalSemana": 94
+    "totalAtrasadas": 57,
+    "totalAtrasadasAnterior": 59,
+    "totalSemana": 91
   },
   "pessoas": [
     {
@@ -175,14 +175,10 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 2,
-      "semanaTotal": 22,
+      "atrasadas": 5,
+      "atrasadasAnterior": 7,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "diasAtraso": 10
-        },
         {
           "nome": "Adesivo DTF UV - Bruna.Gouvea",
           "diasAtraso": 4
@@ -200,10 +196,6 @@
           "diasAtraso": 0
         },
         {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "diasAtraso": 0
-        },
-        {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "diasAtraso": 0
         }
@@ -211,6 +203,10 @@
       "tarefasSemana": [
         {
           "nome": "Arte WindFlag VIVA",
+          "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "data": "2026-07-27"
         },
         {
@@ -226,23 +222,7 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "Arte Big Shot VIVA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "data": "2026-07-28"
         },
         {
@@ -258,19 +238,19 @@
           "data": "2026-07-28"
         },
         {
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
           "data": "2026-07-29"
         },
         {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-29"
         },
         {
@@ -282,20 +262,16 @@
           "data": "2026-07-30"
         },
         {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-07-30"
         },
         {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-30"
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Produtos: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-31"
         }
       ]
     },
@@ -334,7 +310,7 @@
       ],
       "atrasadas": 21,
       "atrasadasAnterior": 25,
-      "semanaTotal": 27,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
@@ -422,6 +398,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
+          "data": "2026-07-27"
+        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-27"
@@ -842,14 +822,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 16,
+      "atrasadas": 2,
+      "atrasadasAnterior": 4,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "diasAtraso": 10
-        },
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
           "diasAtraso": 0
@@ -857,28 +833,12 @@
         {
           "nome": "Arte Flamulas",
           "diasAtraso": 0
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-07-27"
-        },
-        {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
-          "data": "2026-07-28"
+          "data": "2026-07-27"
         },
         {
           "nome": "Arte Flamulas",
@@ -889,19 +849,19 @@
           "data": "2026-07-28"
         },
         {
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
           "data": "2026-07-29"
         },
         {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-29"
         },
         {
@@ -913,33 +873,29 @@
           "data": "2026-07-30"
         },
         {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-07-30"
         },
         {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-07-30"
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-07-30"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Produtos: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-07-31"
         }
       ]
     },
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
-        "Rodrigo :: VIVA Eventos",
-        "Matheus :: Planejamento - VIVA GV"
+        "Rodrigo :: VIVA Eventos"
       ],
       "atrasadas": 26,
       "atrasadasAnterior": 28,
-      "semanaTotal": 56,
+      "semanaTotal": 57,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1047,6 +1003,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
+          "data": "2026-07-27"
+        },
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
           "data": "2026-07-27"
@@ -1675,17 +1635,6 @@
       ]
     },
     {
-      "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-      "data": "2026-07-17",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
       "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
       "data": "2026-07-17",
       "diasAtraso": 10,
@@ -2108,17 +2057,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-      "data": "2026-07-27",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
     },
     {
       "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
