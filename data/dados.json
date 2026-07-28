@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T12:16:01.144Z",
+  "atualizadoEm": "2026-07-28T12:31:03.915Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 61,
-    "totalAtrasadasAnterior": 62,
+    "totalAtrasadas": 58,
+    "totalAtrasadasAnterior": 61,
     "totalSemana": 83
   },
   "pessoas": [
@@ -468,8 +468,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 13,
+      "atrasadas": 14,
+      "atrasadasAnterior": 17,
       "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
@@ -526,18 +526,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "diasAtraso": 0
         }
       ],
@@ -1172,8 +1160,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 20,
+      "atrasadas": 21,
+      "atrasadasAnterior": 24,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
@@ -1258,18 +1246,6 @@
         },
         {
           "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
           "diasAtraso": 0
         }
       ],
@@ -1978,39 +1954,6 @@
     },
     {
       "nome": "Contrato Atração_Fundo: Milena.Almeida",
-      "data": "2026-07-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-07-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-07-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
       "data": "2026-07-28",
       "diasAtraso": 0,
       "pessoas": [
