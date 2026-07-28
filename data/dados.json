@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T18:01:14.661Z",
+  "atualizadoEm": "2026-07-28T18:15:55.751Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 48,
-    "totalSemana": 86
+    "totalAtrasadas": 45,
+    "totalAtrasadasAnterior": 47,
+    "totalSemana": 88
   },
   "pessoas": [
     {
@@ -194,24 +194,16 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 5,
-      "semanaTotal": 11,
+      "atrasadas": 4,
+      "atrasadasAnterior": 6,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
-        {
-          "nome": "Adesivo DTF UV - Bruna.Gouvea",
-          "diasAtraso": 5
-        },
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
           "diasAtraso": 1
         },
         {
           "nome": "Arte Flamulas",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
           "diasAtraso": 1
         },
         {
@@ -237,11 +229,15 @@
           "data": "2026-07-27"
         },
         {
-          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-27"
+          "nome": "Alteração ::: WindFlag VIVA",
+          "data": "2026-07-28"
         },
         {
-          "nome": "Demanda Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "nome": "Alteração ::: Beer pong VIVA",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "Adesivo DTF UV - VIVA",
           "data": "2026-07-28"
         },
         {
@@ -249,7 +245,11 @@
           "data": "2026-07-28"
         },
         {
-          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
+          "nome": "Demanda Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "data": "2026-07-29"
         },
         {
@@ -1532,15 +1532,6 @@
       ]
     },
     {
-      "nome": "Adesivo DTF UV - Bruna.Gouvea",
-      "data": "2026-07-23",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "Contrato Assinado: Kaikan_CELIA",
       "data": "2026-07-24",
       "diasAtraso": 4,
@@ -1736,15 +1727,6 @@
         "Planejamento",
         "Diretoria"
       ]
-    },
-    {
-      "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
-      "data": "2026-07-27",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
