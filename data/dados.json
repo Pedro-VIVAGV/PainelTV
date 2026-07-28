@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T16:45:49.588Z",
+  "atualizadoEm": "2026-07-28T17:00:58.511Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 49,
-    "totalAtrasadasAnterior": 50,
+    "totalAtrasadas": 48,
+    "totalAtrasadasAnterior": 49,
     "totalSemana": 86
   },
   "pessoas": [
@@ -303,16 +303,12 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
           "diasAtraso": 6
         },
         {
@@ -809,8 +805,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -823,10 +819,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
           "diasAtraso": 6
         },
         {
@@ -1512,17 +1504,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-      "data": "2026-07-22",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
