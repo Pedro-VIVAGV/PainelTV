@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T19:15:52.327Z",
+  "atualizadoEm": "2026-07-28T19:30:57.330Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -188,8 +188,8 @@
     {
       "nome": "Lyncoln :: Marketing - VIVA GV",
       "setores": [
-        "Marketing",
         "Planejamento",
+        "Marketing",
         "Produção",
         "Cotação",
         "Comercial"
@@ -758,6 +758,7 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
