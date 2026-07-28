@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T18:31:03.819Z",
+  "atualizadoEm": "2026-07-28T18:45:58.632Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 43,
-    "totalAtrasadasAnterior": 45,
+    "totalAtrasadas": 42,
+    "totalAtrasadasAnterior": 43,
     "totalSemana": 86
   },
   "pessoas": [
@@ -287,8 +287,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -326,10 +326,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -730,18 +726,11 @@
     },
     {
       "nome": "Diretoria",
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "pessoas": [],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 1,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "diasAtraso": 1
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
@@ -777,8 +766,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 18,
+      "atrasadas": 16,
+      "atrasadasAnterior": 17,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -832,10 +821,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "diasAtraso": 1
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
@@ -1679,18 +1664,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-      "data": "2026-07-27",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento",
-        "Diretoria"
       ]
     },
     {
