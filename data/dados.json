@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T15:46:07.213Z",
+  "atualizadoEm": "2026-07-28T16:01:03.058Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 86
   },
   "pessoas": [
@@ -303,14 +303,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "diasAtraso": 14
-        },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
           "diasAtraso": 11
@@ -817,8 +813,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 22,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -828,10 +824,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 321
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "diasAtraso": 14
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
@@ -1451,17 +1443,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-      "data": "2026-07-14",
-      "diasAtraso": 14,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
