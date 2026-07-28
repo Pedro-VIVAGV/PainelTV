@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T12:31:03.915Z",
+  "atualizadoEm": "2026-07-28T12:45:51.625Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 61,
-    "totalSemana": 83
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 58,
+    "totalSemana": 85
   },
   "pessoas": [
     {
@@ -304,8 +304,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 17,
-      "atrasadasAnterior": 18,
+      "atrasadas": 16,
+      "atrasadasAnterior": 17,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -366,10 +366,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 3
         },
         {
@@ -468,18 +464,10 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 17,
-      "semanaTotal": 8,
+      "atrasadas": 11,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 109
-        },
-        {
-          "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 77
-        },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
           "diasAtraso": 77
@@ -487,10 +475,6 @@
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
           "diasAtraso": 74
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 63
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -555,11 +539,19 @@
           "data": "2026-07-28"
         },
         {
+          "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
+          "data": "2026-07-29"
+        },
+        {
           "nome": "Comp. Pgto: Sunrise",
           "data": "2026-07-30"
         },
         {
           "nome": "Pagamento Sunrise",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "Verificar sobre trafego pago: Be Fit",
           "data": "2026-07-30"
         }
       ]
@@ -834,8 +826,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 26,
+      "atrasadas": 24,
+      "atrasadasAnterior": 25,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -912,10 +904,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
           "diasAtraso": 3
         },
         {
@@ -1160,21 +1148,13 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 24,
-      "semanaTotal": 16,
+      "atrasadas": 18,
+      "atrasadasAnterior": 21,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 119
-        },
-        {
-          "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-          "diasAtraso": 109
-        },
-        {
-          "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 77
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -1183,10 +1163,6 @@
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
           "diasAtraso": 74
-        },
-        {
-          "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-          "diasAtraso": 63
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -1307,11 +1283,19 @@
           "data": "2026-07-28"
         },
         {
+          "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
+          "data": "2026-07-29"
+        },
+        {
           "nome": "Comp. Pgto: Sunrise",
           "data": "2026-07-30"
         },
         {
           "nome": "Pagamento Sunrise",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "Verificar sobre trafego pago: Be Fit",
           "data": "2026-07-30"
         }
       ]
@@ -1410,28 +1394,6 @@
       ]
     },
     {
-      "nome": "DR: Produção 1/6 Médico - BRUNA.GOUVEA",
-      "data": "2026-04-10",
-      "diasAtraso": 109,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Buffet: Meio Médico - CÉLIA.MARIA",
-      "data": "2026-05-12",
-      "diasAtraso": 77,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
       "diasAtraso": 77,
@@ -1446,17 +1408,6 @@
       "nome": "DR:: Meio Dentista - MARIA.CLARA",
       "data": "2026-05-15",
       "diasAtraso": 74,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Colação Festiva - THIAGO.LOPES",
-      "data": "2026-05-26",
-      "diasAtraso": 63,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1825,17 +1776,6 @@
     },
     {
       "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-      "data": "2026-07-25",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
       "data": "2026-07-25",
       "diasAtraso": 3,
       "pessoas": [
