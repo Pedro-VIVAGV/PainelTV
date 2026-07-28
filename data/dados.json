@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T17:15:53.181Z",
+  "atualizadoEm": "2026-07-28T17:30:53.085Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 49,
+    "totalAtrasadas": 47,
+    "totalAtrasadasAnterior": 48,
     "totalSemana": 86
   },
   "pessoas": [
@@ -303,14 +303,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "diasAtraso": 6
-        },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "diasAtraso": 3
@@ -805,8 +801,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 19,
+      "atrasadas": 17,
+      "atrasadasAnterior": 18,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -816,10 +812,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 321
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "diasAtraso": 6
         },
         {
           "nome": "Confirmar Sessão de Fotos",
@@ -1449,17 +1441,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-      "data": "2026-07-22",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
