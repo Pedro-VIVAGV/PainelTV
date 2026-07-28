@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T15:01:09.769Z",
+  "atualizadoEm": "2026-07-28T15:15:57.728Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 86
   },
   "pessoas": [
@@ -303,8 +303,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 16,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -353,10 +353,6 @@
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
           "diasAtraso": 3
         },
         {
@@ -821,8 +817,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 23,
+      "atrasadas": 21,
+      "atrasadasAnterior": 22,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -887,10 +883,6 @@
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
           "diasAtraso": 3
         },
         {
@@ -1734,17 +1726,6 @@
     },
     {
       "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-      "data": "2026-07-25",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
       "data": "2026-07-25",
       "diasAtraso": 3,
       "pessoas": [
