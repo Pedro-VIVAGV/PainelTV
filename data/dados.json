@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T12:45:51.625Z",
+  "atualizadoEm": "2026-07-28T13:01:16.282Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 58,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 85
   },
   "pessoas": [
@@ -150,15 +150,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 6,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Adesão - KELLY",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -826,8 +821,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 24,
-      "atrasadasAnterior": 25,
+      "atrasadas": 23,
+      "atrasadasAnterior": 24,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -909,10 +904,6 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Adesão - KELLY",
-          "diasAtraso": 0
         },
         {
           "nome": "Pos. Junção YASMIN e Fono",
@@ -1879,17 +1870,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "Adesão - KELLY",
-      "data": "2026-07-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
