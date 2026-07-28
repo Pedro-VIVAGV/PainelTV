@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T21:15:47.626Z",
+  "atualizadoEm": "2026-07-28T21:30:54.575Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 39,
     "totalAtrasadasAnterior": 41,
-    "totalSemana": 86
+    "totalSemana": 87
   },
   "pessoas": [
     {
@@ -417,7 +417,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 14,
-      "semanaTotal": 10,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -488,6 +488,10 @@
         {
           "nome": "Contratação DJ Wesley Gonzaga - Triunfo",
           "data": "2026-07-28"
+        },
+        {
+          "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-29"
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -1039,7 +1043,7 @@
       ],
       "atrasadas": 18,
       "atrasadasAnterior": 21,
-      "semanaTotal": 18,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1170,6 +1174,10 @@
         {
           "nome": "Imprimir Adesivo DTF UV - Bruna",
           "data": "2026-07-28"
+        },
+        {
+          "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-29"
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
