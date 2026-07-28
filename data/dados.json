@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T12:01:10.084Z",
+  "atualizadoEm": "2026-07-28T12:16:01.144Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 62,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 61,
+    "totalAtrasadasAnterior": 62,
     "totalSemana": 83
   },
   "pessoas": [
@@ -304,8 +304,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 19,
+      "atrasadas": 17,
+      "atrasadasAnterior": 18,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -362,10 +362,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
           "diasAtraso": 3
         },
         {
@@ -850,8 +846,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 22,
+      "atrasadas": 25,
+      "atrasadasAnterior": 26,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -924,10 +920,6 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
           "diasAtraso": 3
         },
         {
@@ -1846,17 +1838,6 @@
     },
     {
       "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-      "data": "2026-07-25",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
       "data": "2026-07-25",
       "diasAtraso": 3,
       "pessoas": [
