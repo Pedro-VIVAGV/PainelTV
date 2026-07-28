@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T19:00:56.558Z",
+  "atualizadoEm": "2026-07-28T19:15:52.327Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 42,
-    "totalAtrasadasAnterior": 43,
+    "totalAtrasadas": 41,
+    "totalAtrasadasAnterior": 42,
     "totalSemana": 86
   },
   "pessoas": [
@@ -287,8 +287,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -321,10 +321,6 @@
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "diasAtraso": 3
         }
       ],
@@ -766,8 +762,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 16,
-      "atrasadasAnterior": 17,
+      "atrasadas": 15,
+      "atrasadasAnterior": 16,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -816,10 +812,6 @@
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "diasAtraso": 3
         },
         {
@@ -1602,17 +1594,6 @@
     },
     {
       "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-      "data": "2026-07-25",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
       "data": "2026-07-25",
       "diasAtraso": 3,
       "pessoas": [
