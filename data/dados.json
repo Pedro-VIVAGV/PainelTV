@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-28T20:16:00.919Z",
+  "atualizadoEm": "2026-07-28T20:30:59.034Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 42,
+    "totalAtrasadas": 39,
+    "totalAtrasadasAnterior": 41,
     "totalSemana": 86
   },
   "pessoas": [
@@ -515,8 +515,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 4,
+      "atrasadas": 5,
+      "atrasadasAnterior": 7,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -530,14 +530,6 @@
         {
           "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 4
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 0
         },
         {
           "nome": "Confirmar Data Colação Festiva",
@@ -763,8 +755,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 16,
+      "atrasadas": 13,
+      "atrasadasAnterior": 15,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -777,10 +769,6 @@
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
           "diasAtraso": 4
         },
         {
@@ -814,10 +802,6 @@
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "diasAtraso": 0
         },
         {
           "nome": "Confirmar Data Colação Festiva",
@@ -1506,17 +1490,6 @@
       ]
     },
     {
-      "nome": "Confirmar Data Sessão de Fotos",
-      "data": "2026-07-24",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Referências dos Produtos Extras Bailes_Izabella",
       "data": "2026-07-25",
       "diasAtraso": 3,
@@ -1677,17 +1650,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Pos. Junção YASMIN e Fono",
-      "data": "2026-07-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
