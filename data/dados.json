@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T00:01:15.904Z",
+  "atualizadoEm": "2026-07-29T00:16:02.459Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 39,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 47,
+    "totalAtrasadasAnterior": 39,
     "totalSemana": 88
   },
   "pessoas": [
@@ -154,10 +154,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -523,8 +528,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 7,
+      "atrasadas": 12,
+      "atrasadasAnterior": 5,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -540,11 +545,39 @@
           "diasAtraso": 4
         },
         {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Data Colação Festiva",
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
           "diasAtraso": 0
         }
       ],
@@ -763,8 +796,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 15,
+      "atrasadas": 21,
+      "atrasadasAnterior": 13,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -812,11 +845,43 @@
           "diasAtraso": 3
         },
         {
+          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Data Colação Festiva",
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
           "diasAtraso": 0
         }
       ],
@@ -1682,6 +1747,94 @@
     {
       "nome": "Primeira Reunião",
       "data": "2026-07-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Colação Festiva",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirma Data S. Fotos",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+      "data": "2026-07-29",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
