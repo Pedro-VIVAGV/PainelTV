@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T14:01:07.382Z",
+  "atualizadoEm": "2026-07-29T14:16:03.917Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 39,
     "totalAtrasadasAnterior": 44,
-    "totalSemana": 94
+    "totalSemana": 93
   },
   "pessoas": [
     {
@@ -46,7 +46,7 @@
       ],
       "atrasadas": 6,
       "atrasadasAnterior": 11,
-      "semanaTotal": 16,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -133,10 +133,6 @@
         {
           "nome": "Dobrar os panos de chão",
           "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-          "data": "2026-07-31"
         }
       ]
     },
