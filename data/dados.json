@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T13:16:02.319Z",
+  "atualizadoEm": "2026-07-29T13:45:58.399Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 47,
-    "totalSemana": 89
+    "totalAtrasadas": 44,
+    "totalAtrasadasAnterior": 46,
+    "totalSemana": 92
   },
   "pessoas": [
     {
@@ -44,9 +44,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 11,
+      "atrasadas": 11,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -85,20 +85,12 @@
           "diasAtraso": 6
         },
         {
-          "nome": "Contrato Assinado: Kaikan_CELIA",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Definição final equipe - Biara",
           "diasAtraso": 2
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -127,6 +119,10 @@
           "data": "2026-07-27"
         },
         {
+          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
+          "data": "2026-07-28"
+        },
+        {
           "nome": "Buscar Banners",
           "data": "2026-07-28"
         },
@@ -140,6 +136,14 @@
         },
         {
           "nome": "Imprimir Adesivo DTF UV - Bruna",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Contrato Assinado: Kaikan_CELIA",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "data": "2026-07-29"
         },
         {
@@ -720,9 +724,9 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
-      "semanaTotal": 1,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
@@ -739,16 +743,20 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
         {
           "nome": "DR:: Convites Comissão - BIARA-ROBERTA",
           "data": "2026-07-27"
+        },
+        {
+          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
+          "data": "2026-07-28"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-29"
         }
       ]
     },
@@ -1550,15 +1558,6 @@
       ]
     },
     {
-      "nome": "Contrato Assinado: Kaikan_CELIA",
-      "data": "2026-07-24",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "Confirmar Sessão de Fotos",
       "data": "2026-07-24",
       "diasAtraso": 5,
@@ -1709,17 +1708,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
-      "data": "2026-07-28",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
     },
     {
       "nome": "Contrato Atração_Fundo: Milena.Almeida",
