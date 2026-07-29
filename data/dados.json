@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T19:16:03.122Z",
+  "atualizadoEm": "2026-07-29T19:31:10.260Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 39,
-    "totalAtrasadasAnterior": 44,
+    "totalAtrasadas": 38,
+    "totalAtrasadasAnterior": 39,
     "totalSemana": 93
   },
   "pessoas": [
@@ -407,8 +407,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 14,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -450,10 +450,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 2
-        },
-        {
-          "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -1093,8 +1089,8 @@
         "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 18,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -1152,10 +1148,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 2
-        },
-        {
-          "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -1625,17 +1617,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Contrato Atração_Fundo: Milena.Almeida",
-      "data": "2026-07-28",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
     },
     {
       "nome": "Confirmar Data Colação Festiva",
