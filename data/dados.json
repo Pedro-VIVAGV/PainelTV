@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T12:30:57.037Z",
+  "atualizadoEm": "2026-07-29T12:45:46.187Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 39,
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 47,
     "totalSemana": 89
   },
   "pessoas": [
@@ -154,15 +154,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -181,15 +176,15 @@
           "data": "2026-07-28"
         },
         {
-          "nome": "DP:: E-mails: Rifas",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "DP:: Ajustes - MATHEUS.DINIZ",
           "data": "2026-07-30"
         },
         {
           "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "DP:: E-mails: Rifas",
           "data": "2026-07-30"
         }
       ]
@@ -800,8 +795,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 13,
+      "atrasadas": 20,
+      "atrasadasAnterior": 21,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -855,10 +850,6 @@
         {
           "nome": "Primeira Reunião",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Replanejamento - RODRIGO.NUNES",
@@ -1019,10 +1010,6 @@
           "data": "2026-07-28"
         },
         {
-          "nome": "DP:: E-mails: Rifas",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
           "data": "2026-07-29"
         },
@@ -1060,6 +1047,10 @@
         },
         {
           "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "DP:: E-mails: Rifas",
           "data": "2026-07-30"
         },
         {
@@ -1758,17 +1749,6 @@
       "diasAtraso": 1,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Reunião_Fundo: ANA CLARA ASSIS",
-      "data": "2026-07-29",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
