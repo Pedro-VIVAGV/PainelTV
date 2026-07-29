@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T13:45:58.399Z",
+  "atualizadoEm": "2026-07-29T14:01:07.382Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 44,
-    "totalAtrasadasAnterior": 46,
-    "totalSemana": 92
+    "totalAtrasadas": 39,
+    "totalAtrasadasAnterior": 44,
+    "totalSemana": 94
   },
   "pessoas": [
     {
@@ -44,21 +44,17 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 14,
+      "atrasadas": 6,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 120
         },
         {
-          "nome": "Dobrar os Uniformes e panos de chão",
+          "nome": "Dobrar os Uniformes",
           "diasAtraso": 22
-        },
-        {
-          "nome": "Organizar caixotes",
-          "diasAtraso": 19
         },
         {
           "nome": "Organizar a VIVA",
@@ -69,27 +65,11 @@
           "diasAtraso": 19
         },
         {
-          "nome": "Contratação Equipe_BIARA-ROBERTA",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Elaboração Checklist_BIARA-ROBERTA",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "diasAtraso": 7
-        },
-        {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 6
         },
         {
           "nome": "Definição final equipe - Biara",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 2
         }
       ],
@@ -144,6 +124,14 @@
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Dobrar os panos de chão",
           "data": "2026-07-29"
         },
         {
@@ -724,25 +712,17 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
-      "semanaTotal": 3,
+      "atrasadas": 2,
+      "atrasadasAnterior": 4,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
           "diasAtraso": 19
         },
         {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "diasAtraso": 7
-        },
-        {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 2
         }
       ],
       "tarefasSemana": [
@@ -756,6 +736,10 @@
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "data": "2026-07-29"
         }
       ]
@@ -1113,9 +1097,9 @@
         "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 21,
-      "semanaTotal": 21,
+      "atrasadas": 15,
+      "atrasadasAnterior": 18,
+      "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1134,24 +1118,12 @@
           "diasAtraso": 64
         },
         {
-          "nome": "Dobrar os Uniformes e panos de chão",
+          "nome": "Dobrar os Uniformes",
           "diasAtraso": 22
-        },
-        {
-          "nome": "Organizar caixotes",
-          "diasAtraso": 19
         },
         {
           "nome": "Organizar a VIVA",
           "diasAtraso": 19
-        },
-        {
-          "nome": "Contratação Equipe_BIARA-ROBERTA",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Elaboração Checklist_BIARA-ROBERTA",
-          "diasAtraso": 12
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -1257,6 +1229,10 @@
         },
         {
           "nome": "Imprimir Adesivo DTF UV - Bruna",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Dobrar os panos de chão",
           "data": "2026-07-29"
         },
         {
@@ -1404,20 +1380,9 @@
       ]
     },
     {
-      "nome": "Dobrar os Uniformes e panos de chão",
+      "nome": "Dobrar os Uniformes",
       "data": "2026-07-07",
       "diasAtraso": 22,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Organizar caixotes",
-      "data": "2026-07-10",
-      "diasAtraso": 19,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1448,28 +1413,6 @@
       ]
     },
     {
-      "nome": "Contratação Equipe_BIARA-ROBERTA",
-      "data": "2026-07-17",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Elaboração Checklist_BIARA-ROBERTA",
-      "data": "2026-07-17",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
       "data": "2026-07-22",
       "diasAtraso": 7,
@@ -1489,17 +1432,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-      "data": "2026-07-22",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
@@ -1676,17 +1608,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-      "data": "2026-07-27",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
