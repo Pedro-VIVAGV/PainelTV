@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T12:15:53.528Z",
+  "atualizadoEm": "2026-07-29T12:30:57.037Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 47,
     "totalAtrasadasAnterior": 39,
-    "totalSemana": 88
+    "totalSemana": 89
   },
   "pessoas": [
     {
@@ -426,7 +426,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 14,
-      "semanaTotal": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -500,6 +500,10 @@
         },
         {
           "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: Milena.Almeida",
           "data": "2026-07-29"
         },
         {
@@ -1112,7 +1116,7 @@
       ],
       "atrasadas": 18,
       "atrasadasAnterior": 21,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1242,6 +1246,10 @@
         },
         {
           "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-29"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: Milena.Almeida",
           "data": "2026-07-29"
         },
         {
