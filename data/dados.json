@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-29T12:01:05.160Z",
+  "atualizadoEm": "2026-07-29T12:15:53.528Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -197,8 +197,8 @@
     {
       "nome": "Lyncoln :: Marketing - VIVA GV",
       "setores": [
-        "Planejamento",
         "Marketing",
+        "Planejamento",
         "Produção",
         "Cotação",
         "Comercial"
