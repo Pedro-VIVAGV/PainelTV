@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T21:01:01.676Z",
+  "atualizadoEm": "2026-07-30T21:15:49.467Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 42,
+    "totalAtrasadas": 42,
+    "totalAtrasadasAnterior": 41,
     "totalSemana": 101
   },
   "pessoas": [
@@ -547,8 +547,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 12,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -601,6 +601,10 @@
         },
         {
           "nome": "Agendar Degustação_IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
           "diasAtraso": 0
         },
         {
@@ -832,8 +836,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 22,
+      "atrasadas": 22,
+      "atrasadasAnterior": 21,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -915,6 +919,10 @@
         {
           "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
+          "diasAtraso": 0
         },
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
@@ -1817,6 +1825,17 @@
         "Rodrigo :: VIVA Eventos"
       ],
       "setores": []
+    },
+    {
+      "nome": "Elaborar Ajuste Projeto",
+      "data": "2026-07-30",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
     },
     {
       "nome": "DR: Evento: Sessão de Fotos Meio Médico",
