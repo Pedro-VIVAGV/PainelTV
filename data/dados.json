@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T21:31:01.265Z",
+  "atualizadoEm": "2026-07-30T21:46:15.668Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -801,8 +801,7 @@
     {
       "nome": "Marketing",
       "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV",
-        "Matheus :: Planejamento - VIVA GV"
+        "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 1,
