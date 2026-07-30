@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T13:45:51.052Z",
+  "atualizadoEm": "2026-07-30T14:01:13.885Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 42,
     "totalAtrasadasAnterior": 43,
-    "totalSemana": 98
+    "totalSemana": 99
   },
   "pessoas": [
     {
@@ -290,7 +290,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 9,
-      "semanaTotal": 20,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -400,6 +400,10 @@
         },
         {
           "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "data": "2026-07-30"
         },
         {
@@ -790,11 +794,12 @@
     {
       "nome": "Marketing",
       "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
+        "Lyncoln :: Marketing - VIVA GV",
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 1,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
@@ -808,6 +813,10 @@
       "tarefasSemana": [
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
           "data": "2026-07-30"
         }
       ]
