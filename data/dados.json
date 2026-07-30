@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T12:01:09.284Z",
+  "atualizadoEm": "2026-07-30T12:15:53.402Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 42,
     "totalAtrasadasAnterior": 43,
-    "totalSemana": 95
+    "totalSemana": 96
   },
   "pessoas": [
     {
@@ -418,7 +418,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 14,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -493,6 +493,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Controle Bebidas",
+          "data": "2026-07-30"
         },
         {
           "nome": "Adicionar Aftermovies no Drive",
@@ -1128,7 +1132,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 15,
-      "semanaTotal": 24,
+      "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1259,6 +1263,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Controle Bebidas",
+          "data": "2026-07-30"
         },
         {
           "nome": "Adicionar Aftermovies no Drive",
