@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T18:01:21.010Z",
+  "atualizadoEm": "2026-07-30T18:15:51.775Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 42,
     "totalAtrasadasAnterior": 43,
-    "totalSemana": 100
+    "totalSemana": 101
   },
   "pessoas": [
     {
@@ -193,7 +193,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 2,
-      "semanaTotal": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
@@ -238,11 +238,11 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
           "data": "2026-07-29"
         },
         {
-          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
+          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-30"
         },
         {
@@ -251,6 +251,10 @@
         },
         {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "data": "2026-07-31"
+        },
+        {
+          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "data": "2026-07-31"
         }
       ]
@@ -817,7 +821,7 @@
       "tarefasSemana": [
         {
           "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
-          "data": "2026-07-30"
+          "data": "2026-07-29"
         },
         {
           "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
