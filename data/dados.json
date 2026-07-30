@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T11:46:00.275Z",
+  "atualizadoEm": "2026-07-30T12:01:09.284Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 43,
-    "totalAtrasadasAnterior": 38,
+    "totalAtrasadas": 42,
+    "totalAtrasadasAnterior": 43,
     "totalSemana": 95
   },
   "pessoas": [
@@ -288,8 +288,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 8,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -323,10 +323,6 @@
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -399,12 +395,12 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
           "data": "2026-07-29"
         },
         {
-          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
-          "data": "2026-07-29"
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "data": "2026-07-30"
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
@@ -812,8 +808,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 20,
+      "atrasadas": 22,
+      "atrasadasAnterior": 23,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -898,10 +894,6 @@
         },
         {
           "nome": "DP:: Briefing - CLARA.VASCONCELOS",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
           "diasAtraso": 0
         },
         {
@@ -1043,10 +1035,6 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
           "data": "2026-07-29"
         },
@@ -1080,6 +1068,10 @@
         },
         {
           "nome": "DP:: E-mails: Rifas",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
           "data": "2026-07-30"
         },
         {
@@ -1776,17 +1768,6 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
-      "data": "2026-07-30",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
