@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T11:15:47.876Z",
+  "atualizadoEm": "2026-07-30T11:30:54.123Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 43,
     "totalAtrasadasAnterior": 38,
-    "totalSemana": 94
+    "totalSemana": 95
   },
   "pessoas": [
     {
@@ -422,7 +422,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 13,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -497,6 +497,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Adicionar Aftermovies no Drive",
+          "data": "2026-07-30"
         },
         {
           "nome": "Janine: Reserva Hospedagem Arraial",
@@ -1132,7 +1136,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 15,
-      "semanaTotal": 23,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1263,6 +1267,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Adicionar Aftermovies no Drive",
+          "data": "2026-07-30"
         },
         {
           "nome": "Janine: Reserva Hospedagem Arraial",
