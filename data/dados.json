@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T12:15:53.402Z",
+  "atualizadoEm": "2026-07-30T12:30:55.493Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 42,
     "totalAtrasadasAnterior": 43,
-    "totalSemana": 96
+    "totalSemana": 97
   },
   "pessoas": [
     {
@@ -418,7 +418,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 15,
+      "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -493,6 +493,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Lista Convidados_BIARA",
+          "data": "2026-07-30"
         },
         {
           "nome": "Controle Bebidas",
@@ -1132,7 +1136,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 15,
-      "semanaTotal": 25,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1263,6 +1267,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Lista Convidados_BIARA",
+          "data": "2026-07-30"
         },
         {
           "nome": "Controle Bebidas",
