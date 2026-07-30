@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T00:01:18.123Z",
+  "atualizadoEm": "2026-07-30T00:15:51.857Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 38,
-    "totalAtrasadasAnterior": 39,
+    "totalAtrasadas": 43,
+    "totalAtrasadasAnterior": 38,
     "totalSemana": 93
   },
   "pessoas": [
@@ -142,10 +142,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
@@ -186,8 +191,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 4,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -197,6 +202,10 @@
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -279,8 +288,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
+      "atrasadas": 9,
+      "atrasadasAnterior": 8,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -314,6 +323,10 @@
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -511,8 +524,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 5,
+      "atrasadas": 14,
+      "atrasadasAnterior": 12,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -540,6 +553,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Agendar Degustação_IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 0
         },
@@ -561,6 +578,10 @@
         },
         {
           "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -755,13 +776,17 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -779,8 +804,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
+      "atrasadas": 23,
+      "atrasadasAnterior": 20,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -836,6 +861,14 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Replanejamento - RODRIGO.NUNES",
           "diasAtraso": 0
         },
@@ -861,6 +894,10 @@
         },
         {
           "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -1709,6 +1746,59 @@
     {
       "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
       "data": "2026-07-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DP:: Briefing - CLARA.VASCONCELOS",
+      "data": "2026-07-30",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
+      "data": "2026-07-30",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+      "data": "2026-07-30",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Agendar Degustação_IZABELLA.RINIERI",
+      "data": "2026-07-30",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+      "data": "2026-07-30",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
