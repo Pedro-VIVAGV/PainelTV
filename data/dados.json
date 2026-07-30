@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T14:31:00.300Z",
+  "atualizadoEm": "2026-07-30T14:45:53.359Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 42,
     "totalAtrasadasAnterior": 43,
-    "totalSemana": 99
+    "totalSemana": 100
   },
   "pessoas": [
     {
@@ -422,7 +422,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 17,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -497,6 +497,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Cardápio Buffet 15 Anos Triunfo - Pedir Vinicius",
+          "data": "2026-07-30"
         },
         {
           "nome": "Devolver Material Penha",
@@ -1149,7 +1153,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 15,
-      "semanaTotal": 27,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1280,6 +1284,10 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Cardápio Buffet 15 Anos Triunfo - Pedir Vinicius",
+          "data": "2026-07-30"
         },
         {
           "nome": "Devolver Material Penha",
