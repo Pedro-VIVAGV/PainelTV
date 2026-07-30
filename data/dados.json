@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-30T10:45:50.442Z",
+  "atualizadoEm": "2026-07-30T11:01:03.179Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 43,
     "totalAtrasadasAnterior": 38,
-    "totalSemana": 93
+    "totalSemana": 94
   },
   "pessoas": [
     {
@@ -422,7 +422,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -491,16 +491,20 @@
           "data": "2026-07-28"
         },
         {
-          "nome": "Suco - Sabor: Baile_BIARA",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "Contrato Atração_Fundo: Milena.Almeida",
           "data": "2026-07-29"
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Janine: Reserva Hospedagem Arraial",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-30"
         },
         {
           "nome": "Comp. Pgto: Sunrise",
@@ -1123,12 +1127,12 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
-        "Pedro :: GRUPO VIVA - GV"
+        "Pedro :: GRUPO VIVA - GV",
+        "Janine :: Cotação - VIVA GV"
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 15,
-      "semanaTotal": 22,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1241,10 +1245,6 @@
           "data": "2026-07-29"
         },
         {
-          "nome": "Suco - Sabor: Baile_BIARA",
-          "data": "2026-07-29"
-        },
-        {
           "nome": "Contrato Atração_Fundo: Milena.Almeida",
           "data": "2026-07-29"
         },
@@ -1263,6 +1263,14 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "data": "2026-07-29"
+        },
+        {
+          "nome": "Janine: Reserva Hospedagem Arraial",
+          "data": "2026-07-30"
+        },
+        {
+          "nome": "Suco - Sabor: Baile_BIARA",
+          "data": "2026-07-30"
         },
         {
           "nome": "Comp. Pgto: Sunrise",
