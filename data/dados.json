@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-31T17:31:20.769Z",
+  "atualizadoEm": "2026-07-31T17:45:54.863Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 42,
+    "totalAtrasadas": 67,
+    "totalAtrasadasAnterior": 66,
     "totalSemana": 102
   },
   "pessoas": [
@@ -198,8 +198,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 3,
+      "atrasadas": 13,
+      "atrasadasAnterior": 12,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -213,6 +213,10 @@
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
@@ -2034,6 +2038,15 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
     },
     {
       "nome": "Contrato Assinado: Kaikan_CELIA",
