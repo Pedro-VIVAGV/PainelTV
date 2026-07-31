@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-31T13:01:03.729Z",
+  "atualizadoEm": "2026-07-31T13:15:57.977Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 66,
     "totalAtrasadasAnterior": 42,
-    "totalSemana": 101
+    "totalSemana": 102
   },
   "pessoas": [
     {
@@ -200,7 +200,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 3,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
@@ -287,6 +287,10 @@
         {
           "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
           "data": "2026-07-30"
+        },
+        {
+          "nome": "Alteração ::: Adesivo DTF UV - Bruna.Gouvea",
+          "data": "2026-07-31"
         },
         {
           "nome": "Arte Big Shot VIVA",
