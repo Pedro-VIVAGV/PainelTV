@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-31T21:00:55.684Z",
+  "atualizadoEm": "2026-07-31T21:15:54.960Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 67,
+    "totalAtrasadas": 67,
+    "totalAtrasadasAnterior": 66,
     "totalSemana": 101
   },
   "pessoas": [
@@ -611,8 +611,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 15,
+      "atrasadas": 24,
+      "atrasadasAnterior": 23,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -705,6 +705,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -971,8 +975,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 22,
+      "atrasadas": 34,
+      "atrasadasAnterior": 33,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -1101,6 +1105,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -2227,6 +2235,17 @@
     },
     {
       "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-07-31",
       "diasAtraso": 0,
       "pessoas": [

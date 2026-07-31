@@ -9,7 +9,7 @@
       "Maria Clara / Tay :: Luminous": 0,
       "Matheus :: Planejamento - VIVA GV": 11,
       "Pedro :: GRUPO VIVA - GV": 11,
-      "Rodrigo :: VIVA Eventos": 23
+      "Rodrigo :: VIVA Eventos": 24
     },
     "setores": {
       "Atendimento": 0,
@@ -17,10 +17,10 @@
       "Cotação": 4,
       "Diretoria": 0,
       "Marketing": 10,
-      "Planejamento": 33,
+      "Planejamento": 34,
       "Produção": 15
     },
-    "total": 66
+    "total": 67
   },
   "anterior": {
     "pessoas": {
@@ -32,7 +32,7 @@
       "Maria Clara / Tay :: Luminous": 1,
       "Matheus :: Planejamento - VIVA GV": 8,
       "Pedro :: GRUPO VIVA - GV": 10,
-      "Rodrigo :: VIVA Eventos": 15
+      "Rodrigo :: VIVA Eventos": 23
     },
     "setores": {
       "Atendimento": 0,
@@ -40,9 +40,9 @@
       "Cotação": 2,
       "Diretoria": 1,
       "Marketing": 2,
-      "Planejamento": 22,
+      "Planejamento": 33,
       "Produção": 14
     },
-    "total": 67
+    "total": 66
   }
 }
