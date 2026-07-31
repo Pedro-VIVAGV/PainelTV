@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-31T00:01:14.294Z",
+  "atualizadoEm": "2026-07-31T00:15:49.884Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,8 +19,8 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 42,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 42,
     "totalSemana": 101
   },
   "pessoas": [
@@ -44,8 +44,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 11,
+      "atrasadas": 9,
+      "atrasadasAnterior": 6,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
@@ -71,6 +71,18 @@
         {
           "nome": "Definição final equipe - Biara",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Contrato Assinado: Kaikan_CELIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -186,8 +198,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 12,
+      "atrasadasAnterior": 3,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -199,7 +211,43 @@
           "diasAtraso": 3
         },
         {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Tirante VIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 0
         }
       ],
@@ -287,8 +335,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
+      "atrasadas": 11,
+      "atrasadasAnterior": 8,
       "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
@@ -322,6 +370,18 @@
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "diasAtraso": 5
+        },
+        {
+          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -419,8 +479,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
@@ -462,6 +522,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -547,8 +611,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 14,
+      "atrasadas": 23,
+      "atrasadasAnterior": 15,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -601,6 +665,38 @@
         },
         {
           "nome": "Agendar Degustação_IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -752,8 +848,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 4,
+      "atrasadas": 4,
+      "atrasadasAnterior": 2,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -763,6 +859,14 @@
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 7
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -803,8 +907,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 10,
+      "atrasadasAnterior": 2,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -812,7 +916,39 @@
           "diasAtraso": 3
         },
         {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 0
         }
       ],
@@ -835,8 +971,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 21,
+      "atrasadas": 33,
+      "atrasadasAnterior": 22,
       "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
@@ -918,6 +1054,50 @@
         {
           "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
         },
         {
           "nome": "Elaborar Ajuste Projeto",
@@ -1153,8 +1333,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -1212,6 +1392,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1845,6 +2029,266 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Assinado: Kaikan_CELIA",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "Tirante VIVA",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos Meio",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Sessão de Fotos",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Kit Formando - EULLER.KAIRO",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD: Brasão Fono - HELOISA.MARIM",
+      "data": "2026-07-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
       ]
     }
   ]
