@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-31T17:45:54.863Z",
+  "atualizadoEm": "2026-07-31T18:01:00.827Z",
   "semana": {
     "inicio": "2026-07-27",
     "fim": "2026-08-02"
@@ -19,9 +19,9 @@
         "VIVA": 2
       }
     },
-    "totalAtrasadas": 67,
-    "totalAtrasadasAnterior": 66,
-    "totalSemana": 102
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 67,
+    "totalSemana": 101
   },
   "pessoas": [
     {
@@ -198,9 +198,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 13,
+      "atrasadas": 12,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
@@ -213,10 +213,6 @@
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "diasAtraso": 0
         },
         {
           "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
@@ -293,15 +289,11 @@
           "data": "2026-07-30"
         },
         {
+          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
+          "data": "2026-07-31"
+        },
+        {
           "nome": "Alteração ::: Adesivo DTF UV - Bruna.Gouvea",
-          "data": "2026-07-31"
-        },
-        {
-          "nome": "Arte Big Shot VIVA",
-          "data": "2026-07-31"
-        },
-        {
-          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "data": "2026-07-31"
         },
         {
@@ -2038,15 +2030,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-      "data": "2026-07-31",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Contrato Assinado: Kaikan_CELIA",
