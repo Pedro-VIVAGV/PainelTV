@@ -1,15 +1,15 @@
 {
-  "atualizadoEm": "2026-08-01T15:30:53.431Z",
+  "atualizadoEm": "2026-08-03T12:10:32.302Z",
   "semana": {
-    "inicio": "2026-07-27",
-    "fim": "2026-08-02"
+    "inicio": "2026-08-03",
+    "fim": "2026-08-09"
   },
   "resumo": {
     "eventosSemana": {
-      "total": 8,
+      "total": 2,
       "porEmpresa": {
-        "Luminous": 4,
-        "VIVA": 4
+        "Luminous": 1,
+        "VIVA": 1
       }
     },
     "eventosMes": {
@@ -20,9 +20,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 71,
-    "totalAtrasadasAnterior": 67,
-    "totalSemana": 101
+    "totalAtrasadas": 48,
+    "totalAtrasadasAnterior": 71,
+    "totalSemana": 79
   },
   "pessoas": [
     {
@@ -45,107 +45,67 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 6,
-      "semanaTotal": 15,
+      "atrasadas": 10,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 123
+          "diasAtraso": 125
         },
         {
           "nome": "Dobrar os Uniformes",
-          "diasAtraso": 25
+          "diasAtraso": 27
         },
         {
           "nome": "Organizar a VIVA",
-          "diasAtraso": 22
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 22
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 9
+          "diasAtraso": 11
         },
         {
           "nome": "Definição final equipe - Biara",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "Contrato Assinado: Kaikan_CELIA",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "diasAtraso": 1
+          "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Conferir e finalizar caixinhas comercial",
-          "data": "2026-07-27"
+          "nome": "Personalização: Meio de Curso_MARIA-CLARA",
+          "data": "2026-08-03"
         },
         {
-          "nome": "DR:: Convites Comissão - BIARA-ROBERTA",
-          "data": "2026-07-27"
+          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Definição final equipe - Biara",
-          "data": "2026-07-27"
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Material eventos  01/08",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Conferir ingressos extras do baile",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Buscar Banners",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Buscar Barraquinha e deixar Mesa",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Enviar arte mesa",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Imprimir Adesivo DTF UV - Bruna",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Contrato Assinado: Kaikan_CELIA",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Dobrar os panos de chão",
-          "data": "2026-07-29"
+          "nome": "Organizar caixotes",
+          "data": "2026-08-04"
         }
       ]
     },
@@ -155,38 +115,27 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
+      "semanaTotal": 3,
+      "tarefasAtrasadas": [
+        {
+          "nome": "Reunião_Fundo: MILENA",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
-          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Adesão - KELLY",
-          "data": "2026-07-28"
+          "nome": "Reunião_Fundo: MILENA",
+          "data": "2026-08-03"
         },
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
-          "data": "2026-07-28"
+          "data": "2026-08-04"
         },
         {
-          "nome": "DP:: Ajustes - MATHEUS.DINIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DP:: E-mails: Rifas",
-          "data": "2026-07-30"
+          "nome": "Reunião_Fundo: CLARA VASCONCELOS",
+          "data": "2026-08-06"
         }
       ]
     },
@@ -199,111 +148,195 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 12,
+      "atrasadas": 15,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 2
+          "diasAtraso": 4
         },
         {
           "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "Tirante VIVA",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "diasAtraso": 2
+        },
+        {
+          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Arte WindFlag VIVA",
-          "data": "2026-07-27"
+          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Arte Beer pong VIVA",
-          "data": "2026-07-27"
+          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Adesivo DTF UV - Bruna.Gouvea",
-          "data": "2026-07-27"
+          "nome": "Camisa José.Neto",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Alteração ::: WindFlag VIVA",
-          "data": "2026-07-28"
+          "nome": "Arte Roleta VIVA",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Alteração ::: Beer pong VIVA",
-          "data": "2026-07-28"
+          "nome": "DD:: Demanda Mkt-Mascote - ANA.BETARIZ",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Adesivo DTF UV - VIVA",
-          "data": "2026-07-28"
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Demanda Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-29"
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-03"
         },
         {
-          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
-          "data": "2026-07-29"
+          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-30"
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Alteração Mkt-Vídeo Painel_Fundo: BIARA-ROBERTA_UNIVALE_UNI_2026-1",
-          "data": "2026-07-31"
+          "nome": "DR:: Demanda Mkt-Produtos: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Alteração ::: Adesivo DTF UV - Bruna.Gouvea",
-          "data": "2026-07-31"
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Demanda Mkt-Banner BackDrop_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
-          "data": "2026-07-31"
+          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Tirante VIVA",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Brasão - ANTONIO.JUNIOR",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Arte Big Shot VIVA",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
+          "data": "2026-08-07"
         }
       ]
     },
@@ -340,139 +373,95 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 21,
+      "atrasadas": 9,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Izabella",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "diasAtraso": 1
+          "diasAtraso": 9
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 1
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-27"
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "data": "2026-08-04"
         },
         {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "data": "2026-07-27"
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "data": "2026-07-27"
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "data": "2026-07-27"
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "data": "2026-07-27"
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-27"
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-28"
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "data": "2026-07-28"
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "data": "2026-07-28"
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "data": "2026-07-30"
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-08-05"
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-07-31"
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
+          "data": "2026-08-07"
         }
       ]
     },
@@ -486,125 +475,61 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 10,
-      "semanaTotal": 18,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 81
+          "diasAtraso": 83
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 78
+          "diasAtraso": 80
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 67
+          "diasAtraso": 69
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 1
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Drink: Incluir no Cardápio - BIARA-ROBERTA",
-          "data": "2026-07-27"
+          "nome": "Compra: Placa de Homenagem",
+          "data": "2026-08-03"
         },
         {
-          "nome": "Atualizar e-mail Celia_LARISSA-WILLA-LARISSA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contratação DJ Wesley Gonzaga - Triunfo",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Cardápio Buffet 15 Anos Triunfo - Pedir Vinicius",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Devolver Material Penha",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Lista Convidados_BIARA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Controle Bebidas",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Adicionar Aftermovies no Drive",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Janine: Reserva Hospedagem Arraial",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Suco - Sabor: Baile_BIARA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Comp. Pgto: Sunrise",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Pagamento Sunrise",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Verificar sobre trafego pago: Be Fit",
-          "data": "2026-07-30"
+          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "data": "2026-08-05"
         }
       ]
     },
@@ -616,231 +541,127 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 24,
-      "semanaTotal": 28,
+      "atrasadas": 2,
+      "atrasadasAnterior": 27,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 612
+          "diasAtraso": 614
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 325
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 8
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar Degustação_IZABELLA.RINIERI",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "diasAtraso": 0
+          "diasAtraso": 327
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Agendar Degustação_IZABELLA.RINIERI",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Reunião",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "data": "2026-07-30"
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "data": "2026-08-03"
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "data": "2026-07-31"
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "data": "2026-08-04"
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-31"
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Reunião",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-07"
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "data": "2026-07-31"
+          "data": "2026-08-07"
         },
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "data": "2026-07-31"
+          "data": "2026-08-07"
         }
       ]
     }
@@ -869,57 +690,35 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 2,
-      "semanaTotal": 4,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
-          "diasAtraso": 22
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 9
+          "diasAtraso": 11
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "diasAtraso": 1
+          "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Convites Comissão - BIARA-ROBERTA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Leitores: Missa - BIARA-ROBERTA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-          "data": "2026-07-29"
-        }
-      ]
-    },
-    {
-      "nome": "Diretoria",
-      "pessoas": [],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 1,
-      "tarefasAtrasadas": [],
-      "tarefasSemana": [
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-28"
+          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
+          "data": "2026-08-03"
         }
       ]
     },
@@ -928,59 +727,135 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 2,
-      "semanaTotal": 2,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
+      "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
           "nome": "Arte Flamulas",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 2
+          "diasAtraso": 4
         },
         {
           "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 1
+          "diasAtraso": 3
+        },
+        {
+          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "DD:: Alteração Trio Feed: Atrações - MILENA.ALMEIDA",
-          "data": "2026-07-29"
+          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
+          "data": "2026-08-03"
         },
         {
-          "nome": "DD:: Demanda Mkt-Trio-Feed- Fim do Básico - CAMILA.HERNECK",
-          "data": "2026-07-30"
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "DR:: Mkt-Cartaz -Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Produtos: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Brasão - ANTONIO.JUNIOR",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-07"
         }
       ]
     },
@@ -992,375 +867,227 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 37,
-      "atrasadasAnterior": 34,
-      "semanaTotal": 54,
+      "atrasadas": 12,
+      "atrasadasAnterior": 37,
+      "semanaTotal": 42,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
-          "diasAtraso": 612
+          "diasAtraso": 614
         },
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
-          "diasAtraso": 325
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 8
+          "diasAtraso": 327
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Izabella",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "diasAtraso": 7
+          "diasAtraso": 9
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "diasAtraso": 1
+          "diasAtraso": 9
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
+          "diasAtraso": 3
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+          "nome": "Reunião_Fundo: MILENA",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Dist. Notion: Reunião - BIARA-ROBERTA",
-          "data": "2026-07-27"
+          "nome": "Reunião_Fundo: MILENA",
+          "data": "2026-08-03"
         },
         {
-          "nome": "DE:: Verificar Briefing - ANTONIO.JUNIOR",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Evento: Cerimonia do Jaleco - ANA.BEATRIZ",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Enviar E-mail Formalização Evento LMS :: Colação de Grau - EULLER.MARQUES",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Pos. Junção YASMIN e Fono",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Evento: Sessão de Fotos - JULIA.HELOISA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.CONRADO",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Convite - LARISSA.ROCHA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "DR:: Manual Formando Baile - BIARA.ROBERTA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Adesão - KELLY",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.JULIA-MENDES",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JOSE.NETO",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ISABELLA.DOURADO",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - RODRIGO.NUNES",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.BEATRIZ",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - KAMILLA.WERNECK",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - INGRYD.DINIZ",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - JULIA.HELOISA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - LARISSA-WILLA-LARISSA",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "MKT FRANQ: Combinar Post Vídeo Ação Natalina",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "MKT: Vídeo Cinematic Mascote -  MARIANA.SANTOS",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Confirmar Data Sessão de Fotos",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Elaborar Ajuste Projeto",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DP:: Ajustes - MATHEUS.DINIZ",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DP:: Briefing - CLARA.VASCONCELOS",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "DP:: E-mails: Rifas",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Vídeo Painel / Instruir LK - Baile BIARA.ROBERTA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Sessão de Fotos Meio",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Reunião",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Primeira Reunião",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "data": "2026-07-30"
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "data": "2026-08-03"
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-          "data": "2026-07-31"
+          "data": "2026-08-03"
         },
         {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-07-31"
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-03"
+        },
+        {
+          "nome": "Reunião_Fundo: ANA CLARA ASSIS",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-08-04"
         },
         {
           "nome": "Confirmar Sessão de Fotos",
-          "data": "2026-07-31"
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-04"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Elaborar Ajuste Projeto",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "Reunião_Fundo: CLARA VASCONCELOS",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Sessão de Fotos Meio",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Reunião",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Primeira Reunião",
+          "data": "2026-08-07"
         },
         {
           "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-          "data": "2026-07-31"
+          "data": "2026-08-07"
         },
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "data": "2026-07-31"
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
+          "data": "2026-08-07"
         }
       ]
     },
@@ -1372,248 +1099,110 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 28,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
-          "diasAtraso": 123
+          "diasAtraso": 125
         },
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 81
+          "diasAtraso": 83
         },
         {
           "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 78
+          "diasAtraso": 80
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "diasAtraso": 67
+          "diasAtraso": 69
         },
         {
           "nome": "Dobrar os Uniformes",
-          "diasAtraso": 25
+          "diasAtraso": 27
         },
         {
           "nome": "Organizar a VIVA",
-          "diasAtraso": 22
+          "diasAtraso": 24
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 10
+          "diasAtraso": 12
         },
         {
           "nome": "Definição final equipe - Biara",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 5
+          "diasAtraso": 7
         },
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
-          "diasAtraso": 1
+          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Conferir e finalizar caixinhas comercial",
-          "data": "2026-07-27"
+          "nome": "Compra: Placa de Homenagem",
+          "data": "2026-08-03"
         },
         {
-          "nome": "DR:: Drink: Incluir no Cardápio - BIARA-ROBERTA",
-          "data": "2026-07-27"
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Definição final equipe - Biara",
-          "data": "2026-07-27"
+          "nome": "Organizar caixotes",
+          "data": "2026-08-04"
         },
         {
-          "nome": "Material eventos  01/08",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Atualizar e-mail Celia_LARISSA-WILLA-LARISSA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Conferir ingressos extras do baile",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: EULLER-KAIRO_UFJF_FADIVALE_UNI_2026-2",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Realizar Impressão Backdrop_BRUNA",
-          "data": "2026-07-27"
-        },
-        {
-          "nome": "Contratação DJ Wesley Gonzaga - Triunfo",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Buscar Banners",
-          "data": "2026-07-28"
-        },
-        {
-          "nome": "Buscar Barraquinha e deixar Mesa",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Contrato Atração_Fundo: Milena.Almeida",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Enviar arte mesa",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Imprimir Adesivo DTF UV - Bruna",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Dobrar os panos de chão",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
-          "data": "2026-07-29"
-        },
-        {
-          "nome": "Cardápio Buffet 15 Anos Triunfo - Pedir Vinicius",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Devolver Material Penha",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Lista Convidados_BIARA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Controle Bebidas",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Adicionar Aftermovies no Drive",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Janine: Reserva Hospedagem Arraial",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Suco - Sabor: Baile_BIARA",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Comp. Pgto: Sunrise",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Pagamento Sunrise",
-          "data": "2026-07-30"
-        },
-        {
-          "nome": "Verificar sobre trafego pago: Be Fit",
-          "data": "2026-07-30"
+          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "data": "2026-08-05"
         }
       ]
     }
   ],
   "eventosSemanaLista": [
     {
-      "nome": "Missa: 31/07/2026_BIARA-ROBERTA",
-      "data": "2026-07-31",
-      "empresa": "Luminous",
-      "categoria": "Cer. Religiosa",
-      "local": "Catedral GV"
-    },
-    {
-      "nome": "Missa: 31/07/2026_BIARA-ROBERTA",
-      "data": "2026-07-31",
-      "empresa": "VIVA",
-      "categoria": "Cer. Religiosa",
-      "local": "Catedral GV"
-    },
-    {
-      "nome": "Baile: 01/08/2026_BIARA-ROBERTA",
-      "data": "2026-08-01",
-      "empresa": "Luminous",
-      "categoria": "Baile",
-      "local": "Triunfo"
-    },
-    {
-      "nome": "Baile: 01/08/2026_BIARA.ROBERTA",
-      "data": "2026-08-01",
-      "empresa": "VIVA",
-      "categoria": "Baile",
-      "local": "Império"
-    },
-    {
-      "nome": "Meio de Curso: 01/08/2026_MILENA.ALMEIDA",
-      "data": "2026-08-01",
+      "nome": "1/6 Médico: 08/08/2026_BRUNA.GOUVEA",
+      "data": "2026-08-08",
       "empresa": "Luminous",
       "categoria": "Pré-Evento",
-      "local": "Vista Chalé"
+      "local": "Ch. Vista Chalé"
     },
     {
-      "nome": "Meio de Curso: 01/08/2026_MILENA.ALMEIDA",
-      "data": "2026-08-01",
+      "nome": "1/6 Médico: 08/08/2026_BRUNA.GOUVEA",
+      "data": "2026-08-08",
       "empresa": "VIVA",
       "categoria": "Pré-Evento",
       "local": "Vista Chalé"
-    },
-    {
-      "nome": "Baile: 01/08/2026_BIARA-ROBERTA",
-      "data": "2026-08-01",
-      "empresa": "Luminous",
-      "categoria": "Baile",
-      "local": "Império"
-    },
-    {
-      "nome": "Baile: 01/08/2026_BIARA-ROBERTA",
-      "data": "2026-08-01",
-      "empresa": "VIVA",
-      "categoria": "Baile",
-      "local": ""
     }
   ],
   "atrasadasLista": [
     {
       "nome": "Enc. CNPJ´s",
       "data": "2024-11-27",
-      "diasAtraso": 612,
+      "diasAtraso": 614,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1624,7 +1213,7 @@
     {
       "nome": "Particular: Retorno Vinicius (Pai)",
       "data": "2025-09-10",
-      "diasAtraso": 325,
+      "diasAtraso": 327,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1635,7 +1224,7 @@
     {
       "nome": "Atualização de Cheques",
       "data": "2026-03-31",
-      "diasAtraso": 123,
+      "diasAtraso": 125,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1646,7 +1235,7 @@
     {
       "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
       "data": "2026-05-12",
-      "diasAtraso": 81,
+      "diasAtraso": 83,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1657,7 +1246,7 @@
     {
       "nome": "DR:: Meio Dentista - MARIA.CLARA",
       "data": "2026-05-15",
-      "diasAtraso": 78,
+      "diasAtraso": 80,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1668,7 +1257,7 @@
     {
       "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
       "data": "2026-05-26",
-      "diasAtraso": 67,
+      "diasAtraso": 69,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1679,7 +1268,7 @@
     {
       "nome": "Dobrar os Uniformes",
       "data": "2026-07-07",
-      "diasAtraso": 25,
+      "diasAtraso": 27,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1690,7 +1279,7 @@
     {
       "nome": "Organizar a VIVA",
       "data": "2026-07-10",
-      "diasAtraso": 22,
+      "diasAtraso": 24,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1701,7 +1290,7 @@
     {
       "nome": "DR:: Evento: 1/6 Médico – Visita Técnica – Personalização - BRUNA.GOUVEA",
       "data": "2026-07-10",
-      "diasAtraso": 22,
+      "diasAtraso": 24,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1712,7 +1301,7 @@
     {
       "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1723,7 +1312,7 @@
     {
       "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1734,7 +1323,7 @@
     {
       "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1745,7 +1334,7 @@
     {
       "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1756,7 +1345,7 @@
     {
       "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1767,7 +1356,7 @@
     {
       "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-07-22",
-      "diasAtraso": 10,
+      "diasAtraso": 12,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1778,7 +1367,7 @@
     {
       "nome": "DR:: Me Interna - PEDRO.PERELO",
       "data": "2026-07-23",
-      "diasAtraso": 9,
+      "diasAtraso": 11,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1787,20 +1376,9 @@
       ]
     },
     {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-24",
-      "diasAtraso": 8,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Referências dos Produtos Extras Bailes_Izabella",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1811,7 +1389,7 @@
     {
       "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1822,7 +1400,7 @@
     {
       "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1833,7 +1411,7 @@
     {
       "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1844,7 +1422,7 @@
     {
       "nome": "Definir Atrações Bailes_Izabella",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1855,7 +1433,7 @@
     {
       "nome": "Definir Atrações Bailes_Euller-Kairo",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1866,7 +1444,7 @@
     {
       "nome": "Definir Atrações Bailes_Milena-Pedro",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1877,7 +1455,7 @@
     {
       "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
       "data": "2026-07-25",
-      "diasAtraso": 7,
+      "diasAtraso": 9,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
@@ -1888,7 +1466,7 @@
     {
       "nome": "Definição final equipe - Biara",
       "data": "2026-07-27",
-      "diasAtraso": 5,
+      "diasAtraso": 7,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -1899,7 +1477,7 @@
     {
       "nome": "Arte Flamulas",
       "data": "2026-07-27",
-      "diasAtraso": 5,
+      "diasAtraso": 7,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -1910,7 +1488,7 @@
     {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
       "data": "2026-07-27",
-      "diasAtraso": 5,
+      "diasAtraso": 7,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -1921,115 +1499,16 @@
     {
       "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
       "data": "2026-07-27",
-      "diasAtraso": 5,
+      "diasAtraso": 7,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
     },
     {
-      "nome": "Confirmar Data Colação Festiva",
-      "data": "2026-07-28",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-07-28",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data - Colação Festiva",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirma Data S. Fotos",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar S. Fotos e Confirmar Colação",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-      "data": "2026-07-29",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
       "data": "2026-07-30",
-      "diasAtraso": 2,
+      "diasAtraso": 4,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2038,40 +1517,9 @@
       ]
     },
     {
-      "nome": "Agendar Degustação_IZABELLA.RINIERI",
-      "data": "2026-07-30",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Elaborar Ajuste Projeto",
-      "data": "2026-07-30",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-      "data": "2026-07-30",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Contrato Assinado: Kaikan_CELIA",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2080,7 +1528,7 @@
     {
       "nome": "DR:: Demanda Mkt-Produtos - CAMILA.HERNECK",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2091,7 +1539,7 @@
     {
       "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2102,7 +1550,7 @@
     {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2113,7 +1561,7 @@
     {
       "nome": "Tirante VIVA",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2122,7 +1570,7 @@
     {
       "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
@@ -2133,7 +1581,7 @@
     {
       "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2144,7 +1592,7 @@
     {
       "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2155,7 +1603,7 @@
     {
       "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
       ],
@@ -2164,121 +1612,11 @@
       ]
     },
     {
-      "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Sessão de Fotos Meio",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Sessão de Fotos Meio",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data - Sessão de Fotos",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião - Atualização Meio Médico",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião - Meio Médico",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
@@ -2287,7 +1625,7 @@
     {
       "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2298,7 +1636,7 @@
     {
       "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2309,29 +1647,18 @@
     {
       "nome": "DR:: Kit Formando - EULLER.KAIRO",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-      "data": "2026-07-31",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
       "nome": "DD: Brasão Fono - HELOISA.MARIM",
       "data": "2026-07-31",
-      "diasAtraso": 1,
+      "diasAtraso": 3,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -2340,19 +1667,17 @@
       ]
     },
     {
-      "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
-      "data": "2026-08-01",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
       "data": "2026-08-01",
+      "diasAtraso": 2,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+      "data": "2026-08-03",
       "diasAtraso": 0,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
@@ -2360,25 +1685,36 @@
       "setores": []
     },
     {
-      "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
-      "data": "2026-08-01",
+      "nome": "Reunião_Fundo: MILENA",
+      "data": "2026-08-03",
       "diasAtraso": 0,
       "pessoas": [
-        "Rodrigo :: VIVA Eventos"
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
       ]
     },
     {
-      "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-      "data": "2026-08-01",
+      "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
+      "data": "2026-08-03",
       "diasAtraso": 0,
       "pessoas": [
-        "Rodrigo :: VIVA Eventos"
+        "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": [
-        "Planejamento"
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Camisa Personalizada - JOSE.NETO",
+      "data": "2026-08-03",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
       ]
     }
   ]
