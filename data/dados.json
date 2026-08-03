@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-03T14:15:54.566Z",
+  "atualizadoEm": "2026-08-03T14:31:01.179Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,9 +20,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 71,
-    "totalSemana": 80
+    "totalAtrasadas": 47,
+    "totalAtrasadasAnterior": 48,
+    "totalSemana": 79
   },
   "pessoas": [
     {
@@ -115,20 +115,11 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 3,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Reunião_Fundo: MILENA",
-          "diasAtraso": 0
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 2,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
-        {
-          "nome": "Reunião_Fundo: MILENA",
-          "data": "2026-08-03"
-        },
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-08-04"
@@ -871,9 +862,9 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 37,
-      "semanaTotal": 42,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 41,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -918,17 +909,9 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Reunião_Fundo: MILENA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
-        {
-          "nome": "Reunião_Fundo: MILENA",
-          "data": "2026-08-03"
-        },
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
           "data": "2026-08-03"
@@ -1691,17 +1674,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Reunião_Fundo: MILENA",
-      "data": "2026-08-03",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
