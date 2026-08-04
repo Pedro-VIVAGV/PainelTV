@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T18:16:07.903Z",
+  "atualizadoEm": "2026-08-04T18:31:02.602Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 48,
     "totalAtrasadasAnterior": 49,
-    "totalSemana": 82
+    "totalSemana": 83
   },
   "pessoas": [
     {
@@ -121,9 +121,13 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
+        {
+          "nome": "Reunião_Fundo: MILENA-PEDRO",
+          "data": "2026-08-03"
+        },
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-08-04"
@@ -876,7 +880,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 11,
-      "semanaTotal": 43,
+      "semanaTotal": 44,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -928,6 +932,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Reunião_Fundo: MILENA-PEDRO",
+          "data": "2026-08-03"
+        },
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
           "data": "2026-08-03"
