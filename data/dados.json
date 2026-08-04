@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T20:45:51.745Z",
+  "atualizadoEm": "2026-08-04T21:01:05.312Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,9 +20,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 48,
-    "totalSemana": 83
+    "totalAtrasadas": 45,
+    "totalAtrasadasAnterior": 46,
+    "totalSemana": 84
   },
   "pessoas": [
     {
@@ -45,8 +45,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 11,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -71,10 +71,6 @@
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 4
         },
         {
@@ -470,7 +466,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 10,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -525,6 +521,10 @@
         {
           "nome": "Compra: Placa de Homenagem",
           "data": "2026-08-03"
+        },
+        {
+          "nome": "Fechar Eventos no Pgto Consolidados",
+          "data": "2026-08-04"
         },
         {
           "nome": "Pagamentos 2026-08-04",
@@ -697,8 +697,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -711,10 +711,6 @@
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 4
         },
         {
@@ -1110,7 +1106,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 15,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1173,6 +1169,10 @@
         {
           "nome": "Compra: Placa de Homenagem",
           "data": "2026-08-03"
+        },
+        {
+          "nome": "Fechar Eventos no Pgto Consolidados",
+          "data": "2026-08-04"
         },
         {
           "nome": "Pagamentos 2026-08-04",
@@ -1555,17 +1555,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
-      "data": "2026-07-31",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
     },
     {
       "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
