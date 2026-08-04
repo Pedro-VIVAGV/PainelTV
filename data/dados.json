@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T15:31:11.412Z",
+  "atualizadoEm": "2026-08-04T15:45:59.442Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 49,
-    "totalAtrasadasAnterior": 50,
+    "totalAtrasadas": 48,
+    "totalAtrasadasAnterior": 49,
     "totalSemana": 82
   },
   "pessoas": [
@@ -151,8 +151,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 16,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -208,17 +208,13 @@
           "diasAtraso": 3
         },
         {
-          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Camisa José.Neto",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
         {
-          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+          "nome": "Crachá + Tirante ::: MARCELA_UFJF-GV_MED_2032-1",
           "data": "2026-08-03"
         },
         {
@@ -1693,15 +1689,6 @@
       "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
       "data": "2026-08-01",
       "diasAtraso": 3,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
-      "data": "2026-08-03",
-      "diasAtraso": 1,
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
