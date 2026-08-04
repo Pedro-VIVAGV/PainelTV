@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T20:30:58.228Z",
+  "atualizadoEm": "2026-08-04T20:45:51.745Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 49,
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 48,
     "totalSemana": 83
   },
   "pessoas": [
@@ -45,17 +45,13 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
+      "atrasadas": 9,
+      "atrasadasAnterior": 11,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 126
-        },
-        {
-          "nome": "Dobrar os Uniformes",
-          "diasAtraso": 28
         },
         {
           "nome": "Organizar a VIVA",
@@ -68,10 +64,6 @@
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Definição final equipe - Biara",
-          "diasAtraso": 8
         },
         {
           "nome": "Contrato Assinado: Kaikan_CELIA",
@@ -109,7 +101,7 @@
         },
         {
           "nome": "Organizar caixotes",
-          "data": "2026-08-04"
+          "data": "2026-08-05"
         }
       ]
     },
@@ -1116,8 +1108,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 14,
+      "atrasadas": 13,
+      "atrasadasAnterior": 15,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -1135,10 +1127,6 @@
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 70
-        },
-        {
-          "nome": "Dobrar os Uniformes",
-          "diasAtraso": 28
         },
         {
           "nome": "Organizar a VIVA",
@@ -1169,10 +1157,6 @@
           "diasAtraso": 13
         },
         {
-          "nome": "Definição final equipe - Biara",
-          "diasAtraso": 8
-        },
-        {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 8
         },
@@ -1199,11 +1183,11 @@
           "data": "2026-08-04"
         },
         {
-          "nome": "Organizar caixotes",
-          "data": "2026-08-04"
+          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "data": "2026-08-05"
         },
         {
-          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "nome": "Organizar caixotes",
           "data": "2026-08-05"
         }
       ]
@@ -1287,17 +1271,6 @@
       "diasAtraso": 70,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Dobrar os Uniformes",
-      "data": "2026-07-07",
-      "diasAtraso": 28,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
       ],
       "setores": [
         "Produção"
@@ -1488,17 +1461,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definição final equipe - Biara",
-      "data": "2026-07-27",
-      "diasAtraso": 8,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
