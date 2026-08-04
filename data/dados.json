@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T14:46:01.711Z",
+  "atualizadoEm": "2026-08-04T15:01:09.829Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 50,
-    "totalAtrasadasAnterior": 47,
+    "totalAtrasadas": 49,
+    "totalAtrasadasAnterior": 50,
     "totalSemana": 82
   },
   "pessoas": [
@@ -151,8 +151,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 16,
-      "atrasadasAnterior": 15,
+      "atrasadas": 15,
+      "atrasadasAnterior": 16,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -209,10 +209,6 @@
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
           "diasAtraso": 1
         },
         {
@@ -746,8 +742,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 20,
       "tarefasAtrasadas": [
         {
@@ -789,10 +785,6 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -1714,17 +1706,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
-      "data": "2026-08-03",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
     },
     {
       "nome": "DR:: Camisa Personalizada - JOSE.NETO",
