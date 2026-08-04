@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T13:01:02.492Z",
+  "atualizadoEm": "2026-08-04T13:15:54.115Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 50,
     "totalAtrasadasAnterior": 47,
-    "totalSemana": 80
+    "totalSemana": 81
   },
   "pessoas": [
     {
@@ -121,12 +121,16 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-08-04"
+        },
+        {
+          "nome": "DP:: Lista Entrega Fotos - MILENA.ALMEIDA",
+          "data": "2026-08-06"
         },
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
@@ -880,7 +884,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 11,
-      "semanaTotal": 42,
+      "semanaTotal": 43,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1043,6 +1047,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-08-05"
+        },
+        {
+          "nome": "DP:: Lista Entrega Fotos - MILENA.ALMEIDA",
+          "data": "2026-08-06"
         },
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
