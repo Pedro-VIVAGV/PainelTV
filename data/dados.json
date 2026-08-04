@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T22:15:55.314Z",
+  "atualizadoEm": "2026-08-04T22:30:54.022Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 45,
     "totalAtrasadasAnterior": 46,
-    "totalSemana": 84
+    "totalSemana": 83
   },
   "pessoas": [
     {
@@ -366,7 +366,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 11,
-      "semanaTotal": 12,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -407,47 +407,43 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "data": "2026-08-04"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-08-04"
-        },
-        {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-08-05"
+          "data": "2026-08-06"
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-07"
         },
         {
@@ -868,7 +864,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 11,
-      "semanaTotal": 44,
+      "semanaTotal": 43,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -953,14 +949,6 @@
           "data": "2026-08-04"
         },
         {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "data": "2026-08-04"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "data": "2026-08-04"
-        },
-        {
           "nome": "Confirmar Sessão de Fotos",
           "data": "2026-08-04"
         },
@@ -979,38 +967,6 @@
         {
           "nome": "Primeira Reunião",
           "data": "2026-08-04"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-05"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-08-05"
         },
         {
           "nome": "Confirma Data S. Fotos",
@@ -1049,6 +1005,38 @@
           "data": "2026-08-06"
         },
         {
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-08-06"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
+          "data": "2026-08-06"
+        },
+        {
           "nome": "Agendar Sessão de Fotos Meio",
           "data": "2026-08-06"
         },
@@ -1074,6 +1062,10 @@
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-07"
         },
         {
