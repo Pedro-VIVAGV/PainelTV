@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T14:15:58.124Z",
+  "atualizadoEm": "2026-08-04T14:31:16.875Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 50,
     "totalAtrasadasAnterior": 47,
-    "totalSemana": 81
+    "totalSemana": 82
   },
   "pessoas": [
     {
@@ -482,7 +482,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 10,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -537,6 +537,10 @@
         {
           "nome": "Compra: Placa de Homenagem",
           "data": "2026-08-03"
+        },
+        {
+          "nome": "Pagamentos 2026-08-04",
+          "data": "2026-08-04"
         },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
@@ -1118,7 +1122,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 14,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1189,6 +1193,10 @@
         {
           "nome": "Compra: Placa de Homenagem",
           "data": "2026-08-03"
+        },
+        {
+          "nome": "Pagamentos 2026-08-04",
+          "data": "2026-08-04"
         },
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
