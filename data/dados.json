@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-04T00:01:08.021Z",
+  "atualizadoEm": "2026-08-04T00:15:53.576Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 48,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 47,
     "totalSemana": 79
   },
   "pessoas": [
@@ -45,8 +45,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 9,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -84,6 +84,10 @@
         {
           "nome": "DR:: Orçamentos: Atrações - ISABELLA.DOURADO",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Camisa Personalizada - JOSE.NETO",
@@ -139,8 +143,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 13,
+      "atrasadas": 16,
+      "atrasadasAnterior": 15,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -201,6 +205,10 @@
         },
         {
           "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Camisa José.Neto",
           "diasAtraso": 0
         }
       ],
@@ -536,8 +544,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 27,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -547,6 +555,10 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 327
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -862,8 +874,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 12,
+      "atrasadasAnterior": 11,
       "semanaTotal": 41,
       "tarefasAtrasadas": [
         {
@@ -909,6 +921,10 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1696,6 +1712,35 @@
       "setores": [
         "Cotação"
       ]
+    },
+    {
+      "nome": "Conferir Lançamentos: Igor e Tay",
+      "data": "2026-08-04",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Camisa José.Neto",
+      "data": "2026-08-04",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+      "data": "2026-08-04",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
     }
   ]
 }
