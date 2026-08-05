@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T00:01:05.680Z",
+  "atualizadoEm": "2026-08-05T00:15:48.881Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 45,
-    "totalAtrasadasAnterior": 46,
+    "totalAtrasadas": 58,
+    "totalAtrasadasAnterior": 45,
     "totalSemana": 83
   },
   "pessoas": [
@@ -45,8 +45,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
+      "atrasadas": 9,
+      "atrasadasAnterior": 8,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -79,6 +79,10 @@
         },
         {
           "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Organizar caixotes",
           "diasAtraso": 0
         }
       ],
@@ -460,8 +464,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
+      "atrasadas": 12,
+      "atrasadasAnterior": 11,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
@@ -507,6 +511,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Excluir Kalil (Notion)",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -540,8 +548,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 14,
+      "atrasadasAnterior": 3,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -554,6 +562,50 @@
         },
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -862,8 +914,8 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 11,
+      "atrasadas": 23,
+      "atrasadasAnterior": 12,
       "semanaTotal": 43,
       "tarefasAtrasadas": [
         {
@@ -912,6 +964,50 @@
         },
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -1096,8 +1192,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 15,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
@@ -1151,6 +1247,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Organizar caixotes",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1684,6 +1784,147 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
+    },
+    {
+      "nome": "Excluir Kalil (Notion)",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Organizar caixotes",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação Festiva",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Colação Festiva",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
     }
   ]
 }
