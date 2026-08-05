@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T20:45:57.902Z",
+  "atualizadoEm": "2026-08-05T21:01:09.438Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 55,
     "totalAtrasadasAnterior": 56,
-    "totalSemana": 75
+    "totalSemana": 76
   },
   "pessoas": [
     {
@@ -414,7 +414,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 11,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -485,6 +485,10 @@
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
           "data": "2026-08-05"
+        },
+        {
+          "nome": "Att Bebidas: Arm. Vargas_BRUNA",
+          "data": "2026-08-06"
         }
       ]
     },
@@ -1130,7 +1134,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 13,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1213,6 +1217,10 @@
         {
           "nome": "Organizar caixotes",
           "data": "2026-08-05"
+        },
+        {
+          "nome": "Att Bebidas: Arm. Vargas_BRUNA",
+          "data": "2026-08-06"
         }
       ]
     }
