@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T11:45:50.688Z",
+  "atualizadoEm": "2026-08-05T12:01:03.303Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -45,9 +45,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 4,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -78,10 +78,6 @@
           "diasAtraso": 2
         },
         {
-          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 1
-        },
-        {
           "nome": "Organizar caixotes",
           "diasAtraso": 0
         }
@@ -94,10 +90,6 @@
         {
           "nome": "DR:: Camisa Personalizada - JOSE.NETO",
           "data": "2026-08-03"
-        },
-        {
-          "nome": "Marcar reunião com o Padre da P. de Lourdes",
-          "data": "2026-08-04"
         },
         {
           "nome": "Organizar caixotes",
@@ -548,9 +540,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 27,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -563,6 +555,10 @@
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
@@ -653,6 +649,10 @@
         {
           "nome": "Primeira Reunião",
           "data": "2026-08-04"
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "data": "2026-08-05"
         },
         {
           "nome": "Confirma Data S. Fotos",
@@ -909,14 +909,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
+        "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
-        "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 23,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 43,
+      "atrasadas": 24,
+      "atrasadasAnterior": 23,
+      "semanaTotal": 44,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -965,6 +965,10 @@
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
         },
         {
           "nome": "DR:: Reuniões: Degustação e Decoração - RODRIGO.NUNES",
@@ -1063,6 +1067,10 @@
         {
           "nome": "Primeira Reunião",
           "data": "2026-08-04"
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "data": "2026-08-05"
         },
         {
           "nome": "Confirma Data S. Fotos",
@@ -1194,7 +1202,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 13,
-      "semanaTotal": 7,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1268,10 +1276,6 @@
         },
         {
           "nome": "Pagamentos 2026-08-04",
-          "data": "2026-08-04"
-        },
-        {
-          "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-04"
         },
         {
@@ -1777,13 +1781,15 @@
       "setores": []
     },
     {
-      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-      "data": "2026-08-04",
-      "diasAtraso": 1,
+      "nome": "Atualização Contrato: TRIUNFO",
+      "data": "2026-08-05",
+      "diasAtraso": 0,
       "pessoas": [
-        "Janine :: Cotação - VIVA GV"
+        "Rodrigo :: VIVA Eventos"
       ],
-      "setores": []
+      "setores": [
+        "Planejamento"
+      ]
     },
     {
       "nome": "Excluir Kalil (Notion)",
