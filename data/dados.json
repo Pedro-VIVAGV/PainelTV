@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T17:30:57.497Z",
+  "atualizadoEm": "2026-08-05T17:45:54.082Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 56,
-    "totalAtrasadasAnterior": 57,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 56,
     "totalSemana": 76
   },
   "pessoas": [
@@ -139,8 +139,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 22,
       "tarefasAtrasadas": [
         {
@@ -154,10 +154,6 @@
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "diasAtraso": 5
         },
         {
           "nome": "Tirante VIVA",
@@ -742,8 +738,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -753,10 +749,6 @@
         {
           "nome": "DR:: Demanda Mkt-Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-          "diasAtraso": 5
         },
         {
           "nome": "Demanda Mkt-Brasão-GABRIEL.MARQUES",
@@ -1553,17 +1545,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DR:: Demanda Mkt-Brasão - CAMILA.HERNECK",
-      "data": "2026-07-31",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
     },
     {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
