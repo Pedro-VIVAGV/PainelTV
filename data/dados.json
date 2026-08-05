@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T16:15:59.431Z",
+  "atualizadoEm": "2026-08-05T16:30:58.113Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -210,12 +210,8 @@
           "data": "2026-08-04"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-04"
-        },
-        {
           "nome": "Arte Big Shot VIVA",
-          "data": "2026-08-05"
+          "data": "2026-08-04"
         },
         {
           "nome": "Tirante VIVA",
@@ -223,6 +219,10 @@
         },
         {
           "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-05"
         },
         {
@@ -785,11 +785,11 @@
           "data": "2026-08-04"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-04"
+          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-05"
         },
         {
-          "nome": "DR:: Mkt-Trio Feed- Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-05"
         },
         {
