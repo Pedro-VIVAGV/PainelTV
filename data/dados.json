@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T19:45:47.484Z",
+  "atualizadoEm": "2026-08-05T20:01:05.518Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 55,
     "totalAtrasadasAnterior": 56,
-    "totalSemana": 74
+    "totalSemana": 75
   },
   "pessoas": [
     {
@@ -105,7 +105,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 5,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -115,6 +115,10 @@
         {
           "nome": "Reunião_Fundo: ANA CLARA ASSIS",
           "data": "2026-08-04"
+        },
+        {
+          "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
+          "data": "2026-08-06"
         },
         {
           "nome": "DP:: Lista Entrega Fotos - MILENA.ALMEIDA",
@@ -829,14 +833,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV",
+        "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 24,
       "atrasadasAnterior": 23,
-      "semanaTotal": 44,
+      "semanaTotal": 45,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1015,6 +1019,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-08-05"
+        },
+        {
+          "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
+          "data": "2026-08-06"
         },
         {
           "nome": "DP:: Lista Entrega Fotos - MILENA.ALMEIDA",
