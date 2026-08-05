@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T16:45:54.374Z",
+  "atualizadoEm": "2026-08-05T17:01:12.909Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 56,
     "totalAtrasadasAnterior": 57,
-    "totalSemana": 74
+    "totalSemana": 76
   },
   "pessoas": [
     {
@@ -318,7 +318,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 11,
-      "semanaTotal": 11,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -358,6 +358,14 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-08-05"
+        },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-08-06"
@@ -844,7 +852,7 @@
       ],
       "atrasadas": 24,
       "atrasadasAnterior": 23,
-      "semanaTotal": 44,
+      "semanaTotal": 46,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -998,6 +1006,14 @@
         },
         {
           "nome": "Atualização Contrato: TRIUNFO",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "data": "2026-08-05"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-08-05"
         },
         {
