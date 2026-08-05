@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-05T13:45:55.545Z",
+  "atualizadoEm": "2026-08-05T14:01:03.380Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 58,
-    "totalAtrasadasAnterior": 45,
+    "totalAtrasadas": 57,
+    "totalAtrasadasAnterior": 58,
     "totalSemana": 83
   },
   "pessoas": [
@@ -139,8 +139,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 31,
       "tarefasAtrasadas": [
         {
@@ -194,10 +194,6 @@
         {
           "nome": "Demanda Mkt-Cardápio_Fundo: PEDRO.PERELO MED-ATENAS 2028.1",
           "diasAtraso": 4
-        },
-        {
-          "nome": "Camisa José.Neto",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
@@ -207,10 +203,6 @@
         },
         {
           "nome": "DD:: Cartaz Trio Feed Atrações - BRUNA.GOUVEA",
-          "data": "2026-08-03"
-        },
-        {
-          "nome": "Camisa José.Neto",
           "data": "2026-08-03"
         },
         {
@@ -303,6 +295,10 @@
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-07"
+        },
+        {
+          "nome": "Camisa José.Neto",
           "data": "2026-08-07"
         },
         {
@@ -1770,15 +1766,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Camisa José.Neto",
-      "data": "2026-08-04",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Atualização Contrato: TRIUNFO",
