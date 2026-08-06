@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-06T12:30:55.343Z",
+  "atualizadoEm": "2026-08-06T12:45:55.403Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 55,
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 76
   },
   "pessoas": [
@@ -45,8 +45,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -64,10 +64,6 @@
         {
           "nome": "DR:: Me Interna - PEDRO.PERELO",
           "diasAtraso": 14
-        },
-        {
-          "nome": "Contrato Assinado: Kaikan_CELIA",
-          "diasAtraso": 6
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -1609,15 +1605,6 @@
       "setores": [
         "Marketing"
       ]
-    },
-    {
-      "nome": "Contrato Assinado: Kaikan_CELIA",
-      "data": "2026-07-31",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
