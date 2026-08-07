@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-07T13:15:51.603Z",
+  "atualizadoEm": "2026-08-07T13:31:02.373Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -326,7 +326,7 @@
       "tarefasSemana": [
         {
           "nome": "Mascote MED 28 UFJF-GV - MARCELA",
-          "data": "2026-08-06"
+          "data": "2026-08-07"
         }
       ]
     },
@@ -1051,10 +1051,6 @@
           "data": "2026-08-05"
         },
         {
-          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
-          "data": "2026-08-06"
-        },
-        {
           "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
           "data": "2026-08-06"
         },
@@ -1089,6 +1085,10 @@
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
           "data": "2026-08-06"
+        },
+        {
+          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
+          "data": "2026-08-07"
         },
         {
           "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
