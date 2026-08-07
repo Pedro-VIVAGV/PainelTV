@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-07T20:31:02.841Z",
+  "atualizadoEm": "2026-08-07T20:45:54.650Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -22,7 +22,7 @@
     },
     "totalAtrasadas": 68,
     "totalAtrasadasAnterior": 69,
-    "totalSemana": 60
+    "totalSemana": 66
   },
   "pessoas": [
     {
@@ -328,7 +328,7 @@
       ],
       "atrasadas": 18,
       "atrasadasAnterior": 12,
-      "semanaTotal": 8,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -435,6 +435,30 @@
         {
           "nome": "Pagamento Fornecedor_Personalização_Balão Piscina Bruna.Gouvea",
           "data": "2026-08-06"
+        },
+        {
+          "nome": "Pagamentos FDS",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-08-08"
         }
       ]
     },
@@ -1092,7 +1116,7 @@
       ],
       "atrasadas": 20,
       "atrasadasAnterior": 14,
-      "semanaTotal": 9,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1211,6 +1235,30 @@
         {
           "nome": "Pagamento Fornecedor_Personalização_Balão Piscina Bruna.Gouvea",
           "data": "2026-08-06"
+        },
+        {
+          "nome": "Pagamentos FDS",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "data": "2026-08-08"
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "data": "2026-08-08"
         }
       ]
     }
