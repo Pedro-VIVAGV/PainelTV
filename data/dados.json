@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-07T14:01:03.655Z",
+  "atualizadoEm": "2026-08-07T14:16:00.399Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -234,19 +234,6 @@
         "Produção",
         "Marketing"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 0,
-      "tarefasAtrasadas": [],
-      "tarefasSemana": []
-    },
-    {
-      "nome": "Maria Clara / Tay :: Luminous",
-      "setores": [
-        "Marketing",
-        "Produção",
-        "Planejamento"
-      ],
       "atrasadas": 1,
       "atrasadasAnterior": 0,
       "semanaTotal": 0,
@@ -256,6 +243,19 @@
           "diasAtraso": 0
         }
       ],
+      "tarefasSemana": []
+    },
+    {
+      "nome": "Maria Clara / Tay :: Luminous",
+      "setores": [
+        "Marketing",
+        "Produção",
+        "Planejamento"
+      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 0,
+      "tarefasAtrasadas": [],
       "tarefasSemana": []
     },
     {
@@ -1858,7 +1858,7 @@
       "data": "2026-08-07",
       "diasAtraso": 0,
       "pessoas": [
-        "Maria Clara / Tay :: Luminous"
+        "Maria Clara :: Produção - VIVA GV"
       ],
       "setores": []
     },
