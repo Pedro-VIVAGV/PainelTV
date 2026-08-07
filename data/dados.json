@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-07T14:16:00.399Z",
+  "atualizadoEm": "2026-08-07T14:30:54.111Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 70,
-    "totalAtrasadasAnterior": 71,
+    "totalAtrasadas": 69,
+    "totalAtrasadasAnterior": 70,
     "totalSemana": 60
   },
   "pessoas": [
@@ -234,15 +234,10 @@
         "Produção",
         "Marketing"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 0,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Verificar Fotos - MATHEUS.ALMEIDA",
-          "diasAtraso": 0
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": []
     },
     {
@@ -1852,15 +1847,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "DD:: Verificar Fotos - MATHEUS.ALMEIDA",
-      "data": "2026-08-07",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Maria Clara :: Produção - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
