@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-07T13:45:54.681Z",
+  "atualizadoEm": "2026-08-07T14:01:03.655Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 71,
-    "totalAtrasadasAnterior": 54,
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 71,
     "totalSemana": 60
   },
   "pessoas": [
@@ -152,8 +152,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 6,
+      "atrasadas": 3,
+      "atrasadasAnterior": 4,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
@@ -166,10 +166,6 @@
         },
         {
           "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Brasão - ANTONIO.JUNIOR",
           "diasAtraso": 1
         }
       ],
@@ -740,8 +736,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 4,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
@@ -750,10 +746,6 @@
         },
         {
           "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Brasão - ANTONIO.JUNIOR",
           "diasAtraso": 1
         }
       ],
@@ -795,8 +787,8 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
+        "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
@@ -1764,17 +1756,6 @@
     },
     {
       "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-      "data": "2026-08-06",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DD:: Demanda Mkt-Brasão - ANTONIO.JUNIOR",
       "data": "2026-08-06",
       "diasAtraso": 1,
       "pessoas": [
