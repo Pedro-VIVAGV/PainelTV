@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-08T00:01:03.140Z",
+  "atualizadoEm": "2026-08-08T00:15:52.440Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 68,
-    "totalAtrasadasAnterior": 69,
+    "totalAtrasadas": 74,
+    "totalAtrasadasAnterior": 68,
     "totalSemana": 66
   },
   "pessoas": [
@@ -258,8 +258,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 9,
+      "atrasadas": 15,
+      "atrasadasAnterior": 12,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -299,7 +299,19 @@
           "diasAtraso": 7
         },
         {
+          "nome": "MKT: Vídeo CONVIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 0
         },
         {
@@ -470,8 +482,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 26,
-      "atrasadasAnterior": 21,
+      "atrasadas": 29,
+      "atrasadasAnterior": 26,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -575,7 +587,19 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "diasAtraso": 0
         }
       ],
@@ -808,8 +832,8 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 40,
-      "atrasadasAnterior": 41,
+      "atrasadas": 46,
+      "atrasadasAnterior": 40,
       "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
@@ -941,6 +965,14 @@
           "diasAtraso": 0
         },
         {
+          "nome": "MKT: Vídeo CONVIVA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "diasAtraso": 0
         },
@@ -961,11 +993,27 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Agendar Reunião - Atualização Meio Médico",
           "diasAtraso": 0
         },
         {
+          "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "diasAtraso": 0
         },
         {
@@ -2019,6 +2067,72 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "MKT: Vídeo CONVIVA",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Local e Data Baile - BEATRIZ.BALDI",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
