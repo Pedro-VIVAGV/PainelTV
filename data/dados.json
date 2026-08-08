@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-08T21:00:52.404Z",
+  "atualizadoEm": "2026-08-08T21:15:45.854Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 74,
-    "totalAtrasadasAnterior": 68,
+    "totalAtrasadas": 75,
+    "totalAtrasadasAnterior": 74,
     "totalSemana": 66
   },
   "pessoas": [
@@ -482,8 +482,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 26,
+      "atrasadas": 30,
+      "atrasadasAnterior": 29,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -589,6 +589,10 @@
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
         },
         {
           "nome": "Primeira Reunião",
@@ -832,8 +836,8 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 46,
-      "atrasadasAnterior": 40,
+      "atrasadas": 47,
+      "atrasadasAnterior": 46,
       "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
@@ -1002,6 +1006,10 @@
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
           "diasAtraso": 0
         },
         {
@@ -2089,6 +2097,17 @@
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-08",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
