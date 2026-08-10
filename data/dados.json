@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T17:30:50.889Z",
+  "atualizadoEm": "2026-08-10T17:45:44.373Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 25,
     "totalAtrasadasAnterior": 39,
-    "totalSemana": 73
+    "totalSemana": 72
   },
   "pessoas": [
     {
@@ -94,7 +94,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 2,
-      "semanaTotal": 10,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
@@ -112,10 +112,6 @@
       "tarefasSemana": [
         {
           "nome": "DP:: Reunião - MILENA-PEDRO",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "data": "2026-08-10"
         },
         {
@@ -677,7 +673,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 19,
-      "semanaTotal": 52,
+      "semanaTotal": 51,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -707,10 +703,6 @@
         },
         {
           "nome": "Conferir Lançamentos: Igor e Tay",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "data": "2026-08-10"
         },
         {
