@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T12:15:57.683Z",
+  "atualizadoEm": "2026-08-10T12:30:56.396Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 39,
     "totalAtrasadasAnterior": 48,
-    "totalSemana": 75
+    "totalSemana": 74
   },
   "pessoas": [
     {
@@ -163,7 +163,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 18,
+      "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -241,10 +241,6 @@
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "data": "2026-08-14"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-08-14"
         }
       ]
@@ -669,7 +665,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
-      "semanaTotal": 14,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
@@ -727,10 +723,6 @@
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-14"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
           "data": "2026-08-14"
         }
       ]
