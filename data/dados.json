@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T14:01:18.897Z",
+  "atualizadoEm": "2026-08-10T14:15:58.054Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 39,
-    "totalAtrasadasAnterior": 48,
-    "totalSemana": 74
+    "totalAtrasadas": 25,
+    "totalAtrasadasAnterior": 39,
+    "totalSemana": 72
   },
   "pessoas": [
     {
@@ -278,86 +278,25 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
-      "semanaTotal": 19,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 2
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 17,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "data": "2026-08-10"
+          "data": "2026-08-11"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "data": "2026-08-10"
+          "data": "2026-08-11"
         },
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "data": "2026-08-10"
+          "data": "2026-08-11"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "data": "2026-08-11"
         },
         {
@@ -393,11 +332,7 @@
           "data": "2026-08-12"
         },
         {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-08-13"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
           "data": "2026-08-13"
         },
         {
@@ -730,14 +665,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV",
         "Matheus :: Planejamento - VIVA GV",
+        "Locatelli:: Atendimento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 20,
-      "semanaTotal": 54,
+      "atrasadas": 5,
+      "atrasadasAnterior": 19,
+      "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -748,68 +683,12 @@
           "diasAtraso": 334
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "diasAtraso": 16
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 10
-        },
-        {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
           "diasAtraso": 4
         },
         {
           "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
           "diasAtraso": 3
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Criar Formulários de Briefing",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "diasAtraso": 2
-        },
-        {
-          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-          "diasAtraso": 2
         },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -819,22 +698,6 @@
       "tarefasSemana": [
         {
           "nome": "DP:: Reunião - MILENA-PEDRO",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-08-10"
         },
         {
@@ -866,6 +729,14 @@
           "data": "2026-08-11"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
+          "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "data": "2026-08-11"
+        },
+        {
           "nome": "DR:: Enviar: Tirante- ANA.JULIA",
           "data": "2026-08-11"
         },
@@ -874,15 +745,19 @@
           "data": "2026-08-11"
         },
         {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-08-11"
+        },
+        {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
           "data": "2026-08-11"
         },
         {
           "nome": "DR:: Replanejamento - RODRIGO.NUNES",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "data": "2026-08-11"
         },
         {
@@ -970,6 +845,10 @@
           "data": "2026-08-12"
         },
         {
+          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
+          "data": "2026-08-13"
+        },
+        {
           "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
           "data": "2026-08-13"
         },
@@ -979,14 +858,6 @@
         },
         {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
-          "data": "2026-08-13"
-        },
-        {
-          "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-          "data": "2026-08-13"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-13"
         },
         {
@@ -1304,94 +1175,6 @@
       ]
     },
     {
-      "nome": "Referências dos Produtos Extras Bailes_Izabella",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definir Atrações Bailes_Izabella",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definir Atrações Bailes_Euller-Kairo",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definir Atrações Bailes_Milena-Pedro",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-      "data": "2026-07-25",
-      "diasAtraso": 16,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
       "data": "2026-07-27",
       "diasAtraso": 14,
@@ -1431,17 +1214,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-07-31",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1494,61 +1266,6 @@
       "diasAtraso": 3,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Criar Formulários de Briefing",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
-      "data": "2026-08-08",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
-      "data": "2026-08-08",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
