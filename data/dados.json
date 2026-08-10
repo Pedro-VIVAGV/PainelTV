@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T16:15:50.680Z",
+  "atualizadoEm": "2026-08-10T16:30:49.988Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 25,
     "totalAtrasadasAnterior": 39,
-    "totalSemana": 72
+    "totalSemana": 73
   },
   "pessoas": [
     {
@@ -253,9 +253,14 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 0,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DD:: Verificar Fotos - CAMILA.HERNECK",
+          "data": "2026-08-10"
+        }
+      ]
     },
     {
       "nome": "Maria Clara / Tay :: Luminous",
