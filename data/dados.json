@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T00:00:55.073Z",
+  "atualizadoEm": "2026-08-10T00:15:58.345Z",
   "semana": {
     "inicio": "2026-08-03",
     "fim": "2026-08-09"
@@ -20,8 +20,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 75,
-    "totalAtrasadasAnterior": 74,
+    "totalAtrasadas": 77,
+    "totalAtrasadasAnterior": 75,
     "totalSemana": 66
   },
   "pessoas": [
@@ -99,8 +99,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -110,6 +110,10 @@
         {
           "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -482,8 +486,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 29,
+      "atrasadas": 31,
+      "atrasadasAnterior": 30,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -605,6 +609,10 @@
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -836,8 +844,8 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 47,
-      "atrasadasAnterior": 46,
+      "atrasadas": 49,
+      "atrasadasAnterior": 47,
       "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
@@ -1027,6 +1035,14 @@
         {
           "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -2150,6 +2166,28 @@
       "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
       "data": "2026-08-08",
       "diasAtraso": 1,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
+      "data": "2026-08-10",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Evento: 365 Dias",
+      "data": "2026-08-10",
+      "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
