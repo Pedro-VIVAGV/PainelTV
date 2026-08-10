@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T19:16:04.019Z",
+  "atualizadoEm": "2026-08-10T19:30:57.449Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 25,
-    "totalAtrasadasAnterior": 39,
+    "totalAtrasadas": 24,
+    "totalAtrasadasAnterior": 25,
     "totalSemana": 72
   },
   "pessoas": [
@@ -157,17 +157,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-          "diasAtraso": 4
         }
       ],
       "tarefasSemana": [
@@ -599,15 +595,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 13,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-          "diasAtraso": 4
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR::: Caneca + Tirante 1/6 - ANA.JULIA -MENDES",
@@ -1244,17 +1235,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-      "data": "2026-08-06",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
