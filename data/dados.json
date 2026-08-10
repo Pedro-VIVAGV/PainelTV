@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T13:45:53.220Z",
+  "atualizadoEm": "2026-08-10T14:01:18.897Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -115,10 +115,6 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
-          "data": "2026-08-10"
-        },
-        {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "data": "2026-08-10"
         },
@@ -145,6 +141,10 @@
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-12"
+        },
+        {
+          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
+          "data": "2026-08-13"
         },
         {
           "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
@@ -826,10 +826,6 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
-          "data": "2026-08-10"
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
           "data": "2026-08-10"
         },
@@ -972,6 +968,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "data": "2026-08-12"
+        },
+        {
+          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
+          "data": "2026-08-13"
         },
         {
           "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
