@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-10T12:01:07.008Z",
+  "atualizadoEm": "2026-08-10T12:15:57.683Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 48,
-    "totalAtrasadasAnterior": 49,
-    "totalSemana": 67
+    "totalAtrasadas": 39,
+    "totalAtrasadasAnterior": 48,
+    "totalSemana": 75
   },
   "pessoas": [
     {
@@ -161,16 +161,12 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 4,
-      "semanaTotal": 14,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 10
         },
         {
@@ -188,10 +184,6 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-10"
-        },
-        {
           "nome": "Arte Roleta VIVA",
           "data": "2026-08-11"
         },
@@ -202,6 +194,14 @@
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-11"
+        },
+        {
+          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-12"
         },
         {
           "nome": "DR:: Demanda Mkt_Feed Comissão - CLARA.VASCONCELOS",
@@ -216,6 +216,10 @@
           "data": "2026-08-12"
         },
         {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "data": "2026-08-13"
+        },
+        {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
           "data": "2026-08-13"
         },
@@ -226,6 +230,14 @@
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
           "data": "2026-08-13"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-14"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-14"
         },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
@@ -270,9 +282,9 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 17,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -323,10 +335,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "MKT: Vídeo CONVIVA",
-          "diasAtraso": 2
-        },
-        {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
           "diasAtraso": 2
         },
@@ -337,55 +345,63 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
           "data": "2026-08-10"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-11"
+          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "data": "2026-08-10"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-11"
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "data": "2026-08-10"
         },
         {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-08-11"
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "data": "2026-08-10"
         },
         {
           "nome": "Fechar datas Sessão Meio de Curso - ANA.CLARA e YASMIN.CARVALHO",
           "data": "2026-08-11"
         },
         {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-08-12"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "data": "2026-08-12"
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "data": "2026-08-13"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-13"
         },
         {
@@ -414,9 +430,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 18,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 1,
+      "atrasadas": 11,
+      "atrasadasAnterior": 18,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -461,37 +477,17 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 10
-        },
-        {
-          "nome": "Excluir Kalil (Notion)",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-08-10"
+        },
+        {
+          "nome": "Excluir Kalil (Notion)",
+          "data": "2026-08-10"
+        },
         {
           "nome": "Retorno PeR - HD",
           "data": "2026-08-12"
@@ -671,14 +667,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
-      "semanaTotal": 10,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 10
-        },
         {
           "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
           "diasAtraso": 4
@@ -690,16 +682,20 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-10"
-        },
-        {
           "nome": "Arte Flamulas",
           "data": "2026-08-11"
         },
         {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-11"
+        },
+        {
+          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-12"
         },
         {
           "nome": "DR:: Demanda Mkt_Feed Comissão - CLARA.VASCONCELOS",
@@ -714,12 +710,24 @@
           "data": "2026-08-12"
         },
         {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "data": "2026-08-13"
+        },
+        {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
           "data": "2026-08-13"
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
           "data": "2026-08-13"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-14"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-14"
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
@@ -735,9 +743,9 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 21,
-      "semanaTotal": 52,
+      "atrasadas": 19,
+      "atrasadasAnterior": 20,
+      "semanaTotal": 54,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -804,10 +812,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "MKT: Vídeo CONVIVA",
-          "diasAtraso": 2
-        },
-        {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
           "diasAtraso": 2
         },
@@ -826,7 +830,23 @@
           "data": "2026-08-10"
         },
         {
+          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
+          "data": "2026-08-10"
+        },
+        {
           "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
+          "data": "2026-08-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "data": "2026-08-10"
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "data": "2026-08-10"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-08-10"
         },
         {
@@ -839,10 +859,6 @@
         },
         {
           "nome": "Confirmar Evento: 365 Dias",
-          "data": "2026-08-10"
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-10"
         },
         {
@@ -871,38 +887,6 @@
         },
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-11"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "data": "2026-08-11"
         },
         {
@@ -946,11 +930,35 @@
           "data": "2026-08-12"
         },
         {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-08-12"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Milena-Pedro",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "data": "2026-08-12"
         },
         {
@@ -983,6 +991,10 @@
         },
         {
           "nome": "Conferir Fundos com ‘’Fase em Atraso’’ - PIPEFY GV",
+          "data": "2026-08-13"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-13"
         },
         {
@@ -1037,9 +1049,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 20,
-      "atrasadasAnterior": 14,
-      "semanaTotal": 1,
+      "atrasadas": 14,
+      "atrasadasAnterior": 20,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1096,33 +1108,13 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 5
-        },
-        {
-          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pagamento Fornecedor - Banner",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-          "diasAtraso": 3
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
+          "data": "2026-08-10"
+        },
         {
           "nome": "Retorno PeR - HD",
           "data": "2026-08-12"
@@ -1461,17 +1453,6 @@
       ]
     },
     {
-      "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-07-31",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
       "nome": "DR:: Camisa Personalizada - JOSE.NETO",
       "data": "2026-08-03",
       "diasAtraso": 7,
@@ -1481,15 +1462,6 @@
       "setores": [
         "Cotação"
       ]
-    },
-    {
-      "nome": "Excluir Kalil (Notion)",
-      "data": "2026-08-05",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": []
     },
     {
       "nome": "Organizar caixotes",
@@ -1525,17 +1497,6 @@
       ]
     },
     {
-      "nome": "Contrato Atração_Fundo: BRUNA.GOUVEA_UNIVALE_MED 2031-1",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
       "data": "2026-08-07",
       "diasAtraso": 3,
@@ -1544,61 +1505,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Mesa Beer Pong",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Banner",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
-      "data": "2026-08-07",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
@@ -1627,17 +1533,6 @@
       "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
       "data": "2026-08-07",
       "diasAtraso": 3,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "MKT: Vídeo CONVIVA",
-      "data": "2026-08-08",
-      "diasAtraso": 2,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
