@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-11T12:45:46.194Z",
+  "atualizadoEm": "2026-08-11T13:01:01.444Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 35,
     "totalAtrasadasAnterior": 24,
-    "totalSemana": 72
+    "totalSemana": 73
   },
   "pessoas": [
     {
@@ -171,7 +171,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 1,
-      "semanaTotal": 17,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -245,6 +245,10 @@
         },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-14"
+        },
+        {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "data": "2026-08-14"
         },
         {
@@ -641,7 +645,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 0,
-      "semanaTotal": 13,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
@@ -699,6 +703,10 @@
         },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-14"
+        },
+        {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "data": "2026-08-14"
         },
         {
