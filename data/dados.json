@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-11T00:01:00.251Z",
+  "atualizadoEm": "2026-08-11T00:15:41.289Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 24,
-    "totalAtrasadasAnterior": 25,
+    "totalAtrasadas": 35,
+    "totalAtrasadasAnterior": 24,
     "totalSemana": 72
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
+      "atrasadas": 8,
+      "atrasadasAnterior": 7,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -77,6 +77,10 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 5
+        },
+        {
+          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -92,8 +96,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 5,
+      "atrasadasAnterior": 3,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -103,6 +107,14 @@
         {
           "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Enviar: Tirante- ANA.JULIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Reunião_Fundo: MILENA-PEDRO",
+          "diasAtraso": 0
         },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -157,13 +169,21 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 3,
+      "atrasadasAnterior": 1,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
           "diasAtraso": 10
+        },
+        {
+          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -358,8 +378,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 18,
+      "atrasadas": 16,
+      "atrasadasAnterior": 11,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -405,6 +425,26 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 10
+        },
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -430,8 +470,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -441,6 +481,10 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 334
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -595,10 +639,19 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 2,
+      "atrasadasAnterior": 0,
       "semanaTotal": 13,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR::: Caneca + Tirante 1/6 - ANA.JULIA -MENDES",
@@ -662,8 +715,8 @@
         "Rodrigo :: VIVA Eventos",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 19,
+      "atrasadas": 8,
+      "atrasadasAnterior": 5,
       "semanaTotal": 51,
       "tarefasAtrasadas": [
         {
@@ -683,7 +736,19 @@
           "diasAtraso": 3
         },
         {
+          "nome": "DR:: Enviar: Tirante- ANA.JULIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Reunião_Fundo: MILENA-PEDRO",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
           "diasAtraso": 0
         }
       ],
@@ -900,8 +965,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 20,
+      "atrasadas": 19,
+      "atrasadasAnterior": 14,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -959,6 +1024,26 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 5
+        },
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Mesa Beer Pong",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pagamento Fornecedor - Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1254,6 +1339,125 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Alteração: Banner - AISSA.LEAL",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Enviar: Tirante- ANA.JULIA",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pagamento Fornecedor - Mesa Beer Pong",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pagamento Fornecedor - Plotagem Barraquinha",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pagamento Fornecedor - Banner",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Forn. Camisa - Fundo: MILENA.ALMEIDA UNIVALE-DIREITO 2028-2",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Reunião_Fundo: MILENA-PEDRO",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Confirmar Evento: 365 Dias",
+      "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
