@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T11:45:43.596Z",
+  "atualizadoEm": "2026-08-12T12:00:58.338Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 54,
     "totalAtrasadasAnterior": 33,
-    "totalSemana": 75
+    "totalSemana": 76
   },
   "pessoas": [
     {
@@ -325,7 +325,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 0,
-      "semanaTotal": 17,
+      "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
           "nome": "Mascote MED 28 UFJF-GV - MARCELA",
@@ -356,6 +356,10 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "data": "2026-08-12"
         },
         {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
@@ -830,7 +834,7 @@
       ],
       "atrasadas": 21,
       "atrasadasAnterior": 6,
-      "semanaTotal": 52,
+      "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1001,6 +1005,10 @@
         {
           "nome": "Primeira Reunião",
           "data": "2026-08-11"
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "data": "2026-08-12"
         },
         {
           "nome": "DP:: Aviso Novo Cliente - ANA.LUISA",
