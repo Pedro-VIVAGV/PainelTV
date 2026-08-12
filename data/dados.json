@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T12:15:50.135Z",
+  "atualizadoEm": "2026-08-12T12:30:52.286Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 54,
     "totalAtrasadasAnterior": 33,
-    "totalSemana": 76
+    "totalSemana": 77
   },
   "pessoas": [
     {
@@ -179,7 +179,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 3,
-      "semanaTotal": 18,
+      "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -237,6 +237,10 @@
         },
         {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
           "data": "2026-08-12"
         },
         {
@@ -742,7 +746,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 2,
-      "semanaTotal": 14,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
@@ -784,6 +788,10 @@
         },
         {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
+          "data": "2026-08-12"
+        },
+        {
+          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
           "data": "2026-08-12"
         },
         {
