@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T12:45:55.686Z",
+  "atualizadoEm": "2026-08-12T13:01:13.184Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 54,
-    "totalAtrasadasAnterior": 33,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 54,
     "totalSemana": 77
   },
   "pessoas": [
@@ -177,21 +177,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 3,
+      "atrasadas": 5,
+      "atrasadasAnterior": 7,
       "semanaTotal": 19,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
           "diasAtraso": 12
-        },
-        {
-          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
-          "diasAtraso": 1
         },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
@@ -744,18 +736,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 2,
+      "atrasadas": 3,
+      "atrasadasAnterior": 5,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Alteração: Banner - AISSA.LEAL",
-          "diasAtraso": 1
-        },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
           "diasAtraso": 0
@@ -1531,28 +1515,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
-      "data": "2026-08-11",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DD:: Alteração: Banner - AISSA.LEAL",
-      "data": "2026-08-11",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
