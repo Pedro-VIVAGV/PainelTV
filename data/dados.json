@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T00:00:57.343Z",
+  "atualizadoEm": "2026-08-12T00:15:51.456Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 33,
-    "totalAtrasadasAnterior": 35,
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 33,
     "totalSemana": 75
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 7,
+      "atrasadas": 10,
+      "atrasadasAnterior": 8,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -79,6 +79,14 @@
           "diasAtraso": 6
         },
         {
+          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 0
         }
@@ -96,8 +104,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 5,
+      "atrasadas": 4,
+      "atrasadasAnterior": 3,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -111,6 +119,10 @@
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -165,8 +177,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 1,
+      "atrasadas": 7,
+      "atrasadasAnterior": 3,
       "semanaTotal": 18,
       "tarefasAtrasadas": [
         {
@@ -174,11 +186,27 @@
           "diasAtraso": 11
         },
         {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
           "diasAtraso": 0
         },
         {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DD:: Alteração: Banner - AISSA.LEAL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Camisa José.Neto",
           "diasAtraso": 0
         }
       ],
@@ -295,10 +323,23 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 14,
+      "atrasadas": 3,
+      "atrasadasAnterior": 0,
       "semanaTotal": 17,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
@@ -474,8 +515,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 14,
+      "atrasadasAnterior": 3,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -487,7 +528,51 @@
           "diasAtraso": 335
         },
         {
+          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -615,8 +700,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
+      "atrasadas": 6,
+      "atrasadasAnterior": 4,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -634,6 +719,14 @@
         {
           "nome": "DR:: Camisa Personalizada - JOSE.NETO",
           "diasAtraso": 8
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -643,16 +736,28 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 0,
+      "atrasadas": 5,
+      "atrasadasAnterior": 2,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "diasAtraso": 0
+        },
         {
           "nome": "DD:: Alteração: Banner - VYCTHÓRIA.ARAUJO",
           "diasAtraso": 0
         },
         {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DD:: Alteração: Banner - AISSA.LEAL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
           "diasAtraso": 0
         }
       ],
@@ -723,8 +828,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 8,
+      "atrasadas": 21,
+      "atrasadasAnterior": 6,
       "semanaTotal": 52,
       "tarefasAtrasadas": [
         {
@@ -748,7 +853,67 @@
           "diasAtraso": 1
         },
         {
+          "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
           "diasAtraso": 0
         }
       ],
@@ -1441,6 +1606,235 @@
     {
       "nome": "Confirmar Evento: 365 Dias",
       "data": "2026-08-11",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Mascote MED 28 UFJF-GV - MARCELA",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Conferir Lançamentos: Igor e Tay",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Camisa José.Neto",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação Festiva",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Colação Festiva",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-12",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-12",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
