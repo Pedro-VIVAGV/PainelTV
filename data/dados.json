@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T16:00:56.825Z",
+  "atualizadoEm": "2026-08-12T16:15:49.561Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 54,
-    "totalSemana": 77
+    "totalSemana": 79
   },
   "pessoas": [
     {
@@ -179,7 +179,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 7,
-      "semanaTotal": 19,
+      "semanaTotal": 21,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -212,11 +212,11 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "Arte Roleta VIVA",
+          "nome": "Logo Me Interna Pedro Perelo p/ Camisa",
           "data": "2026-08-11"
         },
         {
-          "nome": "Arte Flamulas",
+          "nome": "Dragão MED24 Vazado Para Chaveiro",
           "data": "2026-08-11"
         },
         {
@@ -264,11 +264,19 @@
           "data": "2026-08-13"
         },
         {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-13"
+        },
+        {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
           "data": "2026-08-14"
         },
         {
           "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+          "data": "2026-08-14"
+        },
+        {
+          "nome": "Arte Roleta VIVA",
           "data": "2026-08-14"
         },
         {
@@ -759,10 +767,6 @@
           "data": "2026-08-10"
         },
         {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-11"
-        },
-        {
           "nome": "DD:: Demanda Mkt-Feed-Comissão - ANA.BETARIZ",
           "data": "2026-08-11"
         },
@@ -800,6 +804,10 @@
         },
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-13"
+        },
+        {
+          "nome": "Arte Flamulas",
           "data": "2026-08-13"
         },
         {
