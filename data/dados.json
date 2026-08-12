@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T16:15:49.561Z",
+  "atualizadoEm": "2026-08-12T16:30:55.339Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 52,
     "totalAtrasadasAnterior": 54,
-    "totalSemana": 79
+    "totalSemana": 80
   },
   "pessoas": [
     {
@@ -297,12 +297,16 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DD:: Verificar Fotos - CAMILA.HERNECK",
           "data": "2026-08-10"
+        },
+        {
+          "nome": "DD:: Verificar Fotos - MILENA.ALMEIDA",
+          "data": "2026-08-12"
         }
       ]
     },
