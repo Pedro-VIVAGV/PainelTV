@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T14:01:06.319Z",
+  "atualizadoEm": "2026-08-13T14:15:57.120Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 82
   },
   "pessoas": [
@@ -104,17 +104,13 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
           "diasAtraso": 7
-        },
-        {
-          "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
-          "diasAtraso": 6
         },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -856,8 +852,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 22,
-      "atrasadasAnterior": 21,
+      "atrasadas": 21,
+      "atrasadasAnterior": 22,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -871,10 +867,6 @@
         {
           "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
           "diasAtraso": 7
-        },
-        {
-          "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
-          "diasAtraso": 6
         },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -1524,17 +1516,6 @@
       "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
       "data": "2026-08-06",
       "diasAtraso": 7,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Acompanhamento das artes - ANA.BEATRIZ",
-      "data": "2026-08-07",
-      "diasAtraso": 6,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
       ],
