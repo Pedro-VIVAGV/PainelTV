@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T18:45:55.885Z",
+  "atualizadoEm": "2026-08-13T19:00:55.223Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 51,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 82
   },
   "pessoas": [
@@ -177,8 +177,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 7,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -191,10 +191,6 @@
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
           "diasAtraso": 1
         },
         {
@@ -756,8 +752,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 5,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -766,10 +762,6 @@
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
           "diasAtraso": 1
         }
       ],
@@ -1706,17 +1698,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
-      "data": "2026-08-12",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
