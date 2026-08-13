@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T00:00:57.644Z",
+  "atualizadoEm": "2026-08-13T00:15:47.465Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 54,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 82
   },
   "pessoas": [
@@ -104,8 +104,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 3,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -122,6 +122,10 @@
         },
         {
           "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "diasAtraso": 0
         }
       ],
@@ -852,8 +856,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 6,
+      "atrasadas": 22,
+      "atrasadasAnterior": 21,
       "semanaTotal": 53,
       "tarefasAtrasadas": [
         {
@@ -882,6 +886,10 @@
         },
         {
           "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "diasAtraso": 0
         },
         {
@@ -1844,6 +1852,17 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
+      "data": "2026-08-13",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
