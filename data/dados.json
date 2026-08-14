@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T21:00:55.146Z",
+  "atualizadoEm": "2026-08-14T21:15:45.497Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 63,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 63
+    "totalSemana": 62
   },
   "pessoas": [
     {
@@ -46,9 +46,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
-      "semanaTotal": 1,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -79,10 +79,6 @@
           "diasAtraso": 9
         },
         {
-          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
           "diasAtraso": 2
         },
@@ -95,12 +91,7 @@
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": [
-        {
-          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-          "data": "2026-08-10"
-        }
-      ]
+      "tarefasSemana": []
     },
     {
       "nome": "Locatelli:: Atendimento - VIVA GV",
@@ -108,17 +99,13 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 4,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
-          "diasAtraso": 2
         },
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
@@ -458,8 +445,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 14,
+      "atrasadas": 27,
+      "atrasadasAnterior": 25,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -531,6 +518,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirma Data S. Fotos",
           "diasAtraso": 0
         },
@@ -548,6 +539,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -819,8 +814,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 33,
+      "atrasadas": 33,
+      "atrasadasAnterior": 32,
       "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
@@ -838,10 +833,6 @@
         {
           "nome": "Confirmar Evento: 365 Dias",
           "diasAtraso": 3
-        },
-        {
-          "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
-          "diasAtraso": 2
         },
         {
           "nome": "Mascote MED 28 UFJF-GV - MARCELA",
@@ -920,6 +911,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirma Data S. Fotos",
           "diasAtraso": 0
         },
@@ -937,6 +932,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -1510,31 +1509,11 @@
       ]
     },
     {
-      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-      "data": "2026-08-11",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "Confirmar Evento: 365 Dias",
       "data": "2026-08-11",
       "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DP:: Acompanhar Artes - AISSA.LEAL",
-      "data": "2026-08-12",
-      "diasAtraso": 2,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
@@ -1814,6 +1793,17 @@
       ]
     },
     {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
       "nome": "Confirma Data S. Fotos",
       "data": "2026-08-14",
       "diasAtraso": 0,
@@ -1859,6 +1849,17 @@
     },
     {
       "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-08-14",
       "diasAtraso": 0,
       "pessoas": [
