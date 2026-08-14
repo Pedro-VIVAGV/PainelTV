@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T00:01:00.268Z",
+  "atualizadoEm": "2026-08-14T00:15:43.356Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 51,
-    "totalAtrasadasAnterior": 52,
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 51,
     "totalSemana": 64
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 8,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -89,6 +89,10 @@
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -104,8 +108,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -122,6 +126,10 @@
         },
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
           "diasAtraso": 0
         }
       ],
@@ -177,8 +185,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
@@ -196,6 +204,10 @@
         {
           "nome": "Camisa José.Neto",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -458,8 +470,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 3,
+      "atrasadas": 25,
+      "atrasadasAnterior": 14,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -517,6 +529,50 @@
         {
           "nome": "Primeira Reunião",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -643,8 +699,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 4,
+      "atrasadas": 7,
+      "atrasadasAnterior": 6,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -670,6 +726,10 @@
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -771,8 +831,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 21,
-      "atrasadasAnterior": 22,
+      "atrasadas": 34,
+      "atrasadasAnterior": 21,
       "semanaTotal": 35,
       "tarefasAtrasadas": [
         {
@@ -857,6 +917,58 @@
         },
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -1680,6 +1792,160 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Atualização Contrato: TRIUNFO",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Sessão de Fotos",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirma Data S. Fotos",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+      "data": "2026-08-14",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
