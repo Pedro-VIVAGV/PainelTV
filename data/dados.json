@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T19:15:46.823Z",
+  "atualizadoEm": "2026-08-14T19:30:46.305Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 63,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 62
+    "totalSemana": 63
   },
   "pessoas": [
     {
@@ -171,7 +171,7 @@
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 4,
-      "semanaTotal": 23,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -262,6 +262,10 @@
         {
           "nome": "Arte Flamulas",
           "data": "2026-08-13"
+        },
+        {
+          "nome": "DD:: Alteração Trio-Feed - CAMILA.HERNECK",
+          "data": "2026-08-14"
         },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
