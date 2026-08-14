@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T14:15:44.804Z",
+  "atualizadoEm": "2026-08-14T14:30:43.360Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 51,
-    "totalSemana": 64
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 65,
+    "totalSemana": 63
   },
   "pessoas": [
     {
@@ -108,14 +108,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
-      "semanaTotal": 10,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
-        {
-          "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
-          "diasAtraso": 8
-        },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "diasAtraso": 4
@@ -160,10 +156,6 @@
         },
         {
           "nome": "DP:: Aviso Novo Cliente - ANA.LUISA",
-          "data": "2026-08-12"
-        },
-        {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-12"
         },
         {
@@ -831,9 +823,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 21,
-      "semanaTotal": 35,
+      "atrasadas": 33,
+      "atrasadasAnterior": 34,
+      "semanaTotal": 34,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -842,10 +834,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 338
-        },
-        {
-          "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
-          "diasAtraso": 8
         },
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -1043,10 +1031,6 @@
         },
         {
           "nome": "DP:: Aviso Novo Cliente - ANA.LUISA",
-          "data": "2026-08-12"
-        },
-        {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-12"
         },
         {
@@ -1469,17 +1453,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DP:: Enviar Artes - CAMILA.HERNECK",
-      "data": "2026-08-06",
-      "diasAtraso": 8,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
