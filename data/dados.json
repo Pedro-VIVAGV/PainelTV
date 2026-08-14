@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T16:30:51.610Z",
+  "atualizadoEm": "2026-08-14T16:48:55.739Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 63,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 63
+    "totalSemana": 62
   },
   "pessoas": [
     {
@@ -110,7 +110,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 4,
-      "semanaTotal": 9,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -155,12 +155,8 @@
           "data": "2026-08-12"
         },
         {
-          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
-          "data": "2026-08-13"
-        },
-        {
           "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
-          "data": "2026-08-13"
+          "data": "2026-08-14"
         }
       ]
     },
@@ -821,7 +817,7 @@
       ],
       "atrasadas": 32,
       "atrasadasAnterior": 33,
-      "semanaTotal": 34,
+      "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1050,14 +1046,6 @@
           "data": "2026-08-12"
         },
         {
-          "nome": "DR:: Campanha de Adesão - BEATRIZ.AUTA",
-          "data": "2026-08-13"
-        },
-        {
-          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
-          "data": "2026-08-13"
-        },
-        {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
           "data": "2026-08-13"
         },
@@ -1072,6 +1060,10 @@
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
           "data": "2026-08-13"
+        },
+        {
+          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
+          "data": "2026-08-14"
         },
         {
           "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
