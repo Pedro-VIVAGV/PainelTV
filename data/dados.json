@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T15:30:46.513Z",
+  "atualizadoEm": "2026-08-14T15:45:47.086Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 65,
+    "totalAtrasadas": 63,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 63
   },
   "pessoas": [
@@ -108,8 +108,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
+      "atrasadas": 3,
+      "atrasadasAnterior": 4,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -123,10 +123,6 @@
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -823,8 +819,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 34,
+      "atrasadas": 32,
+      "atrasadasAnterior": 33,
       "semanaTotal": 34,
       "tarefasAtrasadas": [
         {
@@ -909,10 +905,6 @@
         },
         {
           "nome": "Atualização Contrato: TRIUNFO",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
           "diasAtraso": 0
         },
         {
@@ -1776,17 +1768,6 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Integrantes Inadimplentes - ANA.CLARA",
-      "data": "2026-08-14",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
