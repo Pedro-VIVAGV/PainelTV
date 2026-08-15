@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T12:30:50.294Z",
+  "atualizadoEm": "2026-08-15T12:45:44.521Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 71,
     "totalAtrasadasAnterior": 63,
-    "totalSemana": 62
+    "totalSemana": 63
   },
   "pessoas": [
     {
@@ -383,7 +383,7 @@
       ],
       "atrasadas": 16,
       "atrasadasAnterior": 11,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -466,6 +466,10 @@
         {
           "nome": "Retorno PeR - HD",
           "data": "2026-08-12"
+        },
+        {
+          "nome": "Pagamentos",
+          "data": "2026-08-16"
         }
       ]
     },
@@ -1150,7 +1154,7 @@
       ],
       "atrasadas": 19,
       "atrasadasAnterior": 14,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1241,6 +1245,10 @@
         {
           "nome": "Retorno PeR - HD",
           "data": "2026-08-12"
+        },
+        {
+          "nome": "Pagamentos",
+          "data": "2026-08-16"
         }
       ]
     }
