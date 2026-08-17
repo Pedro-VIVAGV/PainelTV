@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T11:45:42.277Z",
+  "atualizadoEm": "2026-08-17T12:00:56.991Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -133,16 +133,16 @@
           "data": "2026-08-17"
         },
         {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-18"
         },
         {
           "nome": "DD:: Enviar: Arte Convite - ANA.BEATRIZ",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "data": "2026-08-19"
         },
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
@@ -896,10 +896,6 @@
           "data": "2026-08-17"
         },
         {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-18"
         },
@@ -938,6 +934,10 @@
         {
           "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "data": "2026-08-19"
         },
         {
           "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
