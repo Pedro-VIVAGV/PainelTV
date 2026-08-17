@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T20:01:03.593Z",
+  "atualizadoEm": "2026-08-17T20:15:42.687Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 69,
     "totalAtrasadasAnterior": 70,
-    "totalSemana": 57
+    "totalSemana": 59
   },
   "pessoas": [
     {
@@ -120,7 +120,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 7,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -135,6 +135,14 @@
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "data": "2026-08-17"
+        },
+        {
+          "nome": "ARTE PAULA.LIS",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "ARTES ANA-JULIA",
+          "data": "2026-08-18"
         },
         {
           "nome": "Reunião_Fundo: GABRYELLE-VITOR",
@@ -828,7 +836,7 @@
       ],
       "atrasadas": 33,
       "atrasadasAnterior": 34,
-      "semanaTotal": 25,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -991,6 +999,14 @@
         {
           "nome": "Confirmar Data Colação",
           "data": "2026-08-17"
+        },
+        {
+          "nome": "ARTE PAULA.LIS",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "ARTES ANA-JULIA",
+          "data": "2026-08-18"
         },
         {
           "nome": "Reunião_Fundo: GABRYELLE-VITOR",
