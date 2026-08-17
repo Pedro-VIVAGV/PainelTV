@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T17:15:48.609Z",
+  "atualizadoEm": "2026-08-17T17:45:52.714Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 71,
-    "totalAtrasadasAnterior": 72,
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 71,
     "totalSemana": 56
   },
   "pessoas": [
@@ -171,8 +171,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 15,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -225,10 +225,6 @@
         },
         {
           "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "diasAtraso": 0
         }
       ],
@@ -746,8 +742,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -777,10 +773,6 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 2
-        },
-        {
-          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1934,17 +1926,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
-      "data": "2026-08-17",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
