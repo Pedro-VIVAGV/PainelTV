@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T16:45:45.404Z",
+  "atualizadoEm": "2026-08-17T17:00:49.530Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 72,
-    "totalAtrasadasAnterior": 76,
+    "totalAtrasadas": 71,
+    "totalAtrasadasAnterior": 72,
     "totalSemana": 56
   },
   "pessoas": [
@@ -171,17 +171,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 14,
+      "atrasadas": 14,
+      "atrasadasAnterior": 15,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
           "diasAtraso": 17
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
-          "diasAtraso": 5
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
@@ -750,14 +746,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 8,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
-          "diasAtraso": 5
-        },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
           "diasAtraso": 5
@@ -1455,17 +1447,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
-      "data": "2026-08-12",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
