@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T12:00:56.991Z",
+  "atualizadoEm": "2026-08-17T12:15:44.756Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 76,
     "totalAtrasadasAnterior": 71,
-    "totalSemana": 32
+    "totalSemana": 46
   },
   "pessoas": [
     {
@@ -161,7 +161,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 13,
-      "semanaTotal": 9,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -222,6 +222,10 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-17"
+        },
+        {
           "nome": "DD:: Demanda Mkt-Banner - MARIA.LOURDES",
           "data": "2026-08-17"
         },
@@ -230,8 +234,36 @@
           "data": "2026-08-17"
         },
         {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+          "data": "2026-08-17"
+        },
+        {
+          "nome": "Camisa José.Neto",
+          "data": "2026-08-17"
+        },
+        {
           "nome": "AMANDA.REIS_UNIVALE Mascote Personalizado",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "Tirante VIVA",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "data": "2026-08-19"
+        },
+        {
+          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "data": "2026-08-19"
         },
         {
           "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
@@ -246,6 +278,14 @@
           "data": "2026-08-20"
         },
         {
+          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-20"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-20"
+        },
+        {
           "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
           "data": "2026-08-20"
         },
@@ -254,7 +294,23 @@
           "data": "2026-08-20"
         },
         {
+          "nome": "Arte Roleta VIVA",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
+          "data": "2026-08-21"
+        },
+        {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "data": "2026-08-21"
         }
       ]
@@ -331,6 +387,10 @@
           "data": "2026-08-17"
         },
         {
+          "nome": "MKT: Vídeo CONVIVA",
+          "data": "2026-08-18"
+        },
+        {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-08-18"
         },
@@ -365,10 +425,6 @@
         {
           "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
           "data": "2026-08-19"
-        },
-        {
-          "nome": "MKT: Vídeo CONVIVA",
-          "data": "2026-08-20"
         }
       ]
     },
@@ -671,7 +727,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 8,
-      "semanaTotal": 1,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
@@ -712,7 +768,43 @@
       ],
       "tarefasSemana": [
         {
+          "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
+          "data": "2026-08-17"
+        },
+        {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+          "data": "2026-08-17"
+        },
+        {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "data": "2026-08-19"
+        },
+        {
+          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-20"
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "data": "2026-08-20"
+        },
+        {
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-21"
+        },
+        {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "data": "2026-08-21"
         }
       ]
@@ -727,7 +819,7 @@
       ],
       "atrasadas": 34,
       "atrasadasAnterior": 33,
-      "semanaTotal": 22,
+      "semanaTotal": 23,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -904,6 +996,10 @@
           "data": "2026-08-18"
         },
         {
+          "nome": "MKT: Vídeo CONVIVA",
+          "data": "2026-08-18"
+        },
+        {
           "nome": "Referências dos Produtos Extras Bailes_Izabella",
           "data": "2026-08-18"
         },
@@ -944,11 +1040,11 @@
           "data": "2026-08-19"
         },
         {
-          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
-          "data": "2026-08-20"
+          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "data": "2026-08-19"
         },
         {
-          "nome": "MKT: Vídeo CONVIVA",
+          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
           "data": "2026-08-20"
         },
         {
