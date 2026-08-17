@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T14:15:54.648Z",
+  "atualizadoEm": "2026-08-17T14:30:55.409Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 76,
     "totalAtrasadasAnterior": 71,
-    "totalSemana": 46
+    "totalSemana": 50
   },
   "pessoas": [
     {
@@ -46,7 +46,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 10,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -105,6 +105,10 @@
         {
           "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-18"
         }
       ]
     },
@@ -159,9 +163,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 23,
+      "atrasadas": 15,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -216,11 +220,19 @@
           "diasAtraso": 2
         },
         {
+          "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+          "data": "2026-08-17"
+        },
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
           "data": "2026-08-17"
@@ -436,9 +448,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 16,
-      "atrasadasAnterior": 11,
-      "semanaTotal": 0,
+      "atrasadas": 15,
+      "atrasadasAnterior": 16,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -485,10 +497,6 @@
           "diasAtraso": 17
         },
         {
-          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Pagamento Fornecedor - Mesa Beer Pong",
           "diasAtraso": 6
         },
@@ -505,7 +513,16 @@
           "diasAtraso": 6
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "data": "2026-08-17"
+        },
+        {
+          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "data": "2026-08-19"
+        }
+      ]
     },
     {
       "nome": "Rodrigo :: VIVA Eventos",
@@ -1059,9 +1076,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 19,
-      "atrasadasAnterior": 14,
-      "semanaTotal": 0,
+      "atrasadas": 18,
+      "atrasadasAnterior": 19,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1120,10 +1137,6 @@
           "diasAtraso": 12
         },
         {
-          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-          "diasAtraso": 6
-        },
-        {
           "nome": "Pagamento Fornecedor - Mesa Beer Pong",
           "diasAtraso": 6
         },
@@ -1140,7 +1153,20 @@
           "diasAtraso": 6
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
+          "data": "2026-08-17"
+        },
+        {
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "data": "2026-08-19"
+        }
+      ]
     }
   ],
   "eventosSemanaLista": [
@@ -1391,17 +1417,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pagamento Fornecedor - Adesivo Pista de Dança",
-      "data": "2026-08-11",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
@@ -1925,6 +1940,15 @@
       "setores": [
         "Marketing"
       ]
+    },
+    {
+      "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
