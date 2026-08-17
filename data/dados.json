@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T19:45:44.938Z",
+  "atualizadoEm": "2026-08-17T20:01:03.593Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 70,
-    "totalAtrasadasAnterior": 71,
+    "totalAtrasadas": 69,
+    "totalAtrasadasAnterior": 70,
     "totalSemana": 57
   },
   "pessoas": [
@@ -360,14 +360,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 0,
+      "atrasadas": 2,
+      "atrasadasAnterior": 3,
       "semanaTotal": 15,
       "tarefasAtrasadas": [
-        {
-          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
-          "diasAtraso": 5
-        },
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
           "diasAtraso": 5
@@ -830,8 +826,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 33,
+      "atrasadas": 33,
+      "atrasadasAnterior": 34,
       "semanaTotal": 25,
       "tarefasAtrasadas": [
         {
@@ -849,10 +845,6 @@
         {
           "nome": "Confirmar Evento: 365 Dias",
           "diasAtraso": 6
-        },
-        {
-          "nome": "Mascote MED 28 UFJF-GV - MARCELA",
-          "diasAtraso": 5
         },
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
@@ -1458,17 +1450,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "Mascote MED 28 UFJF-GV - MARCELA",
-      "data": "2026-08-12",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
