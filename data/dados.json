@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T00:00:58.874Z",
+  "atualizadoEm": "2026-08-17T00:15:45.861Z",
   "semana": {
     "inicio": "2026-08-10",
     "fim": "2026-08-16"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 71,
-    "totalAtrasadasAnterior": 63,
+    "totalAtrasadas": 76,
+    "totalAtrasadasAnterior": 71,
     "totalSemana": 63
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 13,
+      "atrasadasAnterior": 10,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -89,6 +89,18 @@
         {
           "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -156,8 +168,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 5,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -211,6 +223,10 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -481,8 +497,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 25,
+      "atrasadas": 28,
+      "atrasadasAnterior": 27,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -592,6 +608,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Confirmar Data Colação",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -718,8 +738,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 6,
+      "atrasadas": 10,
+      "atrasadasAnterior": 7,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -749,6 +769,18 @@
         {
           "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -758,8 +790,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 2,
+      "atrasadas": 9,
+      "atrasadasAnterior": 8,
       "semanaTotal": 17,
       "tarefasAtrasadas": [
         {
@@ -793,6 +825,10 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -874,8 +910,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 32,
+      "atrasadas": 34,
+      "atrasadasAnterior": 33,
       "semanaTotal": 33,
       "tarefasAtrasadas": [
         {
@@ -1009,6 +1045,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 2
+        },
+        {
+          "nome": "Confirmar Data Colação",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -2048,6 +2088,61 @@
       ],
       "setores": [
         "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação",
+      "data": "2026-08-17",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
       ]
     }
   ]
