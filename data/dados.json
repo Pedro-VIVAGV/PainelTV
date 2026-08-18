@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T18:01:05.243Z",
+  "atualizadoEm": "2026-08-18T18:15:50.597Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 68,
-    "totalAtrasadasAnterior": 69,
-    "totalSemana": 64
+    "totalAtrasadas": 67,
+    "totalAtrasadasAnterior": 68,
+    "totalSemana": 63
   },
   "pessoas": [
     {
@@ -183,8 +183,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 13,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -221,10 +221,6 @@
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 3
         },
         {
@@ -266,10 +262,6 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "Camisa José.Neto",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-18"
         },
@@ -287,6 +279,10 @@
         },
         {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "data": "2026-08-19"
+        },
+        {
+          "nome": "Camisa José.Neto",
           "data": "2026-08-19"
         },
         {
@@ -386,7 +382,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 15,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
@@ -452,10 +448,6 @@
         },
         {
           "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "MKT: Vídeo CONVIVA",
           "data": "2026-08-19"
         }
       ]
@@ -766,8 +758,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
+      "atrasadas": 6,
+      "atrasadasAnterior": 7,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -788,10 +780,6 @@
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 3
-        },
-        {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 3
         },
         {
@@ -860,7 +848,7 @@
       ],
       "atrasadas": 34,
       "atrasadasAnterior": 33,
-      "semanaTotal": 27,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1090,10 +1078,6 @@
         },
         {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "MKT: Vídeo CONVIVA",
           "data": "2026-08-19"
         },
         {
@@ -1868,17 +1852,6 @@
     },
     {
       "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-08-15",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
       "data": "2026-08-15",
       "diasAtraso": 3,
       "pessoas": [
