@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T12:15:44.487Z",
+  "atualizadoEm": "2026-08-18T12:30:47.730Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 72,
-    "totalAtrasadasAnterior": 71,
+    "totalAtrasadas": 71,
+    "totalAtrasadasAnterior": 72,
     "totalSemana": 59
   },
   "pessoas": [
@@ -183,8 +183,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 13,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -234,10 +234,6 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 3
-        },
-        {
-          "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
-          "diasAtraso": 1
         },
         {
           "nome": "DD:: Demanda Mkt-Banner - MARIA.LOURDES",
@@ -1909,15 +1905,6 @@
       "setores": [
         "Marketing"
       ]
-    },
-    {
-      "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
-      "data": "2026-08-17",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
