@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T16:30:50.762Z",
+  "atualizadoEm": "2026-08-18T16:45:39.886Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 69,
     "totalAtrasadasAnterior": 70,
-    "totalSemana": 61
+    "totalSemana": 62
   },
   "pessoas": [
     {
@@ -185,7 +185,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 26,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -262,24 +262,16 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "AMANDA.REIS_UNIVALE Mascote Personalizado",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "Camisa José.Neto",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "Tirante VIVA",
           "data": "2026-08-18"
         },
         {
           "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "Alteração Banner - MARIA.LOURDES",
+          "data": "2026-08-19"
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
@@ -291,6 +283,10 @@
         },
         {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
+          "data": "2026-08-19"
+        },
+        {
+          "nome": "Arte Flamulas",
           "data": "2026-08-19"
         },
         {
@@ -314,12 +310,20 @@
           "data": "2026-08-20"
         },
         {
+          "nome": "Tirante VIVA",
+          "data": "2026-08-20"
+        },
+        {
           "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
           "data": "2026-08-20"
         },
         {
           "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
           "data": "2026-08-20"
+        },
+        {
+          "nome": "AMANDA.REIS_UNIVALE Mascote Personalizado",
+          "data": "2026-08-21"
         },
         {
           "nome": "Arte Roleta VIVA",
@@ -805,15 +809,15 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-18"
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
+          "data": "2026-08-19"
+        },
+        {
+          "nome": "Arte Flamulas",
           "data": "2026-08-19"
         },
         {
