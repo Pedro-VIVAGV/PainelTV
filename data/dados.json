@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T17:01:00.069Z",
+  "atualizadoEm": "2026-08-18T17:15:43.425Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 69,
-    "totalAtrasadasAnterior": 70,
-    "totalSemana": 63
+    "totalAtrasadas": 68,
+    "totalAtrasadasAnterior": 69,
+    "totalSemana": 64
   },
   "pessoas": [
     {
@@ -468,9 +468,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 15,
-      "semanaTotal": 7,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -490,10 +490,6 @@
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
           "diasAtraso": 27
         },
         {
@@ -540,6 +536,10 @@
         },
         {
           "nome": "Orçamento Buffet: Leila Rocha_CELIA",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
           "data": "2026-08-18"
         },
         {
@@ -1116,9 +1116,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 18,
-      "semanaTotal": 8,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1146,10 +1146,6 @@
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
           "diasAtraso": 27
         },
         {
@@ -1200,6 +1196,10 @@
         },
         {
           "nome": "Orçamento Buffet: Leila Rocha_CELIA",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
           "data": "2026-08-18"
         },
         {
@@ -1324,17 +1324,6 @@
     },
     {
       "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-      "data": "2026-07-22",
-      "diasAtraso": 27,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
       "data": "2026-07-22",
       "diasAtraso": 27,
       "pessoas": [
