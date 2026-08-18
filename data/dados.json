@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T14:45:44.526Z",
+  "atualizadoEm": "2026-08-18T15:00:53.499Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 69,
     "totalAtrasadasAnterior": 70,
-    "totalSemana": 60
+    "totalSemana": 61
   },
   "pessoas": [
     {
@@ -185,7 +185,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 25,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -248,6 +248,10 @@
         {
           "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "data": "2026-08-17"
+        },
+        {
+          "nome": "Alteração Brasão ::: ODONTO_2027-2_JULIA.MARQUES",
+          "data": "2026-08-18"
         },
         {
           "nome": "DD:: Alteração: Banner - GABRYELLE",
@@ -756,7 +760,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 8,
-      "semanaTotal": 10,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
@@ -795,6 +799,10 @@
         {
           "nome": "DR:: Convite: Digital - ANA.BEATRIZ",
           "data": "2026-08-17"
+        },
+        {
+          "nome": "Alteração Brasão ::: ODONTO_2027-2_JULIA.MARQUES",
+          "data": "2026-08-18"
         },
         {
           "nome": "Arte Flamulas",
