@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T00:01:08.996Z",
+  "atualizadoEm": "2026-08-18T00:15:47.463Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 69,
-    "totalAtrasadasAnterior": 70,
+    "totalAtrasadas": 71,
+    "totalAtrasadasAnterior": 69,
     "totalSemana": 59
   },
   "pessoas": [
@@ -118,8 +118,8 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -129,6 +129,10 @@
         {
           "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "diasAtraso": 4
+        },
+        {
+          "nome": "Reunião_Fundo: GABRYELLE-VITOR",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -179,8 +183,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 14,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 24,
       "tarefasAtrasadas": [
         {
@@ -233,6 +237,10 @@
         },
         {
           "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Banner - MARIA.LOURDES",
           "diasAtraso": 0
         }
       ],
@@ -834,8 +842,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 34,
+      "atrasadas": 34,
+      "atrasadasAnterior": 33,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -965,6 +973,10 @@
         {
           "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Reunião_Fundo: GABRYELLE-VITOR",
+          "diasAtraso": 0
         },
         {
           "nome": "Confirmar Data Colação",
@@ -1943,6 +1955,26 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "Reunião_Fundo: GABRYELLE-VITOR",
+      "data": "2026-08-18",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Banner - MARIA.LOURDES",
+      "data": "2026-08-18",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
     }
   ]
 }
