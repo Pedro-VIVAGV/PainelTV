@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T19:15:48.707Z",
+  "atualizadoEm": "2026-08-18T19:30:59.714Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 67,
-    "totalAtrasadasAnterior": 68,
-    "totalSemana": 63
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 67,
+    "totalSemana": 62
   },
   "pessoas": [
     {
@@ -118,21 +118,13 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 1,
+      "atrasadasAnterior": 3,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "diasAtraso": 8
-        },
-        {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "Reunião_Fundo: GABRYELLE-VITOR",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -153,10 +145,6 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DD:: Enviar: Arte Convite - ANA.BEATRIZ",
           "data": "2026-08-18"
         },
@@ -170,6 +158,10 @@
         },
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "data": "2026-08-20"
+        },
+        {
+          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-20"
         }
       ]
@@ -462,7 +454,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 8,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
@@ -533,10 +525,6 @@
         {
           "nome": "DR:: Decoração: Baile - ISABELLA.DOURADO",
           "data": "2026-08-18"
-        },
-        {
-          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
-          "data": "2026-08-19"
         }
       ]
     },
@@ -846,8 +834,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 33,
+      "atrasadas": 32,
+      "atrasadasAnterior": 34,
       "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
@@ -919,10 +907,6 @@
           "diasAtraso": 6
         },
         {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
-          "diasAtraso": 5
-        },
-        {
           "nome": "Atualização Contrato: TRIUNFO",
           "diasAtraso": 4
         },
@@ -981,10 +965,6 @@
         {
           "nome": "Confirmar Data Colação",
           "diasAtraso": 1
-        },
-        {
-          "nome": "Reunião_Fundo: GABRYELLE-VITOR",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1026,10 +1006,6 @@
         },
         {
           "nome": "Reunião_Fundo: GABRYELLE-VITOR",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
           "data": "2026-08-18"
         },
         {
@@ -1089,6 +1065,10 @@
           "data": "2026-08-20"
         },
         {
+          "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
+          "data": "2026-08-20"
+        },
+        {
           "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
           "data": "2026-08-20"
         }
@@ -1102,7 +1082,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 14,
-      "semanaTotal": 9,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1189,10 +1169,6 @@
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-18"
-        },
-        {
-          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
-          "data": "2026-08-19"
         }
       ]
     }
@@ -1633,17 +1609,6 @@
       ]
     },
     {
-      "nome": "DR:: Enviar Arte: Storie de Aniversário - PAULA.LIS",
-      "data": "2026-08-13",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Atualização Contrato: TRIUNFO",
       "data": "2026-08-14",
       "diasAtraso": 4,
@@ -1920,17 +1885,6 @@
       "diasAtraso": 1,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Reunião_Fundo: GABRYELLE-VITOR",
-      "data": "2026-08-18",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
