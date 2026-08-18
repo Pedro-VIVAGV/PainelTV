@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T12:30:47.730Z",
+  "atualizadoEm": "2026-08-18T12:45:43.477Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 71,
-    "totalAtrasadasAnterior": 72,
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 71,
     "totalSemana": 59
   },
   "pessoas": [
@@ -1268,13 +1268,6 @@
       "setores": [
         "Produção"
       ]
-    },
-    {
-      "nome": "Pgto Forn. Sacola Kraft (1)",
-      "data": "2026-06-09",
-      "diasAtraso": 70,
-      "pessoas": [],
-      "setores": []
     },
     {
       "nome": "Organizar a VIVA",
