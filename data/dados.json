@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T16:45:39.886Z",
+  "atualizadoEm": "2026-08-18T17:01:00.069Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 69,
     "totalAtrasadasAnterior": 70,
-    "totalSemana": 62
+    "totalSemana": 63
   },
   "pessoas": [
     {
@@ -185,7 +185,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 13,
-      "semanaTotal": 27,
+      "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -255,6 +255,10 @@
         },
         {
           "nome": "DD:: Alteração: Banner - GABRYELLE",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Demanda Mkt - Story -Aniversário - PAULA.LIS",
           "data": "2026-08-18"
         },
         {
@@ -764,7 +768,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 8,
-      "semanaTotal": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
@@ -806,6 +810,10 @@
         },
         {
           "nome": "Alteração Brasão ::: ODONTO_2027-2_JULIA.MARQUES",
+          "data": "2026-08-18"
+        },
+        {
+          "nome": "DR:: Demanda Mkt - Story -Aniversário - PAULA.LIS",
           "data": "2026-08-18"
         },
         {
