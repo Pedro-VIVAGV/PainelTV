@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T12:00:57.029Z",
+  "atualizadoEm": "2026-08-18T12:15:44.487Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -236,7 +236,7 @@
           "diasAtraso": 3
         },
         {
-          "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+          "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
           "diasAtraso": 1
         },
         {
@@ -246,7 +246,7 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+          "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
           "data": "2026-08-17"
         },
         {
@@ -1911,7 +1911,7 @@
       ]
     },
     {
-      "nome": "ATT Tirante Crachá MARCELA_UFJF-GV_MED_2032-1",
+      "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
       "data": "2026-08-17",
       "diasAtraso": 1,
       "pessoas": [
