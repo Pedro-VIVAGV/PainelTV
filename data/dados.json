@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T17:15:42.772Z",
+  "atualizadoEm": "2026-08-19T17:30:54.530Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 68,
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 66,
     "totalSemana": 54
   },
   "pessoas": [
@@ -191,21 +191,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 8,
+      "atrasadasAnterior": 10,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
           "diasAtraso": 19
-        },
-        {
-          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
-          "diasAtraso": 5
         },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
@@ -250,6 +242,10 @@
           "data": "2026-08-17"
         },
         {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-17"
+        },
+        {
           "nome": "Alteração Brasão ::: ODONTO_2027-2_JULIA.MARQUES",
           "data": "2026-08-18"
         },
@@ -266,19 +262,11 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "Alteração Banner - MARIA.LOURDES",
           "data": "2026-08-19"
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "BEATRIZ.AUTA_UNIVALE_MED.VET Mascote Personalizado",
           "data": "2026-08-19"
         },
         {
@@ -290,16 +278,8 @@
           "data": "2026-08-19"
         },
         {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-          "data": "2026-08-19"
+          "nome": "BEATRIZ.AUTA_UNIVALE_MED.VET Mascote Personalizado",
+          "data": "2026-08-20"
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
@@ -318,11 +298,15 @@
           "data": "2026-08-20"
         },
         {
+          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
+          "data": "2026-08-20"
+        },
+        {
           "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
           "data": "2026-08-20"
         },
         {
-          "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
+          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
           "data": "2026-08-20"
         },
         {
@@ -331,6 +315,10 @@
         },
         {
           "nome": "Arte Roleta VIVA",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "Arte Flamulas",
           "data": "2026-08-21"
         },
         {
@@ -343,6 +331,10 @@
         },
         {
           "nome": "DR:: Kit Formando - EULLER.KAIRO",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
           "data": "2026-08-21"
         },
         {
@@ -718,14 +710,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 7,
+      "atrasadas": 5,
+      "atrasadasAnterior": 6,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "diasAtraso": 7
-        },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
           "diasAtraso": 4
@@ -757,6 +745,10 @@
           "data": "2026-08-17"
         },
         {
+          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
+          "data": "2026-08-17"
+        },
+        {
           "nome": "Alteração Brasão ::: ODONTO_2027-2_JULIA.MARQUES",
           "data": "2026-08-18"
         },
@@ -765,15 +757,7 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "DR:: Mkt-BackDrop - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "Arte Flamulas",
           "data": "2026-08-19"
         },
         {
@@ -783,6 +767,10 @@
         {
           "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
           "data": "2026-08-20"
+        },
+        {
+          "nome": "Arte Flamulas",
+          "data": "2026-08-21"
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
@@ -803,11 +791,10 @@
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos",
-        "Locatelli:: Atendimento - VIVA GV",
-        "Lyncoln :: Marketing - VIVA GV"
+        "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 32,
+      "atrasadas": 32,
+      "atrasadasAnterior": 33,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -880,10 +867,6 @@
         },
         {
           "nome": "Atualização Contrato: TRIUNFO",
-          "diasAtraso": 5
-        },
-        {
-          "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
           "diasAtraso": 5
         },
         {
@@ -1364,17 +1347,6 @@
       ]
     },
     {
-      "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-      "data": "2026-08-12",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
       "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
       "data": "2026-08-12",
       "diasAtraso": 7,
@@ -1537,17 +1509,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
-      "data": "2026-08-14",
-      "diasAtraso": 5,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
