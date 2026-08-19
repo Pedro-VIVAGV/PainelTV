@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T00:00:55.067Z",
+  "atualizadoEm": "2026-08-19T00:15:49.704Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 67,
+    "totalAtrasadas": 70,
+    "totalAtrasadasAnterior": 65,
     "totalSemana": 65
   },
   "pessoas": [
@@ -44,8 +44,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 10,
+      "atrasadas": 15,
+      "atrasadasAnterior": 13,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -99,6 +99,14 @@
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -118,13 +126,17 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 3,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
           "diasAtraso": 8
+        },
+        {
+          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -175,8 +187,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 12,
+      "atrasadasAnterior": 11,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -222,6 +234,10 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 3
+        },
+        {
+          "nome": "Alteração Banner - MARIA.LOURDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -456,8 +472,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -499,6 +515,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 18
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -701,8 +721,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 7,
+      "atrasadas": 11,
+      "atrasadasAnterior": 10,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -744,6 +764,10 @@
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -846,8 +870,8 @@
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 34,
+      "atrasadas": 33,
+      "atrasadasAnterior": 32,
       "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
@@ -977,6 +1001,10 @@
         {
           "nome": "Confirmar Data Colação",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1096,8 +1124,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 14,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -1151,6 +1179,10 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 13
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1909,6 +1941,57 @@
       "setores": [
         "Planejamento"
       ]
+    },
+    {
+      "nome": "Alteração Banner - MARIA.LOURDES",
+      "data": "2026-08-19",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+      "data": "2026-08-19",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Integrante: Sessão de Fotos",
+      "data": "2026-08-19",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
+      "data": "2026-08-19",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
+      "data": "2026-08-19",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": []
     }
   ]
 }
