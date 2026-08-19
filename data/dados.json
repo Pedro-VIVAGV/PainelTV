@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T15:30:51.029Z",
+  "atualizadoEm": "2026-08-19T15:45:57.535Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 66,
     "totalAtrasadasAnterior": 68,
-    "totalSemana": 52
+    "totalSemana": 54
   },
   "pessoas": [
     {
@@ -46,7 +46,7 @@
       ],
       "atrasadas": 13,
       "atrasadasAnterior": 15,
-      "semanaTotal": 3,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -113,6 +113,14 @@
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
           "data": "2026-08-19"
+        },
+        {
+          "nome": "Organizar caixotes",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-08-21"
         }
       ]
     },
@@ -998,7 +1006,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 13,
-      "semanaTotal": 9,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -1093,6 +1101,14 @@
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-18"
+        },
+        {
+          "nome": "Organizar caixotes",
+          "data": "2026-08-21"
+        },
+        {
+          "nome": "Organizar a VIVA",
+          "data": "2026-08-21"
         }
       ]
     }
