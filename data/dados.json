@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T14:45:47.313Z",
+  "atualizadoEm": "2026-08-19T15:00:56.213Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 69,
-    "totalAtrasadasAnterior": 70,
+    "totalAtrasadas": 68,
+    "totalAtrasadasAnterior": 69,
     "totalSemana": 51
   },
   "pessoas": [
@@ -187,8 +187,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -197,10 +197,6 @@
         },
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "Camisa José.Neto",
           "diasAtraso": 7
         },
         {
@@ -1435,15 +1431,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Camisa José.Neto",
-      "data": "2026-08-12",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Replanejamento - RODRIGO.NUNES",
