@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T14:15:44.390Z",
+  "atualizadoEm": "2026-08-19T14:30:59.304Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 69,
     "totalAtrasadasAnterior": 70,
-    "totalSemana": 65
+    "totalSemana": 51
   },
   "pessoas": [
     {
@@ -386,7 +386,7 @@
       ],
       "atrasadas": 2,
       "atrasadasAnterior": 3,
-      "semanaTotal": 15,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
@@ -399,64 +399,8 @@
       ],
       "tarefasSemana": [
         {
-          "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
+          "nome": "DC: Vídeo Mascote - MARCELA",
           "data": "2026-08-19"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-21"
         }
       ]
     },
@@ -861,14 +805,14 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV",
+        "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "atrasadas": 33,
       "atrasadasAnterior": 32,
-      "semanaTotal": 27,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -1013,10 +957,6 @@
           "data": "2026-08-17"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "ARTE PAULA.LIS",
           "data": "2026-08-18"
         },
@@ -1029,43 +969,19 @@
           "data": "2026-08-18"
         },
         {
-          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "data": "2026-08-18"
-        },
-        {
           "nome": "DD:: Enviar: Arte Convite - ANA.BEATRIZ",
           "data": "2026-08-18"
         },
         {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "data": "2026-08-18"
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "data": "2026-08-18"
+          "nome": "DC: Vídeo Mascote - MARCELA",
+          "data": "2026-08-19"
         },
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
           "data": "2026-08-19"
         },
         {
-          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
-          "data": "2026-08-19"
-        },
-        {
           "nome": "DE: Camisa Meio Advogado - ANA.CLARA",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Gabryelle-Vitor",
           "data": "2026-08-19"
         },
         {
@@ -1083,34 +999,6 @@
         {
           "nome": "DR:: Convite Extra: 1/6 - ANA.JULIA-MENDES",
           "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Izabella",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Euller-Kairo",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Milena-Pedro",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Definir Atrações Bailes_Gabryelle-Vitor",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Izabella",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Euller-Kairo",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Referências dos Produtos Extras Bailes_Milena-Pedro",
-          "data": "2026-08-21"
         }
       ]
     },
