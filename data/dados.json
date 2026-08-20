@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T00:01:05.217Z",
+  "atualizadoEm": "2026-08-20T00:15:45.577Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 66,
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 55
   },
   "pessoas": [
@@ -381,8 +381,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 3,
+      "atrasadas": 4,
+      "atrasadasAnterior": 2,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -392,6 +392,14 @@
         {
           "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
           "diasAtraso": 7
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -798,8 +806,8 @@
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 33,
+      "atrasadas": 34,
+      "atrasadasAnterior": 32,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -928,6 +936,14 @@
         },
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
           "diasAtraso": 0
         }
       ],
@@ -1806,6 +1822,28 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
+      "data": "2026-08-20",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+      "data": "2026-08-20",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
     }
   ]
 }
