@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T12:30:52.289Z",
+  "atualizadoEm": "2026-08-20T12:45:50.099Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 64,
-    "totalSemana": 55
+    "totalAtrasadas": 64,
+    "totalAtrasadasAnterior": 66,
+    "totalSemana": 54
   },
   "pessoas": [
     {
@@ -130,19 +130,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 9,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-          "diasAtraso": 1
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 8,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -163,10 +154,6 @@
         {
           "nome": "DD:: Enviar: Arte Convite - ANA.BEATRIZ",
           "data": "2026-08-18"
-        },
-        {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-          "data": "2026-08-19"
         },
         {
           "nome": "Reunião_Fundo: LARISSA ROCHA",
@@ -806,9 +793,9 @@
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 32,
-      "semanaTotal": 13,
+      "atrasadas": 32,
+      "atrasadasAnterior": 34,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -817,10 +804,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 344
-        },
-        {
-          "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
-          "diasAtraso": 10
         },
         {
           "nome": "Confirmar Evento: 365 Dias",
@@ -935,10 +918,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-          "diasAtraso": 1
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
           "diasAtraso": 0
         },
@@ -974,10 +953,6 @@
         },
         {
           "nome": "DC: Vídeo Mascote - MARCELA",
-          "data": "2026-08-19"
-        },
-        {
-          "nome": "DD:: Retorno: Briefing - ANA.LUISA",
           "data": "2026-08-19"
         },
         {
@@ -1332,17 +1307,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
-      "data": "2026-08-10",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1776,17 +1740,6 @@
       "diasAtraso": 3,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DD:: Retorno: Briefing - ANA.LUISA",
-      "data": "2026-08-19",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
