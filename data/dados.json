@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T00:00:55.928Z",
+  "atualizadoEm": "2026-08-21T00:15:47.349Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 64,
-    "totalAtrasadasAnterior": 66,
+    "totalAtrasadas": 75,
+    "totalAtrasadasAnterior": 64,
     "totalSemana": 56
   },
   "pessoas": [
@@ -130,10 +130,15 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 2,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 8,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Reunião_Fundo: LARISSA ROCHA",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DD:: Contato Regularização - IZABELLA.RINIERI",
@@ -178,8 +183,8 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 10,
+      "atrasadas": 14,
+      "atrasadasAnterior": 8,
       "semanaTotal": 28,
       "tarefasAtrasadas": [
         {
@@ -213,6 +218,30 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 5
+        },
+        {
+          "nome": "DD:: Alterações - ANA.JULIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -368,8 +397,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 2,
+      "atrasadas": 5,
+      "atrasadasAnterior": 4,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
@@ -386,6 +415,10 @@
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 0
         }
       ],
@@ -404,8 +437,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 10,
+      "atrasadas": 13,
+      "atrasadasAnterior": 11,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -451,6 +484,14 @@
         {
           "nome": "Integrante: Sessão de Fotos",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -508,8 +549,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 27,
+      "atrasadas": 29,
+      "atrasadasAnterior": 28,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -623,6 +664,10 @@
         {
           "nome": "Confirmar Data Colação",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -718,8 +763,8 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 6,
+      "atrasadas": 8,
+      "atrasadasAnterior": 5,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -741,6 +786,18 @@
         {
           "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 5
+        },
+        {
+          "nome": "DD:: Alterações - ANA.JULIA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -801,8 +858,8 @@
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 34,
+      "atrasadas": 35,
+      "atrasadasAnterior": 32,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -926,11 +983,23 @@
           "diasAtraso": 3
         },
         {
+          "nome": "Reunião_Fundo: LARISSA ROCHA",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
           "diasAtraso": 0
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 0
         }
       ],
@@ -991,8 +1060,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 13,
+      "atrasadas": 16,
+      "atrasadasAnterior": 14,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -1050,6 +1119,14 @@
         {
           "nome": "Integrante: Sessão de Fotos",
           "diasAtraso": 1
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Integrante: Sessão de Fotos",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1806,6 +1883,121 @@
     {
       "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
       "data": "2026-08-20",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Alterações - ANA.JULIA",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Integrante: Sessão de Fotos",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Integrante: Sessão de Fotos",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Reunião_Fundo: LARISSA ROCHA",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
+      "data": "2026-08-21",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": []
+    },
+    {
+      "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
+      "data": "2026-08-21",
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
