@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T17:30:48.447Z",
+  "atualizadoEm": "2026-08-21T17:45:49.652Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 66,
-    "totalAtrasadasAnterior": 68,
-    "totalSemana": 59
+    "totalAtrasadas": 65,
+    "totalAtrasadasAnterior": 66,
+    "totalSemana": 58
   },
   "pessoas": [
     {
@@ -183,9 +183,9 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 27,
+      "atrasadas": 13,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 26,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -221,10 +221,6 @@
         },
         {
           "nome": "DD:: Alterações - ANA.JULIA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
           "diasAtraso": 0
         },
         {
@@ -335,10 +331,6 @@
         },
         {
           "nome": "Arte Flamulas",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-21"
         },
         {
@@ -741,7 +733,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 5,
-      "semanaTotal": 12,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
@@ -811,10 +803,6 @@
         },
         {
           "nome": "Arte Flamulas",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-21"
         },
         {
@@ -1791,15 +1779,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
