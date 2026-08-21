@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T14:00:53.902Z",
+  "atualizadoEm": "2026-08-21T14:15:45.697Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 68,
-    "totalAtrasadasAnterior": 71,
+    "totalAtrasadas": 66,
+    "totalAtrasadasAnterior": 68,
     "totalSemana": 58
   },
   "pessoas": [
@@ -417,18 +417,10 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 13,
+      "atrasadas": 8,
+      "atrasadasAnterior": 10,
       "semanaTotal": 14,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 101
-        },
-        {
-          "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 98
-        },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 87
@@ -1024,21 +1016,13 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 16,
+      "atrasadas": 11,
+      "atrasadasAnterior": 13,
       "semanaTotal": 16,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
           "diasAtraso": 143
-        },
-        {
-          "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-          "diasAtraso": 101
-        },
-        {
-          "nome": "DR:: Meio Dentista - MARIA.CLARA",
-          "diasAtraso": 98
         },
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -1187,28 +1171,6 @@
       "diasAtraso": 143,
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Sessão de Fotos Meio Médico - CÉLIA.MARIA",
-      "data": "2026-05-12",
-      "diasAtraso": 101,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Meio Dentista - MARIA.CLARA",
-      "data": "2026-05-15",
-      "diasAtraso": 98,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
       ],
       "setores": [
         "Produção"
