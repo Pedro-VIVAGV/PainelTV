@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T17:45:49.652Z",
+  "atualizadoEm": "2026-08-21T18:00:52.886Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,9 +19,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 65,
-    "totalAtrasadasAnterior": 66,
-    "totalSemana": 58
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 65,
+    "totalSemana": 46
   },
   "pessoas": [
     {
@@ -183,61 +183,13 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 14,
-      "semanaTotal": 26,
+      "atrasadas": 1,
+      "atrasadasAnterior": 13,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
-        {
-          "nome": "Tirante VIVA",
-          "diasAtraso": 21
-        },
-        {
-          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Arte Roleta VIVA",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Arte Flamulas",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 6
-        },
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "diasAtraso": 6
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DD:: Alterações - ANA.JULIA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -290,60 +242,12 @@
           "data": "2026-08-19"
         },
         {
-          "nome": "BEATRIZ.AUTA_UNIVALE_MED.VET Mascote Personalizado",
+          "nome": "2 Mascotes + 2 Trios + Produtos ::: DIREITO UNIVALE 2030.2",
           "data": "2026-08-20"
         },
         {
           "nome": "Designer-PRODUTOS_Fundo: MARCELA_UFJF-GV_MED_2032-1",
           "data": "2026-08-20"
-        },
-        {
-          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Tirante VIVA",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Criar ou atualizar arte de cardápio para bar de drinks",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "AMANDA.REIS_UNIVALE Mascote Personalizado",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Arte Roleta VIVA",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "Realizar arte de Banner BackDrop para o evento Meio Dentista",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "data": "2026-08-21"
         }
       ]
     },
@@ -731,43 +635,10 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 5,
-      "semanaTotal": 11,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "Arte Flamulas",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DD:: Alterações - ANA.JULIA",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
-          "diasAtraso": 0
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 6,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Demanda Mkt-Story-Aniversário - PAULA.LIS",
@@ -792,26 +663,6 @@
         {
           "nome": "DD:: Alteração: Brasão - GABRIEL.MARQUES",
           "data": "2026-08-19"
-        },
-        {
-          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-          "data": "2026-08-20"
-        },
-        {
-          "nome": "Arte Flamulas",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DR:: Kit Formando - EULLER.KAIRO",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DD: Brasão Fono - HELOISA.MARIM",
-          "data": "2026-08-21"
         }
       ]
     },
@@ -1283,15 +1134,6 @@
       ]
     },
     {
-      "nome": "Tirante VIVA",
-      "data": "2026-07-31",
-      "diasAtraso": 21,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
       "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
       "data": "2026-07-31",
       "diasAtraso": 21,
@@ -1622,59 +1464,6 @@
       ]
     },
     {
-      "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "Arte Roleta VIVA",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Arte Flamulas",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
       "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
       "data": "2026-08-15",
       "diasAtraso": 6,
@@ -1682,17 +1471,6 @@
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DD: Brasão Fono - HELOISA.MARIM",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
@@ -1759,17 +1537,6 @@
       "setores": []
     },
     {
-      "nome": "DD:: Alterações - ANA.JULIA",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
       "nome": "Reunião_Fundo: LARISSA ROCHA",
       "data": "2026-08-21",
       "diasAtraso": 0,
@@ -1778,28 +1545,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
-      ]
-    },
-    {
-      "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Marketing"
       ]
     },
     {
@@ -1812,24 +1557,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "Criar arte de Save the Date e Cartaz Trio Feed para o evento Meio Dentista",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
-    },
-    {
-      "nome": "Realizar arte de cartaz e logo para o evento Meio Dentista",
-      "data": "2026-08-21",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
