@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T12:15:43.675Z",
+  "atualizadoEm": "2026-08-21T12:30:46.212Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -21,7 +21,7 @@
     },
     "totalAtrasadas": 75,
     "totalAtrasadasAnterior": 64,
-    "totalSemana": 56
+    "totalSemana": 55
   },
   "pessoas": [
     {
@@ -185,7 +185,7 @@
       ],
       "atrasadas": 14,
       "atrasadasAnterior": 8,
-      "semanaTotal": 28,
+      "semanaTotal": 27,
       "tarefasAtrasadas": [
         {
           "nome": "Tirante VIVA",
@@ -339,10 +339,6 @@
         },
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
-          "data": "2026-08-21"
-        },
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-08-21"
         },
         {
