@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T18:00:52.886Z",
+  "atualizadoEm": "2026-08-21T18:15:49.825Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 65,
+    "totalAtrasadas": 52,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 46
   },
   "pessoas": [
@@ -183,15 +183,10 @@
         "Cotação",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 13,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 14,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-          "diasAtraso": 6
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "ATT Crachá MARCELA_UFJF-GV_MED_2032-1",
@@ -1462,15 +1457,6 @@
       "setores": [
         "Planejamento"
       ]
-    },
-    {
-      "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
-      "data": "2026-08-15",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
