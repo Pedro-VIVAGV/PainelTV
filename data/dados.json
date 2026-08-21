@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T12:30:46.212Z",
+  "atualizadoEm": "2026-08-21T12:45:51.860Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 75,
-    "totalAtrasadasAnterior": 64,
+    "totalAtrasadas": 71,
+    "totalAtrasadasAnterior": 75,
     "totalSemana": 55
   },
   "pessoas": [
@@ -393,26 +393,10 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 4,
+      "atrasadas": 1,
+      "atrasadasAnterior": 5,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "diasAtraso": 1
-        },
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 0
@@ -854,8 +838,8 @@
         "Rodrigo :: VIVA Eventos",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 35,
-      "atrasadasAnterior": 32,
+      "atrasadas": 31,
+      "atrasadasAnterior": 35,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -869,14 +853,6 @@
         {
           "nome": "Confirmar Evento: 365 Dias",
           "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-          "diasAtraso": 9
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-          "diasAtraso": 9
         },
         {
           "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
@@ -977,14 +953,6 @@
         {
           "nome": "Confirmar Data Colação",
           "diasAtraso": 4
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-          "diasAtraso": 1
-        },
-        {
-          "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-          "diasAtraso": 1
         },
         {
           "nome": "Reunião_Fundo: LARISSA ROCHA",
@@ -1421,28 +1389,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: Meio de Curso - ANA.CLARA",
-      "data": "2026-08-12",
-      "diasAtraso": 9,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - ANA.CLARA",
-      "data": "2026-08-12",
-      "diasAtraso": 9,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
       "data": "2026-08-12",
       "diasAtraso": 9,
@@ -1864,28 +1810,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - PAULA.LIS",
-      "data": "2026-08-20",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ata Resumo: Reunião - BEATRIZ.AUTA",
-      "data": "2026-08-20",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "DD:: Alterações - ANA.JULIA",
