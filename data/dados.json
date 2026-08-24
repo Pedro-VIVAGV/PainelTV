@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T10:15:50.047Z",
+  "atualizadoEm": "2026-08-24T10:30:52.806Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 55,
-    "totalSemana": 18
+    "totalAtrasadas": 33,
+    "totalAtrasadasAnterior": 53,
+    "totalSemana": 20
   },
   "pessoas": [
     {
@@ -316,9 +316,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 28,
-      "atrasadasAnterior": 30,
-      "semanaTotal": 1,
+      "atrasadas": 8,
+      "atrasadasAnterior": 28,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -333,15 +333,7 @@
           "diasAtraso": 13
         },
         {
-          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Conferir Lançamentos: Igor e Tay",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
           "diasAtraso": 12
         },
         {
@@ -353,87 +345,23 @@
           "diasAtraso": 12
         },
         {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 12
         },
         {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Primeira Reunião",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Atualização Contrato: TRIUNFO",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Data Colação",
-          "diasAtraso": 7
-        },
-        {
-          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
+          "data": "2026-08-24"
+        },
+        {
+          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
+          "data": "2026-08-24"
+        },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-25"
@@ -559,9 +487,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 32,
-      "atrasadasAnterior": 34,
-      "semanaTotal": 8,
+      "atrasadas": 12,
+      "atrasadasAnterior": 32,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -576,15 +504,7 @@
           "diasAtraso": 13
         },
         {
-          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Conferir Lançamentos: Igor e Tay",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
           "diasAtraso": 12
         },
         {
@@ -596,80 +516,12 @@
           "diasAtraso": 12
         },
         {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Confirmar Data - Colação Festiva",
           "diasAtraso": 12
         },
         {
-          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-          "diasAtraso": 12
-        },
-        {
           "nome": "Primeira Reunião",
           "diasAtraso": 12
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Atualização Contrato: TRIUNFO",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Data - Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirma Data S. Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Sessão de Fotos",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião - Atualização Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Agendar Reunião - Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "Confirmar Data Colação",
-          "diasAtraso": 7
         },
         {
           "nome": "Reunião_Fundo: LARISSA ROCHA",
@@ -684,15 +536,19 @@
           "diasAtraso": 0
         },
         {
-          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
-          "diasAtraso": 0
-        },
-        {
           "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
           "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
+          "data": "2026-08-24"
+        },
+        {
+          "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
+          "data": "2026-08-24"
+        },
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
           "data": "2026-08-25"
@@ -1013,29 +869,7 @@
       ]
     },
     {
-      "nome": "DP: Divulgação de Nova Parceria VIVA - MEDGRUPO",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Conferir Lançamentos: Igor e Tay",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
       "data": "2026-08-12",
       "diasAtraso": 12,
       "pessoas": [
@@ -1068,17 +902,6 @@
       ]
     },
     {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Confirmar Data - Colação Festiva",
       "data": "2026-08-12",
       "diasAtraso": 12,
@@ -1090,42 +913,9 @@
       ]
     },
     {
-      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Primeira Reunião",
       "data": "2026-08-12",
       "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Atualização Contrato: TRIUNFO",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
       ],
@@ -1142,138 +932,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data - Sessão de Fotos",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Sessão de Fotos",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirma Data S. Fotos",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Sessão de Fotos",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião - Atualização Meio Médico",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Agendar Reunião - Meio Médico",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Evento: Choppada Convites Extras - INGRYD.DINIZ",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
-      "data": "2026-08-14",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1307,17 +965,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "Confirmar Data Colação",
-      "data": "2026-08-17",
-      "diasAtraso": 7,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
@@ -1368,17 +1015,6 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
-      "data": "2026-08-24",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
