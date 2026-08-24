@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T21:45:46.412Z",
+  "atualizadoEm": "2026-08-24T22:00:55.205Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 26,
-    "totalAtrasadasAnterior": 27,
-    "totalSemana": 22
+    "totalAtrasadas": 25,
+    "totalAtrasadasAnterior": 26,
+    "totalSemana": 23
   },
   "pessoas": [
     {
@@ -260,9 +260,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 10,
-      "semanaTotal": 2,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -274,10 +274,6 @@
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "diasAtraso": 33
         },
         {
@@ -300,6 +296,10 @@
       "tarefasSemana": [
         {
           "nome": "Contratações MIRIAM.SOLEDAD",
+          "data": "2026-08-24"
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "data": "2026-08-24"
         },
         {
@@ -545,9 +545,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 2,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -567,10 +567,6 @@
         },
         {
           "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-          "diasAtraso": 33
-        },
-        {
-          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "diasAtraso": 33
         },
         {
@@ -597,6 +593,10 @@
       "tarefasSemana": [
         {
           "nome": "Contratações MIRIAM.SOLEDAD",
+          "data": "2026-08-24"
+        },
+        {
+          "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "data": "2026-08-24"
         },
         {
@@ -698,17 +698,6 @@
     },
     {
       "nome": "DR:: Roteiro: Colação de Grau - ISABELLA.DOURADO",
-      "data": "2026-07-22",
-      "diasAtraso": 33,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
       "data": "2026-07-22",
       "diasAtraso": 33,
       "pessoas": [
