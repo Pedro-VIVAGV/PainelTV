@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T10:00:50.663Z",
+  "atualizadoEm": "2026-08-24T10:15:50.047Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 55,
-    "totalAtrasadasAnterior": 52,
-    "totalSemana": 17
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 55,
+    "totalSemana": 18
   },
   "pessoas": [
     {
@@ -316,9 +316,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 29,
-      "semanaTotal": 0,
+      "atrasadas": 28,
+      "atrasadasAnterior": 30,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -358,10 +358,6 @@
         },
         {
           "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
           "diasAtraso": 12
         },
         {
@@ -433,15 +429,16 @@
           "diasAtraso": 7
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 3
-        },
-        {
           "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "data": "2026-08-25"
+        }
+      ]
     }
   ],
   "setores": [
@@ -562,9 +559,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 34,
-      "atrasadasAnterior": 31,
-      "semanaTotal": 7,
+      "atrasadas": 32,
+      "atrasadasAnterior": 34,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -604,10 +601,6 @@
         },
         {
           "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Agendar S. Fotos e Confirmar Colação",
           "diasAtraso": 12
         },
         {
@@ -683,10 +676,6 @@
           "diasAtraso": 3
         },
         {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 3
-        },
-        {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 3
         },
@@ -706,6 +695,10 @@
       "tarefasSemana": [
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-25"
         },
         {
@@ -1097,17 +1090,6 @@
       ]
     },
     {
-      "nome": "Agendar S. Fotos e Confirmar Colação",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "Agendar Sessão de Fotos - Confirmar Colação",
       "data": "2026-08-12",
       "diasAtraso": 12,
@@ -1364,17 +1346,6 @@
       "diasAtraso": 3,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-08-21",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
