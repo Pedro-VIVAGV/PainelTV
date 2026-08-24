@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T12:30:52.517Z",
+  "atualizadoEm": "2026-08-24T12:45:54.930Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 26,
     "totalAtrasadasAnterior": 27,
-    "totalSemana": 21
+    "totalSemana": 22
   },
   "pessoas": [
     {
@@ -262,7 +262,7 @@
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 10,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -298,6 +298,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contratações MIRIAM.SOLEDAD",
+          "data": "2026-08-24"
+        },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
           "data": "2026-08-27"
@@ -543,7 +547,7 @@
       ],
       "atrasadas": 11,
       "atrasadasAnterior": 13,
-      "semanaTotal": 1,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -591,6 +595,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "Contratações MIRIAM.SOLEDAD",
+          "data": "2026-08-24"
+        },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
           "data": "2026-08-27"
