@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T00:01:00.449Z",
+  "atualizadoEm": "2026-08-24T00:15:40.781Z",
   "semana": {
     "inicio": "2026-08-17",
     "fim": "2026-08-23"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 52,
-    "totalAtrasadasAnterior": 53,
+    "totalAtrasadas": 55,
+    "totalAtrasadasAnterior": 52,
     "totalSemana": 46
   },
   "pessoas": [
@@ -130,13 +130,17 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "Reunião_Fundo: LARISSA ROCHA",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -284,13 +288,17 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 5,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -416,8 +424,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 28,
+      "atrasadas": 30,
+      "atrasadasAnterior": 29,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -535,6 +543,10 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -668,8 +680,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 31,
-      "atrasadasAnterior": 35,
+      "atrasadas": 34,
+      "atrasadasAnterior": 31,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -795,6 +807,18 @@
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 2
+        },
+        {
+          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1548,6 +1572,39 @@
       "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
       "data": "2026-08-21",
       "diasAtraso": 2,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+      "data": "2026-08-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
+      "data": "2026-08-24",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+      "data": "2026-08-24",
+      "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
