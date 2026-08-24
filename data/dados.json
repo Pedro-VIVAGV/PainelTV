@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T10:30:52.806Z",
+  "atualizadoEm": "2026-08-24T10:45:57.040Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 33,
-    "totalAtrasadasAnterior": 53,
-    "totalSemana": 20
+    "totalAtrasadas": 27,
+    "totalAtrasadasAnterior": 33,
+    "totalSemana": 21
   },
   "pessoas": [
     {
@@ -316,9 +316,9 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 28,
-      "semanaTotal": 3,
+      "atrasadas": 2,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -327,33 +327,13 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 348
-        },
-        {
-          "nome": "Confirmar Evento: 365 Dias",
-          "diasAtraso": 13
-        },
-        {
-          "nome": "Conferir Lançamentos: Igor e Tay",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 12
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Atualizações Próx Reunião: Prestação de Contas - MILENA-PEDRO",
+          "data": "2026-08-24"
+        },
         {
           "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
           "data": "2026-08-24"
@@ -487,9 +467,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 32,
-      "semanaTotal": 10,
+      "atrasadas": 6,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -498,30 +478,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 348
-        },
-        {
-          "nome": "Confirmar Evento: 365 Dias",
-          "diasAtraso": 13
-        },
-        {
-          "nome": "Conferir Lançamentos: Igor e Tay",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Confirmar Data Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Confirmar Data - Colação Festiva",
-          "diasAtraso": 12
-        },
-        {
-          "nome": "Primeira Reunião",
-          "diasAtraso": 12
         },
         {
           "nome": "Reunião_Fundo: LARISSA ROCHA",
@@ -541,6 +497,10 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Atualizações Próx Reunião: Prestação de Contas - MILENA-PEDRO",
+          "data": "2026-08-24"
+        },
         {
           "nome": "DR:: Possibilidade de Junção - CLARA.VASCONCELOS",
           "data": "2026-08-24"
@@ -847,17 +807,6 @@
       ]
     },
     {
-      "nome": "Confirmar Evento: 365 Dias",
-      "data": "2026-08-11",
-      "diasAtraso": 13,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
       "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
       "data": "2026-08-12",
       "diasAtraso": 12,
@@ -866,61 +815,6 @@
       ],
       "setores": [
         "Cotação"
-      ]
-    },
-    {
-      "nome": "Conferir Lançamentos: Igor e Tay",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data Colação Festiva",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Confirmar Data - Colação Festiva",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "Primeira Reunião",
-      "data": "2026-08-12",
-      "diasAtraso": 12,
-      "pessoas": [
-        "Rodrigo :: VIVA Eventos"
-      ],
-      "setores": [
-        "Planejamento"
       ]
     },
     {
