@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T13:15:57.783Z",
+  "atualizadoEm": "2026-08-25T13:30:52.511Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 25,
-    "totalAtrasadasAnterior": 26,
-    "totalSemana": 24
+    "totalAtrasadas": 26,
+    "totalAtrasadasAnterior": 25,
+    "totalSemana": 25
   },
   "pessoas": [
     {
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 13,
-      "atrasadasAnterior": 15,
+      "atrasadas": 14,
+      "atrasadasAnterior": 13,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -101,6 +101,10 @@
         {
           "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
           "diasAtraso": 6
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -113,7 +117,7 @@
       ],
       "atrasadas": 1,
       "atrasadasAnterior": 2,
-      "semanaTotal": 2,
+      "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
@@ -126,6 +130,10 @@
           "data": "2026-08-25"
         },
         {
+          "nome": "DR:: Alteração: Vencimento - ANTONIO.JUNIOR",
+          "data": "2026-08-27"
+        },
+        {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
           "data": "2026-08-27"
         }
@@ -134,16 +142,21 @@
     {
       "nome": "Lyncoln :: Marketing - VIVA GV",
       "setores": [
+        "Cotação",
         "Marketing",
         "Planejamento",
         "Produção",
-        "Cotação",
         "Comercial"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 9,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
@@ -375,10 +388,11 @@
     {
       "nome": "Cotação",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV"
+        "Janine :: Cotação - VIVA GV",
+        "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 11,
+      "atrasadas": 10,
+      "atrasadasAnterior": 9,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -416,6 +430,10 @@
         {
           "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
           "diasAtraso": 6
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": []
@@ -467,13 +485,13 @@
     {
       "nome": "Planejamento",
       "pessoas": [
-        "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV",
-        "Rodrigo :: VIVA Eventos"
+        "Rodrigo :: VIVA Eventos",
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "atrasadas": 5,
       "atrasadasAnterior": 6,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -516,6 +534,10 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Alteração: Vencimento - ANTONIO.JUNIOR",
+          "data": "2026-08-27"
         },
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
@@ -898,6 +920,18 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+      "data": "2026-08-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV",
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
       ]
     },
     {
