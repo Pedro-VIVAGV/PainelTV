@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T13:30:52.511Z",
+  "atualizadoEm": "2026-08-25T13:45:49.443Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 26,
-    "totalAtrasadasAnterior": 25,
-    "totalSemana": 25
+    "totalAtrasadas": 24,
+    "totalAtrasadasAnterior": 26,
+    "totalSemana": 26
   },
   "pessoas": [
     {
@@ -46,9 +46,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 14,
-      "atrasadasAnterior": 13,
-      "semanaTotal": 0,
+      "atrasadas": 12,
+      "atrasadasAnterior": 14,
+      "semanaTotal": 1,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -95,19 +95,16 @@
           "diasAtraso": 8
         },
         {
-          "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
-          "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-          "diasAtraso": 6
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-25"
+        }
+      ]
     },
     {
       "nome": "Locatelli:: Atendimento - VIVA GV",
@@ -391,8 +388,8 @@
         "Janine :: Cotação - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 9,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 0,
       "tarefasAtrasadas": [
         {
@@ -426,10 +423,6 @@
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 8
-        },
-        {
-          "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
-          "diasAtraso": 6
         },
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
@@ -577,7 +570,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -628,6 +621,10 @@
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "data": "2026-08-24"
+        },
+        {
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-25"
         },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
@@ -879,26 +876,6 @@
       "setores": [
         "Cotação"
       ]
-    },
-    {
-      "nome": "DR:: Impressão: Banner -GABRYELLE.SOARES",
-      "data": "2026-08-19",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Impressão: Banner -VYCTHÓRIA.ARAUJO",
-      "data": "2026-08-19",
-      "diasAtraso": 6,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": []
     },
     {
       "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
