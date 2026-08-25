@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T12:45:49.187Z",
+  "atualizadoEm": "2026-08-25T13:01:00.002Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 26,
-    "totalAtrasadasAnterior": 25,
-    "totalSemana": 23
+    "totalAtrasadas": 25,
+    "totalAtrasadasAnterior": 26,
+    "totalSemana": 24
   },
   "pessoas": [
     {
@@ -111,14 +111,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
-      "semanaTotal": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 2,
+      "semanaTotal": 2,
       "tarefasAtrasadas": [
-        {
-          "nome": "Reunião_Fundo: LARISSA ROCHA",
-          "diasAtraso": 4
-        },
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
           "diasAtraso": 1
@@ -128,6 +124,10 @@
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
           "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "data": "2026-08-27"
         }
       ]
     },
@@ -471,9 +471,9 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 5,
-      "semanaTotal": 11,
+      "atrasadas": 5,
+      "atrasadasAnterior": 6,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Enc. CNPJ´s",
@@ -482,10 +482,6 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 349
-        },
-        {
-          "nome": "Reunião_Fundo: LARISSA ROCHA",
-          "diasAtraso": 4
         },
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
@@ -520,6 +516,10 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "data": "2026-08-27"
         },
         {
           "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
@@ -877,17 +877,6 @@
         "Janine :: Cotação - VIVA GV"
       ],
       "setores": []
-    },
-    {
-      "nome": "Reunião_Fundo: LARISSA ROCHA",
-      "data": "2026-08-21",
-      "diasAtraso": 4,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
     },
     {
       "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
