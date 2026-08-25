@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T17:45:42.145Z",
+  "atualizadoEm": "2026-08-25T18:00:52.891Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 11,
-      "atrasadasAnterior": 12,
+      "atrasadas": 10,
+      "atrasadasAnterior": 11,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
@@ -89,10 +89,6 @@
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 8
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -114,7 +110,7 @@
         },
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
-          "data": "2026-08-25"
+          "data": "2026-08-28"
         }
       ]
     },
@@ -397,8 +393,8 @@
     {
       "nome": "Cotação",
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
-        "Lyncoln :: Marketing - VIVA GV"
+        "Lyncoln :: Marketing - VIVA GV",
+        "Janine :: Cotação - VIVA GV"
       ],
       "atrasadas": 8,
       "atrasadasAnterior": 9,
@@ -648,12 +644,12 @@
           "data": "2026-08-24"
         },
         {
-          "nome": "Marcar reunião com o Padre da P. de Lourdes",
-          "data": "2026-08-25"
-        },
-        {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
           "data": "2026-08-27"
+        },
+        {
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
+          "data": "2026-08-28"
         }
       ]
     }
@@ -918,7 +914,6 @@
       "data": "2026-08-25",
       "diasAtraso": 0,
       "pessoas": [
-        "Janine :: Cotação - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
       "setores": [
