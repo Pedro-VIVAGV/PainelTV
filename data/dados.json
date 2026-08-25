@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T14:45:50.742Z",
+  "atualizadoEm": "2026-08-25T15:00:58.488Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 24,
-    "totalAtrasadasAnterior": 26,
-    "totalSemana": 26
+    "totalAtrasadas": 23,
+    "totalAtrasadasAnterior": 24,
+    "totalSemana": 30
   },
   "pessoas": [
     {
@@ -46,9 +46,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 14,
-      "semanaTotal": 1,
+      "atrasadas": 11,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -57,10 +57,6 @@
         {
           "nome": "Organizar a VIVA",
           "diasAtraso": 46
-        },
-        {
-          "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 33
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -100,6 +96,22 @@
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "data": "2026-08-25"
+        },
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-25"
@@ -388,14 +400,10 @@
         "Janine :: Cotação - VIVA GV",
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
-      "semanaTotal": 0,
+      "atrasadas": 8,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Me Interna - PEDRO.PERELO",
-          "diasAtraso": 33
-        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 25
@@ -429,7 +437,24 @@
           "diasAtraso": 0
         }
       ],
-      "tarefasSemana": []
+      "tarefasSemana": [
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "data": "2026-08-25"
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "data": "2026-08-25"
+        }
+      ]
     },
     {
       "nome": "Marketing",
@@ -754,17 +779,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Me Interna - PEDRO.PERELO",
-      "data": "2026-07-23",
-      "diasAtraso": 33,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
