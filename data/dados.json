@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T00:01:03.330Z",
+  "atualizadoEm": "2026-08-25T00:15:48.253Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 25,
-    "totalAtrasadasAnterior": 26,
+    "totalAtrasadas": 26,
+    "totalAtrasadasAnterior": 25,
     "totalSemana": 23
   },
   "pessoas": [
@@ -316,8 +316,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 8,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -327,6 +327,10 @@
         {
           "nome": "Particular: Retorno Vinicius (Pai)",
           "diasAtraso": 348
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -467,8 +471,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Rodrigo :: VIVA Eventos"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 6,
+      "atrasadas": 6,
+      "atrasadasAnterior": 5,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -489,6 +493,10 @@
         },
         {
           "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 0
         }
       ],
@@ -898,6 +906,17 @@
       "diasAtraso": 0,
       "pessoas": [
         "Locatelli:: Atendimento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-08-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
       ],
       "setores": [
         "Planejamento"
