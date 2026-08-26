@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T14:01:04.640Z",
+  "atualizadoEm": "2026-08-26T14:15:51.624Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 49,
     "totalAtrasadasAnterior": 50,
-    "totalSemana": 33
+    "totalSemana": 34
   },
   "pessoas": [
     {
@@ -155,7 +155,7 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 1,
-      "semanaTotal": 12,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
@@ -171,15 +171,15 @@
           "data": "2026-08-25"
         },
         {
+          "nome": "Alteração Camisa StreetWear ::: EU_UNESUL_MED_2029-2_JOSE.NETO",
+          "data": "2026-08-26"
+        },
+        {
           "nome": "Adesivo Cooler ::: MARIANA.SANTOS_FAMMUC_MED_2031-2",
           "data": "2026-08-26"
         },
         {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-26"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-26"
         },
         {
@@ -191,11 +191,15 @@
           "data": "2026-08-27"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-27"
         },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-28"
         },
         {
@@ -577,11 +581,7 @@
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
-          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-26"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-26"
         },
         {
@@ -593,11 +593,15 @@
           "data": "2026-08-27"
         },
         {
-          "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
+          "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-27"
         },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-28"
         },
         {
