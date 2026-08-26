@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T16:53:14.704Z",
+  "atualizadoEm": "2026-08-26T17:17:29.702Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 49,
     "totalAtrasadasAnterior": 50,
-    "totalSemana": 36
+    "totalSemana": 38
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 7,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -109,11 +109,19 @@
           "data": "2026-08-25"
         },
         {
+          "nome": "DR:: Personalizados: Meio Médico - CELIA.MARIA",
+          "data": "2026-08-26"
+        },
+        {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
           "data": "2026-08-26"
         },
         {
           "nome": "DR:: Orçamento: Atrações - MILENA-PEDRO",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "DR::Missa: Participantes - MILENA-PEDRO",
           "data": "2026-08-26"
         },
         {
@@ -524,7 +532,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 8,
-      "semanaTotal": 7,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -577,11 +585,19 @@
           "data": "2026-08-25"
         },
         {
+          "nome": "DR:: Personalizados: Meio Médico - CELIA.MARIA",
+          "data": "2026-08-26"
+        },
+        {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
           "data": "2026-08-26"
         },
         {
           "nome": "DR:: Orçamento: Atrações - MILENA-PEDRO",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "DR::Missa: Participantes - MILENA-PEDRO",
           "data": "2026-08-26"
         }
       ]
