@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T20:30:47.666Z",
+  "atualizadoEm": "2026-08-26T20:45:49.384Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 49,
     "totalAtrasadasAnterior": 50,
-    "totalSemana": 38
+    "totalSemana": 39
   },
   "pessoas": [
     {
@@ -307,7 +307,7 @@
       ],
       "atrasadas": 12,
       "atrasadasAnterior": 7,
-      "semanaTotal": 3,
+      "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -366,6 +366,10 @@
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "data": "2026-08-24"
+        },
+        {
+          "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "data": "2026-08-26"
         },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
@@ -829,7 +833,7 @@
       ],
       "atrasadas": 15,
       "atrasadasAnterior": 10,
-      "semanaTotal": 4,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -900,6 +904,10 @@
         {
           "nome": "DR:: Buffet: Baile - RODRIGO.NUNES",
           "data": "2026-08-24"
+        },
+        {
+          "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "data": "2026-08-26"
         },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
