@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T21:00:59.668Z",
+  "atualizadoEm": "2026-08-26T21:15:42.746Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 46,
     "totalAtrasadasAnterior": 49,
-    "totalSemana": 41
+    "totalSemana": 43
   },
   "pessoas": [
     {
@@ -305,9 +305,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 12,
-      "semanaTotal": 6,
+      "atrasadas": 7,
+      "atrasadasAnterior": 9,
+      "semanaTotal": 8,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -336,14 +336,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 26
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -368,6 +360,14 @@
           "data": "2026-08-26"
         },
         {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "data": "2026-08-26"
+        },
+        {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
           "data": "2026-08-27"
         }
@@ -381,8 +381,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 25,
-      "atrasadasAnterior": 3,
+      "atrasadas": 27,
+      "atrasadasAnterior": 25,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -438,6 +438,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirma Data S. Fotos",
           "diasAtraso": 0
         },
@@ -471,6 +475,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -653,8 +661,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 27,
-      "atrasadasAnterior": 5,
+      "atrasadas": 29,
+      "atrasadasAnterior": 27,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -718,6 +726,10 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Confirma Data S. Fotos",
           "diasAtraso": 0
         },
@@ -751,6 +763,10 @@
         },
         {
           "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Meio Médico",
           "diasAtraso": 0
         },
         {
@@ -827,9 +843,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 15,
-      "semanaTotal": 7,
+      "atrasadas": 10,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -870,14 +886,6 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 21
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -895,6 +903,14 @@
         },
         {
           "nome": "Pgto Fornecedor - Banner Pré-Evento",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "data": "2026-08-26"
         },
         {
@@ -1179,28 +1195,6 @@
       ]
     },
     {
-      "nome": "Pgto Fornecedor - Banner LUMINOUS",
-      "data": "2026-08-26",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pgto Fornecedor - Banner LUMINOUS",
-      "data": "2026-08-26",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "Atualização Contrato: TRIUNFO",
       "data": "2026-08-26",
       "diasAtraso": 0,
@@ -1311,6 +1305,17 @@
       ]
     },
     {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
       "nome": "Confirma Data S. Fotos",
       "data": "2026-08-26",
       "diasAtraso": 0,
@@ -1400,6 +1405,17 @@
     },
     {
       "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Meio Médico",
       "data": "2026-08-26",
       "diasAtraso": 0,
       "pessoas": [
