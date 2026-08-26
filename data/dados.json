@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T21:15:42.746Z",
+  "atualizadoEm": "2026-08-26T21:30:53.551Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 46,
     "totalAtrasadasAnterior": 49,
-    "totalSemana": 43
+    "totalSemana": 44
   },
   "pessoas": [
     {
@@ -40,15 +40,15 @@
     {
       "nome": "Janine :: Cotação - VIVA GV",
       "setores": [
-        "Cotação",
         "Produção",
+        "Cotação",
         "Planejamento",
         "Marketing",
         "Atendimento"
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -123,6 +123,10 @@
         {
           "nome": "DR::Missa: Participantes - MILENA-PEDRO",
           "data": "2026-08-26"
+        },
+        {
+          "nome": "Comprar Energético: Baly",
+          "data": "2026-08-27"
         },
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
@@ -840,12 +844,12 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
-        "Janine :: Cotação - VIVA GV"
+        "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV"
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 12,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -916,6 +920,10 @@
         {
           "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "data": "2026-08-26"
+        },
+        {
+          "nome": "Comprar Energético: Baly",
+          "data": "2026-08-27"
         },
         {
           "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
