@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T15:01:07.652Z",
+  "atualizadoEm": "2026-08-26T15:17:01.949Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 49,
     "totalAtrasadasAnterior": 50,
-    "totalSemana": 35
+    "totalSemana": 36
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -110,6 +110,10 @@
         },
         {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "DR:: Orçamento: Atrações - MILENA-PEDRO",
           "data": "2026-08-26"
         },
         {
@@ -520,7 +524,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 8,
-      "semanaTotal": 6,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -574,6 +578,10 @@
         },
         {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "DR:: Orçamento: Atrações - MILENA-PEDRO",
           "data": "2026-08-26"
         }
       ]
