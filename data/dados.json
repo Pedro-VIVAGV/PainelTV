@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T20:45:49.384Z",
+  "atualizadoEm": "2026-08-26T21:00:59.668Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 49,
-    "totalAtrasadasAnterior": 50,
-    "totalSemana": 39
+    "totalAtrasadas": 46,
+    "totalAtrasadasAnterior": 49,
+    "totalSemana": 41
   },
   "pessoas": [
     {
@@ -305,9 +305,9 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 12,
-      "atrasadasAnterior": 7,
-      "semanaTotal": 4,
+      "atrasadas": 9,
+      "atrasadasAnterior": 12,
+      "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -338,18 +338,6 @@
           "diasAtraso": 26
         },
         {
-          "nome": "Pgto Fornecedor - Camisas Esportivas",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner Pré-Evento",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "diasAtraso": 0
         },
@@ -369,6 +357,14 @@
         },
         {
           "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner Pré-Evento",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "data": "2026-08-26"
         },
         {
@@ -831,9 +827,9 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 15,
-      "atrasadasAnterior": 10,
-      "semanaTotal": 5,
+      "atrasadas": 12,
+      "atrasadasAnterior": 15,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -876,18 +872,6 @@
           "diasAtraso": 21
         },
         {
-          "nome": "Pgto Fornecedor - Camisas Esportivas",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner Pré-Evento",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Pgto Fornecedor - Banner LUMINOUS",
-          "diasAtraso": 0
-        },
-        {
           "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "diasAtraso": 0
         },
@@ -907,6 +891,14 @@
         },
         {
           "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner Pré-Evento",
+          "data": "2026-08-26"
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
           "data": "2026-08-26"
         },
         {
@@ -1184,39 +1176,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "Pgto Fornecedor - Camisas Esportivas",
-      "data": "2026-08-26",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pgto Fornecedor - Banner Pré-Evento",
-      "data": "2026-08-26",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Pgto Fornecedor - Banner LUMINOUS",
-      "data": "2026-08-26",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
