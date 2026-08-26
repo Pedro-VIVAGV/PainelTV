@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T12:45:48.221Z",
+  "atualizadoEm": "2026-08-26T13:00:57.764Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 50,
-    "totalAtrasadasAnterior": 23,
-    "totalSemana": 30
+    "totalAtrasadas": 49,
+    "totalAtrasadasAnterior": 50,
+    "totalSemana": 33
   },
   "pessoas": [
     {
@@ -153,27 +153,26 @@
         "Produção",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
-      "semanaTotal": 9,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
-          "diasAtraso": 1
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
+      "semanaTotal": 12,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-08-24"
         },
         {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "nome": "Trio Feed Mascote ::: MARIA.VICTORIA ( MED X UFSB )",
           "data": "2026-08-25"
         },
         {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "data": "2026-08-25"
+        },
+        {
+          "nome": "Adesivo Cooler ::: MARIANA.SANTOS_FAMMUC_MED_2031-2",
+          "data": "2026-08-26"
         },
         {
           "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
@@ -188,11 +187,19 @@
           "data": "2026-08-27"
         },
         {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-27"
+        },
+        {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-27"
         },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-28"
         },
         {
@@ -501,12 +508,11 @@
     {
       "nome": "Cotação",
       "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 9,
-      "semanaTotal": 4,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
+      "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -535,13 +541,13 @@
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 9
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
-          "diasAtraso": 1
         }
       ],
       "tarefasSemana": [
+        {
+          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
+          "data": "2026-08-25"
+        },
         {
           "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
           "data": "2026-08-25"
@@ -571,14 +577,6 @@
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
-          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-25"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-25"
-        },
-        {
           "nome": "DR:: Demanda Mkt-Cardápio: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-26"
         },
@@ -591,11 +589,19 @@
           "data": "2026-08-27"
         },
         {
+          "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-27"
+        },
+        {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-27"
         },
         {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
           "data": "2026-08-28"
         },
         {
@@ -1123,17 +1129,6 @@
       ],
       "setores": [
         "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
-      "data": "2026-08-25",
-      "diasAtraso": 1,
-      "pessoas": [
-        "Lyncoln :: Marketing - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
