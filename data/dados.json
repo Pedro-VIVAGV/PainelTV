@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T00:01:10.953Z",
+  "atualizadoEm": "2026-08-26T00:15:53.388Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 23,
-    "totalAtrasadasAnterior": 24,
+    "totalAtrasadas": 50,
+    "totalAtrasadasAnterior": 23,
     "totalSemana": 30
   },
   "pessoas": [
@@ -278,8 +278,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
+      "atrasadas": 12,
+      "atrasadasAnterior": 7,
       "semanaTotal": 3,
       "tarefasAtrasadas": [
         {
@@ -309,6 +309,26 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 25
+        },
+        {
+          "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner Pré-Evento",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -334,8 +354,8 @@
         "Produção",
         "Diretoria"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 25,
+      "atrasadasAnterior": 3,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -347,7 +367,95 @@
           "diasAtraso": 349
         },
         {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -503,8 +611,8 @@
         "Rodrigo :: VIVA Eventos",
         "Matheus :: Planejamento - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 6,
+      "atrasadas": 27,
+      "atrasadasAnterior": 5,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -524,7 +632,95 @@
           "diasAtraso": 1
         },
         {
+          "nome": "Atualização Contrato: TRIUNFO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Conferir Lançamentos: Igor e Tay",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Evento: 365 Dias",
+          "diasAtraso": 0
+        },
+        {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data - Colação Festiva",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirma Data S. Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Confirmar Data Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar S. Fotos e Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Agendar Reunião - Atualização Meio Médico",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Primeira Reunião",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Evento: Sessão de Fotos Meio Médico",
           "diasAtraso": 0
         }
       ],
@@ -589,8 +785,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 15,
+      "atrasadasAnterior": 10,
       "semanaTotal": 4,
       "tarefasAtrasadas": [
         {
@@ -632,6 +828,26 @@
         {
           "nome": "Organizar caixotes",
           "diasAtraso": 20
+        },
+        {
+          "nome": "Pgto Fornecedor - Camisas Esportivas",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner Pré-Evento",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Pgto Fornecedor - Banner LUMINOUS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -923,6 +1139,303 @@
     {
       "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
       "data": "2026-08-25",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Pgto Fornecedor - Camisas Esportivas",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Fornecedor - Banner Pré-Evento",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Fornecedor - Banner LUMINOUS",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Fornecedor - Banner LUMINOUS",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Pgto Fornecedor - Banner LUMINOUS",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Atualização Contrato: TRIUNFO",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Conferir Lançamentos: Igor e Tay",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento e Junção - JOSE.NETO",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Replanejamento - RODRIGO.NUNES",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Evento: 365 Dias",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação Festiva",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Sessão de Fotos",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Sessão de Fotos",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data - Colação Festiva",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirma Data S. Fotos",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Confirmar Data Colação",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar S. Fotos e Confirmar Colação",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Sessão de Fotos - Confirmar Colação",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Agendar Reunião - Atualização Meio Médico",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Primeira Reunião",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento - 365 Dias :: BEATRIZ.BALDI",
+      "data": "2026-08-26",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Evento: Sessão de Fotos Meio Médico",
+      "data": "2026-08-26",
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
