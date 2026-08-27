@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T00:00:56.423Z",
+  "atualizadoEm": "2026-08-27T00:15:47.009Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 46,
-    "totalAtrasadasAnterior": 49,
+    "totalAtrasadas": 47,
+    "totalAtrasadasAnterior": 46,
     "totalSemana": 44
   },
   "pessoas": [
@@ -265,13 +265,17 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 5
+        },
+        {
+          "nome": "DC: Vídeo Mascote - MARCELA",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -665,8 +669,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 27,
+      "atrasadas": 30,
+      "atrasadasAnterior": 29,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -688,6 +692,10 @@
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DC: Vídeo Mascote - MARCELA",
+          "diasAtraso": 0
         },
         {
           "nome": "Atualização Contrato: TRIUNFO",
@@ -1461,6 +1469,17 @@
       "diasAtraso": 0,
       "pessoas": [
         "Rodrigo :: VIVA Eventos"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DC: Vídeo Mascote - MARCELA",
+      "data": "2026-08-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
