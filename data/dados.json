@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T16:15:48.203Z",
+  "atualizadoEm": "2026-08-27T16:31:08.020Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 42,
-    "totalAtrasadasAnterior": 44,
-    "totalSemana": 46
+    "totalAtrasadas": 41,
+    "totalAtrasadasAnterior": 42,
+    "totalSemana": 47
   },
   "pessoas": [
     {
@@ -46,9 +46,9 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
-      "semanaTotal": 11,
+      "atrasadas": 6,
+      "atrasadasAnterior": 7,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -72,10 +72,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "diasAtraso": 10
         }
       ],
@@ -118,6 +114,10 @@
         },
         {
           "nome": "DR:: Evento Meio de Curso: Local e Data - CLARA-YASMIN",
+          "data": "2026-08-27"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "data": "2026-08-27"
         },
         {
@@ -533,9 +533,9 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 4,
-      "atrasadasAnterior": 5,
-      "semanaTotal": 10,
+      "atrasadas": 3,
+      "atrasadasAnterior": 4,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -547,10 +547,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "diasAtraso": 10
         }
       ],
@@ -593,6 +589,10 @@
         },
         {
           "nome": "DR:: Evento Meio de Curso: Local e Data - CLARA-YASMIN",
+          "data": "2026-08-27"
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "data": "2026-08-27"
         }
       ]
@@ -1084,17 +1084,6 @@
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-      "data": "2026-08-17",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
       "data": "2026-08-17",
       "diasAtraso": 10,
       "pessoas": [
