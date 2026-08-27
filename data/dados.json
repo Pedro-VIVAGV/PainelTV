@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T17:00:54.476Z",
+  "atualizadoEm": "2026-08-27T17:15:46.678Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 41,
     "totalAtrasadasAnterior": 42,
-    "totalSemana": 50
+    "totalSemana": 49
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 6,
       "atrasadasAnterior": 7,
-      "semanaTotal": 15,
+      "semanaTotal": 14,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -119,10 +119,6 @@
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-27"
-        },
-        {
-          "nome": "reunião com o Padre",
-          "data": "2026-08-28"
         },
         {
           "nome": "Buscar Banner",
@@ -844,7 +840,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 10,
-      "semanaTotal": 13,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -923,10 +919,6 @@
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-27"
-        },
-        {
-          "nome": "reunião com o Padre",
-          "data": "2026-08-28"
         },
         {
           "nome": "Buscar Banner",
