@@ -2,8 +2,8 @@
   "atual": {
     "pessoas": {
       "Equipe: Comercial": 0,
-      "Janine :: Cotação - VIVA GV": 8,
-      "Locatelli:: Atendimento - VIVA GV": 1,
+      "Janine :: Cotação - VIVA GV": 7,
+      "Locatelli:: Atendimento - VIVA GV": 0,
       "Lyncoln :: Marketing - VIVA GV": 0,
       "Maria Clara :: Produção - VIVA GV": 0,
       "Maria Clara / Tay :: Luminous": 0,
@@ -14,18 +14,18 @@
     "setores": {
       "Atendimento": 0,
       "Comercial": 0,
-      "Cotação": 5,
+      "Cotação": 4,
       "Marketing": 0,
-      "Planejamento": 30,
+      "Planejamento": 29,
       "Produção": 9
     },
-    "total": 44
+    "total": 42
   },
   "anterior": {
     "pessoas": {
       "Equipe: Comercial": 1,
-      "Janine :: Cotação - VIVA GV": 10,
-      "Locatelli:: Atendimento - VIVA GV": 2,
+      "Janine :: Cotação - VIVA GV": 8,
+      "Locatelli:: Atendimento - VIVA GV": 1,
       "Lyncoln :: Marketing - VIVA GV": 1,
       "Maria Clara :: Produção - VIVA GV": 1,
       "Maria Clara / Tay :: Luminous": 1,
@@ -36,11 +36,11 @@
     "setores": {
       "Atendimento": 0,
       "Comercial": 1,
-      "Cotação": 7,
+      "Cotação": 5,
       "Marketing": 8,
-      "Planejamento": 29,
+      "Planejamento": 30,
       "Produção": 10
     },
-    "total": 47
+    "total": 44
   }
 }

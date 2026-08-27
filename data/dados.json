@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T16:01:04.206Z",
+  "atualizadoEm": "2026-08-27T16:15:48.203Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 44,
-    "totalAtrasadasAnterior": 47,
+    "totalAtrasadas": 42,
+    "totalAtrasadasAnterior": 44,
     "totalSemana": 46
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 10,
+      "atrasadas": 7,
+      "atrasadasAnterior": 8,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -61,10 +61,6 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
-          "diasAtraso": 24
         },
         {
           "nome": "Organizar caixotes",
@@ -136,15 +132,10 @@
         "Planejamento",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 2,
+      "atrasadas": 0,
+      "atrasadasAnterior": 1,
       "semanaTotal": 3,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
-          "diasAtraso": 3
-        }
-      ],
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DD:: Retorno: Briefing - ANA.LUISA",
@@ -542,17 +533,13 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 5,
-      "atrasadasAnterior": 7,
+      "atrasadas": 4,
+      "atrasadasAnterior": 5,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - JOSE.NETO",
-          "diasAtraso": 24
         },
         {
           "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
@@ -657,8 +644,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 30,
-      "atrasadasAnterior": 29,
+      "atrasadas": 29,
+      "atrasadasAnterior": 30,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -672,10 +659,6 @@
         {
           "nome": "UPGRADE - Fazer exemplo de PPT com Personagens da Comissão",
           "diasAtraso": 6
-        },
-        {
-          "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
-          "diasAtraso": 3
         },
         {
           "nome": "DR:: Ajuste do Projeto - KAMILLA.WERNECK",
@@ -1078,17 +1061,6 @@
       ]
     },
     {
-      "nome": "DR:: Camisa Personalizada - JOSE.NETO",
-      "data": "2026-08-03",
-      "diasAtraso": 24,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
       "nome": "Organizar caixotes",
       "data": "2026-08-05",
       "diasAtraso": 22,
@@ -1138,17 +1110,6 @@
       "diasAtraso": 6,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
-      ],
-      "setores": [
-        "Planejamento"
-      ]
-    },
-    {
-      "nome": "DR:: Primeiras Mensalidades - CLARA.VASCONCELOS",
-      "data": "2026-08-24",
-      "diasAtraso": 3,
-      "pessoas": [
-        "Locatelli:: Atendimento - VIVA GV"
       ],
       "setores": [
         "Planejamento"
