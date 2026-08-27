@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T14:00:55.821Z",
+  "atualizadoEm": "2026-08-27T14:15:48.530Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 47,
-    "totalAtrasadasAnterior": 46,
+    "totalAtrasadas": 44,
+    "totalAtrasadasAnterior": 47,
     "totalSemana": 46
   },
   "pessoas": [
@@ -46,8 +46,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 11,
+      "atrasadas": 8,
+      "atrasadasAnterior": 10,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -71,10 +71,6 @@
           "diasAtraso": 22
         },
         {
-          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
-          "diasAtraso": 15
-        },
-        {
           "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
           "diasAtraso": 13
         },
@@ -84,10 +80,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 10
         }
       ],
@@ -317,8 +309,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 9,
+      "atrasadas": 6,
+      "atrasadasAnterior": 7,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -335,10 +327,6 @@
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 36
-        },
-        {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 36
         },
         {
@@ -554,8 +542,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 8,
+      "atrasadas": 5,
+      "atrasadasAnterior": 7,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
@@ -567,10 +555,6 @@
           "diasAtraso": 24
         },
         {
-          "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
-          "diasAtraso": 15
-        },
-        {
           "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
           "diasAtraso": 13
         },
@@ -580,10 +564,6 @@
         },
         {
           "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
-          "diasAtraso": 10
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "diasAtraso": 10
         }
       ],
@@ -864,11 +844,11 @@
     {
       "nome": "Produção",
       "pessoas": [
-        "Pedro :: GRUPO VIVA - GV",
-        "Janine :: Cotação - VIVA GV"
+        "Janine :: Cotação - VIVA GV",
+        "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 10,
-      "atrasadasAnterior": 12,
+      "atrasadas": 9,
+      "atrasadasAnterior": 10,
       "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
@@ -893,10 +873,6 @@
         },
         {
           "nome": "DR:: Evento: Meio Médico - CAMILA.HERNECK",
-          "diasAtraso": 36
-        },
-        {
-          "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
           "diasAtraso": 36
         },
         {
@@ -1073,17 +1049,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: Habeas Lata - INGRYD.DINIZ",
-      "data": "2026-07-22",
-      "diasAtraso": 36,
-      "pessoas": [
-        "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
       "data": "2026-07-27",
       "diasAtraso": 31,
@@ -1139,17 +1104,6 @@
       ]
     },
     {
-      "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
-      "data": "2026-08-12",
-      "diasAtraso": 15,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
       "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
       "data": "2026-08-14",
       "diasAtraso": 13,
@@ -1173,17 +1127,6 @@
     },
     {
       "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
-      "data": "2026-08-17",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
       "data": "2026-08-17",
       "diasAtraso": 10,
       "pessoas": [
