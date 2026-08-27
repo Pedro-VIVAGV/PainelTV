@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T16:31:08.020Z",
+  "atualizadoEm": "2026-08-27T16:45:49.983Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 41,
     "totalAtrasadasAnterior": 42,
-    "totalSemana": 47
+    "totalSemana": 50
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 6,
       "atrasadasAnterior": 7,
-      "semanaTotal": 12,
+      "semanaTotal": 15,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -109,10 +109,6 @@
           "data": "2026-08-26"
         },
         {
-          "nome": "Comprar Energético: Baly",
-          "data": "2026-08-27"
-        },
-        {
           "nome": "DR:: Evento Meio de Curso: Local e Data - CLARA-YASMIN",
           "data": "2026-08-27"
         },
@@ -123,6 +119,22 @@
         {
           "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-27"
+        },
+        {
+          "nome": "reunião com o Padre",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "Buscar Banner",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "Comprar Energético: Baly",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-08-28"
         }
       ]
     },
@@ -535,7 +547,7 @@
       ],
       "atrasadas": 3,
       "atrasadasAnterior": 4,
-      "semanaTotal": 11,
+      "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -594,6 +606,10 @@
         {
           "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "data": "2026-08-27"
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "data": "2026-08-28"
         }
       ]
     },
@@ -828,7 +844,7 @@
       ],
       "atrasadas": 9,
       "atrasadasAnterior": 10,
-      "semanaTotal": 11,
+      "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -905,12 +921,20 @@
           "data": "2026-08-27"
         },
         {
-          "nome": "Comprar Energético: Baly",
+          "nome": "Marcar reunião com o Padre da P. de Lourdes",
           "data": "2026-08-27"
         },
         {
-          "nome": "Marcar reunião com o Padre da P. de Lourdes",
-          "data": "2026-08-27"
+          "nome": "reunião com o Padre",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "Buscar Banner",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "Comprar Energético: Baly",
+          "data": "2026-08-28"
         }
       ]
     }
