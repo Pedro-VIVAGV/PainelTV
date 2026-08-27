@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T13:30:56.568Z",
+  "atualizadoEm": "2026-08-27T13:45:50.107Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 47,
     "totalAtrasadasAnterior": 46,
-    "totalSemana": 45
+    "totalSemana": 46
   },
   "pessoas": [
     {
@@ -319,7 +319,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 9,
-      "semanaTotal": 8,
+      "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
@@ -380,7 +380,11 @@
           "data": "2026-08-26"
         },
         {
-          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "data": "2026-08-27"
+        },
+        {
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
           "data": "2026-08-27"
         }
       ]
@@ -865,7 +869,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 12,
-      "semanaTotal": 10,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -938,11 +942,15 @@
           "data": "2026-08-26"
         },
         {
-          "nome": "Comprar Energético: Baly",
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
           "data": "2026-08-27"
         },
         {
-          "nome": "Verificar com Janine sobre agendamento Missa_GABRYELLE-VITOR",
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "data": "2026-08-27"
+        },
+        {
+          "nome": "Comprar Energético: Baly",
           "data": "2026-08-27"
         },
         {
