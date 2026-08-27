@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T22:00:52.933Z",
+  "atualizadoEm": "2026-08-27T22:15:46.824Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,9 +21,9 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 42,
-    "totalSemana": 49
+    "totalAtrasadas": 35,
+    "totalAtrasadasAnterior": 41,
+    "totalSemana": 47
   },
   "pessoas": [
     {
@@ -46,55 +46,18 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 7,
-      "semanaTotal": 14,
-      "tarefasAtrasadas": [
-        {
-          "nome": "Atualização de Cheques",
-          "diasAtraso": 149
-        },
-        {
-          "nome": "Organizar a VIVA",
-          "diasAtraso": 48
-        },
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "Organizar caixotes",
-          "diasAtraso": 22
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
-          "diasAtraso": 13
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "diasAtraso": 10
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 6,
+      "semanaTotal": 12,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
           "data": "2026-08-25"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "data": "2026-08-25"
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "data": "2026-08-25"
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
-          "data": "2026-08-25"
-        },
-        {
-          "nome": "DR:: Personalizados: Meio Médico - CELIA.MARIA",
-          "data": "2026-08-26"
         },
         {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
@@ -126,6 +89,10 @@
         },
         {
           "nome": "Comprar Energético: Baly",
+          "data": "2026-08-28"
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
           "data": "2026-08-28"
         },
         {
@@ -541,23 +508,10 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 4,
-      "semanaTotal": 12,
-      "tarefasAtrasadas": [
-        {
-          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-          "diasAtraso": 27
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
-          "diasAtraso": 13
-        },
-        {
-          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "diasAtraso": 10
-        }
-      ],
+      "atrasadas": 0,
+      "atrasadasAnterior": 3,
+      "semanaTotal": 10,
+      "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
@@ -568,20 +522,8 @@
           "data": "2026-08-25"
         },
         {
-          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-          "data": "2026-08-25"
-        },
-        {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
           "data": "2026-08-25"
-        },
-        {
-          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
-          "data": "2026-08-25"
-        },
-        {
-          "nome": "DR:: Personalizados: Meio Médico - CELIA.MARIA",
-          "data": "2026-08-26"
         },
         {
           "nome": "DR:: Orçamento: Atrações Meio Médico - CELIA.MARIA",
@@ -602,6 +544,10 @@
         {
           "nome": "DR:: Produtos Personalizados: Camisa-Comissão - PAULA.LIS",
           "data": "2026-08-27"
+        },
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "data": "2026-08-28"
         },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -838,21 +784,13 @@
         "Janine :: Cotação - VIVA GV",
         "Pedro :: GRUPO VIVA - GV"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 10,
+      "atrasadas": 6,
+      "atrasadasAnterior": 9,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
-          "nome": "Atualização de Cheques",
-          "diasAtraso": 149
-        },
-        {
           "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
           "diasAtraso": 93
-        },
-        {
-          "nome": "Organizar a VIVA",
-          "diasAtraso": 48
         },
         {
           "nome": "DR:: Doces: Baile - ISABELLA.DOURADO",
@@ -873,10 +811,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 27
-        },
-        {
-          "nome": "Organizar caixotes",
-          "diasAtraso": 22
         }
       ],
       "tarefasSemana": [
@@ -978,33 +912,11 @@
       ]
     },
     {
-      "nome": "Atualização de Cheques",
-      "data": "2026-03-31",
-      "diasAtraso": 149,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
       "nome": "DR:: Meio Médico: Produto Personalizado - SARA.PRATES",
       "data": "2026-05-26",
       "diasAtraso": 93,
       "pessoas": [
         "Pedro :: GRUPO VIVA - GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Organizar a VIVA",
-      "data": "2026-07-10",
-      "diasAtraso": 48,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
       ],
       "setores": [
         "Produção"
@@ -1055,17 +967,6 @@
       ]
     },
     {
-      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
-      "data": "2026-07-31",
-      "diasAtraso": 27,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
       "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
       "data": "2026-07-31",
       "diasAtraso": 27,
@@ -1074,39 +975,6 @@
       ],
       "setores": [
         "Produção"
-      ]
-    },
-    {
-      "nome": "Organizar caixotes",
-      "data": "2026-08-05",
-      "diasAtraso": 22,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
-      "data": "2026-08-14",
-      "diasAtraso": 13,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
-      ]
-    },
-    {
-      "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
-      "data": "2026-08-17",
-      "diasAtraso": 10,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Cotação"
       ]
     },
     {
