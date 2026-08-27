@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T15:45:45.978Z",
+  "atualizadoEm": "2026-08-27T16:01:04.206Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -199,7 +199,7 @@
           "data": "2026-08-26"
         },
         {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "nome": "Adesivo Cerveja ::: MARCELA_UFJF-GV_MED_2032-1",
           "data": "2026-08-27"
         },
         {
@@ -211,15 +211,15 @@
           "data": "2026-08-27"
         },
         {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-27"
+        },
+        {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
           "data": "2026-08-28"
         },
         {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-28"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
           "data": "2026-08-28"
         },
         {
@@ -617,16 +617,12 @@
       ],
       "atrasadas": 0,
       "atrasadasAnterior": 8,
-      "semanaTotal": 8,
+      "semanaTotal": 7,
       "tarefasAtrasadas": [],
       "tarefasSemana": [
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
           "data": "2026-08-26"
-        },
-        {
-          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
-          "data": "2026-08-27"
         },
         {
           "nome": "DR:: Demanda Mkt-Trio-Feed: 1/6 - ANA.JULIA -MENDES",
@@ -637,15 +633,15 @@
           "data": "2026-08-27"
         },
         {
+          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "data": "2026-08-27"
+        },
+        {
           "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
           "data": "2026-08-28"
         },
         {
-          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
-          "data": "2026-08-28"
-        },
-        {
-          "nome": "DR:: Demanda Mkt-Cartaz/Logo: 1/6 - ANA.JULIA -MENDES",
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
           "data": "2026-08-28"
         },
         {
