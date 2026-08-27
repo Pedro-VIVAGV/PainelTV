@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T12:30:58.117Z",
+  "atualizadoEm": "2026-08-27T12:45:46.130Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -23,7 +23,7 @@
     },
     "totalAtrasadas": 47,
     "totalAtrasadasAnterior": 46,
-    "totalSemana": 44
+    "totalSemana": 45
   },
   "pessoas": [
     {
@@ -48,7 +48,7 @@
       ],
       "atrasadas": 10,
       "atrasadasAnterior": 11,
-      "semanaTotal": 10,
+      "semanaTotal": 11,
       "tarefasAtrasadas": [
         {
           "nome": "Atualização de Cheques",
@@ -126,6 +126,10 @@
         },
         {
           "nome": "Comprar Energético: Baly",
+          "data": "2026-08-27"
+        },
+        {
+          "nome": "DR:: Evento Meio de Curso: Local e Data - CLARA-YASMIN",
           "data": "2026-08-27"
         },
         {
@@ -548,7 +552,7 @@
       ],
       "atrasadas": 7,
       "atrasadasAnterior": 8,
-      "semanaTotal": 9,
+      "semanaTotal": 10,
       "tarefasAtrasadas": [
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
@@ -615,6 +619,10 @@
         {
           "nome": "DR::Missa: Participantes - MILENA-PEDRO",
           "data": "2026-08-26"
+        },
+        {
+          "nome": "DR:: Evento Meio de Curso: Local e Data - CLARA-YASMIN",
+          "data": "2026-08-27"
         }
       ]
     },
