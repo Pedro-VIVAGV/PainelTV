@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T17:01:00.608Z",
+  "atualizadoEm": "2026-08-28T17:15:46.695Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 43,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 41,
+    "totalAtrasadasAnterior": 43,
     "totalSemana": 47
   },
   "pessoas": [
@@ -46,18 +46,10 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 3,
-      "atrasadasAnterior": 2,
+      "atrasadas": 1,
+      "atrasadasAnterior": 3,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
-        {
-          "nome": "Buscar Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Comprar Energético: Baly",
-          "diasAtraso": 0
-        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
@@ -844,8 +836,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 8,
-      "atrasadasAnterior": 7,
+      "atrasadas": 6,
+      "atrasadasAnterior": 8,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -871,14 +863,6 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 28
-        },
-        {
-          "nome": "Buscar Banner",
-          "diasAtraso": 0
-        },
-        {
-          "nome": "Comprar Energético: Baly",
-          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1351,28 +1335,6 @@
       ],
       "setores": [
         "Marketing"
-      ]
-    },
-    {
-      "nome": "Buscar Banner",
-      "data": "2026-08-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
-      ]
-    },
-    {
-      "nome": "Comprar Energético: Baly",
-      "data": "2026-08-28",
-      "diasAtraso": 0,
-      "pessoas": [
-        "Janine :: Cotação - VIVA GV"
-      ],
-      "setores": [
-        "Produção"
       ]
     },
     {
