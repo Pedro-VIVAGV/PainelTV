@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T21:00:55.240Z",
+  "atualizadoEm": "2026-08-28T21:15:45.682Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 43,
+    "totalAtrasadas": 42,
+    "totalAtrasadasAnterior": 41,
     "totalSemana": 47
   },
   "pessoas": [
@@ -46,10 +46,14 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 3,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
+        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
@@ -534,10 +538,14 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 2,
+      "atrasadasAnterior": 1,
       "semanaTotal": 10,
       "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+          "diasAtraso": 0
+        },
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 0
@@ -1357,6 +1365,17 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Camisa Personalizada - Meio Advogado - ANA.CLARA",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
       ]
     },
     {
