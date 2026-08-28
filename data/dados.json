@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T00:00:56.872Z",
+  "atualizadoEm": "2026-08-28T00:15:51.206Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 35,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 41,
+    "totalAtrasadasAnterior": 35,
     "totalSemana": 47
   },
   "pessoas": [
@@ -46,10 +46,19 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 6,
+      "atrasadas": 2,
+      "atrasadasAnterior": 0,
       "semanaTotal": 12,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "Buscar Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Produtos Personalizados: Camisa Esportiva - ANA.JULIA-MENDES",
@@ -227,8 +236,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 6,
+      "atrasadasAnterior": 2,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -237,6 +246,22 @@
         },
         {
           "nome": "DC: Vídeo Mascote - MARCELA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
           "diasAtraso": 0
         }
       ],
@@ -508,10 +533,15 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 3,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 10,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Produtos Personalizados: Tirante-Turma - PAULA.LIS",
@@ -602,8 +632,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 29,
-      "atrasadasAnterior": 30,
+      "atrasadas": 33,
+      "atrasadasAnterior": 29,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -721,6 +751,22 @@
         {
           "nome": "DC: Vídeo Mascote - MARCELA",
           "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -784,8 +830,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 9,
+      "atrasadas": 7,
+      "atrasadasAnterior": 6,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -811,6 +857,10 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 27
+        },
+        {
+          "nome": "Buscar Banner",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1266,6 +1316,72 @@
     {
       "nome": "DC: Vídeo Mascote - MARCELA",
       "data": "2026-08-27",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Buscar Banner",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - MILENA-PEDRO",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR: Repassar Planilha de Datas - Agendar Formalizações",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
+      ]
+    },
+    {
+      "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Criar Formulários de Briefing",
+      "data": "2026-08-28",
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
