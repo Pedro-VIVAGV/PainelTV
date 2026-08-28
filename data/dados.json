@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T14:00:57.505Z",
+  "atualizadoEm": "2026-08-28T14:15:48.645Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 41,
-    "totalAtrasadasAnterior": 35,
+    "totalAtrasadas": 43,
+    "totalAtrasadasAnterior": 41,
     "totalSemana": 47
   },
   "pessoas": [
@@ -46,12 +46,16 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 0,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
           "nome": "Buscar Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Comprar Energético: Baly",
           "diasAtraso": 0
         },
         {
@@ -138,16 +142,21 @@
     {
       "nome": "Lyncoln :: Marketing - VIVA GV",
       "setores": [
-        "Cotação",
         "Marketing",
+        "Cotação",
         "Planejamento",
         "Produção",
         "Comercial"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 1,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 13,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DD:: Arte: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DD: Mascote Personalizado - MARIA.VICTORIA ( MED X UFSB )",
@@ -590,10 +599,15 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 0,
-      "atrasadasAnterior": 8,
+      "atrasadas": 1,
+      "atrasadasAnterior": 0,
       "semanaTotal": 7,
-      "tarefasAtrasadas": [],
+      "tarefasAtrasadas": [
+        {
+          "nome": "DD:: Arte: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        }
+      ],
       "tarefasSemana": [
         {
           "nome": "DR:: Mkt-Cardápio - Evento: Habeas Lata - INGRYD.DINIZ",
@@ -830,8 +844,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 7,
-      "atrasadasAnterior": 6,
+      "atrasadas": 8,
+      "atrasadasAnterior": 7,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -860,6 +874,10 @@
         },
         {
           "nome": "Buscar Banner",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Comprar Energético: Baly",
           "diasAtraso": 0
         }
       ],
@@ -1325,7 +1343,29 @@
       ]
     },
     {
+      "nome": "DD:: Arte: Meio Dentista - MARIA.CLARA",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
       "nome": "Buscar Banner",
+      "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Comprar Energético: Baly",
       "data": "2026-08-28",
       "diasAtraso": 0,
       "pessoas": [
