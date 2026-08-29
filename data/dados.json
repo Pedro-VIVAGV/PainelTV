@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T00:01:13.117Z",
+  "atualizadoEm": "2026-08-29T00:15:42.527Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 42,
-    "totalAtrasadasAnterior": 41,
+    "totalAtrasadas": 49,
+    "totalAtrasadasAnterior": 42,
     "totalSemana": 47
   },
   "pessoas": [
@@ -144,12 +144,28 @@
         "Produção",
         "Comercial"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 5,
+      "atrasadasAnterior": 1,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Arte: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 0
         }
       ],
@@ -241,8 +257,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 2,
+      "atrasadas": 9,
+      "atrasadasAnterior": 6,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -262,11 +278,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 0
         },
         {
           "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 0
         }
       ],
@@ -599,12 +627,28 @@
       "pessoas": [
         "Lyncoln :: Marketing - VIVA GV"
       ],
-      "atrasadas": 1,
-      "atrasadasAnterior": 0,
+      "atrasadas": 5,
+      "atrasadasAnterior": 1,
       "semanaTotal": 7,
       "tarefasAtrasadas": [
         {
           "nome": "DD:: Arte: Meio Dentista - MARIA.CLARA",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DD: Brasão Fono - HELOISA.MARIM",
           "diasAtraso": 0
         }
       ],
@@ -646,8 +690,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 33,
-      "atrasadasAnterior": 29,
+      "atrasadas": 36,
+      "atrasadasAnterior": 33,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -775,11 +819,23 @@
           "diasAtraso": 0
         },
         {
+          "nome": "Definir Atrações Bailes_Izabella",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Definir Atrações Bailes_Euller-Kairo",
+          "diasAtraso": 0
+        },
+        {
           "nome": "Solicitar SULTS - Novo Acesso Mestres da Jornada",
           "diasAtraso": 0
         },
         {
           "nome": "Criar Formulários de Briefing",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 0
         }
       ],
@@ -1403,6 +1459,83 @@
     {
       "nome": "Criar Formulários de Briefing",
       "data": "2026-08-28",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt_Feed Comissão -ANTONIO.JUNIOR",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DD:: Demanda Mkt-Mascote - ANTONIO.JUNIOR",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "DR:: Demanda Mkt-Banner BackDrop: 1/6 - ANA.JULIA -MENDES",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Izabella",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Definir Atrações Bailes_Euller-Kairo",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DD: Brasão Fono - HELOISA.MARIM",
+      "data": "2026-08-29",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Lyncoln :: Marketing - VIVA GV"
+      ],
+      "setores": [
+        "Marketing"
+      ]
+    },
+    {
+      "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
+      "data": "2026-08-29",
       "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
