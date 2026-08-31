@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T00:00:52.259Z",
+  "atualizadoEm": "2026-08-31T00:15:49.019Z",
   "semana": {
     "inicio": "2026-08-24",
     "fim": "2026-08-30"
@@ -21,8 +21,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 49,
-    "totalAtrasadasAnterior": 42,
+    "totalAtrasadas": 53,
+    "totalAtrasadasAnterior": 49,
     "totalSemana": 47
   },
   "pessoas": [
@@ -257,8 +257,8 @@
         "Marketing",
         "Produção"
       ],
-      "atrasadas": 9,
-      "atrasadasAnterior": 6,
+      "atrasadas": 11,
+      "atrasadasAnterior": 9,
       "semanaTotal": 6,
       "tarefasAtrasadas": [
         {
@@ -296,6 +296,14 @@
         {
           "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - HELOISA.MARIM",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -333,8 +341,8 @@
         "Cotação",
         "Marketing"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 7,
+      "atrasadas": 8,
+      "atrasadasAnterior": 6,
       "semanaTotal": 9,
       "tarefasAtrasadas": [
         {
@@ -360,6 +368,14 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 30
+        },
+        {
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -690,8 +706,8 @@
         "Matheus :: Planejamento - VIVA GV",
         "Locatelli:: Atendimento - VIVA GV"
       ],
-      "atrasadas": 36,
-      "atrasadasAnterior": 33,
+      "atrasadas": 38,
+      "atrasadasAnterior": 36,
       "semanaTotal": 13,
       "tarefasAtrasadas": [
         {
@@ -837,6 +853,14 @@
         {
           "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
           "diasAtraso": 1
+        },
+        {
+          "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "DR:: Evento: Sessão de Fotos - HELOISA.MARIM",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -900,8 +924,8 @@
         "Pedro :: GRUPO VIVA - GV",
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 6,
-      "atrasadasAnterior": 8,
+      "atrasadas": 8,
+      "atrasadasAnterior": 6,
       "semanaTotal": 12,
       "tarefasAtrasadas": [
         {
@@ -927,6 +951,14 @@
         {
           "nome": "DD: Datas disponíveis Sessão de Foto Meio de Curso - ANA.CLARA",
           "diasAtraso": 30
+        },
+        {
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "diasAtraso": 0
+        },
+        {
+          "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1537,6 +1569,50 @@
       "nome": "Atualizar Cotas e Número de Int. por Cota - OP’s MUNDO VIVA",
       "data": "2026-08-29",
       "diasAtraso": 1,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+      "data": "2026-08-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "Contrato Atração_Fundo: CELIA.MARIA UFSB-TF MEDICINA 2029-2",
+      "data": "2026-08-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Pedro :: GRUPO VIVA - GV"
+      ],
+      "setores": [
+        "Produção"
+      ]
+    },
+    {
+      "nome": "DR:: Ata Resumo: Reunião - CLARA.VASCONCELOS",
+      "data": "2026-08-31",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Matheus :: Planejamento - VIVA GV"
+      ],
+      "setores": [
+        "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Evento: Sessão de Fotos - HELOISA.MARIM",
+      "data": "2026-08-31",
+      "diasAtraso": 0,
       "pessoas": [
         "Matheus :: Planejamento - VIVA GV"
       ],
