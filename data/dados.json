@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T00:00:56.637Z",
+  "atualizadoEm": "2026-09-01T00:15:45.116Z",
   "semana": {
     "inicio": "2026-08-31",
     "fim": "2026-09-06"
@@ -19,8 +19,8 @@
         "VIVA": 6
       }
     },
-    "totalAtrasadas": 53,
-    "totalAtrasadasAnterior": 49,
+    "totalAtrasadas": 54,
+    "totalAtrasadasAnterior": 53,
     "totalSemana": 20
   },
   "pessoas": [
@@ -44,8 +44,8 @@
         "Marketing",
         "Atendimento"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 5,
       "tarefasAtrasadas": [
         {
@@ -55,6 +55,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -471,8 +475,8 @@
       "pessoas": [
         "Janine :: Cotação - VIVA GV"
       ],
-      "atrasadas": 2,
-      "atrasadasAnterior": 1,
+      "atrasadas": 3,
+      "atrasadasAnterior": 2,
       "semanaTotal": 2,
       "tarefasAtrasadas": [
         {
@@ -482,6 +486,10 @@
         {
           "nome": "DR:: Evento: 1/6 Médico - ANA.JULIA-MENDES",
           "diasAtraso": 3
+        },
+        {
+          "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+          "diasAtraso": 0
         }
       ],
       "tarefasSemana": [
@@ -1389,6 +1397,17 @@
       ],
       "setores": [
         "Planejamento"
+      ]
+    },
+    {
+      "nome": "DR:: Produtos Personalizados: Camisa-NFL - PAULA.LIS",
+      "data": "2026-09-01",
+      "diasAtraso": 0,
+      "pessoas": [
+        "Janine :: Cotação - VIVA GV"
+      ],
+      "setores": [
+        "Cotação"
       ]
     }
   ]
